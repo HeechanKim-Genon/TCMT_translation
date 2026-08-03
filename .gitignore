@@ -14,3 +14,7 @@ dataset/
 __pycache__/
 *.pyc
 .DS_Store
+
+# 필터링 파이프라인 산출물
+filtering/work/
+filtering/out/
