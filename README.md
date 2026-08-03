@@ -41,9 +41,9 @@ mkdir -p data             # 사전 CSV 배치
 | `GLM_KEY` | — | **필수.** 번역 모델 API 키 |
 | `QWEN_KEY` | — | **필수.** 데이터 생성 모델 API 키 |
 | `GENOS_BASE` | `https://genos.genon.ai/api/gateway/rep/serving` | 게이트웨이 루트 |
-| `GLM_SERVING` | `813` | 번역 모델 서빙 번호 |
+| `GLM_SERVING` | `1000` | 번역 모델 서빙 번호 |
 | `QWEN_SERVING` | `752` | 생성 모델 서빙 번호 |
-| `GLM_MODEL` | `zai-org/glm-5.2` | 모델 ID |
+| `GLM_MODEL` | `z-ai/glm-5.2` | 모델 ID |
 | `QWEN_MODEL` | `model` | 모델 ID |
 | `TCMT_WORKERS` | `12` | 동시 요청 수 |
 | `TCMT_DICT` | `data/dictionary.csv` | 사전 경로 |
@@ -61,7 +61,7 @@ mkdir -p data             # 사전 CSV 배치
 
 ```bash
 # STEP 0 — 데이터셋 생성
-python3 build_dataset.py --terms 100 --paras 12 --per-para 8
+python3 build_dataset.py --terms 100 --paras 100 --per-para 3
 
 # (a) 단어 단위
 python3 run_a_word.py
@@ -70,8 +70,18 @@ python3 run_a_word.py
 python3 run_b_sentence.py
 
 # (c) 문단 단위
-python3 run_c_paragraph.py
+python3 run_c_paragraph.py --include-single
 ```
+
+### 일괄 실행
+
+두 규모(용어 100 / 1000)를 순차로 돌린다. 로그는 `logs/`, 결과는 `results_100/`·`results_1000/`.
+
+```bash
+GLM_KEY=... QWEN_KEY=... ./run_overnight.sh
+```
+
+같은 서빙을 쓰므로 **두 규모를 동시에 돌리지 않는다** — 동시 요청이 겹치면 아래의 응답 교차가 늘어난다.
 
 빠른 점검:
 
@@ -91,6 +101,7 @@ a/b/c 가 같은 용어 집합을 쓰도록 한 번에 만든다.
 | `--terms` | 200 | 평가 용어 수 |
 | `--paras` | 20 | 문단 수 (`0` 이면 문단 생략) |
 | `--per-para` | 8 | 문단당 용어 수 |
+| | | 문단 수는 `--paras` 로 정확히 맞춰지고, 용어 등장 횟수는 ±1 안에서 균등하게 배분된다 (용어 100 · 문단 100 · 문단당 3 → 용어당 정확히 3회) |
 | `--words` | 180 | 문단 목표 단어수 |
 | `--attempts` | 4 | 검증 실패 시 재생성 횟수 |
 | `--dict` | 전체 사전 | `sample2000` 지정 가능 |
@@ -173,6 +184,43 @@ results/
 | `run_c_paragraph.py` | (c) 문단 단위 |
 
 용어 매칭 로직은 `tcmt_common.py` 의 **`match_terms()`** 에 있다. 알고리즘 설명과 정밀도·재현율 실측치는 함수 docstring 에 정리되어 있다.
+
+생성되는 문단이 어떻게 생겼는지, 3-mode 번역 결과가 어떻게 갈리는지는
+[`data/paragraph_examples.md`](data/paragraph_examples.md) 에 실제 예시 3개가 있다.
+
+---
+
+## ⚠️ 응답 교차 (response crossing)
+
+동시 실행이 큰 서빙에서 **다른 요청의 응답이 돌아오는 일이 실측됐다.** 결과 레코드의
+`src`(P001 문단)와 `ko`(P009 문단의 번역)가 어긋난 형태로 나타난다.
+
+클라이언트는 원인이 아니다 — `pmap()` 은 입력 순서를 보존하고, 결과 dict 는 같은 클로저
+안에서 만들어지므로 `src` 와 `ko` 가 어긋날 구조가 없다.
+
+**이게 위험한 이유는 예외를 던지지 않는다는 점이다.** 교차된 응답은 조용히 '오답'으로
+집계된다. 실측으로 문단 `term` 모드 27건 중 2건이 교차해 Term% 가 실제 ~100% 인데
+77.8% 로 찍혔고, "문단이 문장보다 어렵다"는 잘못된 결론까지 나왔다.
+
+`tcmt_common.pmap_verified(items, fn, verify)` 가 이를 막는다.
+
+```
+1. 병렬 실행 (pmap)
+2. verify(item, result) 로 요청-응답 결속 검사
+3. 의심 항목만 **직렬로** 재호출 (동시 실행이 원인이라 병렬 재호출은 같은 실패를 반복)
+4. 3회까지 안 고쳐지면 crossed_suspect = true 로 표시
+```
+
+판정 기준은 스크립트별 `make_verifier()` 에 있다.
+
+| 스크립트 | 판정 |
+|---|---|
+| `run_c_paragraph.py` | 문단별 표준 한글명을 지문으로 삼아, 다른 문단 지문이 더 많이 나오면 교차. `random` 모드는 오답(decoy)을 지문에서 빼고 여유폭을 둔다 |
+| `run_b_sentence.py` | 추출된 TERM 이 다른 항목의 표준 한글명과 정확히 일치하면 교차 |
+| `run_a_word.py` | 답이 다른 표제어의 표준명과 일치하면 교차. `2C` 는 후보 목록 밖이면 교차 |
+
+탐지·복구·미해결 건수는 각 요약 JSON 의 `crossing` 필드에 기록된다. **결과를 해석하기 전에
+이 필드를 먼저 확인할 것.**
 
 ---
 

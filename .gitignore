@@ -8,6 +8,10 @@ data/*.xlsx
 # 실행 산출물
 results/
 dataset/
+results_*/
+dataset_*/
+logs/
+logs_overnight.txt
 *.log
 
 # 파이썬

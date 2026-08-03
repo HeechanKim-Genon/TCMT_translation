@@ -67,6 +67,47 @@ def build_prompt(mode, para, inject, decoy):
     return SYS_GLOSS, user
 
 
+def make_verifier(paras, mode, decoy):
+    """응답이 자기 문단의 번역인지 검사한다 (응답 교차 탐지).
+
+    문단마다 심어둔 용어의 표준 한글명이 그 문단의 '지문'이 된다.
+    응답 안에서 자기 문단 지문보다 **다른 문단 지문이 더 많이** 나오면 교차다.
+
+    ⚠️ random 모드 주의 — 오답(decoy)은 다른 문단의 한글명에서 뽑는다.
+       모델이 오답을 충실히 따라가면 다른 문단 지문이 그대로 등장한다.
+       그래서 이 문단에 주입된 decoy 값은 지문 판정에서 반드시 뺀다.
+       (빼지 않으면 random 9건이 전부 오탐으로 잡힌다 — 실측)
+    """
+    sig = {p["id"]: {T.norm(a).replace(" ", "")
+                     for t in p["terms"] for a in t["answers"]}
+           for p in paras}
+
+    def verify(p, o):
+        if not isinstance(o, dict):
+            return False
+        if not o.get("ko"):
+            return False                       # 빈 응답은 call() 쪽에서 이미 재시도됨
+        ko = o["ko"].replace(" ", "")
+        mine = {T.norm(decoy[h["term"]]).replace(" ", "")
+                for h in p["_inject"] if h["term"] in decoy}
+        # ① 이 문단에 준 오답을 2개 이상 따라 썼다면 자기 요청의 응답이 확실하다.
+        #    random 모드에서는 이게 가장 강한 결속 증거다 — 오답은 이 문단에만 준 값이다.
+        if mode == "random" and sum(1 for v in mine if v in ko) >= 2:
+            return True
+        # ② 지문 비교. random 모드는 자기 정답이 안 나오는 게 정상(own=0)이라
+        #    다른 문단 지문이 우연히 2개 걸리기만 해도 오탐이 난다. 그래서 여유를 둔다.
+        #    (1000규모 실측: 여유 없이 돌리니 random 89/332가 전부 오탐이었고,
+        #     의심/정상 문단의 Term%가 3.4% vs 4.3%로 차이가 없었다)
+        skip = mine if mode == "random" else set()
+        margin = 3 if mode == "random" else 2
+        own = sum(1 for v in sig[p["id"]] if v in ko)
+        other = max((sum(1 for v in vs if v in ko and v not in skip)
+                     for q, vs in sig.items() if q != p["id"]), default=0)
+        return not (other >= own + margin and other >= 2)
+
+    return verify
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--modes", default="none,term,random")
@@ -76,6 +117,9 @@ def main():
                     help="매칭 결과 대신 심은 용어를 주입 (매칭 오차 제거)")
     ap.add_argument("--no-tail-filter", action="store_true",
                     help="끝기능어 필터 끄기 (필터 효과 비교용)")
+    ap.add_argument("--include-single", action="store_true",
+                    help="단일어도 매칭 대상에 포함. 재현율은 오르지만 "
+                         "`from`/`mass`/`culture` 같은 일반어 오탐이 늘어난다")
     a = ap.parse_args()
 
     pp = os.path.join(T.DATA_DIR, "paragraphs.json")
@@ -94,14 +138,16 @@ def main():
     print(f"\n(c) 문단 단위 · 문단 {len(paras)}개 · mode {modes} · "
           f"모델 {T.GLM['name']}")
     print(f"    주입 대상: {'심은 용어(target)' if a.inject_target else '매칭 결과'}"
-          f" · 끝기능어 필터 {'끔' if a.no_tail_filter else '켬'}\n")
+          f" · 끝기능어 필터 {'끔' if a.no_tail_filter else '켬'}"
+          f" · 단일어 {'포함' if a.include_single else '제외'}\n")
 
     # ── 1단계: 매칭 (모든 mode가 같은 매칭 결과를 쓴다)
     print("── 1단계 매칭")
     tot_t = tot_m = tot_x = 0
     for p in paras:
         hits = T.match_terms(p["text"], D,
-                             use_tail_filter=not a.no_tail_filter)
+                             use_tail_filter=not a.no_tail_filter,
+                             include_single=a.include_single)
         tgt = {t["en"]: t for t in p["terms"]}
         p["_hits"] = hits
         p["_matched"] = [h["term"] for h in hits]
@@ -151,7 +197,8 @@ def main():
                     "injected": [h["term"] for h in p["_inject"]],
                     "n_injected": len(p["_inject"])}
 
-        outs = T.pmap(paras, f, desc=f"{mode} ")
+        outs = T.pmap_verified(paras, f, make_verifier(paras, mode, decoy),
+                               desc=f"{mode} ")
         T.netguard(f"c:{mode}")
 
         rows = []
@@ -235,8 +282,10 @@ def main():
                   f"   McNemar χ²={chi:.2f} {'(p<0.05)' if chi >= 3.84 else ''}")
 
     print(f"\n{T.usage_report()}")
+    print(T.cross_report())
     T.save("c_para_summary.json", {
         "summary": summary, "usage": T.USAGE, "config": vars(a),
+        "crossing": dict(T.CROSS),
         "matching": {"target": tot_t, "matched": tot_m,
                      "recall_pct": round(tot_m / max(1, tot_t) * 100, 1),
                      "extra": tot_x}})

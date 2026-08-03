@@ -58,10 +58,38 @@ APPOS = re.compile(r",\s*(a|an|the|which|that)\b", re.I)
 HANGUL = re.compile(r"[가-힣]")
 
 
-def gen_paragraph(terms, target_words):
+def feedback(bad):
+    """직전 시도가 왜 거부됐는지 알려준다.
+
+    희귀 용어(`hepatalgia` 등)는 모델이 자꾸 동격으로 설명하려 든다.
+    그냥 재시도하면 같은 실패를 반복하므로, **어느 용어가 문제였는지 지목**한다.
+    (실측: 지목 없이 4회 재시도 → 3문단 중 2문단 실패)
+    """
+    msgs = []
+    gl = [b.split(":", 1)[1] for b in bad if b.startswith("gloss:")]
+    if gl:
+        msgs.append("Your previous attempt explained these terms with an "
+                    "apposition, which is forbidden: "
+                    + ", ".join(f'"{g}"' for g in gl)
+                    + ". Use each of them as a bare noun phrase — no comma "
+                      "followed by a/an/the/which/that after it.")
+    if any(b.startswith("missing:") for b in bad):
+        msgs.append("Your previous attempt omitted one or more required terms. "
+                    "Include every term spelled exactly as given.")
+    if any(b.startswith("len:") for b in bad):
+        msgs.append("Your previous attempt was outside the required length.")
+    if "hangul_in_source" in bad:
+        msgs.append("Your previous attempt contained Korean. Write English only.")
+    if "markdown" in bad:
+        msgs.append("Your previous attempt used bullets or headings. Plain prose only.")
+    return ("\n" + " ".join(msgs) + "\n") if msgs else ""
+
+
+def gen_paragraph(terms, target_words, bad=()):
     lst = "\n".join(f"- {t['en']}" for t in terms)
     user = (f"Write ONE clinical note paragraph of about {target_words} words.\n"
-            f"It must contain all of these terms verbatim:\n{lst}\n\n"
+            f"It must contain all of these terms verbatim:\n{lst}\n"
+            f"{feedback(bad)}\n"
             f"Paragraph:")
     txt, _, err = T.call(T.QWEN, [{"role": "system", "content": GEN_SYS},
                                   {"role": "user", "content": user}],
@@ -143,16 +171,28 @@ def main():
     # ── c용 문단 (Qwen 생성 + 검증)
     print(f"\n문단 {a.paras}개 생성 ({T.QWEN['name']}, 문단당 용어 {a.per_para}개)…")
     rnd = random.Random(a.seed + 1)
-    pool = terms[:]
-    rnd.shuffle(pool)
-    groups = [pool[i:i + a.per_para]
-              for i in range(0, len(pool), a.per_para)][:a.paras]
+    # 문단 수를 정확히 --paras 로 맞추고, 용어 등장 횟수를 균등하게 만든다.
+    #   예전 방식은 풀을 per_para 로 한 번 자르기만 해서
+    #   terms=100 / per_para=3 이면 문단이 34개밖에 안 나왔다 (--paras 무시).
+    # 매 문단마다 '아직 덜 쓰인 용어'를 우선 뽑는다 (동률은 무작위).
+    #   → 문단 내 용어는 항상 서로 다르고, 전체 등장 횟수는 ±1 안에서 균등.
+    counts = {t["en"]: 0 for t in terms}
+    groups = []
+    for _ in range(a.paras):
+        g = sorted(terms, key=lambda t: (counts[t["en"]], rnd.random()))[:a.per_para]
+        for t in g:
+            counts[t["en"]] += 1
+        groups.append(g)
+    cv = sorted(counts.values())
+    print(f"  용어당 문단 등장 횟수: 최소 {cv[0]} / 최대 {cv[-1]} "
+          f"(총 슬롯 {sum(cv)}개)")
     lo, hi = int(a.words * 0.55), int(a.words * 1.9)
 
     def build(g):
         last = {"terms": g, "attempts": a.attempts, "reject": ["no_response"]}
+        bad = ()
         for k in range(a.attempts):
-            txt, err = gen_paragraph(g, a.words)
+            txt, err = gen_paragraph(g, a.words, bad)
             if not txt:
                 last = {"terms": g, "attempts": k + 1,
                         "reject": [f"api:{(err or 'empty')[:40]}"]}
@@ -161,6 +201,7 @@ def main():
             if ok:
                 return {"terms": g, "text": txt, "attempts": k + 1, "rejected": []}
             last = {"terms": g, "text": txt, "attempts": k + 1, "reject": bad}
+            bad = tuple(bad)
         return {**last, "text": None, "failed": True}
 
     res = T.pmap(groups, build, desc="문단 ")

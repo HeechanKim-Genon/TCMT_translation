@@ -171,6 +171,63 @@ def pmap(items, fn, desc=""):
     return out
 
 
+CROSS = {"detected": 0, "repaired": 0, "unresolved": 0}
+
+
+def pmap_verified(items, fn, verify, desc="", rounds=3):
+    """pmap 후, 응답이 요청과 짝이 맞지 않는 항목만 **직렬로** 재호출한다.
+
+    ■ 왜 필요한가 — 응답 교차(response crossing)
+      동시 실행이 큰 서빙에서 **다른 요청의 응답이 돌아오는** 일이 실측됐다.
+      (문단 term 모드 27건 중 2건. src는 P001 문단인데 ko는 P009의 번역)
+      클라이언트는 원인이 아니다. pmap은 입력 순서를 보존하고 결과 dict가 같은
+      클로저 안에서 만들어지므로 src와 ko가 어긋날 구조가 없다. 서빙 쪽 문제다.
+
+      교차는 예외를 던지지 않고 조용히 '오답'으로 집계된다. **그냥 두면 점수를
+      깎는다.** 실제로 이 2건이 문단 term Term%를 ~100% → 77.8%로 떨어뜨렸고,
+      "문단이 문장보다 어렵다"는 잘못된 결론까지 만들었다.
+
+    ■ verify(item, result) -> bool
+      True  = 응답이 이 요청의 것으로 보인다
+      False = 교차 의심 → 재호출
+      판정 기준은 스크립트별 make_verifier() 에 있다. 판정을 넓게 잡으면
+      오탐으로 멀쩡한 응답을 버리게 되므로, 각 단계마다 좁게 잡는다.
+
+    ■ 재호출은 직렬로 한다. 동시 실행이 원인이므로 병렬 재호출은 같은 실패를
+      반복할 수 있다.
+    """
+    out = pmap(items, fn, desc=desc)
+    first = None
+    for rd in range(rounds):
+        bad = [i for i, (it, r) in enumerate(zip(items, out))
+               if not verify(it, r)]
+        if first is None:
+            first = len(bad)
+        if not bad:
+            break
+        print(f"      ⚠️ {desc}응답 교차 의심 {len(bad)}건 → 직렬 재호출 "
+              f"(round {rd+1}/{rounds})", flush=True)
+        for i in bad:
+            out[i] = fn(items[i])
+    left = [i for i, (it, r) in enumerate(zip(items, out)) if not verify(it, r)]
+    with _LOCK:
+        CROSS["detected"] += first or 0
+        CROSS["repaired"] += (first or 0) - len(left)
+        CROSS["unresolved"] += len(left)
+    if left:
+        print(f"      ⛔ {desc}재호출 후에도 교차 의심 {len(left)}건 남음 "
+              f"— crossed_suspect 로 표시된다", flush=True)
+        for i in left:
+            if isinstance(out[i], dict):
+                out[i]["crossed_suspect"] = True
+    return out
+
+
+def cross_report():
+    return (f"응답 교차 탐지 {CROSS['detected']}건 · 재호출로 복구 "
+            f"{CROSS['repaired']}건 · 미해결 {CROSS['unresolved']}건")
+
+
 def netguard(stage):
     """네트워크 장애가 섞인 결과는 신뢰할 수 없으므로 중단."""
     if USAGE["netfail"]:

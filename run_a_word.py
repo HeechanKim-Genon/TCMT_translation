@@ -80,6 +80,35 @@ def rec(item, val, iss, raw, fin, extra=None):
 
 # ────────────────────────────────────────── 단건 arm
 
+def make_verifier(terms):
+    """응답 교차 탐지 — 답이 **다른 표제어의 표준 한글명과 정확히 일치**하면 의심.
+
+    단건 arm은 응답이 한글 용어 한 개뿐이라 교차와 단순 오답이 겉으로 같다.
+    그래서 판정을 좁게 잡는다. 오역이 우연히 다른 표제어의 표준명과 글자까지
+    똑같아질 확률은 낮으므로, 이 경우만 재호출한다.
+    (배치 arm 1a/1b는 ENG 열을 그대로 echo 하게 만들어 두었으므로
+     parse_batch 의 영문 정렬이 이미 교차를 걸러낸다 — 별도 검사 불필요)
+    """
+    others = {}
+    for t in terms:
+        for a_ in t["answers"]:
+            others.setdefault(T.norm(a_).replace(" ", ""), set()).add(t["en"])
+
+    def verify(it, r):
+        if not isinstance(r, dict):
+            return False
+        p = T.norm(r.get("pred") or "").replace(" ", "")
+        if not p:
+            return True                     # 형식실패는 그대로 집계
+        mine = {T.norm(a_).replace(" ", "") for a_ in it["answers"]}
+        if p in mine:
+            return True
+        owners = others.get(p)
+        return not (owners and it["en"] not in owners)
+
+    return verify
+
+
 def run_single(terms, build_user, sysmsg=SYS, label=""):
     def f(it):
         txt, fin, err = T.call(T.GLM,
@@ -90,7 +119,7 @@ def run_single(terms, build_user, sysmsg=SYS, label=""):
             return rec(it, "", ["api_error"], None, None, {"error": err})
         v, iss = clean(txt)
         return rec(it, v, iss, txt, fin)
-    return T.pmap(terms, f, desc=f"{label} ")
+    return T.pmap_verified(terms, f, make_verifier(terms), desc=f"{label} ")
 
 
 # ────────────────────────────────────────── 배치 arm
@@ -193,7 +222,15 @@ def run_pick(terms, n_cand, seed):
         if v and v not in {T.norm(c) for c in it["candidates"]}:
             iss.append("off_list")      # 후보에 없는 답을 냄
         return rec(it, v, iss, txt, fin, {"candidates": it["candidates"]})
-    return T.pmap(tc, f, desc="2C ")
+
+    # 2C는 교차 판정이 자명하다 — 답이 이 항목의 후보 목록 밖이면 다른 요청의 응답이다
+    def verify(it, r):
+        if not isinstance(r, dict):
+            return False
+        p = T.norm(r.get("pred") or "")
+        return (not p) or p in {T.norm(c) for c in it["candidates"]}
+
+    return T.pmap_verified(tc, f, verify, desc="2C ")
 
 
 # ────────────────────────────────────────── main
@@ -272,9 +309,11 @@ def main():
         print(f"{s['arm']:<8}{s['n']:>5}{s['format_ok_pct']:>9.1f}%"
               f"{s['correct_pct']:>7.1f}%")
     print(f"\n{T.usage_report()}")
+    print(T.cross_report())
 
     T.save("a_word_summary.json", {"summary": summary, "usage": T.USAGE,
-                                   "config": vars(a)})
+                                   "config": vars(a),
+                                   "crossing": dict(T.CROSS)})
     flat = [{**r, "arm": arm} for arm in out if not arm.endswith("_batches")
             for r in out[arm]]
     T.save_csv("a_word_rows.csv", flat,

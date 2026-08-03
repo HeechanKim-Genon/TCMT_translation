@@ -80,6 +80,37 @@ def parse_two(txt):
     return ko, tm, iss
 
 
+def make_verifier(sents, mode, decoy):
+    """응답이 자기 문장의 번역인지 검사한다 (응답 교차 탐지).
+
+    문단(c)과 달리 문장은 지문이 용어 1개뿐이라 약하다. 그래서 판정을 좁게
+    잡는다 — 추출된 TERM이 **다른 항목의 표준 한글명과 정확히 일치**하고
+    자기 정답도 자기 decoy도 아닐 때만 교차로 본다.
+    번역이 우연히 다른 표제어의 표준명과 글자까지 같아질 확률은 낮다.
+    """
+    others = {}
+    for s in sents:
+        for a_ in s["answers"]:
+            others.setdefault(T.norm(a_).replace(" ", ""), set()).add(s["en"])
+
+    def verify(it, r):
+        if not isinstance(r, dict):
+            return False
+        tm = T.norm(r.get("term") or r.get("ko") or "").replace(" ", "")
+        if not tm:
+            return True                     # 형식실패는 교차와 별개 (그대로 집계)
+        mine = {T.norm(a_).replace(" ", "") for a_ in it["answers"]}
+        if tm in mine:
+            return True
+        d = T.norm(decoy.get(it["en"], "")).replace(" ", "")
+        if d and tm == d:
+            return True                     # random 모드에서 오답을 따라간 것
+        owners = others.get(tm)
+        return not (owners and it["en"] not in owners)
+
+    return verify
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--modes", default="none,term,random")
@@ -156,7 +187,8 @@ def main():
                     d.replace(" ", "") in T.norm(tm or ko).replace(" ", ""))
             return r
 
-        rows = T.pmap(sents, f, desc=f"{mode} ")
+        rows = T.pmap_verified(sents, f, make_verifier(sents, mode, decoy),
+                               desc=f"{mode} ")
         T.netguard(f"b:{mode}")
         T.print_tally(f"mode={mode}", rows)
         iss = {}
@@ -204,8 +236,10 @@ def main():
             print(f"   none→{m:<8} 개선 {win:>4}  악화 {los:>4}  순증 {win-los:+d}")
 
     print(f"\n{T.usage_report()}")
+    print(T.cross_report())
     T.save("b_sent_summary.json", {"summary": summary, "usage": T.USAGE,
-                                   "config": vars(a)})
+                                   "config": vars(a),
+                                   "crossing": dict(T.CROSS)})
     T.save_csv("b_sent_rows.csv", allrows,
                ["mode", "en", "rep", "term", "ko", "grade", "level",
                 "followed_decoy", "decoy", "issues", "finish", "sentence"])
