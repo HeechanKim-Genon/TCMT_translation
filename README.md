@@ -34,6 +34,9 @@ mkdir -p data             # 사전 CSV 배치
 
 컬럼 스펙은 [`data/README.md`](data/README.md) 참고.
 
+이 두 CSV 를 **만드는 코드**는 [`filtering/`](filtering/) 에 있다.
+보건의료용어표준 V7.0 원본 339,181행 → 77,497행으로 줄이는 5단계 필터다.
+
 ### 환경변수 (`.env`)
 
 | 변수 | 기본값 | 설명 |
@@ -187,6 +190,32 @@ results/
 
 생성되는 문단이 어떻게 생겼는지, 3-mode 번역 결과가 어떻게 갈리는지는
 [`data/paragraph_examples.md`](data/paragraph_examples.md) 에 실제 예시 3개가 있다.
+
+### `filtering/` — 사전 구축 파이프라인
+
+`data/dictionary.csv` 를 만드는 코드. 실험 본체와 독립적으로 돌아간다.
+자세한 실행법은 [`filtering/README.md`](filtering/README.md) 참고.
+
+| 파일 | 역할 |
+|---|---|
+| `filtering/filter_common.py` | 경로 · 구조유형 분류 · **LLM 배치 판정기** |
+| `filtering/stage1_structure.py` | 1차 — A/B/C/G 유형 제거 → 1~3단어만 채택 |
+| `filtering/stage2_compose.py` | 2차 — 합성어 (구성단어 조합으로 재현되는 것) |
+| `filtering/stage3_kcd.py` | 3차-1 — KCD 코드로 필터링 (V01~Y98) |
+| `filtering/stage3b_medical.py` | 3차-2 — 비의학용어를 LLM으로 필터링 |
+| `filtering/stage4_korean.py` | 4차 — 한글명이 긴 설명문·EDI 수가명인 경우 |
+| `filtering/stage5_trivial.py` | 5차 — 사전 없이도 맞게 번역되는 일상어 제거 |
+| `filtering/export.py` | CSV 3종 + 감사용 엑셀 산출 |
+
+| 단계 | 잔존 | 증감 |
+|---|---:|---:|
+| 원본 | 339,181 | — |
+| 1차 | 119,914 | −219,267 |
+| 2차 | 91,937 | −27,977 |
+| 3차-1 | 91,715 | −222 |
+| 3차-2 | 87,741 | −3,974 |
+| 4차 | 86,425 | −1,316 |
+| 5차 | **77,497** | −8,928 |
 
 ---
 
