@@ -1,0 +1,16 @@
+# 비밀값 — 절대 커밋 금지
+.env
+
+# 사전 원본 (저작권)
+data/*.csv
+data/*.xlsx
+
+# 실행 산출물
+results/
+dataset/
+*.log
+
+# 파이썬
+__pycache__/
+*.pyc
+.DS_Store
