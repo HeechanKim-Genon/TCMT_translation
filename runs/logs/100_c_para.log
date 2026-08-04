@@ -1,0 +1,122 @@
+사전 로드 중…
+  사전: 보건의료용어표준_V7.0_최종번역사전.csv
+  표제어 54,861 (다어절 32,126 / 단일어 22,735)  · 제외 1,155행
+  코드 보유: {'KCD': 11079, 'SNOMED CT': 8214, 'ICD9CM': 3550, 'ICNP': 933, 'EDI': 786, 'CCC': 698, 'CDT': 57, 'LOINC': 1}
+
+(c) 문단 단위 · 문단 99개 · mode ['none', 'term', 'random'] · 모델 GLM-5.2
+    주입 대상: 매칭 결과 · 끝기능어 필터 켬 · 단일어 포함
+
+── 1단계 매칭
+   심은 용어 297개 · 매칭 성공 287개 (재현율 96.6%)
+   심지 않았는데 매칭 3348개 (오탐 후보 — 문단 자연발생 포함)
+   주입 용어 평균 40.6개/문단
+
+── mode=none
+      none 4/99
+      none 8/99
+      none 12/99
+      none 16/99
+      none 20/99
+      none 24/99
+      none 28/99
+      none 32/99
+      none 36/99
+      none 40/99
+      none 44/99
+      none 48/99
+      none 52/99
+      none 56/99
+      none 60/99
+      none 64/99
+      none 68/99
+      none 72/99
+      none 76/99
+      none 80/99
+      none 84/99
+      none 88/99
+      none 92/99
+      none 96/99
+      none 99/99
+   Term% 전체        51/297 (17.2%)
+   Term% 주입된 용어  48/287 (16.7%)
+   Term% 미주입 용어  3/10 (30.0%)   ← 매칭 실패분
+  저장 → results_100/c_para_none.json
+
+── mode=term
+      term 4/99
+      term 8/99
+      term 12/99
+      term 16/99
+      term 20/99
+      term 24/99
+      term 28/99
+      term 32/99
+      term 36/99
+      term 40/99
+      term 44/99
+      term 48/99
+      term 52/99
+      term 56/99
+      term 60/99
+      term 64/99
+      term 68/99
+      term 72/99
+      term 76/99
+      term 80/99
+      term 84/99
+      term 88/99
+      term 92/99
+      term 96/99
+      term 99/99
+   Term% 전체        280/297 (94.3%)
+   Term% 주입된 용어  280/287 (97.6%)
+   Term% 미주입 용어  0/10 (0.0%)   ← 매칭 실패분
+  저장 → results_100/c_para_term.json
+
+── mode=random
+      random 4/99
+      random 8/99
+      random 12/99
+      random 16/99
+      random 20/99
+      random 24/99
+      random 28/99
+      random 32/99
+      random 36/99
+      random 40/99
+      random 44/99
+      random 48/99
+      random 52/99
+      random 56/99
+      random 60/99
+      random 64/99
+      random 68/99
+      random 72/99
+      random 76/99
+      random 80/99
+      random 84/99
+      random 88/99
+      random 92/99
+      random 96/99
+      random 99/99
+   Term% 전체        84/297 (28.3%)
+   Term% 주입된 용어  84/287 (29.3%)
+   Term% 미주입 용어  0/10 (0.0%)   ← 매칭 실패분
+   ★ 오답 용어집 추종률 271/287 (94.4%)  ← 높아야 용어집이 실제로 읽히고 있다는 증거
+  저장 → results_100/c_para_random.json
+
+==============================================================================
+mode          Term%전체    Term%주입    Term%미주입      오답추종
+none            17.2%      16.7%       30.0%         -
+term            94.3%      97.6%        0.0%         -
+random          28.3%      29.3%        0.0%     94.4%
+
+■ 페어 비교 (용어 단위, 기준: none)
+   none→term     개선  232  악화    3  순증 +229   McNemar χ²=221.21 (p<0.05)
+   none→random   개선   70  악화   37  순증 +33   McNemar χ²=9.57 (p<0.05)
+
+호출 301회 · 재시도 4회 · 출력 172,588토큰(reasoning 10,895) · $0.6220 · 호출당 $0.002067
+응답 교차 탐지 0건 · 재호출로 복구 0건 · 미해결 0건
+  저장 → results_100/c_para_summary.json
+  저장 → results_100/c_para_terms.csv
+  저장 → results_100/c_para_translations.csv

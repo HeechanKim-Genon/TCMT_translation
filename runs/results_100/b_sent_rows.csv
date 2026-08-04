@@ -1,0 +1,301 @@
+﻿mode,en,rep,term,ko,grade,level,followed_decoy,decoy,issues,finish,sentence
+none,sirenomelia syndrome,인어다리 증후군,해마증후군,이 환자에서 해마증후군을 보고하였다.,오답,-,,,[],stop,The report documented sirenomelia syndrome in this patient.
+none,rash purpuric,자색반 발진,자반성 발진,의사의 문서에 자반성 발진이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned rash purpuric.
+none,agenesis of lung,폐의 무발생,폐 무발생,보고서는 이 환자에서 폐 무발생을 기록했습니다.,오답,-,,,[],stop,The report documented agenesis of lung in this patient.
+none,papilloma of cerviv,자궁경부의 유두종,자궁경부 유두종,보고서는 이 환자에서 자궁경부 유두종을 기록했다.,오답,-,,,[],stop,The report documented papilloma of cerviv in this patient.
+none,hyeopbaek,협백(俠白),협백,의사의 문서에 협백이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned hyeopbaek.
+none,water bath,욕조,수욕,의사의 서류에 수욕이 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned water bath.
+none,heredoinfection,유전감염,heredoinfection,의사의 문서에 heredoinfection이 언급되었습니다.,오답,-,,,['bad_chars'],stop,The doctor's document mentioned heredoinfection.
+none,naegleria fowleri,파울러자유아메바,네글레리아 파울레리,의사의 문서에 네글레리아 파울레리가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned naegleria fowleri.
+none,case-mix,질병구성,케이스 믹스,의사의 문서에 케이스 믹스가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned case-mix.
+none,third ventricle structure,제3뇌구조,제3뇌실 구조,의사의 문서에서 제3뇌실 구조를 언급했습니다.,오답,-,,,[],stop,The doctor's document mentioned third ventricle structure.
+none,scleral necrosis/melt,공막 괴사/ 융해,공막 괴사/융해,의사의 문서에 공막 괴사/융해가 언급되었습니다.,정답(대표),nospace,,,[],stop,The doctor's document mentioned scleral necrosis/melt.
+none,meckel's diverticulectomy,멕켈 게실절제술,메켈 게실 절제술,보고서는 이 환자에서 메켈 게실 절제술을 기록했다.,오답,-,,,[],stop,The report documented meckel's diverticulectomy in this patient.
+none,myotonic disorders,근긴장장애,근긴장성 질환,보고서는 이 환자의 근긴장성 질환을 기록했습니다.,오답,-,,,[],stop,The report documented myotonic disorders in this patient.
+none,breast stereotactic biopsy,유방 입체정위 생검술,유방 정위 생검,의사의 문서에 유방 정위 생검이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned breast stereotactic biopsy.
+none,glaucomatous cataract,녹내장성백내장,녹내장성 백내장,의사의 문서에서 녹내장성 백내장이 언급되었습니다.,정답(대표),nospace,,,[],stop,The doctor's document mentioned glaucomatous cataract.
+none,orthognathic surgery,악교정수술,악교정술,의사의 서류에 악교정술이 언급되어 있었습니다.,오답,-,,,[],stop,The doctor's document mentioned orthognathic surgery.
+none,transfusion tests,수혈혈액검사,수혈 검사,의사의 문서에 수혈 검사가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned transfusion tests.
+none,surgical staging,외과적시기결정,수술적 병기 결정,의사의 문서에 수술적 병기 결정이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned surgical staging.
+none,nodular prurigo,결절가려움발진,결절성 가려움증,의사의 문서에 결절성 가려움증이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned nodular prurigo.
+none,genuine diabetes,진성당뇨병,진성 당뇨병,의사의 문서에 진성 당뇨병이 언급되었습니다.,정답(대표),nospace,,,[],stop,The doctor's document mentioned genuine diabetes.
+none,dry weight,투석목표체중,건조 중량,의사의 문서에 건조 중량이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned dry weight.
+none,biopsy of adenoid,인두편도 생검,아데노이드 생검,보고서는 이 환자에서 아데노이드 생검을 문서화했다.,정답(동의어),exact,,,[],stop,The report documented biopsy of adenoid in this patient.
+none,glutitis,볼기염,글루티티스,의사의 문서에 글루티티스가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned glutitis.
+none,colpomyomectomy,질식근종절제(술),질식근종절제술,의사의 문서에 질식근종절제술이 언급되어 있었다.,오답,-,,,[],stop,The doctor's document mentioned colpomyomectomy.
+none,capillaria hepatica,간모세선충,간모세선충,의사의 문서에 간모세선충이 언급되어 있었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned capillaria hepatica.
+none,cardioplegic,심장마비-,심정지,의사의 문서에 심정지가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned cardioplegic.
+none,upper extremity,위팔,상지,의사의 문서에 상지가 언급되었습니다.,정답(동의어),exact,,,[],stop,The doctor's document mentioned upper extremity.
+none,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토코커스 뇌수막뇌염,보고서는 이 환자에서 크립토코커스 뇌수막뇌염을 문서화했습니다.,오답,-,,,[],stop,The report documented cryptococcal meningocerebritis in this patient.
+none,blood fluke,주혈흡충,주혈흡충,의사의 문서에 주혈흡충이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned blood fluke.
+none,cheilosis,구순증,구순염,보고서는 이 환자에게 구순염이 있음을 문서화했다.,오답,-,,,[],stop,The report documented cheilosis in this patient.
+none,sideroblastic anaemia,철적혈모구빈혈,철아구성 빈혈,보고서는 이 환자에서 철아구성 빈혈을 기록했다.,오답,-,,,[],stop,The report documented sideroblastic anaemia in this patient.
+none,auriculotemporal nerve,귓바퀴관자신경,귀관자신경,의사의 문서에 귀관자신경이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned auriculotemporal nerve.
+none,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,이영양성 수포성 표피박리증,이 보고서는 이 환자에서 이영양성 수포성 표피박리증을 기록했다.,오답,-,,,[],stop,The report documented epidermolysis bullosa dystrophica in this patient.
+none,negative pressure,음압,음압,의사의 문서에 음압이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned negative pressure.
+none,deshielded proton,미차폐양성자,디실드된 양성자,의사의 문서에 디실드된 양성자가 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned deshielded proton.
+none,hippocampal sclerosis,해마경화(증),해마 경화증,이 보고서는 이 환자에서 해마 경화증을 기록했습니다.,오답,-,,,[],stop,The report documented hippocampal sclerosis in this patient.
+none,laryngotracheal stenosis,후두기관협착(증),후두기관 협착증,보고서는 이 환자에게 후두기관 협착증을 기록했습니다.,오답,-,,,[],stop,The report documented laryngotracheal stenosis in this patient.
+none,hemodynamometry,혈압측정(법),혈동력측정법,의사의 문서에 혈동력측정법이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned hemodynamometry.
+none,protein-losing enteropathy,단백질소실장병(증),단백질 소실성 장병증,의사의 문서에 단백질 소실성 장병증이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned protein-losing enteropathy.
+none,anisometropic amblyopia,굴절부등약시,부동시 약시,이 보고서는 이 환자에서 부동시 약시를 기록했습니다.,오답,-,,,[],stop,The report documented anisometropic amblyopia in this patient.
+none,endaural,귀속-,이내,의사의 문서는 이내를 언급했다.,오답,-,,,[],stop,The doctor's document mentioned endaural.
+none,dental granuloma,뿌리끝육아종,치아 육아종,의사의 문서에서 치아 육아종이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned dental granuloma.
+none,dislocation of midcarpal(joint),중간수근골(관절)의 탈구,중수근(관절) 탈구,보고서에는 이 환자의 중수근(관절) 탈구가 기록되어 있다.,오답,-,,,['bad_chars'],stop,The report documented dislocation of midcarpal(joint) in this patient.
+none,coalescent mastoiditis,융합꼭지돌기염,융합성 유양돌기염,이 환자의 보고서에는 융합성 유양돌기염이 기록되어 있었다.,오답,-,,,[],stop,The report documented coalescent mastoiditis in this patient.
+none,neurocanal,신경관,신경관,의사의 서류에서 신경관이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned neurocanal.
+none,endocrinologist,내분비전문의,내분비학자,의사의 문서에 내분비학자가 언급되었습니다.,정답(동의어),exact,,,[],stop,The doctor's document mentioned endocrinologist.
+none,gastroenteritis paratyphosa,파라티푸스위창자염,파라장티푸스성 위장염,의사의 문서에 파라장티푸스성 위장염이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned gastroenteritis paratyphosa.
+none,meningoencephalocele,수막뇌류,뇌막뇌탈장,보고서는 이 환자에서 뇌막뇌탈장을 기록했다.,오답,-,,,[],stop,The report documented meningoencephalocele in this patient.
+none,epiplocele,대망탈장,대망탈장,보고서는 이 환자에서 대망탈장을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented epiplocele in this patient.
+none,rotalix tube,회전양극관,rotalix tube,의사의 문서에 rotalix tube가 언급되었습니다.,오답,-,,,['bad_chars'],stop,The doctor's document mentioned rotalix tube.
+none,plantar flexion,발바닥쪽 굽힘,족저 굴곡,의사의 문서에 족저 굴곡이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned plantar flexion.
+none,epididymal duct,부고환관,부고관,의사의 문서에 부고관이 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned epididymal duct.
+none,interferential action,간섭작용,간섭 작용,의사의 문서는 간섭 작용을 언급했다.,정답(대표),nospace,,,[],stop,The doctor's document mentioned interferential action.
+none,keratopathy,각막병(증),각막병증,의사의 문서에 각막병증이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned keratopathy.
+none,topalgia,국소통증,통증,의사의 문서에 통증이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned topalgia.
+none,suprameatal foveola,바깥귀길위오목,상이개와(superameatal foveola),의사의 문서에 상이개와(superameatal foveola)가 언급되어 있었다.,오답,-,,,['bad_chars'],stop,The doctor's document mentioned suprameatal foveola.
+none,paraduodenal fold,샘창자옆주름,상십이지장장곡,의사의 문서에 상십이지장장곡이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned paraduodenal fold.
+none,airborne infection,공기매개감염,공기 감염,의사의 문서는 공기 감염을 언급했습니다.,오답,-,,,[],stop,The doctor's document mentioned airborne infection.
+none,inertia,무기력,관성,의사의 문서에 관성이 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned inertia.
+none,absence of muscle,근육의 결여,근육의 부재,보고서는 이 환자에서 근육의 부재를 기록했다.,오답,-,,,[],stop,The report documented absence of muscle in this patient.
+none,implosion,홍수(노출)요법,내파,의사의 문서에 내파가 언급되었다.,정답(동의어),exact,,,[],stop,The doctor's document mentioned implosion.
+none,intermedia thalassaemia,중간형 지중해빈혈,인터미디아 탈라세미아,보고서는 이 환자에게서 인터미디아 탈라세미아를 기록했습니다.,오답,-,,,[],stop,The report documented intermedia thalassaemia in this patient.
+none,normetanephrine,노르메타네프린,노르메타네프린,의사의 문서에 노르메타네프린이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned normetanephrine.
+none,derangement of patella,무릎뼈의 장애,슬개골의 장애,이 환자의 보고서는 슬개골의 장애를 기록했다.,오답,-,,,[],stop,The report documented derangement of patella in this patient.
+none,bilateral palatine tonsils,양측 목구멍 편도,양쪽 구개편도,의사의 문서에 양쪽 구개편도가 언급되어 있었습니다.,오답,-,,,[],stop,The doctor's document mentioned bilateral palatine tonsils.
+none,basal seat,의치지지조직,기저부,의사의 문서에 기저부가 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned basal seat.
+none,diabetic coma,당뇨 혼수,당혼수,의사의 문서에 당혼수가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned diabetic coma.
+none,school childhood,학령기,학교 시절,의사의 문서가 학교 시절을 언급했다.,오답,-,,,[],stop,The doctor's document mentioned school childhood.
+none,mysophilia,불결기호증,미소필리아,의사의 문서에는 미소필리아가 언급되어 있었다.,오답,-,,,[],stop,The doctor's document mentioned mysophilia.
+none,high quality-hcv ab,정밀면역검사-C형간염항체,고품질-hcv ab,이 환자에게 고품질-hcv ab가 시행되었습니다.,오답,-,,,['bad_chars'],stop,high quality-hcv ab was performed on this patient.
+none,onychocryptosis,감입발톱,발톱함목증,의사의 문서에 발톱함목증이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned onychocryptosis.
+none,positioned flap,판막이동수술,위치된 플랩,의사의 문서에 위치된 플랩이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned positioned flap.
+none,clean bench,무균실험대,클린 벤치,의사의 문서에 클린 벤치가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned clean bench.
+none,psgn,연쇄구균감염후 사구체신염,psgn,이 보고서는 이 환자의 psgn을 문서화했습니다.,오답,-,,,['bad_chars'],stop,The report documented psgn in this patient.
+none,hammerhead ribozyme,망치머리형리보자임,해머헤드 리보자임,의사의 문서에서는 해머헤드 리보자임을 언급했습니다.,오답,-,,,[],stop,The doctor's document mentioned hammerhead ribozyme.
+none,bacteriostasis,정균작용,정균 작용,의사의 문서에 정균 작용이 언급되었다.,정답(대표),nospace,,,[],stop,The doctor's document mentioned bacteriostasis.
+none,involuntary,불수의-,무의식적,의사의 문서에 무의식적이라는 단어가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned involuntary.
+none,exteroceptive stimulus,외수용자극,외부 자극,의사의 문서는 외부 자극을 언급했다.,오답,-,,,[],stop,The doctor's document mentioned exteroceptive stimulus.
+none,urarthritis,통풍관절염,통풍성 관절염,보고서는 이 환자의 통풍성 관절염을 문서화했습니다.,오답,-,,,[],stop,The report documented urarthritis in this patient.
+none,insular sclerosis,섬경화증,섬경화증,의사의 문서에는 섬경화증이 언급되어 있었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned insular sclerosis.
+none,altered uterine contractions,자궁수축 변화,자궁 수축의 변화,의사의 문서에 자궁 수축의 변화가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned altered uterine contractions.
+none,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",kub 좌측 측면,이 환자에게 kub 좌측 측면 촬영이 시행되었습니다.,오답,-,,,['bad_chars'],stop,kub left lateral was performed on this patient.
+none,allergenic serum,알레르기혈청,알레르기 유발 혈청,의사의 문서에 알레르기 유발 혈청이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned allergenic serum.
+none,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경적 수정 누낭비강문합술,보고서는 이 환자에서 내시경적 수정 누낭비강문합술을 기록하였다.,오답,-,,,[],stop,The report documented endoscopic revision dacryocystorhinostomy in this patient.
+none,proctoscope,직장경,프로토스코프,의사의 문서에 프로토스코프가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned proctoscope.
+none,blood donation,헌혈,헌혈,의사의 서류에 헌혈이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned blood donation.
+none,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신 이형성증,이 환자에서 다낭성 신 이형성증이 보고서에 문서화되었다.,오답,-,,,[],stop,The report documented multicystic renal dysplasia in this patient.
+none,neuropsychiatry,신경정신과학,신경정신의학,의사의 서류에 신경정신의학이 언급되었습니다.,정답(동의어),exact,,,[],stop,The doctor's document mentioned neuropsychiatry.
+none,superexcitation,과도흥분,초흥분,의사의 문서에 초흥분이 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned superexcitation.
+none,oncotaxonomy,종양분류법,종양분류학,의사의 문서에 종양분류학이 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned oncotaxonomy.
+none,foraminal,그물막구멍,추간공,의사의 문서에서 추간공이라는 용어가 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned foraminal.
+none,retaining harness,장치유지,리테이닝 하네스,의사의 서류에 리테이닝 하네스가 언급되어 있었다.,오답,-,,,[],stop,The doctor's document mentioned retaining harness.
+none,sao paulo fever,상파울로열,상파울루 열,이 보고서는 이 환자에서 상파울루 열을 문서화했습니다.,오답,-,,,[],stop,The report documented sao paulo fever in this patient.
+none,orofaciodigital syndrome,구안지 증후군,구안면지증후군,보고서는 이 환자에서 구안면지증후군을 기록하였다.,오답,-,,,[],stop,The report documented orofaciodigital syndrome in this patient.
+none,bidiscoidal placenta,두원반태반,양원반 태반,의사의 문서에 양원반 태반이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned bidiscoidal placenta.
+none,supporting spiritual rituals,영적의식 지지하기,영적 의례 지원,의사의 문서는 영적 의례 지원을 언급했다.,오답,-,,,[],stop,The doctor's document mentioned supporting spiritual rituals.
+none,entire trapezius muscle,온등세모근,전체 승모근,의사의 문서에 전체 승모근이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned entire trapezius muscle.
+none,reciprocal shaker,왕복진탕기,왕복 진탕기,의사의 문서에 왕복 진탕기가 언급되었습니다.,정답(대표),nospace,,,[],stop,The doctor's document mentioned reciprocal shaker.
+none,cervical vertigo,경추성 현기증,경추성 어지럼증,보고서는 이 환자에게 경추성 어지럼증이 있음을 문서화했습니다.,오답,-,,,[],stop,The report documented cervical vertigo in this patient.
+none,hapgok,합곡(合谷),합곡,의사의 문서에 합곡이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned hapgok.
+term,sirenomelia syndrome,인어다리 증후군,인어다리 증후군,이 보고서는 이 환자에서 인어다리 증후군을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented sirenomelia syndrome in this patient.
+term,rash purpuric,자색반 발진,자색반 발진,의사의 문서에 자색반 발진이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned rash purpuric.
+term,agenesis of lung,폐의 무발생,폐의 무발생,이 보고서는 이 환자에서 폐의 무발생을 문서화했습니다.,정답(대표),exact,,,[],stop,The report documented agenesis of lung in this patient.
+term,papilloma of cerviv,자궁경부의 유두종,자궁경부의 유두종,보고서는 이 환자에서 자궁경부의 유두종을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented papilloma of cerviv in this patient.
+term,hyeopbaek,협백(俠白),협백(俠白),의사의 문서에 협백(俠白)이 언급되었다.,정답(대표),exact,,,['bad_chars'],stop,The doctor's document mentioned hyeopbaek.
+term,water bath,욕조,욕조,의사의 문서에 욕조가 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned water bath.
+term,heredoinfection,유전감염,유전감염,의사의 문서가 유전감염을 언급했다.,정답(대표),exact,,,[],stop,The doctor's document mentioned heredoinfection.
+term,naegleria fowleri,파울러자유아메바,파울러자유아메바,의사의 문서에 파울러자유아메바가 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned naegleria fowleri.
+term,case-mix,질병구성,질병구성,의사의 문서는 질병구성을 언급했다.,정답(대표),exact,,,[],stop,The doctor's document mentioned case-mix.
+term,third ventricle structure,제3뇌구조,제3뇌구조,의사의 문서에 제3뇌구조가 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned third ventricle structure.
+term,scleral necrosis/melt,공막 괴사/ 융해,공막 괴사/ 융해,의사의 문서에 공막 괴사/ 융해가 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned scleral necrosis/melt.
+term,meckel's diverticulectomy,멕켈 게실절제술,멕켈 게실절제술,보고서는 이 환자에서 멕켈 게실절제술을 문서화했습니다.,정답(대표),exact,,,[],stop,The report documented meckel's diverticulectomy in this patient.
+term,myotonic disorders,근긴장장애,근긴장장애,보고서는 이 환자의 근긴장장애를 기록했습니다.,정답(대표),exact,,,[],stop,The report documented myotonic disorders in this patient.
+term,breast stereotactic biopsy,유방 입체정위 생검술,유방 입체정위 생검술,의사의 문서에 유방 입체정위 생검술이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned breast stereotactic biopsy.
+term,glaucomatous cataract,녹내장성백내장,녹내장성백내장,의사의 문서에서 녹내장성백내장을 언급했습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned glaucomatous cataract.
+term,orthognathic surgery,악교정수술,악교정수술,의사의 문서에 악교정수술이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned orthognathic surgery.
+term,transfusion tests,수혈혈액검사,수혈혈액검사,의사의 문서에 수혈혈액검사가 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned transfusion tests.
+term,surgical staging,외과적시기결정,외과적시기결정,의사의 문서에서 외과적시기결정을 언급했습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned surgical staging.
+term,nodular prurigo,결절가려움발진,결절가려움발진,의사의 문서에 결절가려움발진이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned nodular prurigo.
+term,genuine diabetes,진성당뇨병,진성당뇨병,의사의 문서에는 진성당뇨병이 언급되어 있었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned genuine diabetes.
+term,dry weight,투석목표체중,투석목표체중,의사의 문서에 투석목표체중이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned dry weight.
+term,biopsy of adenoid,인두편도 생검,인두편도 생검,보고서는 이 환자에서 인두편도 생검을 문서화했다.,정답(대표),exact,,,[],stop,The report documented biopsy of adenoid in this patient.
+term,glutitis,볼기염,볼기염,의사의 문서에 볼기염이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned glutitis.
+term,colpomyomectomy,질식근종절제(술),질식근종절제술,의사의 문서에서 질식근종절제술이 언급되었습니다.,오답,-,,,[],stop,The doctor's document mentioned colpomyomectomy.
+term,capillaria hepatica,간모세선충,간모세선충,의사의 문서에는 간모세선충이 언급되어 있었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned capillaria hepatica.
+term,cardioplegic,심장마비-,심장마비-,의사의 문서에 심장마비-가 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned cardioplegic.
+term,upper extremity,위팔,위팔,의사의 문서에 위팔이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned upper extremity.
+term,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토콕쿠스수막대뇌염,보고서는 이 환자에서 크립토콕쿠스수막대뇌염을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented cryptococcal meningocerebritis in this patient.
+term,blood fluke,주혈흡충,주혈흡충,의사의 문서에 주혈흡충이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned blood fluke.
+term,cheilosis,구순증,구순증,보고서는 이 환자에게 구순증이 있음을 문서화했다.,정답(대표),exact,,,[],stop,The report documented cheilosis in this patient.
+term,sideroblastic anaemia,철적혈모구빈혈,철적혈모구빈혈,보고서는 이 환자에게 철적혈모구빈혈이 있음을 문서화했다.,정답(대표),exact,,,[],stop,The report documented sideroblastic anaemia in this patient.
+term,auriculotemporal nerve,귓바퀴관자신경,귓바퀴관자신경,의사의 문서에 귓바퀴관자신경이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned auriculotemporal nerve.
+term,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,디스트로피성 수포성 표피박리증,보고서는 이 환자에게서 디스트로피성 수포성 표피박리증을 기록했다.,정답(대표),exact,,,[],stop,The report documented epidermolysis bullosa dystrophica in this patient.
+term,negative pressure,음압,음압,의사의 문서에 음압이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned negative pressure.
+term,deshielded proton,미차폐양성자,미차폐양성자,의사의 문서에 미차폐양성자가 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned deshielded proton.
+term,hippocampal sclerosis,해마경화(증),해마경화(증),보고서는 이 환자에게 해마경화(증)가 있음을 기록했습니다.,정답(대표),exact,,,['bad_chars'],stop,The report documented hippocampal sclerosis in this patient.
+term,laryngotracheal stenosis,후두기관협착(증),후두기관협착증,보고서는 이 환자에서 후두기관협착증을 문서화했습니다.,오답,-,,,[],stop,The report documented laryngotracheal stenosis in this patient.
+term,hemodynamometry,혈압측정(법),혈압측정(법),의사의 문서에 혈압측정(법)이 언급되었다.,정답(대표),exact,,,['bad_chars'],stop,The doctor's document mentioned hemodynamometry.
+term,protein-losing enteropathy,단백질소실장병(증),단백질소실장병(증),의사의 문서에 단백질소실장병(증)이 언급되었습니다.,정답(대표),exact,,,['bad_chars'],stop,The doctor's document mentioned protein-losing enteropathy.
+term,anisometropic amblyopia,굴절부등약시,굴절부등약시,보고서는 이 환자에서 굴절부등약시를 기록했습니다.,정답(대표),exact,,,[],stop,The report documented anisometropic amblyopia in this patient.
+term,endaural,귀속-,귀속-,의사의 문서에 귀속-이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned endaural.
+term,dental granuloma,뿌리끝육아종,뿌리끝육아종,의사의 문서에 뿌리끝육아종이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned dental granuloma.
+term,dislocation of midcarpal(joint),중간수근골(관절)의 탈구,중간수근골(관절)의 탈구,보고서는 이 환자에서 중간수근골(관절)의 탈구를 기록했습니다.,정답(대표),exact,,,['bad_chars'],stop,The report documented dislocation of midcarpal(joint) in this patient.
+term,coalescent mastoiditis,융합꼭지돌기염,융합꼭지돌기염,보고서는 이 환자에게 융합꼭지돌기염이 있음을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented coalescent mastoiditis in this patient.
+term,neurocanal,신경관,신경관,의사의 문서에 신경관이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned neurocanal.
+term,endocrinologist,내분비전문의,내분비전문의,의사의 문서에 내분비전문의가 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned endocrinologist.
+term,gastroenteritis paratyphosa,파라티푸스위창자염,파라티푸스위창자염,의사의 문서에 파라티푸스위창자염이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned gastroenteritis paratyphosa.
+term,meningoencephalocele,수막뇌류,수막뇌류,보고서는 이 환자에서 수막뇌류를 문서화했습니다.,정답(대표),exact,,,[],stop,The report documented meningoencephalocele in this patient.
+term,epiplocele,대망탈장,대망탈장,보고서는 이 환자에게서 대망탈장을 기록했다.,정답(대표),exact,,,[],stop,The report documented epiplocele in this patient.
+term,rotalix tube,회전양극관,회전양극관,의사의 문서에 회전양극관이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned rotalix tube.
+term,plantar flexion,발바닥쪽 굽힘,발바닥쪽 굽힘,의사의 문서에 발바닥쪽 굽힘이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned plantar flexion.
+term,epididymal duct,부고환관,부고환관,의사의 문서에 부고환관이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned epididymal duct.
+term,interferential action,간섭작용,간섭작용,의사의 문서에 간섭작용이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned interferential action.
+term,keratopathy,각막병(증),각막병(증),의사의 문서에 각막병(증)이 언급되었습니다.,정답(대표),exact,,,['bad_chars'],stop,The doctor's document mentioned keratopathy.
+term,topalgia,국소통증,국소통증,의사의 문서에 국소통증이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned topalgia.
+term,suprameatal foveola,바깥귀길위오목,바깥귀길위오목,의사의 문서에 바깥귀길위오목이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned suprameatal foveola.
+term,paraduodenal fold,샘창자옆주름,샘창자옆주름,의사의 문서에서는 샘창자옆주름이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned paraduodenal fold.
+term,airborne infection,공기매개감염,공기매개감염,의사의 문서는 공기매개감염을 언급했다.,정답(대표),exact,,,[],stop,The doctor's document mentioned airborne infection.
+term,inertia,무기력,무기력,의사의 문서에 무기력이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned inertia.
+term,absence of muscle,근육의 결여,근육의 결여,보고서는 이 환자에서 근육의 결여를 기록했다.,정답(대표),exact,,,[],stop,The report documented absence of muscle in this patient.
+term,implosion,홍수(노출)요법,홍수(노출)요법,의사의 문서에 홍수(노출)요법이 언급되었습니다.,정답(대표),exact,,,['bad_chars'],stop,The doctor's document mentioned implosion.
+term,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,보고서는 이 환자에게 중간형 지중해빈혈이 있음을 문서화했습니다.,정답(대표),exact,,,[],stop,The report documented intermedia thalassaemia in this patient.
+term,normetanephrine,노르메타네프린,노르메타네프린,의사의 문서에 노르메타네프린이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned normetanephrine.
+term,derangement of patella,무릎뼈의 장애,무릎뼈의 장애,보고서는 이 환자의 무릎뼈의 장애를 기록했습니다.,정답(대표),exact,,,[],stop,The report documented derangement of patella in this patient.
+term,bilateral palatine tonsils,양측 목구멍 편도,양측 목구멍 편도,의사의 문서에 양측 목구멍 편도가 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned bilateral palatine tonsils.
+term,basal seat,의치지지조직,의치지지조직,의사의 문서에서 의치지지조직을 언급했습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned basal seat.
+term,diabetic coma,당뇨 혼수,당뇨 혼수,의사의 문서에 당뇨 혼수가 언급되어 있었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned diabetic coma.
+term,school childhood,학령기,학령기,의사의 문서에서 학령기가 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned school childhood.
+term,mysophilia,불결기호증,불결기호증,의사의 문서에는 불결기호증이 언급되어 있었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned mysophilia.
+term,high quality-hcv ab,정밀면역검사-C형간염항체,정밀면역검사-C형간염항체,이 환자에게 정밀면역검사-C형간염항체가 시행되었습니다.,정답(대표),exact,,,['bad_chars'],stop,high quality-hcv ab was performed on this patient.
+term,onychocryptosis,감입발톱,감입발톱,의사의 문서에 감입발톱이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned onychocryptosis.
+term,positioned flap,판막이동수술,판막이동수술,의사의 문서에 판막이동수술이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned positioned flap.
+term,clean bench,무균실험대,무균실험대,의사의 문서에 무균실험대가 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned clean bench.
+term,psgn,연쇄구균감염후 사구체신염,연쇄구균감염후 사구체신염,보고서는 이 환자에서 연쇄구균감염후 사구체신염을 문서화했습니다.,정답(대표),exact,,,[],stop,The report documented psgn in this patient.
+term,hammerhead ribozyme,망치머리형리보자임,망치머리형리보자임,의사의 문서에 망치머리형리보자임이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned hammerhead ribozyme.
+term,bacteriostasis,정균작용,정균작용,의사의 문서에 정균작용이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned bacteriostasis.
+term,involuntary,불수의-,불수의,의사의 문서에 불수의가 언급되었다.,오답,-,,,[],stop,The doctor's document mentioned involuntary.
+term,exteroceptive stimulus,외수용자극,외수용자극,의사의 문서에서는 외수용자극이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned exteroceptive stimulus.
+term,urarthritis,통풍관절염,통풍관절염,보고서는 이 환자의 통풍관절염을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented urarthritis in this patient.
+term,insular sclerosis,섬경화증,섬경화증,의사의 문서에 섬경화증이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned insular sclerosis.
+term,altered uterine contractions,자궁수축 변화,자궁수축 변화,의사의 문서에 자궁수축 변화가 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned altered uterine contractions.
+term,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향","콩팥요관방광촬영, 왼쪽측방향","이 환자에게 콩팥요관방광촬영, 왼쪽측방향이 시행되었습니다.",정답(대표),exact,,,[],stop,kub left lateral was performed on this patient.
+term,allergenic serum,알레르기혈청,알레르기혈청,의사의 문서에 알레르기혈청이 언급되었습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned allergenic serum.
+term,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경 이용 눈물주머니코안 연결 교정,보고서는 이 환자에서 내시경 이용 눈물주머니코안 연결 교정을 기록하였다.,정답(대표),exact,,,[],stop,The report documented endoscopic revision dacryocystorhinostomy in this patient.
+term,proctoscope,직장경,직장경,의사의 문서에 직장경이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned proctoscope.
+term,blood donation,헌혈,헌혈,의사의 문서에 헌혈이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned blood donation.
+term,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신장의 형성이상,보고서는 이 환자에서 다낭성 신장의 형성이상을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented multicystic renal dysplasia in this patient.
+term,neuropsychiatry,신경정신과학,신경정신과학,의사의 문서에 신경정신과학이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned neuropsychiatry.
+term,superexcitation,과도흥분,과도흥분,의사의 문서에서 과도흥분이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned superexcitation.
+term,oncotaxonomy,종양분류법,종양분류법,의사의 문서에 종양분류법이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned oncotaxonomy.
+term,foraminal,그물막구멍,그물막구멍,의사의 문서에서는 그물막구멍을 언급했습니다.,정답(대표),exact,,,[],stop,The doctor's document mentioned foraminal.
+term,retaining harness,장치유지,장치유지,의사의 문서에 장치유지가 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned retaining harness.
+term,sao paulo fever,상파울로열,상파울로열,보고서는 이 환자에서 상파울로열을 문서화했습니다.,정답(대표),exact,,,[],stop,The report documented sao paulo fever in this patient.
+term,orofaciodigital syndrome,구안지 증후군,구안지 증후군,보고서는 이 환자에서 구안지 증후군을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented orofaciodigital syndrome in this patient.
+term,bidiscoidal placenta,두원반태반,두원반태반,의사의 문서에 두원반태반이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned bidiscoidal placenta.
+term,supporting spiritual rituals,영적의식 지지하기,영적의식 지지하기,의사의 문서는 영적의식 지지하기를 언급했다.,정답(대표),exact,,,[],stop,The doctor's document mentioned supporting spiritual rituals.
+term,entire trapezius muscle,온등세모근,온등세모근,의사의 문서에 온등세모근이 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned entire trapezius muscle.
+term,reciprocal shaker,왕복진탕기,왕복진탕기,의사의 문서에 왕복진탕기가 언급되었다.,정답(대표),exact,,,[],stop,The doctor's document mentioned reciprocal shaker.
+term,cervical vertigo,경추성 현기증,경추성 현기증,보고서는 이 환자에게서 경추성 현기증을 기록했습니다.,정답(대표),exact,,,[],stop,The report documented cervical vertigo in this patient.
+term,hapgok,합곡(合谷),합곡(합곡),의사의 문서에 합곡(합곡)이 언급되었다.,오답,-,,,['bad_chars'],stop,The doctor's document mentioned hapgok.
+random,sirenomelia syndrome,인어다리 증후군,미차폐양성자,보고서는 이 환자에서 미차폐양성자를 문서화했습니다.,오답,-,True,미차폐양성자,[],stop,The report documented sirenomelia syndrome in this patient.
+random,rash purpuric,자색반 발진,각막병(증),의사의 문서에 각막병(증)이 언급되었습니다.,오답,-,True,각막병(증),['bad_chars'],stop,The doctor's document mentioned rash purpuric.
+random,agenesis of lung,폐의 무발생,노르메타네프린,보고서는 이 환자에서 노르메타네프린을 문서화했습니다.,오답,-,True,노르메타네프린,[],stop,The report documented agenesis of lung in this patient.
+random,papilloma of cerviv,자궁경부의 유두종,디스트로피성 수포성 표피박리증,보고서는 이 환자에서 디스트로피성 수포성 표피박리증을 기록했습니다.,오답,-,True,디스트로피성 수포성 표피박리증,[],stop,The report documented papilloma of cerviv in this patient.
+random,hyeopbaek,협백(俠白),공막 괴사/ 융해,의사의 문서에 공막 괴사/ 융해가 언급되어 있었다.,오답,-,True,공막 괴사/ 융해,[],stop,The doctor's document mentioned hyeopbaek.
+random,water bath,욕조,단백질소실장병(증),의사의 문서에 단백질소실장병(증)이 언급되었다.,오답,-,True,단백질소실장병(증),['bad_chars'],stop,The doctor's document mentioned water bath.
+random,heredoinfection,유전감염,융합꼭지돌기염,의사의 문서에 융합꼭지돌기염이 언급되었습니다.,오답,-,True,융합꼭지돌기염,[],stop,The doctor's document mentioned heredoinfection.
+random,naegleria fowleri,파울러자유아메바,폐의 무발생,의사의 문서에 폐의 무발생이 언급되었습니다.,오답,-,True,폐의 무발생,[],stop,The doctor's document mentioned naegleria fowleri.
+random,case-mix,질병구성,제3뇌구조,의사의 문서는 제3뇌구조를 언급했습니다.,오답,-,True,제3뇌구조,[],stop,The doctor's document mentioned case-mix.
+random,third ventricle structure,제3뇌구조,중간형 지중해빈혈,의사의 문서에는 중간형 지중해빈혈이 언급되었습니다.,오답,-,True,중간형 지중해빈혈,[],stop,The doctor's document mentioned third ventricle structure.
+random,scleral necrosis/melt,공막 괴사/ 융해,자색반 발진,의사의 문서에서 자색반 발진을 언급했습니다.,오답,-,True,자색반 발진,[],stop,The doctor's document mentioned scleral necrosis/melt.
+random,meckel's diverticulectomy,멕켈 게실절제술,녹내장성백내장,보고서는 이 환자에서 녹내장성백내장을 문서화했습니다.,오답,-,True,녹내장성백내장,[],stop,The report documented meckel's diverticulectomy in this patient.
+random,myotonic disorders,근긴장장애,후두기관협착(증),보고서는 이 환자에서 후두기관협착(증)을 문서화했다.,오답,-,True,후두기관협착(증),['bad_chars'],stop,The report documented myotonic disorders in this patient.
+random,breast stereotactic biopsy,유방 입체정위 생검술,악교정수술,의사의 문서에 악교정수술이 언급되었습니다.,오답,-,True,악교정수술,[],stop,The doctor's document mentioned breast stereotactic biopsy.
+random,glaucomatous cataract,녹내장성백내장,굴절부등약시,의사의 문서에 굴절부등약시가 언급되었습니다.,오답,-,True,굴절부등약시,[],stop,The doctor's document mentioned glaucomatous cataract.
+random,orthognathic surgery,악교정수술,영적의식 지지하기,의사의 문서에서 영적의식 지지하기가 언급되었습니다.,오답,-,True,영적의식 지지하기,[],stop,The doctor's document mentioned orthognathic surgery.
+random,transfusion tests,수혈혈액검사,내시경 이용 눈물주머니코안 연결 교정,의사의 문서에 내시경 이용 눈물주머니코안 연결 교정이 언급되었습니다.,오답,-,True,내시경 이용 눈물주머니코안 연결 교정,[],stop,The doctor's document mentioned transfusion tests.
+random,surgical staging,외과적시기결정,협백(俠白),의사의 문서에서 협백(俠白)이 언급되었습니다.,오답,-,True,협백(俠白),['bad_chars'],stop,The doctor's document mentioned surgical staging.
+random,nodular prurigo,결절가려움발진,섬경화증,의사의 문서에 섬경화증이 언급되었습니다.,오답,-,True,섬경화증,[],stop,The doctor's document mentioned nodular prurigo.
+random,genuine diabetes,진성당뇨병,질병구성,의사의 문서에 질병구성이 언급되었다.,오답,-,True,질병구성,[],stop,The doctor's document mentioned genuine diabetes.
+random,dry weight,투석목표체중,외과적시기결정,의사의 문서에서 외과적시기결정을 언급했습니다.,오답,-,True,외과적시기결정,[],stop,The doctor's document mentioned dry weight.
+random,biopsy of adenoid,인두편도 생검,미차폐양성자,보고서는 이 환자에서 미차폐양성자를 문서화했습니다.,오답,-,True,미차폐양성자,[],stop,The report documented biopsy of adenoid in this patient.
+random,glutitis,볼기염,두원반태반,의사의 문서에서 두원반태반을 언급했습니다.,오답,-,True,두원반태반,[],stop,The doctor's document mentioned glutitis.
+random,colpomyomectomy,질식근종절제(술),진성당뇨병,의사의 문서에서는 진성당뇨병이 언급되었습니다.,오답,-,True,진성당뇨병,[],stop,The doctor's document mentioned colpomyomectomy.
+random,capillaria hepatica,간모세선충,크립토콕쿠스수막대뇌염,의사의 문서에는 크립토콕쿠스수막대뇌염이 언급되어 있었다.,오답,-,True,크립토콕쿠스수막대뇌염,[],stop,The doctor's document mentioned capillaria hepatica.
+random,cardioplegic,심장마비-,왕복진탕기,의사의 문서에 왕복진탕기가 언급되었다.,오답,-,True,왕복진탕기,[],stop,The doctor's document mentioned cardioplegic.
+random,upper extremity,위팔,장치유지,의사의 문서에 장치유지가 언급되었습니다.,오답,-,True,장치유지,[],stop,The doctor's document mentioned upper extremity.
+random,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,국소통증,보고서는 이 환자에서 국소통증을 기록했습니다.,오답,-,True,국소통증,[],stop,The report documented cryptococcal meningocerebritis in this patient.
+random,blood fluke,주혈흡충,제3뇌구조,의사의 문서에서 제3뇌구조를 언급했습니다.,오답,-,True,제3뇌구조,[],stop,The doctor's document mentioned blood fluke.
+random,cheilosis,구순증,통풍관절염,보고서는 이 환자에게 통풍관절염이 있음을 문서화했다.,오답,-,True,통풍관절염,[],stop,The report documented cheilosis in this patient.
+random,sideroblastic anaemia,철적혈모구빈혈,간섭작용,보고서는 이 환자에게서 간섭작용을 기록했습니다.,오답,-,True,간섭작용,[],stop,The report documented sideroblastic anaemia in this patient.
+random,auriculotemporal nerve,귓바퀴관자신경,결절가려움발진,의사의 문서에 결절가려움발진이 언급되었습니다.,오답,-,True,결절가려움발진,[],stop,The doctor's document mentioned auriculotemporal nerve.
+random,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,종양분류법,이 보고서는 이 환자에게서 종양분류법을 문서화했습니다.,오답,-,True,종양분류법,[],stop,The report documented epidermolysis bullosa dystrophica in this patient.
+random,negative pressure,음압,파울러자유아메바,의사의 문서에 파울러자유아메바가 언급되었습니다.,오답,-,True,파울러자유아메바,[],stop,The doctor's document mentioned negative pressure.
+random,deshielded proton,미차폐양성자,협백(俠白),의사의 문서에 협백(俠白)이 언급되었다.,오답,-,True,협백(俠白),['bad_chars'],stop,The doctor's document mentioned deshielded proton.
+random,hippocampal sclerosis,해마경화(증),볼기염,보고서는 이 환자에서 볼기염을 문서화했습니다.,오답,-,True,볼기염,[],stop,The report documented hippocampal sclerosis in this patient.
+random,laryngotracheal stenosis,후두기관협착(증),뿌리끝육아종,보고서는 이 환자에게 뿌리끝육아종을 문서화했습니다.,오답,-,True,뿌리끝육아종,[],stop,The report documented laryngotracheal stenosis in this patient.
+random,hemodynamometry,혈압측정(법),디스트로피성 수포성 표피박리증,의사의 문서에서 디스트로피성 수포성 표피박리증을 언급했습니다.,오답,-,True,디스트로피성 수포성 표피박리증,[],stop,The doctor's document mentioned hemodynamometry.
+random,protein-losing enteropathy,단백질소실장병(증),내분비전문의,의사의 문서에 내분비전문의가 언급되었습니다.,오답,-,True,내분비전문의,[],stop,The doctor's document mentioned protein-losing enteropathy.
+random,anisometropic amblyopia,굴절부등약시,합곡(合谷),보고서는 이 환자에서 합곡(合谷)을 문서화했습니다.,오답,-,True,합곡(合谷),['bad_chars'],stop,The report documented anisometropic amblyopia in this patient.
+random,endaural,귀속-,상파울로열,의사의 문서에 상파울로열이 언급되었다.,오답,-,True,상파울로열,[],stop,The doctor's document mentioned endaural.
+random,dental granuloma,뿌리끝육아종,치육아종,의사의 문서에서 치육아종이 언급되었다.,오답,-,False,귀속-,[],stop,The doctor's document mentioned dental granuloma.
+random,dislocation of midcarpal(joint),중간수근골(관절)의 탈구,근긴장장애,보고서는 이 환자에서 근긴장장애를 기록했습니다.,오답,-,True,근긴장장애,[],stop,The report documented dislocation of midcarpal(joint) in this patient.
+random,coalescent mastoiditis,융합꼭지돌기염,간섭작용,이 환자의 보고서에는 간섭작용이 문서화되어 있었다.,오답,-,True,간섭작용,[],stop,The report documented coalescent mastoiditis in this patient.
+random,neurocanal,신경관,멕켈 게실절제술,의사의 문서에서 멕켈 게실절제술을 언급했습니다.,오답,-,True,멕켈 게실절제술,[],stop,The doctor's document mentioned neurocanal.
+random,endocrinologist,내분비전문의,폐의 무발생,의사의 문서는 폐의 무발생을 언급했습니다.,오답,-,True,폐의 무발생,[],stop,The doctor's document mentioned endocrinologist.
+random,gastroenteritis paratyphosa,파라티푸스위창자염,온등세모근,의사의 문서에 온등세모근이 언급되었습니다.,오답,-,True,온등세모근,[],stop,The doctor's document mentioned gastroenteritis paratyphosa.
+random,meningoencephalocele,수막뇌류,중간수근골(관절)의 탈구,이 환자에서 중간수근골(관절)의 탈구를 문서화했다.,오답,-,True,중간수근골(관절)의 탈구,['bad_chars'],stop,The report documented meningoencephalocele in this patient.
+random,epiplocele,대망탈장,귀속-,보고서는 이 환자에서 귀속-을 문서화했습니다.,오답,-,True,귀속-,[],stop,The report documented epiplocele in this patient.
+random,rotalix tube,회전양극관,종양분류법,의사의 문서에 종양분류법이 언급되었습니다.,오답,-,True,종양분류법,[],stop,The doctor's document mentioned rotalix tube.
+random,plantar flexion,발바닥쪽 굽힘,영적의식 지지하기,의사의 문서에 영적의식 지지하기가 언급되었습니다.,오답,-,True,영적의식 지지하기,[],stop,The doctor's document mentioned plantar flexion.
+random,epididymal duct,부고환관,학령기,의사의 문서에서 학령기가 언급되었습니다.,오답,-,True,학령기,[],stop,The doctor's document mentioned epididymal duct.
+random,interferential action,간섭작용,직장경,의사의 문서가 직장경을 언급했다.,오답,-,True,직장경,[],stop,The doctor's document mentioned interferential action.
+random,keratopathy,각막병(증),불결기호증,의사의 문서에서 불결기호증이 언급되었습니다.,오답,-,True,불결기호증,[],stop,The doctor's document mentioned keratopathy.
+random,topalgia,국소통증,자궁수축 변화,의사의 문서에는 자궁수축 변화가 언급되어 있었다.,오답,-,True,자궁수축 변화,[],stop,The doctor's document mentioned topalgia.
+random,suprameatal foveola,바깥귀길위오목,구안지 증후군,의사의 문서에 구안지 증후군이 언급되었습니다.,오답,-,True,구안지 증후군,[],stop,The doctor's document mentioned suprameatal foveola.
+random,paraduodenal fold,샘창자옆주름,섬경화증,의사의 문서에서 섬경화증을 언급했습니다.,오답,-,True,섬경화증,[],stop,The doctor's document mentioned paraduodenal fold.
+random,airborne infection,공기매개감염,종양분류법,의사의 문서는 종양분류법을 언급했습니다.,오답,-,True,종양분류법,[],stop,The doctor's document mentioned airborne infection.
+random,inertia,무기력,알레르기혈청,의사의 문서에 알레르기혈청이 언급되었다.,오답,-,True,알레르기혈청,[],stop,The doctor's document mentioned inertia.
+random,absence of muscle,근육의 결여,디스트로피성 수포성 표피박리증,보고서는 이 환자에게서 디스트로피성 수포성 표피박리증을 기록했습니다.,오답,-,True,디스트로피성 수포성 표피박리증,[],stop,The report documented absence of muscle in this patient.
+random,implosion,홍수(노출)요법,정균작용,의사의 문서는 정균작용을 언급했다.,오답,-,True,정균작용,[],stop,The doctor's document mentioned implosion.
+random,intermedia thalassaemia,중간형 지중해빈혈,직장경,보고서는 이 환자에게 직장경을 기록했습니다.,오답,-,True,직장경,[],stop,The report documented intermedia thalassaemia in this patient.
+random,normetanephrine,노르메타네프린,파울러자유아메바,의사의 문서에 파울러자유아메바가 언급되었습니다.,오답,-,True,파울러자유아메바,[],stop,The doctor's document mentioned normetanephrine.
+random,derangement of patella,무릎뼈의 장애,수막뇌류,이 환자에서 수막뇌류를 문서화했다.,오답,-,True,수막뇌류,[],stop,The report documented derangement of patella in this patient.
+random,bilateral palatine tonsils,양측 목구멍 편도,양쪽 구개편도,의사의 문서에 양쪽 구개편도가 언급되어 있었다.,오답,-,False,위팔,[],stop,The doctor's document mentioned bilateral palatine tonsils.
+random,basal seat,의치지지조직,신경관,의사의 문서는 신경관을 언급했다.,오답,-,True,신경관,[],stop,The doctor's document mentioned basal seat.
+random,diabetic coma,당뇨 혼수,진성당뇨병,의사의 문서는 진성당뇨병을 언급했습니다.,오답,-,True,진성당뇨병,[],stop,The doctor's document mentioned diabetic coma.
+random,school childhood,학령기,자궁수축 변화,의사의 문서에서는 자궁수축 변화를 언급했습니다.,오답,-,True,자궁수축 변화,[],stop,The doctor's document mentioned school childhood.
+random,mysophilia,불결기호증,폐의 무발생,의사의 문서에서는 폐의 무발생을 언급했습니다.,오답,-,True,폐의 무발생,[],stop,The doctor's document mentioned mysophilia.
+random,high quality-hcv ab,정밀면역검사-C형간염항체,귓바퀴관자신경,이 환자에게 귓바퀴관자신경이 시행되었습니다.,오답,-,True,귓바퀴관자신경,[],stop,high quality-hcv ab was performed on this patient.
+random,onychocryptosis,감입발톱,무릎뼈의 장애,의사의 문서에 무릎뼈의 장애가 언급되었습니다.,오답,-,True,무릎뼈의 장애,[],stop,The doctor's document mentioned onychocryptosis.
+random,positioned flap,판막이동수술,장치유지,의사의 문서에 장치유지가 언급되었다.,오답,-,True,장치유지,[],stop,The doctor's document mentioned positioned flap.
+random,clean bench,무균실험대,섬경화증,의사의 문서는 섬경화증을 언급했다.,오답,-,True,섬경화증,[],stop,The doctor's document mentioned clean bench.
+random,psgn,연쇄구균감염후 사구체신염,국소통증,보고서는 이 환자에서 국소통증을 기록했다.,오답,-,True,국소통증,[],stop,The report documented psgn in this patient.
+random,hammerhead ribozyme,망치머리형리보자임,혈압측정(법),의사의 문서에는 혈압측정(법)이 언급되어 있었다.,오답,-,True,혈압측정(법),['bad_chars'],stop,The doctor's document mentioned hammerhead ribozyme.
+random,bacteriostasis,정균작용,위팔,의사의 문서는 위팔을 언급했다.,오답,-,True,위팔,[],stop,The doctor's document mentioned bacteriostasis.
+random,involuntary,불수의-,각막병(증),의사의 문서에 각막병(증)이 언급되었다.,오답,-,True,각막병(증),['bad_chars'],stop,The doctor's document mentioned involuntary.
+random,exteroceptive stimulus,외수용자극,회전양극관,의사의 문서에 회전양극관이 언급되었습니다.,오답,-,True,회전양극관,[],stop,The doctor's document mentioned exteroceptive stimulus.
+random,urarthritis,통풍관절염,대망탈장,이 보고서는 이 환자에서 대망탈장을 기록했습니다.,오답,-,True,대망탈장,[],stop,The report documented urarthritis in this patient.
+random,insular sclerosis,섬경화증,결절가려움발진,의사의 문서에 결절가려움발진이 언급되었습니다.,오답,-,True,결절가려움발진,[],stop,The doctor's document mentioned insular sclerosis.
+random,altered uterine contractions,자궁수축 변화,망치머리형리보자임,의사의 문서에는 망치머리형리보자임이 언급되었습니다.,오답,-,True,망치머리형리보자임,[],stop,The doctor's document mentioned altered uterine contractions.
+random,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",무기력,이 환자에게 무기력이 시행되었습니다.,오답,-,True,무기력,[],stop,kub left lateral was performed on this patient.
+random,allergenic serum,알레르기혈청,감입발톱,의사의 문서에 감입발톱이 언급되었습니다.,오답,-,True,감입발톱,[],stop,The doctor's document mentioned allergenic serum.
+random,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,멕켈 게실절제술,이 보고서는 이 환자에서 멕켈 게실절제술을 문서화했습니다.,오답,-,True,멕켈 게실절제술,[],stop,The report documented endoscopic revision dacryocystorhinostomy in this patient.
+random,proctoscope,직장경,판막이동수술,의사의 문서에 판막이동수술이 언급되었습니다.,오답,-,True,판막이동수술,[],stop,The doctor's document mentioned proctoscope.
+random,blood donation,헌혈,회전양극관,의사의 문서는 회전양극관을 언급했습니다.,오답,-,True,회전양극관,[],stop,The doctor's document mentioned blood donation.
+random,multicystic renal dysplasia,다낭성 신장의 형성이상,파울러자유아메바,보고서는 이 환자에서 파울러자유아메바를 문서화했습니다.,오답,-,True,파울러자유아메바,[],stop,The report documented multicystic renal dysplasia in this patient.
+random,neuropsychiatry,신경정신과학,의치지지조직,의사의 문서에서 의치지지조직을 언급했습니다.,오답,-,True,의치지지조직,[],stop,The doctor's document mentioned neuropsychiatry.
+random,superexcitation,과도흥분,통풍관절염,의사의 문서에 통풍관절염이 언급되었습니다.,오답,-,True,통풍관절염,[],stop,The doctor's document mentioned superexcitation.
+random,oncotaxonomy,종양분류법,자궁경부의 유두종,의사의 문서에 자궁경부의 유두종이 언급되었습니다.,오답,-,True,자궁경부의 유두종,[],stop,The doctor's document mentioned oncotaxonomy.
+random,foraminal,그물막구멍,섬경화증,의사의 문서에서 섬경화증을 언급했습니다.,오답,-,True,섬경화증,[],stop,The doctor's document mentioned foraminal.
+random,retaining harness,장치유지,정밀면역검사-C형간염항체,의사의 문서에 정밀면역검사-C형간염항체가 언급되었습니다.,오답,-,True,정밀면역검사-C형간염항체,['bad_chars'],stop,The doctor's document mentioned retaining harness.
+random,sao paulo fever,상파울로열,직장경,보고서는 이 환자에서 직장경을 문서화했습니다.,오답,-,True,직장경,[],stop,The report documented sao paulo fever in this patient.
+random,orofaciodigital syndrome,구안지 증후군,자궁수축 변화,보고서는 이 환자에게서 자궁수축 변화를 기록했습니다.,오답,-,True,자궁수축 변화,[],stop,The report documented orofaciodigital syndrome in this patient.
+random,bidiscoidal placenta,두원반태반,당뇨 혼수,의사의 문서에 당뇨 혼수가 언급되었습니다.,오답,-,True,당뇨 혼수,[],stop,The doctor's document mentioned bidiscoidal placenta.
+random,supporting spiritual rituals,영적의식 지지하기,경추성 현기증,의사의 문서에서는 경추성 현기증을 언급했습니다.,오답,-,True,경추성 현기증,[],stop,The doctor's document mentioned supporting spiritual rituals.
+random,entire trapezius muscle,온등세모근,후두기관협착(증),의사의 문서에서 후두기관협착(증)을 언급했습니다.,오답,-,True,후두기관협착(증),['bad_chars'],stop,The doctor's document mentioned entire trapezius muscle.
+random,reciprocal shaker,왕복진탕기,귀속-,의사의 문서에 귀속-가 언급되었다.,오답,-,True,귀속-,[],stop,The doctor's document mentioned reciprocal shaker.
+random,cervical vertigo,경추성 현기증,단백질소실장병(증),이 보고서는 이 환자에서 단백질소실장병(증)을 기록하였다.,오답,-,True,단백질소실장병(증),['bad_chars'],stop,The report documented cervical vertigo in this patient.
+random,hapgok,합곡(合谷),인두편도 생검,의사의 문서에 인두편도 생검이 언급되었다.,오답,-,True,인두편도 생검,[],stop,The doctor's document mentioned hapgok.

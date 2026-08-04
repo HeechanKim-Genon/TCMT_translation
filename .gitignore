@@ -5,14 +5,17 @@
 data/*.csv
 data/*.xlsx
 
-# 실행 산출물
-results/
-dataset/
-results_*/
-dataset_*/
-logs/
-logs_overnight.txt
-*.log
+# 실행 산출물 — 저장소 루트에 새로 생기는 것만 무시한다.
+# 보존할 실행 기록은 runs/ 로 옮겨서 커밋한다 (아래 패턴이 runs/ 안까지
+# 잡지 않도록 전부 / 로 앵커링해 둔 것이다. 앵커가 없으면 runs/logs/ 처럼
+# 하위 경로에서도 매칭돼 실행 기록이 조용히 빠진다).
+/results/
+/dataset/
+/results_*/
+/dataset_*/
+/logs/
+/logs_overnight.txt
+/*.log
 
 # 파이썬
 __pycache__/

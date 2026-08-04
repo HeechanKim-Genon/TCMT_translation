@@ -1,0 +1,12 @@
+{
+  "dict_path": "/Users/heechan/Desktop/ai_claim/02_translation_test/../01_claim_entry/보건의료용어표준_V7.0_최종번역사전.csv",
+  "config": {
+    "terms": 100,
+    "paras": 100,
+    "per_para": 3,
+    "words": 170,
+    "seed": 42,
+    "attempts": 6,
+    "dict": null
+  }
+}

@@ -1,0 +1,501 @@
+﻿arm,en,pred,rep,grade,level,kcd,words,issues,finish
+1c,sirenomelia syndrome,인어증후군,인어다리 증후군,오답,-,Q87.2,2,[],stop
+1c,rash purpuric,자반성 발진,자색반 발진,오답,-,,2,[],stop
+1c,agenesis of lung,폐 무발생증,폐의 무발생,오답,-,Q33.3,3,[],stop
+1c,papilloma of cerviv,자궁경부 유두종,자궁경부의 유두종,오답,-,D26.0,3,[],stop
+1c,hyeopbaek,협백,협백(俠白),오답,-,,1,[],stop
+1c,water bath,수조,욕조,정답(동의어),exact,,2,[],stop
+1c,heredoinfection,선천성 감염,유전감염,오답,-,,1,[],stop
+1c,naegleria fowleri,파울러네글레리아,파울러자유아메바,오답,-,,2,[],stop
+1c,case-mix,환자군 구성,질병구성,오답,-,,1,[],stop
+1c,third ventricle structure,제3뇌실 구조물,제3뇌구조,오답,-,,3,[],stop
+1c,scleral necrosis/melt,공막괴사/용해,공막 괴사/ 융해,오답,-,,2,[],stop
+1c,meckel's diverticulectomy,메켈 게실절제술,멕켈 게실절제술,오답,-,,2,[],stop
+1c,myotonic disorders,근긴장성 질환,근긴장장애,오답,-,G71.1,2,[],stop
+1c,breast stereotactic biopsy,유방 정위 생검,유방 입체정위 생검술,오답,-,,3,[],stop
+1c,glaucomatous cataract,녹내장성 백내장,녹내장성백내장,정답(대표),nospace,,2,[],stop
+1c,orthognathic surgery,악교정술,악교정수술,오답,-,,2,[],stop
+1c,transfusion tests,수혈검사,수혈혈액검사,오답,-,,2,[],stop
+1c,surgical staging,수술적 병기 결정,외과적시기결정,오답,-,,2,[],stop
+1c,nodular prurigo,결절성 양진증,결절가려움발진,오답,-,,2,[],stop
+1c,genuine diabetes,진성 당뇨병,진성당뇨병,정답(대표),nospace,,2,[],stop
+1c,dry weight,건조체중,투석목표체중,오답,-,,2,[],stop
+1c,biopsy of adenoid,아데노이드 생검,인두편도 생검,정답(동의어),exact,,3,[],stop
+1c,glutitis,둔근염,볼기염,오답,-,,1,[],stop
+1c,colpomyomectomy,질근종절제술,질식근종절제(술),오답,-,,1,[],stop
+1c,capillaria hepatica,간모세선충,간모세선충,정답(대표),exact,,2,[],stop
+1c,cardioplegic,심정지성,심장마비-,오답,-,,1,[],stop
+1c,upper extremity,상지,위팔,정답(동의어),exact,,2,[],stop
+1c,cryptococcal meningocerebritis,크립토코커스 뇌막뇌염,크립토콕쿠스수막대뇌염,오답,-,B45.1,2,[],stop
+1c,blood fluke,주혈흡충,주혈흡충,정답(대표),exact,,2,[],stop
+1c,cheilosis,구각염,구순증,오답,-,K13.0,1,[],stop
+1c,sideroblastic anaemia,철아구성빈혈,철적혈모구빈혈,오답,-,D64.0-D64.3,2,[],stop
+1c,auriculotemporal nerve,귀관자신경,귓바퀴관자신경,오답,-,,2,[],stop
+1c,epidermolysis bullosa dystrophica,영양성 수포성 표피박리증,디스트로피성 수포성 표피박리증,오답,-,Q81.2,3,[],stop
+1c,negative pressure,음압,음압,정답(대표),exact,,2,[],stop
+1c,deshielded proton,비차폐 양성자,미차폐양성자,오답,-,,2,[],stop
+1c,hippocampal sclerosis,해마 경화,해마경화(증),오답,-,G37.9,2,[],stop
+1c,laryngotracheal stenosis,후두기관협착증,후두기관협착(증),오답,-,J39.8,2,[],stop
+1c,hemodynamometry,혈압측정법,혈압측정(법),오답,-,,1,[],stop
+1c,protein-losing enteropathy,단백소실성 장병증,단백질소실장병(증),오답,-,,2,[],stop
+1c,anisometropic amblyopia,부동시 약시,굴절부등약시,오답,-,H53.01,2,[],stop
+1c,endaural,이내(耳內),귀속-,오답,-,,1,['bad_chars'],stop
+1c,dental granuloma,치근단 육아종,뿌리끝육아종,오답,-,,2,[],stop
+1c,dislocation of midcarpal(joint),중수근관절 탈구,중간수근골(관절)의 탈구,오답,-,S63.02,3,[],stop
+1c,coalescent mastoiditis,유착성 유양돌기염,융합꼭지돌기염,오답,-,H70.8,2,[],stop
+1c,neurocanal,신경관,신경관,정답(대표),exact,,1,[],stop
+1c,endocrinologist,내분비전문의,내분비전문의,정답(대표),exact,,1,[],stop
+1c,gastroenteritis paratyphosa,파라장티프스,파라티푸스위창자염,오답,-,,2,[],stop
+1c,meningoencephalocele,뇌막뇌탈출증,수막뇌류,오답,-,Q01,1,[],stop
+1c,epiplocele,망막탈장,대망탈장,오답,-,K46,1,[],stop
+1c,rotalix tube,로탈릭 튜브,회전양극관,오답,-,,2,[],stop
+1c,plantar flexion,저측 굴곡,발바닥쪽 굽힘,오답,-,,2,[],stop
+1c,epididymal duct,부고환관,부고환관,정답(대표),exact,,2,[],stop
+1c,interferential action,간섭 작용,간섭작용,정답(대표),nospace,,2,[],stop
+1c,keratopathy,각막병증,각막병(증),오답,-,,1,[],stop
+1c,topalgia,국소통,국소통증,오답,-,,1,[],stop
+1c,suprameatal foveola,상이와와오목,바깥귀길위오목,오답,-,,2,[],stop
+1c,paraduodenal fold,십이지장장곡fold,샘창자옆주름,오답,-,,2,['bad_chars'],stop
+1c,airborne infection,공기감염,공기매개감염,오답,-,,2,[],stop
+1c,inertia,관성,무기력,오답,-,,1,[],stop
+1c,absence of muscle,근육결손,근육의 결여,오답,-,Q79.8,3,[],stop
+1c,implosion,내파,홍수(노출)요법,정답(동의어),exact,,1,[],stop
+1c,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,정답(대표),exact,D56.1,2,[],stop
+1c,normetanephrine,노르메타네프린,노르메타네프린,정답(대표),exact,,1,[],stop
+1c,derangement of patella,슬개골 장애,무릎뼈의 장애,오답,-,M22.0-M22.3,3,[],stop
+1c,bilateral palatine tonsils,양측 구개편도,양측 목구멍 편도,오답,-,,3,[],stop
+1c,basal seat,기저부,의치지지조직,오답,-,,2,[],stop
+1c,diabetic coma,당혼수,당뇨 혼수,오답,-,,2,[],stop
+1c,school childhood,학교 연령기,학령기,오답,-,,2,[],stop
+1c,mysophilia,오염애호증,불결기호증,오답,-,,1,[],stop
+1c,high quality-hcv ab,고품질-CVR 항체,정밀면역검사-C형간염항체,오답,-,,3,['bad_chars'],stop
+1c,onychocryptosis,감입족갑,감입발톱,오답,-,,1,[],stop
+1c,positioned flap,위치된 판막,판막이동수술,오답,-,,2,[],stop
+1c,clean bench,클린벤치,무균실험대,오답,-,,2,[],stop
+1c,psgn,급사구체신염,연쇄구균감염후 사구체신염,오답,-,N05.9,1,[],stop
+1c,hammerhead ribozyme,해머헤드 리보자임,망치머리형리보자임,오답,-,,2,[],stop
+1c,bacteriostasis,정균작용,정균작용,정답(대표),exact,,1,[],stop
+1c,involuntary,불수의성,불수의-,오답,-,,1,[],stop
+1c,exteroceptive stimulus,외자극,외수용자극,오답,-,,2,[],stop
+1c,urarthritis,통풍,통풍관절염,오답,-,M10.09,1,[],stop
+1c,insular sclerosis,섬회백질경화증,섬경화증,오답,-,,2,[],stop
+1c,altered uterine contractions,자궁수축 변조,자궁수축 변화,오답,-,,3,[],stop
+1c,kub left lateral,좌와와위,"콩팥요관방광촬영, 왼쪽측방향",오답,-,,3,[],stop
+1c,allergenic serum,알레르겐 혈청,알레르기혈청,오답,-,,2,[],stop
+1c,endoscopic revision dacryocystorhinostomy,내시경적 교정 누낭비강문합술,내시경 이용 눈물주머니코안 연결 교정,오답,-,,3,[],stop
+1c,proctoscope,항문경,직장경,오답,-,,1,[],stop
+1c,blood donation,헌혈,헌혈,정답(대표),exact,,2,[],stop
+1c,multicystic renal dysplasia,다낭성 신 이형성증,다낭성 신장의 형성이상,오답,-,Q61.4,3,[],stop
+1c,neuropsychiatry,신경정신과,신경정신과학,오답,-,,1,[],stop
+1c,superexcitation,과흥분,과도흥분,오답,-,,1,[],stop
+1c,oncotaxonomy,종양분류학,종양분류법,오답,-,,1,[],stop
+1c,foraminal,축공간,그물막구멍,오답,-,,1,[],stop
+1c,retaining harness,고정대,장치유지,오답,-,,2,[],stop
+1c,sao paulo fever,상파울루열,상파울로열,오답,-,A77.0,3,[],stop
+1c,orofaciodigital syndrome,구안면지증후군,구안지 증후군,오답,-,Q87.0,2,[],stop
+1c,bidiscoidal placenta,이엽반태반,두원반태반,오답,-,,2,[],stop
+1c,supporting spiritual rituals,정신적 의례 지원,영적의식 지지하기,오답,-,,3,[],stop
+1c,entire trapezius muscle,승모근 전체,온등세모근,오답,-,,3,[],stop
+1c,reciprocal shaker,상호 흔들기,왕복진탕기,오답,-,,2,[],stop
+1c,cervical vertigo,경추성 어지럼증,경추성 현기증,오답,-,M54.22,2,[],stop
+1c,hapgok,합곡,합곡(合谷),오답,-,,1,[],stop
+1a,absence of muscle,근육부재,근육의 결여,오답,-,Q79.8,3,[],stop
+1a,agenesis of lung,폐무형성증,폐의 무발생,오답,-,Q33.3,3,[],stop
+1a,airborne infection,공기감염,공기매개감염,오답,-,,2,[],stop
+1a,allergenic serum,알레르겐혈청,알레르기혈청,오답,-,,2,[],stop
+1a,altered uterine contractions,변형자궁수축,자궁수축 변화,오답,-,,3,[],stop
+1a,anisometropic amblyopia,부동시약시,굴절부등약시,오답,-,H53.01,2,[],stop
+1a,auriculotemporal nerve,이두신경,귓바퀴관자신경,오답,-,,2,[],stop
+1a,bacteriostasis,정균작용,정균작용,정답(대표),exact,,1,[],stop
+1a,basal seat,기저부,의치지지조직,오답,-,,2,[],stop
+1a,bidiscoidal placenta,이원반태반,두원반태반,오답,-,,2,[],stop
+1a,bilateral palatine tonsils,양측구개편도,양측 목구멍 편도,오답,-,,3,[],stop
+1a,biopsy of adenoid,아데노이드생검,인두편도 생검,정답(동의어),nospace,,3,[],stop
+1a,blood donation,헌혈,헌혈,정답(대표),exact,,2,[],stop
+1a,blood fluke,주혈흡충,주혈흡충,정답(대표),exact,,2,[],stop
+1a,breast stereotactic biopsy,유방정위생검,유방 입체정위 생검술,오답,-,,3,[],stop
+1a,capillaria hepatica,간모세선충,간모세선충,정답(대표),exact,,2,[],stop
+1a,cardioplegic,심장정지성,심장마비-,오답,-,,1,[],stop
+1a,case-mix,환자군,질병구성,오답,-,,1,[],stop
+1a,cervical vertigo,경추어지럼증,경추성 현기증,오답,-,M54.22,2,[],stop
+1a,cheilosis,구순염,구순증,오답,-,K13.0,1,[],stop
+1a,clean bench,청정벤치,무균실험대,오답,-,,2,[],stop
+1a,coalescent mastoiditis,융합성유양돌기염,융합꼭지돌기염,오답,-,H70.8,2,[],stop
+1a,colpomyomectomy,질식자궁근종절제술,질식근종절제(술),오답,-,,1,[],stop
+1a,cryptococcal meningocerebritis,크립토코커스뇌막뇌염,크립토콕쿠스수막대뇌염,오답,-,B45.1,2,[],stop
+1a,dental granuloma,치아육아종,뿌리끝육아종,오답,-,,2,[],stop
+1a,derangement of patella,슬개골장애,무릎뼈의 장애,오답,-,M22.0-M22.3,3,[],stop
+1a,deshielded proton,탈차폐양성자,미차폐양성자,오답,-,,2,[],stop
+1a,diabetic coma,당뇨병성혼수,당뇨 혼수,오답,-,,2,[],stop
+1a,dislocation of midcarpal(joint),중수근(관절)탈구,중간수근골(관절)의 탈구,오답,-,S63.02,3,['bad_chars'],stop
+1a,dry weight,건조무게,투석목표체중,오답,-,,2,[],stop
+1a,endaural,이내,귀속-,오답,-,,1,[],stop
+1a,endocrinologist,내분비학자,내분비전문의,정답(동의어),exact,,1,[],stop
+1a,endoscopic revision dacryocystorhinostomy,내시경재수정누낭비강문합술,내시경 이용 눈물주머니코안 연결 교정,오답,-,,3,[],stop
+1a,entire trapezius muscle,전승모근,온등세모근,오답,-,,3,[],stop
+1a,epidermolysis bullosa dystrophica,이영양성수포성표피박리증,디스트로피성 수포성 표피박리증,오답,-,Q81.2,3,[],stop
+1a,epididymal duct,부고환관,부고환관,정답(대표),exact,,2,[],stop
+1a,epiplocele,망장탈장,대망탈장,오답,-,K46,1,[],stop
+1a,exteroceptive stimulus,외수용성자극,외수용자극,오답,-,,2,[],stop
+1a,foraminal,공의,그물막구멍,오답,-,,1,[],stop
+1a,gastroenteritis paratyphosa,파라티푸스성위장염,파라티푸스위창자염,오답,-,,2,[],stop
+1a,genuine diabetes,진성당뇨병,진성당뇨병,정답(대표),exact,,2,[],stop
+1a,glaucomatous cataract,녹내장성백내장,녹내장성백내장,정답(대표),exact,,2,[],stop
+1a,glutitis,둔근염,볼기염,오답,-,,1,[],stop
+1a,hammerhead ribozyme,해머헤드리보자임,망치머리형리보자임,오답,-,,2,[],stop
+1a,hapgok,합곡,합곡(合谷),오답,-,,1,[],stop
+1a,hemodynamometry,혈류역학측정법,혈압측정(법),오답,-,,1,[],stop
+1a,heredoinfection,유전감염,유전감염,정답(대표),exact,,1,[],stop
+1a,high quality-hcv ab,고품질-c형간염항체,정밀면역검사-C형간염항체,오답,-,,3,['bad_chars'],stop
+1a,hippocampal sclerosis,해마경화증,해마경화(증),오답,-,G37.9,2,[],stop
+1a,hyeopbaek,협백,협백(俠白),오답,-,,1,[],stop
+1a,implosion,내파,홍수(노출)요법,정답(동의어),exact,,1,[],stop
+1a,inertia,관성,무기력,오답,-,,1,[],stop
+1a,insular sclerosis,섬성 경화증,섬경화증,오답,-,,2,[],stop
+1a,interferential action,간섭 작용,간섭작용,정답(대표),nospace,,2,[],stop
+1a,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,정답(대표),exact,D56.1,2,[],stop
+1a,involuntary,불수의성,불수의-,오답,-,,1,[],stop
+1a,keratopathy,각막병증,각막병(증),오답,-,,1,[],stop
+1a,kub left lateral,좌측와위,"콩팥요관방광촬영, 왼쪽측방향",오답,-,,3,[],stop
+1a,laryngotracheal stenosis,후두기관 협착증,후두기관협착(증),오답,-,J39.8,2,[],stop
+1a,meckel's diverticulectomy,메켈 게실 절제술,멕켈 게실절제술,오답,-,,2,[],stop
+1a,meningoencephalocele,수막뇌류,수막뇌류,정답(대표),exact,Q01,1,[],stop
+1a,multicystic renal dysplasia,다낭성 신 이형성증,다낭성 신장의 형성이상,오답,-,Q61.4,3,[],stop
+1a,myotonic disorders,근긴장성 질환,근긴장장애,오답,-,G71.1,2,[],stop
+1a,mysophilia,분변애증,불결기호증,오답,-,,1,[],stop
+1a,naegleria fowleri,네그레리아 파울레리,파울러자유아메바,오답,-,,2,[],stop
+1a,negative pressure,음압,음압,정답(대표),exact,,2,[],stop
+1a,neurocanal,신경관,신경관,정답(대표),exact,,1,[],stop
+1a,neuropsychiatry,신경정신의학,신경정신과학,정답(동의어),exact,,1,[],stop
+1a,nodular prurigo,결절성 가려움증,결절가려움발진,오답,-,,2,[],stop
+1a,normetanephrine,노르메타네프린,노르메타네프린,정답(대표),exact,,1,[],stop
+1a,oncotaxonomy,종양분류학,종양분류법,오답,-,,1,[],stop
+1a,onychocryptosis,내향성 발톱,감입발톱,오답,-,,1,[],stop
+1a,orofaciodigital syndrome,구안지증후군,구안지 증후군,정답(대표),nospace,Q87.0,2,[],stop
+1a,orthognathic surgery,악교정술,악교정수술,오답,-,,2,[],stop
+1a,papilloma of cerviv,자궁경부 유두종,자궁경부의 유두종,오답,-,D26.0,3,[],stop
+1a,paraduodenal fold,십이지장옆 주름,샘창자옆주름,오답,-,,2,[],stop
+1a,plantar flexion,저측 굴곡,발바닥쪽 굽힘,오답,-,,2,[],stop
+1a,positioned flap,위치 피판,판막이동수술,오답,-,,2,[],stop
+1a,proctoscope,직장경,직장경,정답(대표),exact,,1,[],stop
+1a,protein-losing enteropathy,단백질 소실 장증,단백질소실장병(증),오답,-,,2,[],stop
+1a,psgn,급성 사구체신염,연쇄구균감염후 사구체신염,오답,-,N05.9,1,[],stop
+1a,rash purpuric,자반성 발진,자색반 발진,오답,-,,2,[],stop
+1a,reciprocal shaker,상호 진탕기,왕복진탕기,오답,-,,2,[],stop
+1a,retaining harness,유지 하네스,장치유지,오답,-,,2,[],stop
+1a,rotalix tube,로탈릭스 관,회전양극관,오답,-,,2,[],stop
+1a,sao paulo fever,상파울루 열,상파울로열,오답,-,A77.0,3,[],stop
+1a,school childhood,학령기,학령기,정답(대표),exact,,2,[],stop
+1a,scleral necrosis/melt,공막 괴사/융해,공막 괴사/ 융해,정답(대표),nospace,,2,[],stop
+1a,sideroblastic anaemia,철아구성 빈혈,철적혈모구빈혈,오답,-,D64.0-D64.3,2,[],stop
+1a,sirenomelia syndrome,인어증후군,인어다리 증후군,오답,-,Q87.2,2,[],stop
+1a,superexcitation,과흥분,과도흥분,오답,-,,1,[],stop
+1a,supporting spiritual rituals,영적 의식 지원,영적의식 지지하기,오답,-,,3,[],stop
+1a,suprameatal foveola,상외이도 와,바깥귀길위오목,오답,-,,2,[],stop
+1a,surgical staging,수술적 병기,외과적시기결정,오답,-,,2,[],stop
+1a,third ventricle structure,제3뇌실 구조물,제3뇌구조,오답,-,,3,[],stop
+1a,topalgia,국소통,국소통증,오답,-,,1,[],stop
+1a,transfusion tests,수혈 검사,수혈혈액검사,오답,-,,2,[],stop
+1a,upper extremity,상지,위팔,정답(동의어),exact,,2,[],stop
+1a,urarthritis,통풍성 관절염,통풍관절염,오답,-,M10.09,1,[],stop
+1a,water bath,수욕,욕조,오답,-,,2,[],stop
+1b,case-mix,케이스믹스,질병구성,오답,-,,1,[],stop
+1b,neurocanal,신경관,신경관,정답(대표),exact,,1,[],stop
+1b,interferential action,간섭작용,간섭작용,정답(대표),exact,,2,[],stop
+1b,glaucomatous cataract,녹내장성 백내장,녹내장성백내장,정답(대표),nospace,,2,[],stop
+1b,dental granuloma,치아육아종,뿌리끝육아종,오답,-,,2,[],stop
+1b,onychocryptosis,감입발톱,감입발톱,정답(대표),exact,,1,[],stop
+1b,basal seat,기저부,의치지지조직,오답,-,,2,[],stop
+1b,heredoinfection,유전감염,유전감염,정답(대표),exact,,1,[],stop
+1b,neuropsychiatry,신경정신과,신경정신과학,오답,-,,1,[],stop
+1b,water bath,수욕,욕조,오답,-,,2,[],stop
+1b,hippocampal sclerosis,해마경화증,해마경화(증),오답,-,G37.9,2,[],stop
+1b,genuine diabetes,진성당뇨병,진성당뇨병,정답(대표),exact,,2,[],stop
+1b,inertia,관성,무기력,오답,-,,1,[],stop
+1b,foraminal,공의,그물막구멍,오답,-,,1,[],stop
+1b,altered uterine contractions,변형자궁수축,자궁수축 변화,오답,-,,3,[],stop
+1b,high quality-hcv ab,고품질-c형간염바이러스항체,정밀면역검사-C형간염항체,오답,-,,3,['bad_chars'],stop
+1b,bilateral palatine tonsils,양측 구개편도,양측 목구멍 편도,오답,-,,3,[],stop
+1b,blood fluke,혈흡충,주혈흡충,오답,-,,2,[],stop
+1b,exteroceptive stimulus,외수용성자극,외수용자극,오답,-,,2,[],stop
+1b,laryngotracheal stenosis,후두기관협착증,후두기관협착(증),오답,-,J39.8,2,[],stop
+1b,psgn,급성사구체신염,연쇄구균감염후 사구체신염,오답,-,N05.9,1,[],stop
+1b,meningoencephalocele,수막뇌탈장증,수막뇌류,오답,-,Q01,1,[],stop
+1b,epididymal duct,부고환관,부고환관,정답(대표),exact,,2,[],stop
+1b,papilloma of cerviv,자궁경부유두종,자궁경부의 유두종,오답,-,D26.0,3,[],stop
+1b,auriculotemporal nerve,이측두신경,귓바퀴관자신경,오답,-,,2,[],stop
+1b,surgical staging,수술적병기,외과적시기결정,오답,-,,2,[],stop
+1b,myotonic disorders,근긴장성질환,근긴장장애,오답,-,G71.1,2,[],stop
+1b,topalgia,국소통,국소통증,오답,-,,1,[],stop
+1b,epiplocele,망막탈장,대망탈장,오답,-,K46,1,[],stop
+1b,supporting spiritual rituals,영적의식지원,영적의식 지지하기,오답,-,,3,[],stop
+1b,endocrinologist,내분비내과전문의,내분비전문의,오답,-,,1,[],stop
+1b,deshielded proton,탈차폐양성자,미차폐양성자,오답,-,,2,[],stop
+1b,kub left lateral,복부단순촬영좌측면,"콩팥요관방광촬영, 왼쪽측방향",오답,-,,3,[],stop
+1b,sao paulo fever,상파울루열,상파울로열,오답,-,A77.0,3,[],stop
+1b,reciprocal shaker,상호진탕기,왕복진탕기,오답,-,,2,[],stop
+1b,upper extremity,상지,위팔,정답(동의어),exact,,2,[],stop
+1b,hapgok,합곡,합곡(合谷),오답,-,,1,[],stop
+1b,blood donation,헌혈,헌혈,정답(대표),exact,,2,[],stop
+1b,transfusion tests,수혈검사,수혈혈액검사,오답,-,,2,[],stop
+1b,mysophilia,오염애호증,불결기호증,오답,-,,1,[],stop
+1b,protein-losing enteropathy,단백상실성장증,단백질소실장병(증),오답,-,,2,[],stop
+1b,implosion,내파,홍수(노출)요법,정답(동의어),exact,,1,[],stop
+1b,dry weight,건식체중,투석목표체중,오답,-,,2,[],stop
+1b,derangement of patella,슬개골배열이상,무릎뼈의 장애,오답,-,M22.0-M22.3,3,[],stop
+1b,bacteriostasis,정균작용,정균작용,정답(대표),exact,,1,[],stop
+1b,entire trapezius muscle,전체승모근,온등세모근,오답,-,,3,[],stop
+1b,airborne infection,공기감염,공기매개감염,오답,-,,2,[],stop
+1b,intermedia thalassaemia,중간형지중해빈혈,중간형 지중해빈혈,정답(대표),nospace,D56.1,2,[],stop
+1b,hemodynamometry,혈역학측정법,혈압측정(법),오답,-,,1,[],stop
+1b,cryptococcal meningocerebritis,크립토코커스수막뇌염,크립토콕쿠스수막대뇌염,오답,-,B45.1,2,[],stop
+1b,anisometropic amblyopia,부동시 약시,굴절부등약시,오답,-,H53.01,2,[],stop
+1b,suprameatal foveola,상이와와,바깥귀길위오목,오답,-,,2,[],stop
+1b,cervical vertigo,경추성 어지럼증,경추성 현기증,오답,-,M54.22,2,[],stop
+1b,urarthritis,통풍성 관절염,통풍관절염,오답,-,M10.09,1,[],stop
+1b,positioned flap,위치 피판,판막이동수술,오답,-,,2,[],stop
+1b,capillaria hepatica,간모세선충,간모세선충,정답(대표),exact,,2,[],stop
+1b,hammerhead ribozyme,해머헤드 리보자임,망치머리형리보자임,오답,-,,2,[],stop
+1b,oncotaxonomy,종양분류학,종양분류법,오답,-,,1,[],stop
+1b,rash purpuric,자반성 발진,자색반 발진,오답,-,,2,[],stop
+1b,retaining harness,유지 하네스,장치유지,오답,-,,2,[],stop
+1b,third ventricle structure,제3뇌실 구조물,제3뇌구조,오답,-,,3,[],stop
+1b,sirenomelia syndrome,인어증후군,인어다리 증후군,오답,-,Q87.2,2,[],stop
+1b,insular sclerosis,섬염,섬경화증,오답,-,,2,[],stop
+1b,multicystic renal dysplasia,다낭성 신 이형성,다낭성 신장의 형성이상,오답,-,Q61.4,3,[],stop
+1b,superexcitation,초흥분,과도흥분,오답,-,,1,[],stop
+1b,hyeopbaek,협백,협백(俠白),오답,-,,1,[],stop
+1b,involuntary,불수의성,불수의-,오답,-,,1,[],stop
+1b,colpomyomectomy,질식 자궁근종절제술,질식근종절제(술),오답,-,,1,[],stop
+1b,negative pressure,음압,음압,정답(대표),exact,,2,[],stop
+1b,breast stereotactic biopsy,유방 정위 생검,유방 입체정위 생검술,오답,-,,3,[],stop
+1b,plantar flexion,저측 굴곡,발바닥쪽 굽힘,오답,-,,2,[],stop
+1b,scleral necrosis/melt,공막 괴사/용해,공막 괴사/ 융해,오답,-,,2,[],stop
+1b,endoscopic revision dacryocystorhinostomy,내시경적 누낭비강문 재성형술,내시경 이용 눈물주머니코안 연결 교정,오답,-,,3,[],stop
+1b,agenesis of lung,폐 무발생,폐의 무발생,오답,-,Q33.3,3,[],stop
+1b,orthognathic surgery,악교정술,악교정수술,오답,-,,2,[],stop
+1b,diabetic coma,당뇨병성 혼수,당뇨 혼수,오답,-,,2,[],stop
+1b,sideroblastic anaemia,철아구성 빈혈,철적혈모구빈혈,오답,-,D64.0-D64.3,2,[],stop
+1b,rotalix tube,로탈릭스 튜브,회전양극관,오답,-,,2,[],stop
+1b,cardioplegic,심근마비성,심장마비-,오답,-,,1,[],stop
+1b,normetanephrine,노르메타네프린,노르메타네프린,정답(대표),exact,,1,[],stop
+1b,paraduodenal fold,십이지장옆 주름,샘창자옆주름,오답,-,,2,[],stop
+1b,clean bench,청정 벤치,무균실험대,오답,-,,2,[],stop
+1b,allergenic serum,알레르겐 혈청,알레르기혈청,오답,-,,2,[],stop
+1b,proctoscope,직장경,직장경,정답(대표),exact,,1,[],stop
+1b,orofaciodigital syndrome,구안면지증후군,구안지 증후군,오답,-,Q87.0,2,[],stop
+1b,meckel's diverticulectomy,메켈 게실절제술,멕켈 게실절제술,오답,-,,2,[],stop
+1b,gastroenteritis paratyphosa,파라장티푸스성 위장염,파라티푸스위창자염,오답,-,,2,[],stop
+1b,naegleria fowleri,파울러 네글레리아,파울러자유아메바,오답,-,,2,[],stop
+1b,school childhood,학령기,학령기,정답(대표),exact,,2,[],stop
+1b,coalescent mastoiditis,융합성 유돌염,융합꼭지돌기염,오답,-,H70.8,2,[],stop
+1b,bidiscoidal placenta,이원반상 태반,두원반태반,오답,-,,2,[],stop
+1b,glutitis,둔근염,볼기염,오답,-,,1,[],stop
+1b,biopsy of adenoid,아데노이드 생검,인두편도 생검,정답(동의어),exact,,3,[],stop
+1b,dislocation of midcarpal(joint),중수근(관절) 탈구,중간수근골(관절)의 탈구,오답,-,S63.02,3,['bad_chars'],stop
+1b,nodular prurigo,결절성 가려움증,결절가려움발진,오답,-,,2,[],stop
+1b,cheilosis,구각염,구순증,오답,-,K13.0,1,[],stop
+1b,absence of muscle,근육 결손,근육의 결여,오답,-,Q79.8,3,[],stop
+1b,endaural,이내,귀속-,오답,-,,1,[],stop
+1b,keratopathy,각막증,각막병(증),오답,-,,1,[],stop
+1b,epidermolysis bullosa dystrophica,영양실조성 수포성 표피박리증,디스트로피성 수포성 표피박리증,오답,-,Q81.2,3,[],stop
+2A,sirenomelia syndrome,인어증후군,인어다리 증후군,오답,-,Q87.2,2,[],stop
+2A,rash purpuric,자반성 발진,자색반 발진,오답,-,,2,[],stop
+2A,agenesis of lung,폐 무발생증,폐의 무발생,오답,-,Q33.3,3,[],stop
+2A,papilloma of cerviv,자궁경부 유두종,자궁경부의 유두종,오답,-,D26.0,3,[],stop
+2A,hyeopbaek,협백,협백(俠白),오답,-,,1,[],stop
+2A,water bath,수욕,욕조,오답,-,,2,[],stop
+2A,heredoinfection,선천성 감염,유전감염,오답,-,,1,[],stop
+2A,naegleria fowleri,네글레리아 파울레리,파울러자유아메바,오답,-,,2,[],stop
+2A,case-mix,환자군,질병구성,오답,-,,1,[],stop
+2A,third ventricle structure,제3뇌실,제3뇌구조,오답,-,,3,[],stop
+2A,scleral necrosis/melt,공막괴사/융해,공막 괴사/ 융해,정답(대표),nospace,,2,[],stop
+2A,meckel's diverticulectomy,메켈 게실절제술,멕켈 게실절제술,오답,-,,2,[],stop
+2A,myotonic disorders,근긴장이상증,근긴장장애,오답,-,G71.1,2,[],stop
+2A,breast stereotactic biopsy,유방 정위생검,유방 입체정위 생검술,오답,-,,3,[],stop
+2A,glaucomatous cataract,녹내장성 백내장,녹내장성백내장,정답(대표),nospace,,2,[],stop
+2A,orthognathic surgery,악교정술,악교정수술,오답,-,,2,[],stop
+2A,transfusion tests,수혈검사,수혈혈액검사,오답,-,,2,[],stop
+2A,surgical staging,수술적 병기결정,외과적시기결정,오답,-,,2,[],stop
+2A,nodular prurigo,결절성 가려움증,결절가려움발진,오답,-,,2,[],stop
+2A,genuine diabetes,진성 당뇨병,진성당뇨병,정답(대표),nospace,,2,[],stop
+2A,dry weight,건식체중,투석목표체중,오답,-,,2,[],stop
+2A,biopsy of adenoid,아데노이드생검,인두편도 생검,정답(동의어),nospace,,3,[],stop
+2A,glutitis,설염,볼기염,오답,-,,1,[],stop
+2A,colpomyomectomy,질벽근종절제술,질식근종절제(술),오답,-,,1,[],stop
+2A,capillaria hepatica,간모세선충,간모세선충,정답(대표),exact,,2,[],stop
+2A,cardioplegic,심정지성,심장마비-,오답,-,,1,[],stop
+2A,upper extremity,상지,위팔,정답(동의어),exact,,2,[],stop
+2A,cryptococcal meningocerebritis,크립토코커스 뇌막뇌염,크립토콕쿠스수막대뇌염,오답,-,B45.1,2,[],stop
+2A,blood fluke,주혈흡충,주혈흡충,정답(대표),exact,,2,[],stop
+2A,cheilosis,구각염,구순증,오답,-,K13.0,1,[],stop
+2A,sideroblastic anaemia,철아구성 빈혈,철적혈모구빈혈,오답,-,D64.0-D64.3,2,[],stop
+2A,auriculotemporal nerve,귓바퀴관자신경,귓바퀴관자신경,정답(대표),exact,,2,[],stop
+2A,epidermolysis bullosa dystrophica,영양성 수포성 표피박리증,디스트로피성 수포성 표피박리증,오답,-,Q81.2,3,[],stop
+2A,negative pressure,음압,음압,정답(대표),exact,,2,[],stop
+2A,deshielded proton,차폐되지 않은 양성자,미차폐양성자,오답,-,,2,[],stop
+2A,hippocampal sclerosis,해마 경화증,해마경화(증),오답,-,G37.9,2,[],stop
+2A,laryngotracheal stenosis,후두기관협착증,후두기관협착(증),오답,-,J39.8,2,[],stop
+2A,hemodynamometry,혈압측정,혈압측정(법),오답,-,,1,[],stop
+2A,protein-losing enteropathy,단백질 소실 장증,단백질소실장병(증),오답,-,,2,[],stop
+2A,anisometropic amblyopia,부동시 약시,굴절부등약시,오답,-,H53.01,2,[],stop
+2A,endaural,이내(耳內),귀속-,오답,-,,1,['bad_chars'],stop
+2A,dental granuloma,치근단 육아종,뿌리끝육아종,오답,-,,2,[],stop
+2A,dislocation of midcarpal(joint),중수간관절 탈구,중간수근골(관절)의 탈구,오답,-,S63.02,3,[],stop
+2A,coalescent mastoiditis,융합성 유양돌기염,융합꼭지돌기염,오답,-,H70.8,2,[],stop
+2A,neurocanal,신경관,신경관,정답(대표),exact,,1,[],stop
+2A,endocrinologist,내분비내과 전문의,내분비전문의,오답,-,,1,[],stop
+2A,gastroenteritis paratyphosa,파라장티푸스,파라티푸스위창자염,오답,-,,2,[],stop
+2A,meningoencephalocele,뇌맥막류,수막뇌류,오답,-,Q01,1,[],stop
+2A,epiplocele,장막간막탈장,대망탈장,오답,-,K46,1,[],stop
+2A,rotalix tube,로탈릭 튜브,회전양극관,오답,-,,2,[],stop
+2A,plantar flexion,저측 굴곡,발바닥쪽 굽힘,오답,-,,2,[],stop
+2A,epididymal duct,부고환관,부고환관,정답(대표),exact,,2,[],stop
+2A,interferential action,간섭 작용,간섭작용,정답(대표),nospace,,2,[],stop
+2A,keratopathy,각막병증,각막병(증),오답,-,,1,[],stop
+2A,topalgia,국소통,국소통증,오답,-,,1,[],stop
+2A,suprameatal foveola,상이와와,바깥귀길위오목,오답,-,,2,[],stop
+2A,paraduodenal fold,십이지장옆주름,샘창자옆주름,오답,-,,2,[],stop
+2A,airborne infection,공기감염,공기매개감염,오답,-,,2,[],stop
+2A,inertia,관성,무기력,오답,-,,1,[],stop
+2A,absence of muscle,근육결손,근육의 결여,오답,-,Q79.8,3,[],stop
+2A,implosion,내파,홍수(노출)요법,정답(동의어),exact,,1,[],stop
+2A,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,정답(대표),exact,D56.1,2,[],stop
+2A,normetanephrine,노르메타네프린,노르메타네프린,정답(대표),exact,,1,[],stop
+2A,derangement of patella,슬개골 장애,무릎뼈의 장애,오답,-,M22.0-M22.3,3,[],stop
+2A,bilateral palatine tonsils,양측 구개편도,양측 목구멍 편도,오답,-,,3,[],stop
+2A,basal seat,기대의석,의치지지조직,오답,-,,2,[],stop
+2A,diabetic coma,당뇨병성 혼수,당뇨 혼수,오답,-,,2,[],stop
+2A,school childhood,학령기,학령기,정답(대표),exact,,2,[],stop
+2A,mysophilia,분변애증,불결기호증,오답,-,,1,[],stop
+2A,high quality-hcv ab,고품질-HCV 항체,정밀면역검사-C형간염항체,오답,-,,3,['bad_chars'],stop
+2A,onychocryptosis,감입조갑,감입발톱,오답,-,,1,[],stop
+2A,positioned flap,위치판,판막이동수술,오답,-,,2,[],stop
+2A,clean bench,클린벤치,무균실험대,오답,-,,2,[],stop
+2A,psgn,급성사구체신염,연쇄구균감염후 사구체신염,오답,-,N05.9,1,[],stop
+2A,hammerhead ribozyme,해머헤드 리보자임,망치머리형리보자임,오답,-,,2,[],stop
+2A,bacteriostasis,정균작용,정균작용,정답(대표),exact,,1,[],stop
+2A,involuntary,불수의,불수의-,오답,-,,1,[],stop
+2A,exteroceptive stimulus,외수용성 자극,외수용자극,오답,-,,2,[],stop
+2A,urarthritis,통풍,통풍관절염,오답,-,M10.09,1,[],stop
+2A,insular sclerosis,섬피질경화증,섬경화증,오답,-,,2,[],stop
+2A,altered uterine contractions,자궁수축 이상,자궁수축 변화,오답,-,,3,[],stop
+2A,kub left lateral,슬와좌측위,"콩팥요관방광촬영, 왼쪽측방향",오답,-,,3,[],stop
+2A,allergenic serum,알레르겐 혈청,알레르기혈청,오답,-,,2,[],stop
+2A,endoscopic revision dacryocystorhinostomy,내시경적 교정 누낭비강문합술,내시경 이용 눈물주머니코안 연결 교정,오답,-,,3,[],stop
+2A,proctoscope,항문경,직장경,오답,-,,1,[],stop
+2A,blood donation,헌혈,헌혈,정답(대표),exact,,2,[],stop
+2A,multicystic renal dysplasia,다낭성 신 이형성증,다낭성 신장의 형성이상,오답,-,Q61.4,3,[],stop
+2A,neuropsychiatry,신경정신과,신경정신과학,오답,-,,1,[],stop
+2A,superexcitation,과흥분,과도흥분,오답,-,,1,[],stop
+2A,oncotaxonomy,종양분류학,종양분류법,오답,-,,1,[],stop
+2A,foraminal,추간공,그물막구멍,오답,-,,1,[],stop
+2A,retaining harness,고정식 하네스,장치유지,오답,-,,2,[],stop
+2A,sao paulo fever,상파울루열,상파울로열,오답,-,A77.0,3,[],stop
+2A,orofaciodigital syndrome,구강안면지증후군,구안지 증후군,오답,-,Q87.0,2,[],stop
+2A,bidiscoidal placenta,이원반태반,두원반태반,오답,-,,2,[],stop
+2A,supporting spiritual rituals,보조적 영적 의례,영적의식 지지하기,오답,-,,3,[],stop
+2A,entire trapezius muscle,전체 승모근,온등세모근,오답,-,,3,[],stop
+2A,reciprocal shaker,상호 진탕기,왕복진탕기,오답,-,,2,[],stop
+2A,cervical vertigo,경추성 어지럼증,경추성 현기증,오답,-,M54.22,2,[],stop
+2A,hapgok,합곡,합곡(合谷),오답,-,,1,[],stop
+2C,sirenomelia syndrome,인어다리 증후군,인어다리 증후군,정답(대표),exact,Q87.2,2,[],stop
+2C,rash purpuric,자색반 발진,자색반 발진,정답(대표),exact,,2,[],stop
+2C,agenesis of lung,폐의 무발생,폐의 무발생,정답(대표),exact,Q33.3,3,[],stop
+2C,papilloma of cerviv,자궁경부의 유두종,자궁경부의 유두종,정답(대표),exact,D26.0,3,[],stop
+2C,hyeopbaek,협백(俠白),협백(俠白),정답(대표),exact,,1,['bad_chars'],stop
+2C,water bath,욕조,욕조,정답(대표),exact,,2,[],stop
+2C,heredoinfection,유전감염,유전감염,정답(대표),exact,,1,[],stop
+2C,naegleria fowleri,파울러자유아메바,파울러자유아메바,정답(대표),exact,,2,[],stop
+2C,case-mix,질병구성,질병구성,정답(대표),exact,,1,[],stop
+2C,third ventricle structure,제3뇌구조,제3뇌구조,정답(대표),exact,,3,[],stop
+2C,scleral necrosis/melt,공막 괴사/ 융해,공막 괴사/ 융해,정답(대표),exact,,2,[],stop
+2C,meckel's diverticulectomy,멕켈 게실절제술,멕켈 게실절제술,정답(대표),exact,,2,[],stop
+2C,myotonic disorders,근긴장장애,근긴장장애,정답(대표),exact,G71.1,2,[],stop
+2C,breast stereotactic biopsy,유방 입체정위 생검술,유방 입체정위 생검술,정답(대표),exact,,3,[],stop
+2C,glaucomatous cataract,녹내장성백내장,녹내장성백내장,정답(대표),exact,,2,[],stop
+2C,orthognathic surgery,악교정수술,악교정수술,정답(대표),exact,,2,[],stop
+2C,transfusion tests,수혈혈액검사,수혈혈액검사,정답(대표),exact,,2,[],stop
+2C,surgical staging,외과적시기결정,외과적시기결정,정답(대표),exact,,2,[],stop
+2C,nodular prurigo,결절가려움발진,결절가려움발진,정답(대표),exact,,2,[],stop
+2C,genuine diabetes,진성당뇨병,진성당뇨병,정답(대표),exact,,2,[],stop
+2C,dry weight,투석목표체중,투석목표체중,정답(대표),exact,,2,[],stop
+2C,biopsy of adenoid,인두편도 생검,인두편도 생검,정답(대표),exact,,3,[],stop
+2C,glutitis,볼기염,볼기염,정답(대표),exact,,1,[],stop
+2C,colpomyomectomy,질식근종절제(술),질식근종절제(술),정답(대표),exact,,1,['bad_chars'],stop
+2C,capillaria hepatica,간모세선충,간모세선충,정답(대표),exact,,2,[],stop
+2C,cardioplegic,심장마비-,심장마비-,정답(대표),exact,,1,[],stop
+2C,upper extremity,위팔,위팔,정답(대표),exact,,2,[],stop
+2C,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토콕쿠스수막대뇌염,정답(대표),exact,B45.1,2,[],stop
+2C,blood fluke,주혈흡충,주혈흡충,정답(대표),exact,,2,[],stop
+2C,cheilosis,구순증,구순증,정답(대표),exact,K13.0,1,[],stop
+2C,sideroblastic anaemia,철적혈모구빈혈,철적혈모구빈혈,정답(대표),exact,D64.0-D64.3,2,[],stop
+2C,auriculotemporal nerve,귓바퀴관자신경,귓바퀴관자신경,정답(대표),exact,,2,[],stop
+2C,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,디스트로피성 수포성 표피박리증,정답(대표),exact,Q81.2,3,[],stop
+2C,negative pressure,음압,음압,정답(대표),exact,,2,[],stop
+2C,deshielded proton,미차폐양성자,미차폐양성자,정답(대표),exact,,2,[],stop
+2C,hippocampal sclerosis,해마경화(증),해마경화(증),정답(대표),exact,G37.9,2,['bad_chars'],stop
+2C,laryngotracheal stenosis,후두기관협착(증),후두기관협착(증),정답(대표),exact,J39.8,2,['bad_chars'],stop
+2C,hemodynamometry,혈압측정(법),혈압측정(법),정답(대표),exact,,1,['bad_chars'],stop
+2C,protein-losing enteropathy,단백질소실장병(증),단백질소실장병(증),정답(대표),exact,,2,['bad_chars'],stop
+2C,anisometropic amblyopia,굴절부등약시,굴절부등약시,정답(대표),exact,H53.01,2,[],stop
+2C,endaural,귀속-,귀속-,정답(대표),exact,,1,[],stop
+2C,dental granuloma,뿌리끝육아종,뿌리끝육아종,정답(대표),exact,,2,[],stop
+2C,dislocation of midcarpal(joint),중간수근골(관절)의 탈구,중간수근골(관절)의 탈구,정답(대표),exact,S63.02,3,['bad_chars'],stop
+2C,coalescent mastoiditis,융합꼭지돌기염,융합꼭지돌기염,정답(대표),exact,H70.8,2,[],stop
+2C,neurocanal,신경관,신경관,정답(대표),exact,,1,[],stop
+2C,endocrinologist,내분비전문의,내분비전문의,정답(대표),exact,,1,[],stop
+2C,gastroenteritis paratyphosa,파라티푸스위창자염,파라티푸스위창자염,정답(대표),exact,,2,[],stop
+2C,meningoencephalocele,수막뇌류,수막뇌류,정답(대표),exact,Q01,1,[],stop
+2C,epiplocele,대망탈장,대망탈장,정답(대표),exact,K46,1,[],stop
+2C,rotalix tube,회전양극관,회전양극관,정답(대표),exact,,2,[],stop
+2C,plantar flexion,발바닥쪽 굽힘,발바닥쪽 굽힘,정답(대표),exact,,2,[],stop
+2C,epididymal duct,부고환관,부고환관,정답(대표),exact,,2,[],stop
+2C,interferential action,간섭작용,간섭작용,정답(대표),exact,,2,[],stop
+2C,keratopathy,각막병(증),각막병(증),정답(대표),exact,,1,['bad_chars'],stop
+2C,topalgia,국소통증,국소통증,정답(대표),exact,,1,[],stop
+2C,suprameatal foveola,바깥귀길위오목,바깥귀길위오목,정답(대표),exact,,2,[],stop
+2C,paraduodenal fold,샘창자옆주름,샘창자옆주름,정답(대표),exact,,2,[],stop
+2C,airborne infection,공기매개감염,공기매개감염,정답(대표),exact,,2,[],stop
+2C,inertia,무기력,무기력,정답(대표),exact,,1,[],stop
+2C,absence of muscle,근육의 결여,근육의 결여,정답(대표),exact,Q79.8,3,[],stop
+2C,implosion,홍수(노출)요법,홍수(노출)요법,정답(대표),exact,,1,['bad_chars'],stop
+2C,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,정답(대표),exact,D56.1,2,[],stop
+2C,normetanephrine,노르메타네프린,노르메타네프린,정답(대표),exact,,1,[],stop
+2C,derangement of patella,무릎뼈의 장애,무릎뼈의 장애,정답(대표),exact,M22.0-M22.3,3,[],stop
+2C,bilateral palatine tonsils,양측 목구멍 편도,양측 목구멍 편도,정답(대표),exact,,3,[],stop
+2C,basal seat,의치지지조직,의치지지조직,정답(대표),exact,,2,[],stop
+2C,diabetic coma,당뇨 혼수,당뇨 혼수,정답(대표),exact,,2,[],stop
+2C,school childhood,학령기,학령기,정답(대표),exact,,2,[],stop
+2C,mysophilia,불결기호증,불결기호증,정답(대표),exact,,1,[],stop
+2C,high quality-hcv ab,정밀면역검사-C형간염항체,정밀면역검사-C형간염항체,정답(대표),exact,,3,['bad_chars'],stop
+2C,onychocryptosis,감입발톱,감입발톱,정답(대표),exact,,1,[],stop
+2C,positioned flap,판막이동수술,판막이동수술,정답(대표),exact,,2,[],stop
+2C,clean bench,무균실험대,무균실험대,정답(대표),exact,,2,[],stop
+2C,psgn,연쇄구균감염후 사구체신염,연쇄구균감염후 사구체신염,정답(대표),exact,N05.9,1,[],stop
+2C,hammerhead ribozyme,망치머리형리보자임,망치머리형리보자임,정답(대표),exact,,2,[],stop
+2C,bacteriostasis,정균작용,정균작용,정답(대표),exact,,1,[],stop
+2C,involuntary,불수의-,불수의-,정답(대표),exact,,1,[],stop
+2C,exteroceptive stimulus,외수용자극,외수용자극,정답(대표),exact,,2,[],stop
+2C,urarthritis,통풍관절염,통풍관절염,정답(대표),exact,M10.09,1,[],stop
+2C,insular sclerosis,섬경화증,섬경화증,정답(대표),exact,,2,[],stop
+2C,altered uterine contractions,자궁수축 변화,자궁수축 변화,정답(대표),exact,,3,[],stop
+2C,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향","콩팥요관방광촬영, 왼쪽측방향",정답(대표),exact,,3,[],stop
+2C,allergenic serum,알레르기혈청,알레르기혈청,정답(대표),exact,,2,[],stop
+2C,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경 이용 눈물주머니코안 연결 교정,정답(대표),exact,,3,[],stop
+2C,proctoscope,직장경,직장경,정답(대표),exact,,1,[],stop
+2C,blood donation,헌혈,헌혈,정답(대표),exact,,2,[],stop
+2C,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신장의 형성이상,정답(대표),exact,Q61.4,3,[],stop
+2C,neuropsychiatry,신경정신과학,신경정신과학,정답(대표),exact,,1,[],stop
+2C,superexcitation,과도흥분,과도흥분,정답(대표),exact,,1,[],stop
+2C,oncotaxonomy,종양분류법,종양분류법,정답(대표),exact,,1,[],stop
+2C,foraminal,그물막구멍,그물막구멍,정답(대표),exact,,1,[],stop
+2C,retaining harness,장치유지,장치유지,정답(대표),exact,,2,[],stop
+2C,sao paulo fever,상파울로열,상파울로열,정답(대표),exact,A77.0,3,[],stop
+2C,orofaciodigital syndrome,구안지 증후군,구안지 증후군,정답(대표),exact,Q87.0,2,[],stop
+2C,bidiscoidal placenta,두원반태반,두원반태반,정답(대표),exact,,2,[],stop
+2C,supporting spiritual rituals,영적의식 지지하기,영적의식 지지하기,정답(대표),exact,,3,[],stop
+2C,entire trapezius muscle,온등세모근,온등세모근,정답(대표),exact,,3,[],stop
+2C,reciprocal shaker,왕복진탕기,왕복진탕기,정답(대표),exact,,2,[],stop
+2C,cervical vertigo,경추성 현기증,경추성 현기증,정답(대표),exact,M54.22,2,[],stop
+2C,hapgok,합곡(合谷),합곡(合谷),정답(대표),exact,,1,['bad_chars'],stop

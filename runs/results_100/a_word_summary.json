@@ -1,0 +1,131 @@
+{
+  "summary": [
+    {
+      "arm": "1c",
+      "n": 100,
+      "format_ok_pct": 97.0,
+      "correct_pct": 17.0,
+      "grades": {
+        "오답": {
+          "n": 83,
+          "pct": 83.0
+        },
+        "정답(대표)": {
+          "n": 13,
+          "pct": 13.0
+        },
+        "정답(동의어)": {
+          "n": 4,
+          "pct": 4.0
+        }
+      },
+      "issues": {
+        "bad_chars": 3
+      }
+    },
+    {
+      "arm": "1a",
+      "n": 100,
+      "format_ok_pct": 98.0,
+      "correct_pct": 23.0,
+      "grades": {
+        "오답": {
+          "n": 77,
+          "pct": 77.0
+        },
+        "정답(대표)": {
+          "n": 18,
+          "pct": 18.0
+        },
+        "정답(동의어)": {
+          "n": 5,
+          "pct": 5.0
+        }
+      },
+      "issues": {
+        "bad_chars": 2
+      }
+    },
+    {
+      "arm": "1b",
+      "n": 100,
+      "format_ok_pct": 98.0,
+      "correct_pct": 18.0,
+      "grades": {
+        "오답": {
+          "n": 82,
+          "pct": 82.0
+        },
+        "정답(대표)": {
+          "n": 15,
+          "pct": 15.0
+        },
+        "정답(동의어)": {
+          "n": 3,
+          "pct": 3.0
+        }
+      },
+      "issues": {
+        "bad_chars": 2
+      }
+    },
+    {
+      "arm": "2A",
+      "n": 100,
+      "format_ok_pct": 98.0,
+      "correct_pct": 18.0,
+      "grades": {
+        "오답": {
+          "n": 82,
+          "pct": 82.0
+        },
+        "정답(대표)": {
+          "n": 15,
+          "pct": 15.0
+        },
+        "정답(동의어)": {
+          "n": 3,
+          "pct": 3.0
+        }
+      },
+      "issues": {
+        "bad_chars": 2
+      }
+    },
+    {
+      "arm": "2C",
+      "n": 100,
+      "format_ok_pct": 89.0,
+      "correct_pct": 100.0,
+      "grades": {
+        "정답(대표)": {
+          "n": 100,
+          "pct": 100.0
+        }
+      },
+      "issues": {
+        "bad_chars": 11
+      }
+    }
+  ],
+  "usage": {
+    "calls": 309,
+    "cost": 0.05544022559999999,
+    "out_tokens": 11891,
+    "reasoning_tokens": 6848,
+    "netfail": 0,
+    "retries": 5
+  },
+  "config": {
+    "arms": "1c,1a,1b,2A,2C",
+    "batch": 50,
+    "limit": 0,
+    "candidates": 5,
+    "seed": 42
+  },
+  "crossing": {
+    "detected": 0,
+    "repaired": 0,
+    "unresolved": 0
+  }
+}

@@ -1,0 +1,2989 @@
+﻿mode,para_id,en,rep,matched,injected,term_hit,hit_form,decoy,followed_decoy
+none,P001,autoeroticism,자기성애,True,True,False,,,
+none,P001,combustion,화상,True,True,False,,,
+none,P001,digit preference,끝수선호,True,True,False,,,
+none,P002,fusiform layer,방추세포층,True,True,False,,,
+none,P002,imitative attitude,모방태도,True,True,True,모방태도,,
+none,P002,hyeopgye,협계(俠谿),True,True,False,,,
+none,P003,secretory cyst,분비체류성낭,True,True,False,,,
+none,P003,ricinism,리신증,True,True,True,리신중독증,,
+none,P003,glaucomatous cataract,녹내장성백내장,True,True,True,녹내장성백내장,,
+none,P004,nodular sclerosis,결절경화,True,True,False,,,
+none,P004,cross-face,교차얼굴,True,True,False,,,
+none,P004,blind fistula,막힌샛길,True,True,False,,,
+none,P005,varicose vein stripping,정맥류 제거,True,True,False,,,
+none,P005,rotalix tube,회전양극관,True,True,True,회전양극관,,
+none,P005,smith's fracture,스미드골절,True,True,True,스미스 골절,,
+none,P006,framework try-in,금속구조물 시적,True,True,False,,,
+none,P006,parrot fever,앵무새열,True,True,False,,,
+none,P006,frontal suture,이마봉합선,True,True,False,,,
+none,P007,binder,결합체,True,True,False,,,
+none,P007,water bath,욕조,True,True,True,욕조,,
+none,P007,torr,토르,True,True,False,,,
+none,P008,cercosporomycosis,세르코스포라진균증,True,True,False,,,
+none,P008,lipoid dermatoarthritis,리포이드피부관절염,True,True,False,,,
+none,P008,fisher syndrome,피셔증후군,True,True,True,피셔증후군,,
+none,P009,benign familial hematuria,양성 가족성 혈뇨,True,True,True,양성 가족성 혈뇨,,
+none,P009,marsupialization of cyst,낭종 주머니형성,True,True,False,,,
+none,P009,lumbosacral enlargement,요천부팽대,True,True,False,,,
+none,P010,retrocedent gout,내공성통풍,True,True,False,,,
+none,P010,hemianopsia,편측시야결손,True,True,False,,,
+none,P010,enteral feeding,위장관영양,True,True,False,,,
+none,P011,ocular fundus,안저,True,True,True,안저,,
+none,P011,condensed chromatin,농축염색질,True,True,False,,,
+none,P011,hemacytometry,혈구계수,True,True,True,혈구계수,,
+none,P012,cimex lectularius,빈대,True,True,False,,,
+none,P012,vaginography,질조영(술),True,True,False,,,
+none,P012,ear drum,고막,True,True,True,고막,,
+none,P013,dilation of intestine,창자 확장,True,True,False,,,
+none,P013,myoclonia fibrillaris multiplex,다발잔떨림근대성대발작,True,True,False,,,
+none,P013,gitelman syndrome,지텔만 증후군,True,True,True,지텔만 증후군,,
+none,P014,source qi,원기,True,True,True,원기,,
+none,P014,hyperlipidaemia,고지혈증,True,True,False,,,
+none,P014,ladder splint,사다리형덧대,True,True,False,,,
+none,P015,dermatopathic lymphadenopathy,피부병림프절병(증),True,True,False,,,
+none,P015,oil red,오일레드,True,True,False,,,
+none,P015,defervescence,해열,True,True,True,해열,,
+none,P016,intracranial space-occupying lesion,두개내공간점유병변,True,True,False,,,
+none,P016,picture frustration test,그림좌절검사,True,True,True,그림좌절검사,,
+none,P016,pyroglyphidae,집먼지진드기(과),True,True,False,,,
+none,P017,dorsal vein arterialization,배측 정맥 동맥혈화,True,True,False,,,
+none,P017,macrocephalus,큰머리증,True,True,True,대두증,,
+none,P017,aqueous fluid,방수,True,True,True,방수,,
+none,P018,colon cecum mass,막창자 종괴,True,True,False,,,
+none,P018,cyematocardia,태아심음,True,True,False,,,
+none,P018,dyskeratosis congenita,선천 이상각화증,True,True,False,,,
+none,P019,supernumeric impacted tooth,과잉매복치,True,True,True,과잉매복치,,
+none,P019,biopsy of cul-de-sac,막힌주머니 생검,True,True,False,,,
+none,P019,gantry,갠트리,True,True,False,,,
+none,P020,onychopathy,손발톱병(증),True,True,False,,,
+none,P020,intermetatarsal joint structure,발허리간관절조직,True,True,False,,,
+none,P020,first-pass cardiac scan(resting),일회통과심장스캔-안정상태,False,False,False,,,
+none,P021,sex cord-stromal tumor,성끈기질종양,True,True,False,,,
+none,P021,cardiac murmur,심잡음,True,True,True,심잡음,,
+none,P021,coupling color,커플링염료,True,True,False,,,
+none,P022,clostridium histolyticum,클로스트리듐히스톨리티쿰,True,True,True,클로스트리듐히스톨리티쿰,,
+none,P022,total lipodystrophy,전체 지방영양장애,True,True,False,,,
+none,P022,ulceroglandular tularaemia,궤양림프절야생토끼병,True,True,False,,,
+none,P023,open-chain compound,열린사슬화합물,True,True,False,,,
+none,P023,z-plasty,Z성형(술),True,True,False,,,
+none,P023,isosorbide,이소소르바이드,True,True,False,,,
+none,P024,intramuscular nerve stimulation,근육내신경자극치료,True,True,False,,,
+none,P024,developmental retardation child,발달 부진아,True,True,False,,,
+none,P024,holoparasite,완전기생체,True,True,False,,,
+none,P025,instep island flap,안쪽발바닥섬피판,True,True,False,,,
+none,P025,shifting reaction,편위반응,True,True,False,,,
+none,P025,membranous endometritis,막자궁내막염,True,True,False,,,
+none,P026,phosphene,섬광시,True,True,False,,,
+none,P026,odontoprisis,이갈기,True,True,False,,,
+none,P026,cardiography,심장도검사,True,True,False,,,
+none,P027,transistor hearing aid,트랜지스터보청기,True,True,True,트랜지스터보청기,,
+none,P027,phlebitis and thrombophlebitis,정맥염 및 혈전정맥염,True,True,False,,,
+none,P027,urethroscopic surgery,요도경하 수술,True,True,False,,,
+none,P028,epidural nerve block,경막외 신경차단술,True,True,True,경막외 신경차단술,,
+none,P028,ataxic hemiparesis,실조성반부전마비,True,True,False,,,
+none,P028,organoid tumor,장기모양종양,True,True,False,,,
+none,P029,sclerosing retroperitonitis,경화뒤배막염,True,True,False,,,
+none,P029,plate,평판,True,True,True,판,,
+none,P029,br. tx.,브릿지 치료,False,False,False,,,
+none,P030,acropathy,말단병(증),True,True,False,,,
+none,P030,uncoupling,결합저지,True,True,False,,,
+none,P030,cyst of prostate,전립샘 낭,True,True,True,전립선 낭,,
+none,P031,chorea gravidarum,임신무도병,True,True,False,,,
+none,P031,clay stool,회색변,True,True,False,,,
+none,P031,gorei-san,오령산,True,True,True,오령산,,
+none,P032,graves' ophthalmopathy,그레이브스 눈병증,True,True,False,,,
+none,P032,non-exudative,삼출되지않은,True,True,False,,,
+none,P032,endolymphatic duct,속림프관,True,True,True,내림프관,,
+none,P033,arsenic mirror,코거울,True,True,False,,,
+none,P033,supporting spiritual rituals,영적의식 지지하기,True,True,False,,,
+none,P033,muscular atrophy,근위축,True,True,True,근위축,,
+none,P034,spondylopathy,척추병(증),True,True,False,,,
+none,P034,thyroidea ima artery,맨아래갑상동맥,True,True,False,,,
+none,P034,orthognathic surgery,악교정수술,True,True,False,,,
+none,P035,lcp disease,넙다리뼈머리뼈끝뼈연골증,True,True,True,레그-칼베-페르테스,,
+none,P035,deforming dorsopathies,변형성 등병증,True,True,False,,,
+none,P035,bacteriocin,박테리오신,True,True,True,박테리오신,,
+none,P036,thoracalgia,흉통,True,True,True,흉통,,
+none,P036,delay procedure,지연처치,True,True,False,,,
+none,P036,tricephalus,세머리태아,True,True,False,,,
+none,P037,supraclavicular approach,빗장위접근법,True,True,True,쇄골상접근법,,
+none,P037,eosinophilic non-allergic rhinitis,호산성 비알레르기성 비염,True,True,False,,,
+none,P037,papilloma of cerviv,자궁경부의 유두종,True,True,False,,,
+none,P038,hypothalamic-pituitary-adrenal axis,시상하부-뇌하수체-부신축,True,True,True,시상하부-뇌하수체-부신축,,
+none,P038,androgenic alopecia,안드로젠탈모증,True,True,False,,,
+none,P038,halmatogenesis,돌연세대변이,True,True,False,,,
+none,P039,isomaltase,이소말타아제,True,True,False,,,
+none,P039,postprocedural subglottic stenosis,처치후 성문하협착,True,True,False,,,
+none,P039,acclimation fever,순화열,True,True,False,,,
+none,P040,intromission,삽입,True,True,True,삽입,,
+none,P040,microlymphatic graft,미세림프절이식,True,True,False,,,
+none,P040,lenticonus,원뿔수정체,True,True,False,,,
+none,P041,metagonimus yokogawai,요코가와흡충,True,True,False,,,
+none,P041,enema apparatus,관장기,True,True,True,관장기,,
+none,P041,rash purpuric,자색반 발진,True,True,False,,,
+none,P042,factor viii,제8인자,True,True,True,제8인자,,
+none,P042,bony excrescence,뼈이상돌출,True,True,False,,,
+none,P042,biopsy of adenoid,인두편도 생검,True,True,False,,,
+none,P043,undercorrection,부족교정,True,True,False,,,
+none,P043,transluminal coronary atherectomy,내강경유 심장혈관 죽종절제,True,True,False,,,
+none,P043,stump hallucination,절단끝환각,True,True,False,,,
+none,P044,proenzyme,풋효소,True,True,False,,,
+none,P044,traveling clinic,이동진료소,True,True,False,,,
+none,P044,pallister-killian syndrome,팰리스터-킬리언 증후군,True,True,True,팔리스터-킬리안 증후군,,
+none,P045,leukokeratosis nicotina palati,구개 니코틴성 백색각화증,True,True,False,,,
+none,P045,monorchidism,홑고환증,True,True,False,,,
+none,P045,steatocystoma,피지낭종,True,True,False,,,
+none,P046,vaginal discharge,대하,True,True,False,,,
+none,P046,posterior thoracic fusion,뒷쪽 가슴척추 유합,True,True,False,,,
+none,P046,sucking disc,흉반,True,True,True,흡반,,
+none,P047,rectal,곧창자-,True,True,False,,,
+none,P047,pyrexia during labour,출산중 발열,True,True,False,,,
+none,P047,genital infection fungal,생식 기관 곰팡이 감염,True,True,False,,,
+none,P048,dense deposit disease,고밀도침착병,True,True,False,,,
+none,P048,endoscopic transmyocardial revascularization,내시경 이용 심근경유 혈관 재형성,True,True,False,,,
+none,P048,vasectomy seekers,정관절제술탐침,True,True,False,,,
+none,P049,convalescence following chemotherapy,화학요법후 회복기,True,True,False,,,
+none,P049,apneustic respiration,지속흡입호흡,True,True,False,,,
+none,P049,carpometacarpal joint structure,손목손허리관절,True,True,False,,,
+none,P050,window defect,창문비침,True,True,False,,,
+none,P050,metathalamus,시상후부,True,True,False,,,
+none,P050,patent medicine,특허약,True,True,False,,,
+none,P051,pulex,벼룩(속),True,True,False,,,
+none,P051,genu valgum,외반슬,True,True,False,,,
+none,P051,thymopoietin,티모포이에틴,True,True,True,티모포이에틴,,
+none,P052,arthroscopic menisectomy,관절경 이용 초승달 절제,True,True,False,,,
+none,P052,heart rate variability,심박변이도,True,True,False,,,
+none,P052,subretinal,망막밑-,True,True,False,,,
+none,P053,waveform,파형,True,True,True,파형,,
+none,P053,closed reduction,비개방정복(술),True,True,False,,,
+none,P053,pilomatrixoma,털바탕질종,True,True,False,,,
+none,P054,crossbite (anterior)(posterior),맞물림이상(앞쪽)(뒤쪽),False,False,True,교차교합,,
+none,P054,prostatodynia,전립샘통증,True,True,False,,,
+none,P054,uropoiesis,요생산,True,True,False,,,
+none,P055,schistocephalus,머리갈림태아,True,True,False,,,
+none,P055,modified norwood operation,수정된 노우드수술,True,True,False,,,
+none,P055,peptonization,펩톤화,True,True,True,펩톤화,,
+none,P056,apoplectic coma,중풍혼수,True,True,False,,,
+none,P056,atrioventricular septal defect,심방실중격결손,True,True,False,,,
+none,P056,assess hospice,호스피스 사정,True,True,False,,,
+none,P057,continuous,연속-,True,True,False,,,
+none,P057,zoe filling,치아진정처치,True,True,False,,,
+none,P057,oxidizing color,산화염료,True,True,False,,,
+none,P058,hammerhead ribozyme,망치머리형리보자임,True,True,False,,,
+none,P058,scleral necrosis/melt,공막 괴사/ 융해,False,False,True,공막 괴사/ 융해,,
+none,P058,infanthood,영아기,True,True,True,영아기,,
+none,P059,ulcerlike nud,궤양성 비궤양성 소화불량,True,True,False,,,
+none,P059,gwollyo,관료(顴髎),True,True,False,,,
+none,P059,double bladder,중복방광,True,True,False,,,
+none,P060,auriculotemporal nerve,귓바퀴관자신경,True,True,False,,,
+none,P060,annulospiral ending,고리나선신경종말,True,True,False,,,
+none,P060,ascending arm venography,상지-상행적상지정맥,True,True,False,,,
+none,P061,epidermophyton,표피사상균(속),True,True,False,,,
+none,P061,tubal tonsil,귀인두관편도,True,True,False,,,
+none,P061,single-step growth curve,일회증식곡선,True,True,False,,,
+none,P062,antineutrophil cytoplasmic antibody,항중성구세포질항체,True,True,False,,,
+none,P062,pharyngoparalysis,인두마비,True,True,True,인두마비,,
+none,P062,vasa previa,전치 맥관,True,True,False,,,
+none,P063,tzanck smear test,장크도말검사,True,True,False,,,
+none,P063,ecdysis,허물벗기,True,True,True,탈피,,
+none,P063,major amblyoscope,대형 약시경,True,True,False,,,
+none,P064,closed approach,폐쇄방법,True,True,False,,,
+none,P064,thyroid notch,방패패임,True,True,False,,,
+none,P064,intraocular,안구내-,True,True,False,,,
+none,P065,precipitate labor,급속 분만,True,True,True,급속 분만,,
+none,P065,dental granuloma,뿌리끝육아종,True,True,False,,,
+none,P065,rickets of prematurity,미숙아의 구루병,True,True,False,,,
+none,P066,frontosphenoesthmoidectomy,이마나비사골동절제술,True,True,False,,,
+none,P066,poor sucking reflex,빨기 반사 어려움,True,True,False,,,
+none,P066,assessing waste service,쓰레기처리 능력 사정하기,True,True,False,,,
+none,P067,epiduroscopic neuroplasty,내시경적 경막외강 신경성형술,True,True,False,,,
+none,P067,relative scotoma,상대암점,True,True,True,상대암점,,
+none,P067,multiple adenomatous polyps,다발성 샘종성 폴립,True,True,False,,,
+none,P068,solenopsis invicta,불개미,True,True,False,,,
+none,P068,sheathed artery,집형성동맥,True,True,False,,,
+none,P068,ureteroscopic,요도경검사에 의한,True,True,False,,,
+none,P069,multidrug resistance,다약제내성,True,True,False,,,
+none,P069,gonadoadvent,생식기능출현기,True,True,False,,,
+none,P069,pa x-ray,치근단 방사선촬영,True,True,False,,,
+none,P070,physically handicapped,거동불편자,True,True,False,,,
+none,P070,centrolecithal,중심난황-,True,True,False,,,
+none,P070,entire nasal septum,온코사이막,True,True,False,,,
+none,P071,a/s capsulectomy,관절경적 피막절제술,False,False,False,,,
+none,P071,posterior cordectomy,뒷쪽 성대 절제,True,True,True,후방 성대 절제,,
+none,P071,intra-operative neurophysiologic testing,수술중 신경생리학적 검사,True,True,False,,,
+none,P072,enteropathic arthritis,창자질환성 관절염,True,True,False,,,
+none,P072,oncogene,종양유전자,True,True,True,종양유전자,,
+none,P072,protein-losing enteropathy,단백질소실장병(증),True,True,False,,,
+none,P073,urethrocutaneous fistula,요도피부샛길,True,True,True,요도피부 루,,
+none,P073,anesthesiologist,마취과의사,True,True,True,마취과의사,,
+none,P073,old tuberculin,재래식투베르쿨린,True,True,False,,,
+none,P074,microsomia,작은몸증,True,True,False,,,
+none,P074,pericanalicular,소관주위-,True,True,False,,,
+none,P074,penicillar arteriole,붓털세동맥,True,True,False,,,
+none,P075,posttransplant lymphoproliferative disease,이식후림프세포증식병,True,True,False,,,
+none,P075,epididymal duct,부고환관,True,True,True,부고환관,,
+none,P075,urethrotomy,요도 절개,True,True,True,요도 절개,,
+none,P076,inhalator,흡입기,True,True,True,흡입기,,
+none,P076,omsk haemorrhagic fever,옴스크출혈열,True,True,True,옴스크출혈열,,
+none,P076,ramus of pubis,두덩뼈가지,True,True,False,,,
+none,P077,dry weight,투석목표체중,True,True,False,,,
+none,P077,macular holes,황반 원공,True,True,True,황반 원공,,
+none,P077,subpapillary arterial network,유두밑동맥그물,True,True,True,유두하동맥망,,
+none,P078,syphilogen,매독원,True,True,False,,,
+none,P078,cardiodiaphragmatic angle,심장가로막각,True,True,True,심장횡격막각,,
+none,P078,ebonation,뼈조각제거,True,True,False,,,
+none,P079,diving reflex,잠수반사,True,True,True,잠수반사,,
+none,P079,pungji,풍지(風池),True,True,True,풍지(風池),,
+none,P079,vertebro-basilar artery syndrome,척추-뇌기저동맥증후군,True,True,False,,,
+none,P080,chest expiration,가슴 날숨촬영,True,True,False,,,
+none,P080,rhinoantritis,코굴염,True,True,True,비동염,,
+none,P080,uremic convulsion,요독경련,True,True,False,,,
+none,P081,cobblestone tongue,조약돌혀,True,True,False,,,
+none,P081,small-and light-for-dates,과소 및 과소체중아,True,True,False,,,
+none,P081,saliva viscosity test,타액 점조도 검사,True,True,False,,,
+none,P082,progressive hemifacial atrophy,진행성 반쪽얼굴 위축,True,True,False,,,
+none,P082,afterloading technique,후장진법,True,True,False,,,
+none,P082,assess disimpaction,매복변제거 사정,True,True,False,,,
+none,P083,nodular fasciitis,결절 근막염,True,True,False,,,
+none,P083,zosteriform lentiginous nevus,띠모양흑(색)점모반,True,True,False,,,
+none,P083,nodular prurigo,결절가려움발진,True,True,False,,,
+none,P084,encephalopathy toxic,독성 뇌병증,True,True,True,독성 뇌병증,,
+none,P084,medial nasal prominence,내측비융기,True,True,False,,,
+none,P084,anisometropic amblyopia,굴절부등약시,True,True,False,,,
+none,P085,t-colectomy,횡행결장절제술,True,True,False,,,
+none,P085,bone inlay,골내재,True,True,False,,,
+none,P085,sequestrectomy of skull,머리뼈 부골 절제,True,True,False,,,
+none,P086,associated disorder,수반장애,True,True,False,,,
+none,P086,uncovertebral,갈고리돌기-,True,True,False,,,
+none,P086,cholelithiasis,담석증,True,True,True,담석증,,
+none,P087,meckel's imaging,메켈스 스캔,True,True,False,,,
+none,P087,aortic(valve) stenosis,대동맥판협착,False,False,True,대동맥판막협착,,
+none,P087,arm-to-retina circulation time,팔망막순환시간,True,True,False,,,
+none,P088,tubular reabsorption,요세관재흡수,True,True,False,,,
+none,P088,rothmund thomson syndrome,로트문드 톰슨 증후군,True,True,False,,,
+none,P088,muscle twitch,근육 경련,True,True,True,근육 경련,,
+none,P089,bis in die,1일2회,True,True,False,,,
+none,P089,abrasion of flank,옆구리 찰과상,True,True,False,,,
+none,P089,gustatory hyperesthesia,미각과민(증),True,True,True,미각과민,,
+none,P090,epidermolysis bullosa simplex,단순 수포성 표피박리증,True,True,False,,,
+none,P090,enteral feeding regime,경장 섭취 요법,True,True,False,,,
+none,P090,high quality-hcv ab,정밀면역검사-C형간염항체,True,True,False,,,
+none,P091,hepaticostomy,간관루설치(술),True,True,False,,,
+none,P091,root pain,신경뿌리통증,True,True,False,,,
+none,P091,parasympathetic nervous system,부교감신경계통,True,True,True,부교감신경계,,
+none,P092,x-ray illumination,X선필름판독대,True,True,False,,,
+none,P092,angioma cavernosum,해면혈관종,True,True,False,,,
+none,P092,cap crown,금관,True,True,True,관,,
+none,P093,coffin-siris syndrome,코핀-시리스 증후군,True,True,True,코핀-시리스 증후군,,
+none,P093,working length distance,근관장측정검사,True,True,False,,,
+none,P093,uterine arteriography,복부및골반동맥조영-자궁동맥,True,True,False,,,
+none,P094,cirsophthalmia,결막정맥류,True,True,False,,,
+none,P094,interarytenoid notch,모뿔사이패임,True,True,False,,,
+none,P094,hot bag,더운물 주머니,True,True,False,,,
+none,P095,agenesis of lung,폐의 무발생,True,True,False,,,
+none,P095,perform diversional care,전환간호 수행,True,True,False,,,
+none,P095,opsin,옵신,True,True,True,옵신,,
+none,P096,growth fever,변증,True,True,False,,,
+none,P096,scorbutic ulcer,괴혈병궤양,True,True,False,,,
+none,P096,false neuroma,가성신경종,True,True,True,가성신경종,,
+none,P097,neoadjuvant chemotherapy,신보강화학요법,True,True,False,,,
+none,P097,death,사,True,True,True,사,,
+none,P097,supraspinous,가시끝-,True,True,False,,,
+none,P098,functional ileus,기능창자막힘증,True,True,False,,,
+none,P098,endorectal pull-through operation,직장내 풀-스루식 수술,True,True,False,,,
+none,P098,counterfeit disease,꾀병,True,True,False,,,
+none,P099,micromovement,미세운동,True,True,False,,,
+none,P099,stenoxenous parasite,협숙주기생충,True,True,False,,,
+none,P099,surgical staging,외과적시기결정,True,True,False,,,
+none,P100,overdetermined idea,과잉결정관념,True,True,False,,,
+none,P100,hyperesophoria,상내사위,True,True,False,,,
+none,P100,post-term,만삭후,False,False,False,,,
+none,P101,soryo,소료(素髎),True,True,False,,,
+none,P101,endemic disease,풍토병,True,True,True,풍토병,,
+none,P101,eurytrema pancreaticum,췌질,True,True,False,,,
+none,P102,rotational irradiation coach,회전방사선치료대,True,True,False,,,
+none,P102,outbreed,무작위교배계,True,True,False,,,
+none,P102,nerve conduction study(head),신경전도검사(두부),False,False,True,신경전도검사(두부),,
+none,P103,pharynx,인두,True,True,True,인두,,
+none,P103,ctha and ctap,컴퓨터 단층촬영 간 동맥조영술과 컴퓨터 단층촬영 문맥조영술,True,True,False,,,
+none,P103,cyclamate,시클라메이트,True,True,False,,,
+none,P104,nuclear polyhedrosis virus,핵다면체형성바이러스,True,True,False,,,
+none,P104,platymorphia,편평안구,True,True,False,,,
+none,P104,square root sign,제곱근모양징후,True,True,False,,,
+none,P105,holy fire,에르고트중독증,True,True,False,,,
+none,P105,hemeralopia,주간맹,True,True,False,,,
+none,P105,avulsion fracture,찢김 골절,True,True,True,견열골절,,
+none,P106,salicylamide,살리실아마이드,True,True,True,살리실아마이드,,
+none,P106,volume elasticity coefficient,용적탄력률,True,True,False,,,
+none,P106,lead gown,납가운,True,True,True,납가운,,
+none,P107,anthracosis,탄분증,True,True,False,,,
+none,P107,proacrosomal granule,풋첨단체과립,True,True,False,,,
+none,P107,cromolyn,크로몰린,True,True,True,크로몰린,,
+none,P108,diffusing capacity,확산능,True,True,True,확산능,,
+none,P108,venule,세정맥,True,True,True,세정맥,,
+none,P108,mucopurulent,점액고름-,True,True,False,,,
+none,P109,blastomyces,분아진균(속),True,True,False,,,
+none,P109,bubbling rale,끓는거품소리,True,True,False,,,
+none,P109,reverberating circuit,반향회로,True,True,True,반향회로,,
+none,P110,ischial tuberosity structure,궁둥뼈결절,True,True,True,좌골결절,,
+none,P110,cold pack,찬물 주머니,True,True,False,,,
+none,P110,airborne infection,공기매개감염,True,True,True,공기매개감염,,
+none,P111,columella lengthening,코기둥연장(술),True,True,False,,,
+none,P111,antivitamin,항비타민물질,True,True,False,,,
+none,P111,pyelic,콩팥깔때기-,True,True,False,,,
+none,P112,apical surgery,치근단 수술,True,True,False,,,
+none,P112,fetal cotyledon,태아쪽태반엽,True,True,False,,,
+none,P112,trypanocidal,파동편모충박멸-,True,True,False,,,
+none,P113,laceration of back,등 열상,True,True,False,,,
+none,P113,cardiac pet-ct,심장 양전자방출단층촬영술,True,True,False,,,
+none,P113,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,True,True,False,,,
+none,P114,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,True,True,False,,,
+none,P114,oncofetal,종양태아-,True,True,False,,,
+none,P114,hydrorachis,수척추증,True,True,False,,,
+none,P115,stenopeic,가는틈-,True,True,False,,,
+none,P115,extracoronal,치관외-,True,True,False,,,
+none,P115,buccal gland,협선,True,True,False,,,
+none,P116,ileal neoplasms,돌창자 신생물,True,True,False,,,
+none,P116,prostate mri,기본자기공명영상진단-복부-전립선-일반,True,True,False,,,
+none,P116,puerility,소아기,True,True,False,,,
+none,P117,genuine diabetes,진성당뇨병,True,True,True,진성당뇨병,,
+none,P117,cervical vertigo,경추성 현기증,True,True,False,,,
+none,P117,dermatitis verrucosa,사마귀피부염,True,True,False,,,
+none,P118,antimicrobial eye drop,항균안약,True,True,False,,,
+none,P118,pressure suit,가압복,True,True,False,,,
+none,P118,derangement of patella,무릎뼈의 장애,True,True,False,,,
+none,P119,postmenopausal bleeding,폐경기후 출혈,True,True,False,,,
+none,P119,tense,긴장-,True,True,False,,,
+none,P119,congruous field defect,일치시야결손,True,True,False,,,
+none,P120,metarubricyte,후적혈구,True,True,True,후적혈구,,
+none,P120,multiple v-y plasties,V-Y 성형술,True,True,False,,,
+none,P120,neonatal oesophageal reflux,신생아식도역류,True,True,True,신생아식도역류,,
+none,P121,cryptogenic sepsis,특발성패혈증,True,True,False,,,
+none,P121,acne keloidalis,흉터종여드름,True,True,False,,,
+none,P121,cheondol,천돌(天突),True,True,False,,,
+none,P122,stratified randomization,층별무작위배정(법),True,True,False,,,
+none,P122,interferential action,간섭작용,True,True,False,,,
+none,P122,psoas shadow,허리근음영,True,True,True,요근음영,,
+none,P123,plain radiograph,단순방사선사진,True,True,True,단순방사선사진,,
+none,P123,carbamino reaction,카르바미노반응,True,True,False,,,
+none,P123,alpha thalassemia,알파 지중해빈혈,True,True,True,알파 지중해빈혈,,
+none,P124,immunoglobulin class,면역글로불린계,True,True,False,,,
+none,P124,assessing grief,슬픔 사정하기,True,True,False,,,
+none,P124,purpura annularis telangiectodes,고리모세혈관확장자색반,True,True,False,,,
+none,P125,di guglielmo's disease,디구글리엘모병,True,True,False,,,
+none,P125,video-urodynamic study,영상요역동학검사,True,True,False,,,
+none,P125,primary syphilis,1기매독,True,True,True,1기매독,,
+none,P126,deep mycosis,심재성 진균증,True,True,False,,,
+none,P126,endothelium-derived relaxing factor,내피유래이완인자,True,True,True,내피유래이완인자,,
+none,P126,descriptive epidemiology,기술역학,True,True,True,기술역학,,
+none,P127,drug induce pruritus,약물 유발성 가려움,True,True,False,,,
+none,P127,goitrogenic,갑상샘종유발물질-,True,True,False,,,
+none,P127,suturing of wound,창상봉합술,True,True,False,,,
+none,P128,expectorant mixture,복합거담제,True,True,False,,,
+none,P128,reducing artifact,감소인공물,True,True,False,,,
+none,P128,bilaminar vitelline placenta,두겹난황태반,True,True,False,,,
+none,P129,iridocoloboma,홍채결손,True,True,True,홍채결손,,
+none,P129,glissade,글리사드,True,True,True,글리사드,,
+none,P129,anecdotal,증례서술적,True,True,True,일화적,,
+none,P130,hypofunction,기능저하,True,True,True,기능저하,,
+none,P130,ardor,작열감,True,True,True,작열감,,
+none,P130,impulse conducting system,심장흥분전도계통,True,True,False,,,
+none,P131,hyalomere,투명부위,True,True,False,,,
+none,P131,protrusive position,전방위,True,True,False,,,
+none,P131,joint swelling non-inflammatory,비염증 관절 부기,True,True,False,,,
+none,P132,osteoarthritis,뼈관절염,True,True,True,골관절염,,
+none,P132,colpocystocele,질방광탈출(증),True,True,False,,,
+none,P132,subspinous,가시돌기밑-,True,True,False,,,
+none,P133,refractive accomodative esotropia,굴절조절 내사시,True,True,False,,,
+none,P133,apicoectomy,치근첨절제(술),True,True,False,,,
+none,P133,flushing,홍조,True,True,False,,,
+none,P134,aspirations (psychology),흡인,False,False,False,,,
+none,P134,mutiple myeloma,다발성 골수종,True,True,True,다발성 골수종,,
+none,P134,dermoepidermal,진피표피-,True,True,False,,,
+none,P135,a/s posterior capsulo-labroplasty,관절경 후방 피막테두리성형술,False,False,False,,,
+none,P135,entire finger,온손가락,True,True,False,,,
+none,P135,appendix ultrasound,맹장 초음파,True,True,True,맹장 초음파,,
+none,P136,operative cholangiography,수술쓸개관조영(술),True,True,False,,,
+none,P136,ionophore antibiotic,이온투과차단항생제,True,True,False,,,
+none,P136,peritoneocentesis,복막천자,True,True,False,,,
+none,P137,invasive mole,침윤기태,True,True,False,,,
+none,P137,vetebra,척추,True,True,False,,,
+none,P137,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",True,True,False,,,
+none,P138,colonic serosa,잘록창자장막층,True,True,False,,,
+none,P138,nasalis muscle,코근,True,True,True,비근,,
+none,P138,onchocercoma,회선사상충결절,True,True,False,,,
+none,P139,corticobasal degeneration,겉질기저 변성,True,True,False,,,
+none,P139,nonalcoholic steaohepatitis,비알코올성 지방간염,True,True,True,비알코올성 지방간염,,
+none,P139,laryngeal carcinoma,후두 암종,True,True,False,,,
+none,P140,pseudoepicanthus,거짓눈구석주름,True,True,False,,,
+none,P140,hydropneumothorax,물공기가슴증,True,True,False,,,
+none,P140,cathemoglobin,카트헤모글로빈,True,True,True,카트헤모글로빈,,
+none,P141,endoscopic retrograde pancreatography,내시경역행이자관조영(술),True,True,False,,,
+none,P141,koop's modified pylomyotomy,쿱의 수정 유문근층 절개,True,True,False,,,
+none,P141,brachiocephalic trunk,팔머리동맥,True,True,False,,,
+none,P142,pubovaginal,두덩질-,True,True,False,,,
+none,P142,ulcerated external hemorrhoids,궤양성 외치핵,True,True,True,궤양성 외치핵,,
+none,P142,school childhood,학령기,True,True,True,학령기,,
+none,P143,horopter,단일시궤도,True,True,False,,,
+none,P143,vesicorectal fistula,방광직장루,True,True,True,방광직장루,,
+none,P143,dysostosis multiplex group,다발 집단 뼈발생이상,True,True,False,,,
+none,P144,parathyroid tetany,부갑상선테타니,True,True,True,부갑상선테타니,,
+none,P144,sideroblastic anaemia,철적혈모구빈혈,True,True,False,,,
+none,P144,meshwork,섬유주,True,True,False,,,
+none,P145,infantile automatism,젖먹이자동증,True,True,False,,,
+none,P145,stomatomy,자궁구절개(술),True,True,False,,,
+none,P145,familial polyposis,가족성폴립증,True,True,False,,,
+none,P146,prootic,귀앞-,True,True,False,,,
+none,P146,microencephaly,작은뇌증,True,True,False,,,
+none,P146,ant. uveitis,전방포도막염,False,False,True,전방포도막염,,
+none,P147,vaccination against staphylococcus,포도구균 예방접종,True,True,True,포도구균 예방접종,,
+none,P147,photogene,잔상,True,True,False,,,
+none,P147,cortisol-binding globulin,코티솔결합글로불린,True,True,False,,,
+none,P148,prolinase,프롤린효소,True,True,False,,,
+none,P148,vibratory auscultation,진동청진,True,True,True,진동청진,,
+none,P148,iridocyclitis in tuberculosis,결핵에서의 홍채섬모체염,True,True,False,,,
+none,P149,egg yolk medium,달걀노른자배지,True,True,False,,,
+none,P149,mescaline,메스칼린,True,True,True,메스칼린,,
+none,P149,polymyalgia rheumatica,류마티스성 다발근통,True,True,False,,,
+none,P150,ossidesmosis,힘줄뼈되기,True,True,False,,,
+none,P150,endoenteritis,창자점막염,True,True,False,,,
+none,P150,heart excess patterns,심실증,True,True,False,,,
+none,P151,rodent ulcer,잠식궤양,True,True,False,,,
+none,P151,dopa-responsive dystonia,도파-반응성 근긴장이상,True,True,False,,,
+none,P151,plating method,평판배양법,True,True,False,,,
+none,P152,toilet,세척,True,True,False,,,
+none,P152,intermedia thalassaemia,중간형 지중해빈혈,True,True,True,중간형 지중해빈혈,,
+none,P152,superexcitation,과도흥분,True,True,False,,,
+none,P153,naevus portwine,포도주색 모반,True,True,True,포도주색 모반,,
+none,P153,in situ hybridization,제자리부합법,True,True,False,,,
+none,P153,subadventitial fibroplasia,외막밑섬유증식,True,True,False,,,
+none,P154,aerial infection,흡입감염,True,True,False,,,
+none,P154,intranasal ethmoidectomy,사골동염근치술; 비내 접근법,True,True,False,,,
+none,P154,hand,수,True,True,True,수,,
+none,P155,normokalemic,정상칼륨혈-,True,True,False,,,
+none,P155,polygraph,다원기록기,True,True,False,,,
+none,P155,video laryngoscopy,비디오후두경검사(법),True,True,False,,,
+none,P156,salbutamol,살부타몰,True,True,True,살부타몰,,
+none,P156,reverse mutation,역돌연변이,True,True,True,역돌연변이,,
+none,P156,single outlet heart,단일유출로심장,True,True,False,,,
+none,P157,blood donation,헌혈,True,True,True,헌혈,,
+none,P157,mitokinetic,유사운동-,True,True,False,,,
+none,P157,distraction therapy,골신장술,True,True,False,,,
+none,P158,angiohyalinosis,혈관유리질증,True,True,False,,,
+none,P158,prolonged latent phase,지연된 잠복기,True,True,False,,,
+none,P158,rolling disease,회전병,True,True,False,,,
+none,P159,anaphylactoid crisis,아나필락시스유사위기,True,True,False,,,
+none,P159,nitrogen dioxide,이산화질소,True,True,True,이산화질소,,
+none,P159,pulmonary atelectasis,무기폐,True,True,True,무기폐,,
+none,P160,macrocytic anemia,큰적혈구빈혈,True,True,False,,,
+none,P160,retrognathism,하악후퇴,True,True,True,하악후퇴,,
+none,P160,removal of restoration,기존 보철물 제거,True,True,False,,,
+none,P161,clubbing of nails,손톱의 곤봉화,True,True,False,,,
+none,P161,carpenter's syndrome,카펜터 증후군,True,True,True,카펜터 증후군,,
+none,P161,immature proglottid,미성숙편절,True,True,False,,,
+none,P162,toxic cardiopathy,독성심장병(증),True,True,False,,,
+none,P162,amphorophony,공동공명음,True,True,False,,,
+none,P162,blood in stool,대변 속 혈액,True,True,False,,,
+none,P163,nephritic retinitis,콩팥염망막염,True,True,False,,,
+none,P163,hemopleuropneumonic syndrome,혈액가슴막폐렴증후군,True,True,False,,,
+none,P163,operative ultrasound,수술중초음파검사,True,True,False,,,
+none,P164,transfusion tests,수혈혈액검사,True,True,False,,,
+none,P164,throat pruritus,목구멍 가려움증,True,True,False,,,
+none,P164,cholangioscopy,담관내시경(술),True,True,False,,,
+none,P165,filarial chylocele,사상충성 음낭암죽종,True,True,False,,,
+none,P165,nummular dermatitis,동전모양피부염,True,True,False,,,
+none,P165,bronchus t-tube insertion,기관지 T-삽관,True,True,False,,,
+none,P166,fluoridation,불소화,False,False,True,불소화,,
+none,P166,ramicotomy,신경분지절단(술),True,True,False,,,
+none,P166,incretology,내분비학,True,True,True,내분비학,,
+none,P167,masticatory dysfunction,씹기 기능장애,True,True,False,,,
+none,P167,semidirected lead,반직접유도,True,True,False,,,
+none,P167,auriculopalpebral reflex,이개안검반사,True,True,False,,,
+none,P168,psoriatic spondylitis,건선척추염,True,True,False,,,
+none,P168,absence of muscle,근육의 결여,True,True,False,,,
+none,P168,debanding,밴드제거,True,True,False,,,
+none,P169,opium plaster,아편고약,True,True,False,,,
+none,P169,melanidrosis,흑색땀증,True,True,False,,,
+none,P169,elongation,신장,True,True,False,,,
+none,P170,double-barreled aorta,이중관대동맥,True,True,False,,,
+none,P170,deceleration,감속,True,True,True,감속,,
+none,P170,autonomic bladder,자율방광,True,True,True,자율방광,,
+none,P171,perseveration,고집증,True,True,False,,,
+none,P171,leukotaxis,백혈구쏠림성,True,True,False,,,
+none,P171,idiotype-anti-idiotype network,개별특이형항체조절망,True,True,False,,,
+none,P172,bovine granulomatous mastitis,소육아종 유방염,True,True,False,,,
+none,P172,gallium scan,갈리움 스캔,True,True,False,,,
+none,P172,cecocentral scotoma,주시점맹점암점,True,True,False,,,
+none,P173,semiadjustable articulator,반적응교합기,True,True,False,,,
+none,P173,assess pulmonary care,호흡기계간호 사정,True,True,False,,,
+none,P173,punctal ectropion,눈물점겉말림,True,True,True,누점외반,,
+none,P174,alcohol swab,알코올솜,True,True,True,알코올솜,,
+none,P174,chondrogen,연골원,True,True,False,,,
+none,P174,periostitis,뼈막염,True,True,True,골막염,,
+none,P175,primary amnion,원시양막,True,True,False,,,
+none,P175,naegleria fowleri,파울러자유아메바,True,True,False,,,
+none,P175,psychosocial development,정신사회발달,True,True,False,,,
+none,P176,breathing bag reservoir,호흡주머니,True,True,False,,,
+none,P176,hodgkin disease,호지킨병,True,True,True,호지킨병,,
+none,P176,rheumatoid vasculitis,류마티스혈관염,True,True,True,류마티스혈관염,,
+none,P177,fundus photography,안저사진,True,True,True,안저사진,,
+none,P177,suprameatal foveola,바깥귀길위오목,True,True,False,,,
+none,P177,upper extremity,위팔,True,True,True,상지,,
+none,P178,classic abdominoplasty,전형적 복부성형술,True,True,False,,,
+none,P178,intrahepatic,간내-,True,True,False,,,
+none,P178,immunodiagnostic method,면역진단법,True,True,True,면역진단법,,
+none,P179,radiodigital,노손가락-,True,True,False,,,
+none,P179,meckel's diverticulectomy,멕켈 게실절제술,True,True,False,,,
+none,P179,stage of life,생명단계,True,True,False,,,
+none,P180,peritomy,윤부결막절개(술),True,True,False,,,
+none,P180,induced malaria,접종말라리아,True,True,False,,,
+none,P180,sacrococcygeal,엉치꼬리-,True,True,False,,,
+none,P181,standardized rate ratio,표준화비율비,True,True,False,,,
+none,P181,senile(atrophic) vaginitis,노년(위축) 질염,False,False,False,,,
+none,P181,conjoined,연합-,True,True,False,,,
+none,P182,taenia solium,유구조충,True,True,False,,,
+none,P182,polymerism,분절과다증,True,True,False,,,
+none,P182,pachyonychia congenita,선천손발톱비대증,True,True,False,,,
+none,P183,intermenstruum,월경간기,True,True,True,월경간기,,
+none,P183,petrooccipital fissure,바위뒤통수틈새,True,True,False,,,
+none,P183,vibriocide,비브리오살균제,True,True,False,,,
+none,P184,triketohydrindene hydrate test,닌히드린검사,True,True,False,,,
+none,P184,videolaseroscopy,비디오레이저검사,True,True,False,,,
+none,P184,tetrastichiasis,네줄속눈썹(증),True,True,False,,,
+none,P185,retrouterine hematocele,자궁뒤혈액낭종,True,True,False,,,
+none,P185,enteral tube irrigation,위장관세척,True,True,False,,,
+none,P185,pit carries,오목부분 우식,True,True,False,,,
+none,P186,hereditary mutilating keratoma,유전절단각화종,True,True,False,,,
+none,P186,lochioschesis,산후질분비물정체,True,True,False,,,
+none,P186,blood fluke,주혈흡충,True,True,False,,,
+none,P187,uterine inversion,자궁뒤집힘,True,True,True,자궁내번증,,
+none,P187,suture thread,봉합사,True,True,True,봉합사,,
+none,P187,schistasis,갈림증,True,True,False,,,
+none,P188,moniliform nucleus,염주핵,True,True,False,,,
+none,P188,saphenous neuropathy,복재신경병증,True,True,False,,,
+none,P188,morbidity aspects,질병 양상,True,True,False,,,
+none,P189,deltoid flap,어깨세모근피판,True,True,False,,,
+none,P189,cogan's disease,코오간병,True,True,False,,,
+none,P189,paraganglion,곁신경절,True,True,False,,,
+none,P190,nonvascularized bone graft,비혈관뼈이식,True,True,False,,,
+none,P190,macrostomia cribrosa,체반,True,True,False,,,
+none,P190,myotonia,근긴장증,True,True,False,,,
+none,P191,frolement,미세마찰음,True,True,False,,,
+none,P191,ineffective protection,비효율적 방어능력,True,True,False,,,
+none,P191,eye swelling,안구 부기,True,True,False,,,
+none,P192,needle electromyography,바늘근전도검사(법),True,True,False,,,
+none,P192,functional enuresis,기능성 유뇨증,True,True,False,,,
+none,P192,muscle flap,근(육)판,True,True,False,,,
+none,P193,clasp repair,클라스프 수리,True,True,False,,,
+none,P193,ventricular asynergy,심실협동불능(증),True,True,False,,,
+none,P193,jisil,지실(志室),True,True,False,,,
+none,P194,depigmenting cream,탈색크림,True,True,True,탈색크림,,
+none,P194,neck righting reflex,목바로잡기반사,True,True,False,,,
+none,P194,dyslipoproteinemia,이상지질단백혈증,True,True,True,이상지질단백혈증,,
+none,P195,conglutinogen activating factor,교착원활성인자,True,True,False,,,
+none,P195,lambliasis,람블편모충증,True,True,False,,,
+none,P195,conn adenoma,콘 샘종,True,True,False,,,
+none,P196,inspirator,흡입기,True,True,True,흡입기,,
+none,P196,suggillation,광범피부밑출혈,True,True,False,,,
+none,P196,hippocampal sclerosis,해마경화(증),True,True,False,,,
+none,P197,ear probe,귀꽂이,True,True,False,,,
+none,P197,osteochondroma,뼈연골종,True,True,True,골연골종,,
+none,P197,clean bench,무균실험대,True,True,False,,,
+none,P198,speech loss,언어 손실,True,True,False,,,
+none,P198,hemocytometry,혈구계수(법),True,True,False,,,
+none,P198,congenital leukonychia,선천 손발톱백반,True,True,False,,,
+none,P199,hemoclastic reaction,혈구파괴반응,True,True,False,,,
+none,P199,perform infection control,감염통제 수행,True,True,False,,,
+none,P199,endothelial adhesion molecule,내피부착분자,True,True,True,내피부착분자,,
+none,P200,chloropsia,녹색시,True,True,False,,,
+none,P200,homogeneous,균일,True,True,True,균일,,
+none,P200,extrachromosomal inheritance,염색체외유전,True,True,True,염색체외유전,,
+none,P201,coproporphyrinuria,코프로포르피린뇨,True,True,True,코프로포르피린뇨,,
+none,P201,retroactive inhibition,역행기억억제,True,True,False,,,
+none,P201,dyspnea disorder,천증,True,True,True,호흡곤란,,
+none,P202,premenopause,폐경전,True,True,True,폐경전,,
+none,P202,thymus,가슴샘,True,True,True,흉선,,
+none,P202,microincision,미세절개,True,True,True,미세절개,,
+none,P203,neurodeatrophia,망막위축,True,True,False,,,
+none,P203,fasciola hepatica,간질,True,True,False,,,
+none,P203,cystica ureteritis,낭성 요관염,True,True,False,,,
+none,P204,dying process deteriorated,임종과정 악화됨,True,True,False,,,
+none,P204,puboprostatic,두덩전립샘-,True,True,False,,,
+none,P204,bilharzial dysentery,방광주혈흡충이질,True,True,False,,,
+none,P205,orofaciodigital syndrome,구안지 증후군,True,True,False,,,
+none,P205,laparoscopic unilateral salpingo-oophorectomy,배안보개 이용 한쪽 자궁관난소 적출,True,True,False,,,
+none,P205,apneusis,지속들숨,True,True,False,,,
+none,P206,citrate,구연산,True,True,True,구연산,,
+none,P206,trichroism,삼색상,True,True,False,,,
+none,P206,antigenic reversion,항원복귀,True,True,False,,,
+none,P207,annular nucleus,고리핵,True,True,False,,,
+none,P207,entire trapezius muscle,온등세모근,True,True,False,,,
+none,P207,cervico-occipital neuralgia,목 뒤통수 신경통,True,True,False,,,
+none,P208,bougienage of esophagus,식도 부우지법,True,True,False,,,
+none,P208,diabetic coma,당뇨 혼수,True,True,False,,,
+none,P208,atlas-axis spinal fusion,고리뼈-중쇠뼈 척추 유합,True,True,False,,,
+none,P209,postpartum afibrinogenemia,분만후 무피브리노젠혈증,True,True,False,,,
+none,P209,lamblial dysentery,람블편모충이질,True,True,False,,,
+none,P209,technetium uptake test,Tc섭취율,True,True,False,,,
+none,P210,tubular maximum,요세관최대값,True,True,False,,,
+none,P210,apraxia of speech,언어의 실행증,True,True,False,,,
+none,P210,ovarian cystectomy,난소 낭종 적출술,True,True,True,난소 낭종 적출술,,
+none,P211,tumor-specific antigen,종양특이항원,True,True,True,종양특이항원,,
+none,P211,autonomic insufficiency,자율신경부전,True,True,False,,,
+none,P211,vulvovaginal,음문질-,True,True,False,,,
+none,P212,acrotrophodynia,말단영양통증,True,True,False,,,
+none,P212,interfascicular graft,다발사이이식,True,True,False,,,
+none,P212,acentric occlusion,비중심교합,True,True,False,,,
+none,P213,von hippel-lindau disease,폰히펠-린다우병,True,True,False,,,
+none,P213,chemohormonal,화학호르몬-,True,True,False,,,
+none,P213,radiodermatitis,방사선피부염,True,True,True,방사선피부염,,
+none,P214,lipomelanotic reticulosis,지방흑색증성 세망증,True,True,False,,,
+none,P214,parovarian cystoma,난소위체낭,True,True,False,,,
+none,P214,suprapubic prostatectomy,두덩뼈 위쪽 경유 전립샘 절제,True,True,False,,,
+none,P215,corynebacterium pseudotuberculosis,거짓결핵균,True,True,False,,,
+none,P215,laparoscopic appendectomy,배안보개 이용 막창자꼬리 절제,True,True,False,,,
+none,P215,spleen qi deficiency,비기허,True,True,True,비기허,,
+none,P216,hepatogram,간실질상,True,True,False,,,
+none,P216,maxillomandibular disharmony,위아래턱부조화,True,True,True,상하악부조화,,
+none,P216,radiostrontium,방사성스트론튬,True,True,True,방사성스트론튬,,
+none,P217,amputation of cervix,자궁목 절단,True,True,False,,,
+none,P217,hydrometra,물자궁증,True,True,False,,,
+none,P217,calcification of bursa,윤활낭(의) 석회화,True,True,False,,,
+none,P218,arachnoid cyst,거미막하 낭종,True,True,True,거미막 낭종,,
+none,P218,cold sore,입술헤르페스,True,True,False,,,
+none,P218,coxalgic pelvis,엉덩관절병골반,True,True,False,,,
+none,P219,resecting fracture,깍임골절,True,True,False,,,
+none,P219,enterotoxin,창자독소,True,True,True,장독소,,
+none,P219,hypotonus,근육긴장저하,True,True,False,,,
+none,P220,fourth heart sound,제4심(장)음,True,True,False,,,
+none,P220,milieu therapy,환경 치료요법,True,True,False,,,
+none,P220,haematosalpinx,혈난관,True,True,False,,,
+none,P221,revaccination,재접종,True,True,True,재접종,,
+none,P221,impaired eating behaviour,손상된 식습관 행위,True,True,False,,,
+none,P221,presbyophrenia,노년치매,True,True,False,,,
+none,P222,spireme,분산사구,True,True,False,,,
+none,P222,polychromatophilic erythrocyte,다염적혈구,True,True,False,,,
+none,P222,running nose,코감기,True,True,False,,,
+none,P223,excitometabolic,대사촉진-,True,True,False,,,
+none,P223,qrs widened,큐알에스(QRS) 넓힘,True,True,False,,,
+none,P223,neuraxis,신경축,True,True,True,신경축,,
+none,P224,direct coombs test,직접쿰즈검사,True,True,False,,,
+none,P224,fenestrated capillary,창문모세혈관,True,True,False,,,
+none,P224,physics depth sensitivity,물리적깊이민감도,True,True,False,,,
+none,P225,pseudomonas aeruginosa,녹농균,True,True,True,녹농균,,
+none,P225,altered uterine contractions,자궁수축 변화,True,True,False,,,
+none,P225,assess circulatory care,순환계간호 사정,True,True,False,,,
+none,P226,grafting,이식,True,True,True,이식,,
+none,P226,mediastinotomy,세로칸절개(술),True,True,False,,,
+none,P226,hill-sachs lesion,힐-샥스 병터,True,True,False,,,
+none,P227,bilateral palatine tonsils,양측 목구멍 편도,True,True,False,,,
+none,P227,manage immobilizer care,부동간호 관리,True,True,False,,,
+none,P227,head wind,두풍 ; 뇌풍,True,True,False,,,
+none,P228,preexcitation ecg,조기흥분,True,True,False,,,
+none,P228,pneumonia in ornithosis,비둘기병에서의 폐렴,True,True,False,,,
+none,P228,hydrocyst,물낭,True,True,True,수낭,,
+none,P229,triple test,삼중검사,True,True,True,삼중검사,,
+none,P229,heteropolysaccharide,이종다당류,True,True,False,,,
+none,P229,labilizer,불안정제,True,True,False,,,
+none,P230,breath holding spell,숨참기발작,True,True,False,,,
+none,P230,diverticulitis oesophageal,식도 곁주머니염,True,True,False,,,
+none,P230,neurostearic acid,신경지방산,True,True,False,,,
+none,P231,ulcerative gingivitis (chronic),궤양성 치은염(잇몸염)(만성),False,False,False,,,
+none,P231,preleukaemia (syndrome),전백혈병(증후군),False,False,True,전백혈병(증후군),,
+none,P231,bryant's traction,브리언트 당김,True,True,False,,,
+none,P232,cystathionine,시스타티오닌,True,True,True,시스타티오닌,,
+none,P232,medical care division,의료급여구분,True,True,False,,,
+none,P232,medical genetics,의학유전학,True,True,False,,,
+none,P233,puerperium,산후기,True,True,True,산후기,,
+none,P233,evacuation of empyema,축농 제거,True,True,False,,,
+none,P233,simple dressing,단순 처치,True,True,False,,,
+none,P234,heteromorphism,이형,True,True,True,이형,,
+none,P234,atriocarotid interval,심방목동맥간격,True,True,False,,,
+none,P234,muscular dystrophy carrier,근퇴행위축 보균자,True,True,False,,,
+none,P235,dry arthritis,건성관절염,True,True,True,건성관절염,,
+none,P235,foville syndrome,포비유 증후군,True,True,False,,,
+none,P235,chromophilic cell,호색소세포,True,True,False,,,
+none,P236,mediterranean tick fever,지중해진드기열,True,True,True,지중해진드기열,,
+none,P236,pseudoptosis,거짓눈꺼풀처짐,True,True,True,가성안검하수,,
+none,P236,flax-dresser disease,아마포착용자병,True,True,False,,,
+none,P237,personal identity disturbance,자아정체성장애,True,True,True,자아정체성장애,,
+none,P237,glucuronic acid,글루쿠론산,True,True,True,글루쿠론산,,
+none,P237,glycophorin,글리코포린,True,True,True,글리코포린,,
+none,P238,pilar cyst,모낭,True,True,True,모낭,,
+none,P238,revision septoplasty,교정 사이막성형술,True,True,False,,,
+none,P238,late post-traumatic seizures,외상후 지연 발작,True,True,False,,,
+none,P239,total albinism,온백색증,True,True,False,,,
+none,P239,prescription group,처방묶음,True,True,False,,,
+none,P239,antroscope,위턱굴보개,True,True,False,,,
+none,P240,linear craniectomy,선상 머리뼈 절제,True,True,False,,,
+none,P240,myelodysplastic syndromes,골수형성이상증후군,True,True,False,,,
+none,P240,first responder,일차반응자,True,True,False,,,
+none,P241,peritoneal cavity,배막안,True,True,False,,,
+none,P241,ileocolic artery,돌잘룩창자동맥,True,True,False,,,
+none,P241,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,True,True,False,,,
+none,P242,hearing impairment,청각 부전,True,True,False,,,
+none,P242,hysterocystocleisis,자궁방광꿰맴(술),True,True,False,,,
+none,P242,muscular artery,근육형동맥,True,True,False,,,
+none,P243,splenectomy,비장절제,True,True,False,,,
+none,P243,tibia vara,내반경골,True,True,False,,,
+none,P243,platelet,혈소판,True,True,True,혈소판,,
+none,P244,allergenic serum,알레르기혈청,True,True,False,,,
+none,P244,hyperthyroxinemia,고티록신혈증,True,True,True,고티록신혈증,,
+none,P244,grain itch,곡물 소양증,True,True,False,,,
+none,P245,lymphopoiesis,림프구형성,True,True,False,,,
+none,P245,melanoacanthoma,멜라닌가시세포종,True,True,False,,,
+none,P245,anterior resection,앞방향절제(술),True,True,False,,,
+none,P246,oculovagal reflex,눈미주신경반사,True,True,False,,,
+none,P246,tracheobronchial,기관기관지-,True,True,False,,,
+none,P246,abdominal wall strained,배벽 긴장,True,True,False,,,
+none,P247,neurofibromatosis of spine,척수 신경섬유종증,True,True,False,,,
+none,P247,pleurothecal anastomosis,가슴막-척수막 연결,True,True,False,,,
+none,P247,deshielded proton,미차폐양성자,True,True,False,,,
+none,P248,endocervical hyperplasia,자궁목내막과다형성,True,True,False,,,
+none,P248,vague symptom,분명치않는증상,True,True,False,,,
+none,P248,deficient perineum,회음결핍,True,True,False,,,
+none,P249,spot retinoscope,점상망막검영기,True,True,False,,,
+none,P249,biceps femoris muscle,넙다리두갈래근,True,True,True,대퇴이두근,,
+none,P249,tuning fork,소리굽쇠,True,True,True,음차,,
+none,P250,buryu,부류(復溜),True,True,False,,,
+none,P250,dilation of rectum,곧창자 확장,True,True,False,,,
+none,P250,tinea manuum,손백선,True,True,False,,,
+none,P251,diastasimetry,녹말효소측정법,True,True,False,,,
+none,P251,perfluorocarbon,과불화탄소,True,True,True,과불화탄소,,
+none,P251,myelalgia,척수통증,True,True,False,,,
+none,P252,third ventricle,셋째뇌실,True,True,True,제3뇌실,,
+none,P252,cystitomy,수정체낭절개(술),True,True,False,,,
+none,P252,inappropriate self disclosure,부적절한 자기 노출,True,True,False,,,
+none,P253,erythema migrans,이동성 홍반,True,True,False,,,
+none,P253,medical indigent,의료급여대상자,True,True,False,,,
+none,P253,unequal limb length,사지길이부동증,True,True,False,,,
+none,P254,primary mover,주작용근,True,True,False,,,
+none,P254,motor fiber,운동신경섬유,True,True,True,운동섬유,,
+none,P254,tuberculosis of oesophagus,식도의 결핵,True,True,False,,,
+none,P255,primitive neuroectodermal tumor,원시신경외배엽종양,True,True,True,원시신경외배엽종양,,
+none,P255,endovascular ultrasonography,혈관내 초음파촬영,True,True,False,,,
+none,P255,failed forceps,집게 사용 실패,True,True,False,,,
+none,P256,ceruminous gland,귀지샘,True,True,True,귀지샘,,
+none,P256,synclonus,동조근간대,True,True,False,,,
+none,P256,lienorenal,지라콩팥-,True,True,False,,,
+none,P257,affectivity,정동성,True,True,False,,,
+none,P257,ureteropelvic junction,요관깔때기이음부,True,True,False,,,
+none,P257,gangliectomy,신경절절제(술),True,True,False,,,
+none,P258,dry socket recurettage,발치와골염 재소파술,True,True,False,,,
+none,P258,epigastric artery,배벽동맥,True,True,True,복벽동맥,,
+none,P258,transurethral intravesical electrotherapy,요도경유방광속전기요법,True,True,True,경요도방광내전기요법,,
+none,P259,micromanipulation,미세조작(술),True,True,False,,,
+none,P259,negative pressure,음압,True,True,True,음압,,
+none,P259,puborectalis muscle,두덩곧창자근,True,True,True,치골직장근,,
+none,P260,costal angle,갈비뼈각,True,True,True,늑골각,,
+none,P260,abdominal palpable mass,복부 촉지성 종괴,True,True,False,,,
+none,P260,interim abutment,임시 지대주,True,True,True,임시 지대주,,
+none,P261,recession operation,뒤옮김술,True,True,False,,,
+none,P261,podiatrist,발전문가,True,True,False,,,
+none,P261,recurrent thyroid ca,재발성 갑상선암,True,True,True,재발성 갑상선암,,
+none,P262,noonan syndrome,누난 증후군,True,True,True,누난 증후군,,
+none,P262,high-grade lymphoma,심한 림프종,True,True,True,고등급 림프종,,
+none,P262,hereditary amyloid nephropathy,유전성 아밀로이드 신장병증,True,True,False,,,
+none,P263,collagen fiber graft,교원 섬유 이식술,True,True,False,,,
+none,P263,ocular prosthesis,의안,True,True,True,의안,,
+none,P263,laryngopharyngitis,후두인두염,True,True,True,후두인두염,,
+none,P264,postoperative nasopharynx cancer,"비인두암, 수술후 상태",True,True,False,,,
+none,P264,oath of hippocrates,히포크라테스선서,True,True,False,,,
+none,P264,postprocedural hypothyroidism,처치후 갑상선기능저하증,True,True,False,,,
+none,P265,scintillating hemianopia,섬광반맹,True,True,False,,,
+none,P265,dislocation of wrist,손목의 탈구,True,True,False,,,
+none,P265,aspergillus niger,아스페르길루스니게르,True,True,False,,,
+none,P266,paraspasm,대칭성연축,True,True,False,,,
+none,P266,molding,두개몰딩,True,True,False,,,
+none,P266,retention of urine,소변정체,True,True,True,요저류,,
+none,P267,cranial dermal sinus,뇌피부동,True,True,False,,,
+none,P267,retrograde impulse,역방향흥분,True,True,False,,,
+none,P267,iodinated,요오드표지-,True,True,False,,,
+none,P268,spinal injuries,척수 손상,True,True,False,,,
+none,P268,facial nucleus,얼굴신경핵,True,True,False,,,
+none,P268,alert,명료함,True,True,False,,,
+none,P269,dendritic spine,수지상극,True,True,False,,,
+none,P269,hyperestrinism,여성호르몬과다(증),True,True,True,고에스트로겐혈증,,
+none,P269,absolute scotoma,절대암점,True,True,True,절대암점,,
+none,P270,paramyxoviridae infection,파라믹소바이러스 감염,True,True,False,,,
+none,P270,hb-sc disease,헤모글로빈-SC병,True,True,False,,,
+none,P270,echo pulse,초음파,True,True,True,초음파,,
+none,P271,teat,젖꼭지,True,True,True,유두,,
+none,P271,organic writer's cramp,기질성 서경,True,True,True,기질성 서경,,
+none,P271,esthiomene,만성 외음궤양,True,True,False,,,
+none,P272,triaging,중증도 분류,True,True,False,,,
+none,P272,fistula of gallbladder,담낭의 누공,True,True,False,,,
+none,P272,periarthritis of wrist,손목의 관절주위염,True,True,False,,,
+none,P273,inverse-ratio ventilation,역비환기,True,True,False,,,
+none,P273,forehead,전두,True,True,False,,,
+none,P273,complex echo pattern,복잡메아리,True,True,False,,,
+none,P274,blood tinged sputum,혈액흔적가래,True,True,False,,,
+none,P274,kakidrosis,땀악취증,True,True,False,,,
+none,P274,hippuric acid,마뇨산,True,True,True,마뇨산,,
+none,P275,ophthalmophacometer,수정체굴절력측정계,True,True,False,,,
+none,P275,radioimmunoelectrophoresis,방사면역전기이동(법),True,True,False,,,
+none,P275,sirenomelia syndrome,인어다리 증후군,True,True,False,,,
+none,P276,defective interfering particle,결손간섭입자,True,True,False,,,
+none,P276,ancylostoma ceylanicum,실론구충,True,True,False,,,
+none,P276,pupillary seclusion,동공차단,True,True,False,,,
+none,P277,mastadenitis,젖샘염,True,True,True,유선염,,
+none,P277,ophthalmologic surgical procedures,안과 수술방법,True,True,False,,,
+none,P277,catatonic shizophrenia,긴장형 정신분열병,True,True,False,,,
+none,P278,drug-induced,약물유발-,True,True,False,,,
+none,P278,coalescent mastoiditis,융합꼭지돌기염,True,True,False,,,
+none,P278,major calyx,큰콩팥잔,True,True,False,,,
+none,P279,bladder neck contracture,방광목 위축,True,True,False,,,
+none,P279,sign,징후,True,True,True,징후,,
+none,P279,juvenile chronic iridocyclitis,연소성 만성 홍채섬모체염,True,True,False,,,
+none,P280,dural avf,경막의 동정맥루,True,True,True,경막동정맥루,,
+none,P280,myoalbumin,근(육)알부민,True,True,False,,,
+none,P280,hay asthma,건초천식,True,True,False,,,
+none,P281,post-traumatic polyarthrosis,외상후 다발관절증,True,True,False,,,
+none,P281,insular sclerosis,섬경화증,True,True,False,,,
+none,P281,intestinal polypectomy,장 폴립 절제,True,True,True,장 폴립 절제,,
+none,P282,pubocapsular,두덩관절피막-,True,True,False,,,
+none,P282,substantia nigra,흑(색)질,True,True,False,,,
+none,P282,core decompression,중핵감압,True,True,False,,,
+none,P283,nonoperculated egg,무난개충란,True,True,False,,,
+none,P283,transcervical thymectomy,자궁목 경유 가슴샘 절제,True,True,False,,,
+none,P283,phospholipidemia,인지질혈증,True,True,True,인지질혈증,,
+none,P284,infraction,균열골절,True,True,False,,,
+none,P284,epilemmal termination,신경속막종말,True,True,False,,,
+none,P284,hairy-cell leukemia,털세포백혈병,True,True,False,,,
+none,P285,thyroid nodule,갑상선소결절,True,True,False,,,
+none,P285,paraphilia,성도착(증),True,True,False,,,
+none,P285,antifibrinolysin,항섬유소용해소제,True,True,False,,,
+none,P286,talipes calcaneus,발끝들린휜발증,True,True,False,,,
+none,P286,lyophobic,소액성,True,True,False,,,
+none,P286,long labor,지연 진통,True,True,False,,,
+none,P287,allocentric,타인중심-,True,True,False,,,
+none,P287,vegetant intravascular hemangioendothelioma,증식혈관내혈관내피종,True,True,False,,,
+none,P287,cervix dilatation,자궁경부개대,True,True,False,,,
+none,P288,lobectomy of lung,폐엽 절제,True,True,False,,,
+none,P288,supratentorial neoplasms,천막위 신생물,True,True,False,,,
+none,P288,basal seat,의치지지조직,True,True,False,,,
+none,P289,mongoloid slant,몽골인 모양 눈,True,True,False,,,
+none,P289,internal carotid angiography,두경부동맥조영-내경동맥,True,True,False,,,
+none,P289,bionator,바이오네이터,True,True,False,,,
+none,P290,syncytial,합포체-,True,True,False,,,
+none,P290,tangential section,비스듬절단,True,True,False,,,
+none,P290,incisor tooth,절치,True,True,True,절치,,
+none,P291,bird-shot chorioretinopathy,산탄맥락망막병(증),True,True,False,,,
+none,P291,guinea pig,기니피그,True,True,True,기니피그,,
+none,P291,multicystic kidney disease,다낭신장병,True,True,False,,,
+none,P292,endometrial stromal sarcoma,자궁내막버팀질육종,True,True,True,자궁내막간질육종,,
+none,P292,voluntomotory,수의운동-,True,True,False,,,
+none,P292,m line,중간가로막,True,True,False,,,
+none,P293,turbidometric technique,혼탁도측정기법,True,True,False,,,
+none,P293,retaining harness,장치유지,True,True,False,,,
+none,P293,femur,넙다리뼈,True,True,True,대퇴골,,
+none,P294,sarcoma of lung,폐 육종,True,True,False,,,
+none,P294,hyposthenuric urine,저비중뇨,True,True,True,저비중뇨,,
+none,P294,rhabdomyomyxoma,횡문근점액종,True,True,True,횡문근점액종,,
+none,P295,menometrorrhagia,불규칙과다월경,True,True,False,,,
+none,P295,tuning curve,동조곡선,True,True,False,,,
+none,P295,horseshoe fistula,말발굽샛길,True,True,False,,,
+none,P296,ballism,도리깨질(증),True,True,False,,,
+none,P296,paraffinoma,파라핀종,True,True,True,파라핀종,,
+none,P296,virgin population,무노출인구,True,True,False,,,
+none,P297,esterapenia,에스테라아제감소,True,True,False,,,
+none,P297,reconstruction of thumb,엄지 손가락 재건,True,True,False,,,
+none,P297,analgesia dolorosa,무감각부위통증,True,True,False,,,
+none,P298,cabot ring bodies,카보트고리소체,True,True,False,,,
+none,P298,paraduodenal fold,샘창자옆주름,True,True,False,,,
+none,P298,hemoglobin c,헤모글로빈C,True,True,True,헤모글로빈C,,
+none,P299,presence of mei,인공중이삽입물의 존재,True,True,False,,,
+none,P299,mamillitis,유두염,True,True,True,유두염,,
+none,P299,oxyhydrocephalus,뾰족물머리증,True,True,False,,,
+none,P300,root resection,치근 절제술,True,True,False,,,
+none,P300,breast stereotactic biopsy,유방 입체정위 생검술,True,True,False,,,
+none,P300,myotonic disorders,근긴장장애,True,True,False,,,
+none,P301,ionometer,이온화선량계,True,True,False,,,
+none,P301,tingling,저림,True,True,True,저림,,
+none,P301,first filial generation,일대잡종,True,True,False,,,
+none,P302,endosome,엔도솜,True,True,False,,,
+none,P302,mr mapping,자기공명지도화,True,True,False,,,
+none,P302,hyposegmentation,저분절증,True,True,False,,,
+none,P303,intermittent explosive disorder,간헐폭발병,True,True,False,,,
+none,P303,gastroenteritis paratyphosa,파라티푸스위창자염,True,True,False,,,
+none,P303,fixator muscle,고정근육,True,True,False,,,
+none,P304,sao paulo fever,상파울로열,True,True,False,,,
+none,P304,palpating,촉진하기,True,True,False,,,
+none,P304,balloon kyphoplasty,풍선 척추성형,True,True,True,풍선 척추성형,,
+none,P305,assess breastfeeding support,모유수유지지 사정,True,True,False,,,
+none,P305,monopolar depression,단극성 우울병,True,True,False,,,
+none,P305,positioned flap,판막이동수술,True,True,False,,,
+none,P306,prandial,식사-,True,True,False,,,
+none,P306,acanthamoeba keratitis,가시아메바각막염,True,True,False,,,
+none,P306,adjustable suture,조정봉합,True,True,False,,,
+none,P307,hyperosmolar nonketotic coma,고삼투압성비케토산성혼수,True,True,False,,,
+none,P307,gracilis muscle,두덩정강근,True,True,True,박근,,
+none,P307,lobomycosis,로보진균증,True,True,False,,,
+none,P308,flat position,앙와위,True,True,False,,,
+none,P308,plantar flexion,발바닥쪽 굽힘,True,True,False,,,
+none,P308,status thymicus,가슴샘체질,True,True,False,,,
+none,P309,septal angle,코중격각,True,True,False,,,
+none,P309,dementia in hypercalcaemia,과칼슘혈증에서의 치매,True,True,False,,,
+none,P309,teach personal care,개인간호 교육,True,True,False,,,
+none,P310,interoceptive,내수용-,True,True,False,,,
+none,P310,multicystic renal dysplasia,다낭성 신장의 형성이상,True,True,False,,,
+none,P310,fecal concentration,대변농축(법),True,True,False,,,
+none,P311,in utero,자궁내,True,True,True,자궁내,,
+none,P311,bidiscoidal placenta,두원반태반,True,True,False,,,
+none,P311,high-tension pulse,고긴장맥박,True,True,False,,,
+none,P312,idiopathic hemihypertrophy,특발성 편측비대증,True,True,False,,,
+none,P312,skull view,두부촬영,True,True,False,,,
+none,P312,general microbiology test,일반미생물 검사,True,True,True,일반미생물 검사,,
+none,P313,tufting enteropathy,터프팅장증,True,True,False,,,
+none,P313,supraduodenal artery,샘창자위동맥,True,True,True,십이지장상동맥,,
+none,P313,exteroceptive stimulus,외수용자극,True,True,False,,,
+none,P314,reciprocal shaker,왕복진탕기,True,True,True,왕복진탕기,,
+none,P314,potential doubling time,잠재배가시간,True,True,False,,,
+none,P314,staphylococcus epidermidis,표피포도알균,True,True,False,,,
+none,P315,rodenticide,살서제,True,True,True,살서제,,
+none,P315,cataract ou,두눈 백내장,True,True,False,,,
+none,P315,wry neck,기운목,True,True,True,사경,,
+none,P316,curvature of spine,척주굽이,True,True,False,,,
+none,P316,cardiocele,심장류,True,True,False,,,
+none,P316,hyperreninemia,과레닌혈증,True,True,False,,,
+none,P317,sp crown setting,스테인레스금관 합착,True,True,False,,,
+none,P317,calomel,감홍,True,True,False,,,
+none,P317,fiberoptic endoscopic,광섬유내시경,True,True,False,,,
+none,P318,ventriculopleural anastomosis,뇌실가슴막 연결,True,True,False,,,
+none,P318,laryngeal nodule,후두결절,True,True,True,후두결절,,
+none,P318,hbab,간염 B형 표면항체,True,True,False,,,
+none,P319,arthroplasty of foot,발의 관절 성형,True,True,False,,,
+none,P319,perianal haematoma,항문주위혈종,True,True,True,항문주위혈종,,
+none,P319,lichen planus tropicus,열대성 편평태선,True,True,True,열대성 편평태선,,
+none,P320,comparator,비교측정기,True,True,False,,,
+none,P320,menstrual irregularity,월경불규칙,True,True,True,월경불순,,
+none,P320,wrist joint,요골수근관절,True,True,False,,,
+none,P321,third ventricle structure,제3뇌구조,True,True,False,,,
+none,P321,reactive,반응성-,True,True,True,반응성,,
+none,P321,medullary canal,골수공간,True,True,False,,,
+none,P322,fall risk deteriorated,낙상 위험성 악화됨,True,True,False,,,
+none,P322,salpingography and plasty,난관조영촬영 및 개통술,True,True,False,,,
+none,P322,abortive prophage,불완전프로파지,True,True,False,,,
+none,P323,binaural,양귀-,False,False,False,,,
+none,P323,radionuclide angiocardiography,방사성핵종심(장)혈관조영(술),True,True,False,,,
+none,P323,nerve root injury,척추 신경뿌리의 손상,True,True,False,,,
+none,P324,sialodochoplasty,침샘관성형(술),True,True,False,,,
+none,P324,dislocation of midcarpal(joint),중간수근골(관절)의 탈구,False,False,False,,,
+none,P324,plasmablastic lymphoma,형질모세포성 림프종,True,True,True,형질모세포성 림프종,,
+none,P325,assess enema,관장 사정,True,True,False,,,
+none,P325,periodic rhinitis,주기코염,True,True,False,,,
+none,P325,echinocyte,톱니적혈구,True,True,False,,,
+none,P326,polyneuralgia,다발신경통,True,True,False,,,
+none,P326,dromotropic,전도영향성-,True,True,False,,,
+none,P326,altimeter sickness,고산병,True,True,True,고산병,,
+none,P327,gastradenitis,위샘염,True,True,False,,,
+none,P327,near field potential,근접부위전위,True,True,False,,,
+none,P327,auriscope,이경,True,True,True,이경,,
+none,P328,self-care deficit,자가간호결핍,True,True,True,자가간호결핍,,
+none,P328,laryngotracheal stenosis,후두기관협착(증),True,True,False,,,
+none,P328,deuterium,중수소,True,True,True,중수소,,
+none,P329,dialysis adequacy,투석충분도,True,True,False,,,
+none,P329,non-infected,감염되지않은,True,True,True,감염되지않은,,
+none,P329,worm-eaten soles,벌레먹은 발바닥,True,True,False,,,
+none,P330,ischial ramus,궁둥뼈가지,True,True,False,,,
+none,P330,traumatic sah,외상성 지주막하출혈,True,True,True,외상성 지주막하출혈,,
+none,P330,extroverted personality,외향인격,True,True,False,,,
+none,P331,extra-abdominal,복부외-,True,True,False,,,
+none,P331,eccrine poroma,외분비 한공종,True,True,False,,,
+none,P331,activity grade,활동정도,True,True,False,,,
+none,P332,phlebography,정맥조영(술),True,True,False,,,
+none,P332,myoclonia fibrillaris multiplex,다발잔떨림근대성대발작,True,True,False,,,
+none,P332,femur,넙다리뼈,True,True,True,대퇴골,,
+term,P001,autoeroticism,자기성애,True,True,True,자기성애,,
+term,P001,combustion,화상,True,True,True,화상,,
+term,P001,digit preference,끝수선호,True,True,True,끝수선호,,
+term,P002,fusiform layer,방추세포층,True,True,True,방추세포층,,
+term,P002,imitative attitude,모방태도,True,True,True,모방태도,,
+term,P002,hyeopgye,협계(俠谿),True,True,True,협계(俠谿),,
+term,P003,secretory cyst,분비체류성낭,True,True,True,분비체류성낭,,
+term,P003,ricinism,리신증,True,True,True,리신증,,
+term,P003,glaucomatous cataract,녹내장성백내장,True,True,True,녹내장성백내장,,
+term,P004,nodular sclerosis,결절경화,True,True,True,결절경화,,
+term,P004,cross-face,교차얼굴,True,True,True,교차얼굴,,
+term,P004,blind fistula,막힌샛길,True,True,True,막힌샛길,,
+term,P005,varicose vein stripping,정맥류 제거,True,True,True,정맥류 제거,,
+term,P005,rotalix tube,회전양극관,True,True,True,회전양극관,,
+term,P005,smith's fracture,스미드골절,True,True,True,스미드골절,,
+term,P006,framework try-in,금속구조물 시적,True,True,True,금속구조물 시적,,
+term,P006,parrot fever,앵무새열,True,True,True,앵무새열,,
+term,P006,frontal suture,이마봉합선,True,True,True,이마봉합선,,
+term,P007,binder,결합체,True,True,True,결합체,,
+term,P007,water bath,욕조,True,True,True,욕조,,
+term,P007,torr,토르,True,True,True,토르,,
+term,P008,cercosporomycosis,세르코스포라진균증,True,True,True,세르코스포라진균증,,
+term,P008,lipoid dermatoarthritis,리포이드피부관절염,True,True,True,리포이드피부관절염,,
+term,P008,fisher syndrome,피셔증후군,True,True,True,피셔증후군,,
+term,P009,benign familial hematuria,양성 가족성 혈뇨,True,True,True,양성 가족성 혈뇨,,
+term,P009,marsupialization of cyst,낭종 주머니형성,True,True,True,낭종 주머니형성,,
+term,P009,lumbosacral enlargement,요천부팽대,True,True,True,요천부팽대,,
+term,P010,retrocedent gout,내공성통풍,True,True,True,내공성통풍,,
+term,P010,hemianopsia,편측시야결손,True,True,True,편측시야결손,,
+term,P010,enteral feeding,위장관영양,True,True,True,위장관영양,,
+term,P011,ocular fundus,안저,True,True,True,안저,,
+term,P011,condensed chromatin,농축염색질,True,True,True,농축염색질,,
+term,P011,hemacytometry,혈구계수,True,True,True,혈구계수,,
+term,P012,cimex lectularius,빈대,True,True,True,빈대,,
+term,P012,vaginography,질조영(술),True,True,True,질조영(술),,
+term,P012,ear drum,고막,True,True,True,고막,,
+term,P013,dilation of intestine,창자 확장,True,True,True,창자 확장,,
+term,P013,myoclonia fibrillaris multiplex,다발잔떨림근대성대발작,True,True,True,다발잔떨림근대성대발작,,
+term,P013,gitelman syndrome,지텔만 증후군,True,True,True,지텔만 증후군,,
+term,P014,source qi,원기,True,True,True,원기,,
+term,P014,hyperlipidaemia,고지혈증,True,True,True,고지혈증,,
+term,P014,ladder splint,사다리형덧대,True,True,True,사다리형덧대,,
+term,P015,dermatopathic lymphadenopathy,피부병림프절병(증),True,True,True,피부병림프절병(증),,
+term,P015,oil red,오일레드,True,True,True,오일레드,,
+term,P015,defervescence,해열,True,True,True,해열,,
+term,P016,intracranial space-occupying lesion,두개내공간점유병변,True,True,True,두개내공간점유병변,,
+term,P016,picture frustration test,그림좌절검사,True,True,True,그림좌절검사,,
+term,P016,pyroglyphidae,집먼지진드기(과),True,True,True,집먼지진드기(과),,
+term,P017,dorsal vein arterialization,배측 정맥 동맥혈화,True,True,True,배측 정맥 동맥혈화,,
+term,P017,macrocephalus,큰머리증,True,True,True,큰머리증,,
+term,P017,aqueous fluid,방수,True,True,True,방수,,
+term,P018,colon cecum mass,막창자 종괴,True,True,True,막창자 종괴,,
+term,P018,cyematocardia,태아심음,True,True,True,태아심음,,
+term,P018,dyskeratosis congenita,선천 이상각화증,True,True,True,선천 이상각화증,,
+term,P019,supernumeric impacted tooth,과잉매복치,True,True,True,과잉매복치,,
+term,P019,biopsy of cul-de-sac,막힌주머니 생검,True,True,True,막힌주머니 생검,,
+term,P019,gantry,갠트리,True,True,True,갠트리,,
+term,P020,onychopathy,손발톱병(증),True,True,True,손발톱병(증),,
+term,P020,intermetatarsal joint structure,발허리간관절조직,True,True,True,발허리간관절조직,,
+term,P020,first-pass cardiac scan(resting),일회통과심장스캔-안정상태,False,False,False,,,
+term,P021,sex cord-stromal tumor,성끈기질종양,True,True,True,성끈기질종양,,
+term,P021,cardiac murmur,심잡음,True,True,True,심잡음,,
+term,P021,coupling color,커플링염료,True,True,True,커플링염료,,
+term,P022,clostridium histolyticum,클로스트리듐히스톨리티쿰,True,True,True,클로스트리듐히스톨리티쿰,,
+term,P022,total lipodystrophy,전체 지방영양장애,True,True,True,전체 지방영양장애,,
+term,P022,ulceroglandular tularaemia,궤양림프절야생토끼병,True,True,True,궤양림프절야생토끼병,,
+term,P023,open-chain compound,열린사슬화합물,True,True,True,열린사슬화합물,,
+term,P023,z-plasty,Z성형(술),True,True,False,,,
+term,P023,isosorbide,이소소르바이드,True,True,True,이소소르바이드,,
+term,P024,intramuscular nerve stimulation,근육내신경자극치료,True,True,True,근육내신경자극치료,,
+term,P024,developmental retardation child,발달 부진아,True,True,True,발달 부진아,,
+term,P024,holoparasite,완전기생체,True,True,True,완전기생체,,
+term,P025,instep island flap,안쪽발바닥섬피판,True,True,True,안쪽발바닥섬피판,,
+term,P025,shifting reaction,편위반응,True,True,True,편위반응,,
+term,P025,membranous endometritis,막자궁내막염,True,True,True,막자궁내막염,,
+term,P026,phosphene,섬광시,True,True,True,섬광시,,
+term,P026,odontoprisis,이갈기,True,True,True,이갈기,,
+term,P026,cardiography,심장도검사,True,True,True,심장도검사,,
+term,P027,transistor hearing aid,트랜지스터보청기,True,True,True,트랜지스터보청기,,
+term,P027,phlebitis and thrombophlebitis,정맥염 및 혈전정맥염,True,True,True,정맥염 및 혈전정맥염,,
+term,P027,urethroscopic surgery,요도경하 수술,True,True,True,요도경하 수술,,
+term,P028,epidural nerve block,경막외 신경차단술,True,True,True,경막외 신경차단술,,
+term,P028,ataxic hemiparesis,실조성반부전마비,True,True,True,실조성반부전마비,,
+term,P028,organoid tumor,장기모양종양,True,True,True,장기모양종양,,
+term,P029,sclerosing retroperitonitis,경화뒤배막염,True,True,True,경화뒤배막염,,
+term,P029,plate,평판,True,True,True,평판,,
+term,P029,br. tx.,브릿지 치료,False,False,False,,,
+term,P030,acropathy,말단병(증),True,True,True,말단병(증),,
+term,P030,uncoupling,결합저지,True,True,True,결합저지,,
+term,P030,cyst of prostate,전립샘 낭,True,True,True,전립샘 낭,,
+term,P031,chorea gravidarum,임신무도병,True,True,True,임신무도병,,
+term,P031,clay stool,회색변,True,True,True,회색변,,
+term,P031,gorei-san,오령산,True,True,True,오령산,,
+term,P032,graves' ophthalmopathy,그레이브스 눈병증,True,True,True,그레이브스 눈병증,,
+term,P032,non-exudative,삼출되지않은,True,True,True,삼출되지않은,,
+term,P032,endolymphatic duct,속림프관,True,True,True,속림프관,,
+term,P033,arsenic mirror,코거울,True,True,True,코거울,,
+term,P033,supporting spiritual rituals,영적의식 지지하기,True,True,True,영적의식 지지하기,,
+term,P033,muscular atrophy,근위축,True,True,True,근위축,,
+term,P034,spondylopathy,척추병(증),True,True,True,척추병(증),,
+term,P034,thyroidea ima artery,맨아래갑상동맥,True,True,True,맨아래갑상동맥,,
+term,P034,orthognathic surgery,악교정수술,True,True,True,악교정수술,,
+term,P035,lcp disease,넙다리뼈머리뼈끝뼈연골증,True,True,True,넙다리뼈머리뼈끝뼈연골증,,
+term,P035,deforming dorsopathies,변형성 등병증,True,True,True,변형성 등병증,,
+term,P035,bacteriocin,박테리오신,True,True,True,박테리오신,,
+term,P036,thoracalgia,흉통,True,True,True,흉통,,
+term,P036,delay procedure,지연처치,True,True,True,지연처치,,
+term,P036,tricephalus,세머리태아,True,True,True,세머리태아,,
+term,P037,supraclavicular approach,빗장위접근법,True,True,True,빗장위접근법,,
+term,P037,eosinophilic non-allergic rhinitis,호산성 비알레르기성 비염,True,True,True,호산성 비알레르기성 비염,,
+term,P037,papilloma of cerviv,자궁경부의 유두종,True,True,True,자궁경부의 유두종,,
+term,P038,hypothalamic-pituitary-adrenal axis,시상하부-뇌하수체-부신축,True,True,True,시상하부-뇌하수체-부신축,,
+term,P038,androgenic alopecia,안드로젠탈모증,True,True,True,안드로젠탈모증,,
+term,P038,halmatogenesis,돌연세대변이,True,True,True,돌연세대변이,,
+term,P039,isomaltase,이소말타아제,True,True,True,이소말타아제,,
+term,P039,postprocedural subglottic stenosis,처치후 성문하협착,True,True,True,처치후 성문하협착,,
+term,P039,acclimation fever,순화열,True,True,True,순화열,,
+term,P040,intromission,삽입,True,True,True,삽입,,
+term,P040,microlymphatic graft,미세림프절이식,True,True,True,미세림프절이식,,
+term,P040,lenticonus,원뿔수정체,True,True,True,원뿔수정체,,
+term,P041,metagonimus yokogawai,요코가와흡충,True,True,True,요코가와흡충,,
+term,P041,enema apparatus,관장기,True,True,True,관장기,,
+term,P041,rash purpuric,자색반 발진,True,True,True,자색반 발진,,
+term,P042,factor viii,제8인자,True,True,True,제8인자,,
+term,P042,bony excrescence,뼈이상돌출,True,True,True,뼈이상돌출,,
+term,P042,biopsy of adenoid,인두편도 생검,True,True,True,인두편도 생검,,
+term,P043,undercorrection,부족교정,True,True,True,부족교정,,
+term,P043,transluminal coronary atherectomy,내강경유 심장혈관 죽종절제,True,True,True,내강경유 심장혈관 죽종절제,,
+term,P043,stump hallucination,절단끝환각,True,True,True,절단끝환각,,
+term,P044,proenzyme,풋효소,True,True,True,풋효소,,
+term,P044,traveling clinic,이동진료소,True,True,True,이동진료소,,
+term,P044,pallister-killian syndrome,팰리스터-킬리언 증후군,True,True,True,팰리스터-킬리언 증후군,,
+term,P045,leukokeratosis nicotina palati,구개 니코틴성 백색각화증,True,True,True,구개 니코틴성 백색각화증,,
+term,P045,monorchidism,홑고환증,True,True,True,홑고환증,,
+term,P045,steatocystoma,피지낭종,True,True,True,피지낭종,,
+term,P046,vaginal discharge,대하,True,True,True,대하,,
+term,P046,posterior thoracic fusion,뒷쪽 가슴척추 유합,True,True,True,뒷쪽 가슴척추 유합,,
+term,P046,sucking disc,흉반,True,True,True,흉반,,
+term,P047,rectal,곧창자-,True,True,True,곧창자-,,
+term,P047,pyrexia during labour,출산중 발열,True,True,True,출산중 발열,,
+term,P047,genital infection fungal,생식 기관 곰팡이 감염,True,True,True,생식 기관 곰팡이 감염,,
+term,P048,dense deposit disease,고밀도침착병,True,True,True,고밀도침착병,,
+term,P048,endoscopic transmyocardial revascularization,내시경 이용 심근경유 혈관 재형성,True,True,True,내시경 이용 심근경유 혈관 재형성,,
+term,P048,vasectomy seekers,정관절제술탐침,True,True,True,정관절제술탐침,,
+term,P049,convalescence following chemotherapy,화학요법후 회복기,True,True,True,화학요법후 회복기,,
+term,P049,apneustic respiration,지속흡입호흡,True,True,True,지속흡입호흡,,
+term,P049,carpometacarpal joint structure,손목손허리관절,True,True,True,손목손허리관절,,
+term,P050,window defect,창문비침,True,True,True,창문비침,,
+term,P050,metathalamus,시상후부,True,True,True,시상후부,,
+term,P050,patent medicine,특허약,True,True,True,특허약,,
+term,P051,pulex,벼룩(속),True,True,True,벼룩(속),,
+term,P051,genu valgum,외반슬,True,True,True,외반슬,,
+term,P051,thymopoietin,티모포이에틴,True,True,True,티모포이에틴,,
+term,P052,arthroscopic menisectomy,관절경 이용 초승달 절제,True,True,True,관절경 이용 초승달 절제,,
+term,P052,heart rate variability,심박변이도,True,True,True,심박변이도,,
+term,P052,subretinal,망막밑-,True,True,False,,,
+term,P053,waveform,파형,True,True,True,파형,,
+term,P053,closed reduction,비개방정복(술),True,True,True,비개방정복(술),,
+term,P053,pilomatrixoma,털바탕질종,True,True,True,털바탕질종,,
+term,P054,crossbite (anterior)(posterior),맞물림이상(앞쪽)(뒤쪽),False,False,True,교차교합,,
+term,P054,prostatodynia,전립샘통증,True,True,True,전립샘통증,,
+term,P054,uropoiesis,요생산,True,True,True,요생산,,
+term,P055,schistocephalus,머리갈림태아,True,True,True,머리갈림태아,,
+term,P055,modified norwood operation,수정된 노우드수술,True,True,True,수정된 노우드수술,,
+term,P055,peptonization,펩톤화,True,True,True,펩톤화,,
+term,P056,apoplectic coma,중풍혼수,True,True,True,중풍혼수,,
+term,P056,atrioventricular septal defect,심방실중격결손,True,True,True,심방실중격결손,,
+term,P056,assess hospice,호스피스 사정,True,True,True,호스피스 사정,,
+term,P057,continuous,연속-,True,True,False,,,
+term,P057,zoe filling,치아진정처치,True,True,True,치아진정처치,,
+term,P057,oxidizing color,산화염료,True,True,True,산화염료,,
+term,P058,hammerhead ribozyme,망치머리형리보자임,True,True,True,망치머리형리보자임,,
+term,P058,scleral necrosis/melt,공막 괴사/ 융해,False,False,False,,,
+term,P058,infanthood,영아기,True,True,True,영아기,,
+term,P059,ulcerlike nud,궤양성 비궤양성 소화불량,True,True,True,궤양성 비궤양성 소화불량,,
+term,P059,gwollyo,관료(顴髎),True,True,True,관료(顴髎),,
+term,P059,double bladder,중복방광,True,True,True,중복방광,,
+term,P060,auriculotemporal nerve,귓바퀴관자신경,True,True,True,귓바퀴관자신경,,
+term,P060,annulospiral ending,고리나선신경종말,True,True,True,고리나선신경종말,,
+term,P060,ascending arm venography,상지-상행적상지정맥,True,True,True,상지-상행적상지정맥,,
+term,P061,epidermophyton,표피사상균(속),True,True,True,표피사상균(속),,
+term,P061,tubal tonsil,귀인두관편도,True,True,True,귀인두관편도,,
+term,P061,single-step growth curve,일회증식곡선,True,True,True,일회증식곡선,,
+term,P062,antineutrophil cytoplasmic antibody,항중성구세포질항체,True,True,True,항중성구세포질항체,,
+term,P062,pharyngoparalysis,인두마비,True,True,True,인두마비,,
+term,P062,vasa previa,전치 맥관,True,True,True,전치 맥관,,
+term,P063,tzanck smear test,장크도말검사,True,True,True,장크도말검사,,
+term,P063,ecdysis,허물벗기,True,True,True,허물벗기,,
+term,P063,major amblyoscope,대형 약시경,True,True,True,대형 약시경,,
+term,P064,closed approach,폐쇄방법,True,True,True,폐쇄방법,,
+term,P064,thyroid notch,방패패임,True,True,True,방패패임,,
+term,P064,intraocular,안구내-,True,True,False,,,
+term,P065,precipitate labor,급속 분만,True,True,True,급속 분만,,
+term,P065,dental granuloma,뿌리끝육아종,True,True,True,뿌리끝육아종,,
+term,P065,rickets of prematurity,미숙아의 구루병,True,True,True,미숙아의 구루병,,
+term,P066,frontosphenoesthmoidectomy,이마나비사골동절제술,True,True,True,이마나비사골동절제술,,
+term,P066,poor sucking reflex,빨기 반사 어려움,True,True,True,빨기 반사 어려움,,
+term,P066,assessing waste service,쓰레기처리 능력 사정하기,True,True,True,쓰레기처리 능력 사정하기,,
+term,P067,epiduroscopic neuroplasty,내시경적 경막외강 신경성형술,True,True,True,내시경적 경막외강 신경성형술,,
+term,P067,relative scotoma,상대암점,True,True,True,상대암점,,
+term,P067,multiple adenomatous polyps,다발성 샘종성 폴립,True,True,True,다발성 샘종성 폴립,,
+term,P068,solenopsis invicta,불개미,True,True,True,불개미,,
+term,P068,sheathed artery,집형성동맥,True,True,True,집형성동맥,,
+term,P068,ureteroscopic,요도경검사에 의한,True,True,True,요도경검사에 의한,,
+term,P069,multidrug resistance,다약제내성,True,True,True,다약제내성,,
+term,P069,gonadoadvent,생식기능출현기,True,True,True,생식기능출현기,,
+term,P069,pa x-ray,치근단 방사선촬영,True,True,True,치근단 방사선촬영,,
+term,P070,physically handicapped,거동불편자,True,True,True,거동불편자,,
+term,P070,centrolecithal,중심난황-,True,True,False,,,
+term,P070,entire nasal septum,온코사이막,True,True,True,온코사이막,,
+term,P071,a/s capsulectomy,관절경적 피막절제술,False,False,False,,,
+term,P071,posterior cordectomy,뒷쪽 성대 절제,True,True,True,뒷쪽 성대 절제,,
+term,P071,intra-operative neurophysiologic testing,수술중 신경생리학적 검사,True,True,True,수술중 신경생리학적 검사,,
+term,P072,enteropathic arthritis,창자질환성 관절염,True,True,True,창자질환성 관절염,,
+term,P072,oncogene,종양유전자,True,True,True,종양유전자,,
+term,P072,protein-losing enteropathy,단백질소실장병(증),True,True,True,단백질소실장병(증),,
+term,P073,urethrocutaneous fistula,요도피부샛길,True,True,True,요도피부샛길,,
+term,P073,anesthesiologist,마취과의사,True,True,True,마취과의사,,
+term,P073,old tuberculin,재래식투베르쿨린,True,True,True,재래식투베르쿨린,,
+term,P074,microsomia,작은몸증,True,True,True,작은몸증,,
+term,P074,pericanalicular,소관주위-,True,True,True,소관주위-,,
+term,P074,penicillar arteriole,붓털세동맥,True,True,True,붓털세동맥,,
+term,P075,posttransplant lymphoproliferative disease,이식후림프세포증식병,True,True,True,이식후림프세포증식병,,
+term,P075,epididymal duct,부고환관,True,True,True,부고환관,,
+term,P075,urethrotomy,요도 절개,True,True,True,요도 절개,,
+term,P076,inhalator,흡입기,True,True,True,흡입기,,
+term,P076,omsk haemorrhagic fever,옴스크출혈열,True,True,True,옴스크출혈열,,
+term,P076,ramus of pubis,두덩뼈가지,True,True,True,두덩뼈가지,,
+term,P077,dry weight,투석목표체중,True,True,True,투석목표체중,,
+term,P077,macular holes,황반 원공,True,True,True,황반 원공,,
+term,P077,subpapillary arterial network,유두밑동맥그물,True,True,True,유두밑동맥그물,,
+term,P078,syphilogen,매독원,True,True,True,매독원,,
+term,P078,cardiodiaphragmatic angle,심장가로막각,True,True,True,심장가로막각,,
+term,P078,ebonation,뼈조각제거,True,True,True,뼈조각제거,,
+term,P079,diving reflex,잠수반사,True,True,True,잠수반사,,
+term,P079,pungji,풍지(風池),True,True,True,풍지(風池),,
+term,P079,vertebro-basilar artery syndrome,척추-뇌기저동맥증후군,True,True,True,척추-뇌기저동맥증후군,,
+term,P080,chest expiration,가슴 날숨촬영,True,True,True,가슴 날숨촬영,,
+term,P080,rhinoantritis,코굴염,True,True,True,코굴염,,
+term,P080,uremic convulsion,요독경련,True,True,True,요독경련,,
+term,P081,cobblestone tongue,조약돌혀,True,True,True,조약돌혀,,
+term,P081,small-and light-for-dates,과소 및 과소체중아,True,True,True,과소 및 과소체중아,,
+term,P081,saliva viscosity test,타액 점조도 검사,True,True,True,타액 점조도 검사,,
+term,P082,progressive hemifacial atrophy,진행성 반쪽얼굴 위축,True,True,True,진행성 반쪽얼굴 위축,,
+term,P082,afterloading technique,후장진법,True,True,True,후장진법,,
+term,P082,assess disimpaction,매복변제거 사정,True,True,True,매복변제거 사정,,
+term,P083,nodular fasciitis,결절 근막염,True,True,True,결절 근막염,,
+term,P083,zosteriform lentiginous nevus,띠모양흑(색)점모반,True,True,True,띠모양흑(색)점모반,,
+term,P083,nodular prurigo,결절가려움발진,True,True,True,결절가려움발진,,
+term,P084,encephalopathy toxic,독성 뇌병증,True,True,True,독성 뇌병증,,
+term,P084,medial nasal prominence,내측비융기,True,True,True,내측비융기,,
+term,P084,anisometropic amblyopia,굴절부등약시,True,True,True,굴절부등약시,,
+term,P085,t-colectomy,횡행결장절제술,True,True,True,횡행결장절제술,,
+term,P085,bone inlay,골내재,True,True,True,골내재,,
+term,P085,sequestrectomy of skull,머리뼈 부골 절제,True,True,True,머리뼈 부골 절제,,
+term,P086,associated disorder,수반장애,True,True,True,수반장애,,
+term,P086,uncovertebral,갈고리돌기-,True,True,False,,,
+term,P086,cholelithiasis,담석증,True,True,True,담석증,,
+term,P087,meckel's imaging,메켈스 스캔,True,True,True,메켈스 스캔,,
+term,P087,aortic(valve) stenosis,대동맥판협착,False,False,True,대동맥판막협착,,
+term,P087,arm-to-retina circulation time,팔망막순환시간,True,True,True,팔망막순환시간,,
+term,P088,tubular reabsorption,요세관재흡수,True,True,True,요세관재흡수,,
+term,P088,rothmund thomson syndrome,로트문드 톰슨 증후군,True,True,True,로트문드 톰슨 증후군,,
+term,P088,muscle twitch,근육 경련,True,True,True,근육 경련,,
+term,P089,bis in die,1일2회,True,True,True,1일2회,,
+term,P089,abrasion of flank,옆구리 찰과상,True,True,False,,,
+term,P089,gustatory hyperesthesia,미각과민(증),True,True,True,미각과민(증),,
+term,P090,epidermolysis bullosa simplex,단순 수포성 표피박리증,True,True,True,단순 수포성 표피박리증,,
+term,P090,enteral feeding regime,경장 섭취 요법,True,True,True,경장 섭취 요법,,
+term,P090,high quality-hcv ab,정밀면역검사-C형간염항체,True,True,True,정밀면역검사-C형간염항체,,
+term,P091,hepaticostomy,간관루설치(술),True,True,True,간관루설치(술),,
+term,P091,root pain,신경뿌리통증,True,True,True,신경뿌리통증,,
+term,P091,parasympathetic nervous system,부교감신경계통,True,True,True,부교감신경계통,,
+term,P092,x-ray illumination,X선필름판독대,True,True,True,X선필름판독대,,
+term,P092,angioma cavernosum,해면혈관종,True,True,True,해면혈관종,,
+term,P092,cap crown,금관,True,True,True,금관,,
+term,P093,coffin-siris syndrome,코핀-시리스 증후군,True,True,True,코핀-시리스 증후군,,
+term,P093,working length distance,근관장측정검사,True,True,True,근관장측정검사,,
+term,P093,uterine arteriography,복부및골반동맥조영-자궁동맥,True,True,True,복부및골반동맥조영-자궁동맥,,
+term,P094,cirsophthalmia,결막정맥류,True,True,True,결막정맥류,,
+term,P094,interarytenoid notch,모뿔사이패임,True,True,True,모뿔사이패임,,
+term,P094,hot bag,더운물 주머니,True,True,True,더운물 주머니,,
+term,P095,agenesis of lung,폐의 무발생,True,True,True,폐의 무발생,,
+term,P095,perform diversional care,전환간호 수행,True,True,True,전환간호 수행,,
+term,P095,opsin,옵신,True,True,True,옵신,,
+term,P096,growth fever,변증,True,True,True,변증,,
+term,P096,scorbutic ulcer,괴혈병궤양,True,True,True,괴혈병궤양,,
+term,P096,false neuroma,가성신경종,True,True,True,가성신경종,,
+term,P097,neoadjuvant chemotherapy,신보강화학요법,True,True,True,신보강화학요법,,
+term,P097,death,사,True,True,True,사,,
+term,P097,supraspinous,가시끝-,True,True,True,가시끝-,,
+term,P098,functional ileus,기능창자막힘증,True,True,True,기능창자막힘증,,
+term,P098,endorectal pull-through operation,직장내 풀-스루식 수술,True,True,True,직장내 풀-스루식 수술,,
+term,P098,counterfeit disease,꾀병,True,True,True,꾀병,,
+term,P099,micromovement,미세운동,True,True,True,미세운동,,
+term,P099,stenoxenous parasite,협숙주기생충,True,True,True,협숙주기생충,,
+term,P099,surgical staging,외과적시기결정,True,True,True,외과적시기결정,,
+term,P100,overdetermined idea,과잉결정관념,True,True,True,과잉결정관념,,
+term,P100,hyperesophoria,상내사위,True,True,True,상내사위,,
+term,P100,post-term,만삭후,False,False,False,,,
+term,P101,soryo,소료(素髎),True,True,True,소료(素髎),,
+term,P101,endemic disease,풍토병,True,True,True,풍토병,,
+term,P101,eurytrema pancreaticum,췌질,True,True,True,췌질,,
+term,P102,rotational irradiation coach,회전방사선치료대,True,True,True,회전방사선치료대,,
+term,P102,outbreed,무작위교배계,True,True,True,무작위교배계,,
+term,P102,nerve conduction study(head),신경전도검사(두부),False,False,False,,,
+term,P103,pharynx,인두,True,True,True,인두,,
+term,P103,ctha and ctap,컴퓨터 단층촬영 간 동맥조영술과 컴퓨터 단층촬영 문맥조영술,True,True,True,컴퓨터 단층촬영 간 동맥조영술과 컴퓨터 단층촬영 문맥조영술,,
+term,P103,cyclamate,시클라메이트,True,True,True,시클라메이트,,
+term,P104,nuclear polyhedrosis virus,핵다면체형성바이러스,True,True,True,핵다면체형성바이러스,,
+term,P104,platymorphia,편평안구,True,True,True,편평안구,,
+term,P104,square root sign,제곱근모양징후,True,True,True,제곱근모양징후,,
+term,P105,holy fire,에르고트중독증,True,True,True,에르고트중독증,,
+term,P105,hemeralopia,주간맹,True,True,True,주간맹,,
+term,P105,avulsion fracture,찢김 골절,True,True,True,찢김 골절,,
+term,P106,salicylamide,살리실아마이드,True,True,True,살리실아마이드,,
+term,P106,volume elasticity coefficient,용적탄력률,True,True,True,용적탄력률,,
+term,P106,lead gown,납가운,True,True,True,납가운,,
+term,P107,anthracosis,탄분증,True,True,True,탄분증,,
+term,P107,proacrosomal granule,풋첨단체과립,True,True,True,풋첨단체과립,,
+term,P107,cromolyn,크로몰린,True,True,True,크로몰린,,
+term,P108,diffusing capacity,확산능,True,True,True,확산능,,
+term,P108,venule,세정맥,True,True,True,세정맥,,
+term,P108,mucopurulent,점액고름-,True,True,False,,,
+term,P109,blastomyces,분아진균(속),True,True,True,분아진균(속),,
+term,P109,bubbling rale,끓는거품소리,True,True,True,끓는거품소리,,
+term,P109,reverberating circuit,반향회로,True,True,True,반향회로,,
+term,P110,ischial tuberosity structure,궁둥뼈결절,True,True,True,궁둥뼈결절,,
+term,P110,cold pack,찬물 주머니,True,True,True,찬물 주머니,,
+term,P110,airborne infection,공기매개감염,True,True,True,공기매개감염,,
+term,P111,columella lengthening,코기둥연장(술),True,True,True,코기둥연장(술),,
+term,P111,antivitamin,항비타민물질,True,True,True,항비타민물질,,
+term,P111,pyelic,콩팥깔때기-,True,True,True,콩팥깔때기-,,
+term,P112,apical surgery,치근단 수술,True,True,True,치근단 수술,,
+term,P112,fetal cotyledon,태아쪽태반엽,True,True,True,태아쪽태반엽,,
+term,P112,trypanocidal,파동편모충박멸-,True,True,True,파동편모충박멸-,,
+term,P113,laceration of back,등 열상,True,True,True,등 열상,,
+term,P113,cardiac pet-ct,심장 양전자방출단층촬영술,True,True,True,심장 양전자방출단층촬영술,,
+term,P113,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,True,True,True,디스트로피성 수포성 표피박리증,,
+term,P114,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,True,True,True,내시경 이용 눈물주머니코안 연결 교정,,
+term,P114,oncofetal,종양태아-,True,True,True,종양태아-,,
+term,P114,hydrorachis,수척추증,True,True,True,수척추증,,
+term,P115,stenopeic,가는틈-,True,True,True,가는틈-,,
+term,P115,extracoronal,치관외-,True,True,True,치관외-,,
+term,P115,buccal gland,협선,True,True,True,협선,,
+term,P116,ileal neoplasms,돌창자 신생물,True,True,True,돌창자 신생물,,
+term,P116,prostate mri,기본자기공명영상진단-복부-전립선-일반,True,True,True,기본자기공명영상진단-복부-전립선-일반,,
+term,P116,puerility,소아기,True,True,True,소아기,,
+term,P117,genuine diabetes,진성당뇨병,True,True,True,진성당뇨병,,
+term,P117,cervical vertigo,경추성 현기증,True,True,True,경추성 현기증,,
+term,P117,dermatitis verrucosa,사마귀피부염,True,True,True,사마귀피부염,,
+term,P118,antimicrobial eye drop,항균안약,True,True,True,항균안약,,
+term,P118,pressure suit,가압복,True,True,True,가압복,,
+term,P118,derangement of patella,무릎뼈의 장애,True,True,True,무릎뼈의 장애,,
+term,P119,postmenopausal bleeding,폐경기후 출혈,True,True,True,폐경기후 출혈,,
+term,P119,tense,긴장-,True,True,False,,,
+term,P119,congruous field defect,일치시야결손,True,True,True,일치시야결손,,
+term,P120,metarubricyte,후적혈구,True,True,True,후적혈구,,
+term,P120,multiple v-y plasties,V-Y 성형술,True,True,True,V-Y 성형술,,
+term,P120,neonatal oesophageal reflux,신생아식도역류,True,True,True,신생아식도역류,,
+term,P121,cryptogenic sepsis,특발성패혈증,True,True,True,특발성패혈증,,
+term,P121,acne keloidalis,흉터종여드름,True,True,True,흉터종여드름,,
+term,P121,cheondol,천돌(天突),True,True,True,천돌(天突),,
+term,P122,stratified randomization,층별무작위배정(법),True,True,True,층별무작위배정(법),,
+term,P122,interferential action,간섭작용,True,True,True,간섭작용,,
+term,P122,psoas shadow,허리근음영,True,True,True,허리근음영,,
+term,P123,plain radiograph,단순방사선사진,True,True,True,단순방사선사진,,
+term,P123,carbamino reaction,카르바미노반응,True,True,True,카르바미노반응,,
+term,P123,alpha thalassemia,알파 지중해빈혈,True,True,True,알파 지중해빈혈,,
+term,P124,immunoglobulin class,면역글로불린계,True,True,True,면역글로불린계,,
+term,P124,assessing grief,슬픔 사정하기,True,True,True,슬픔 사정하기,,
+term,P124,purpura annularis telangiectodes,고리모세혈관확장자색반,True,True,True,고리모세혈관확장자색반,,
+term,P125,di guglielmo's disease,디구글리엘모병,True,True,True,디구글리엘모병,,
+term,P125,video-urodynamic study,영상요역동학검사,True,True,True,영상요역동학검사,,
+term,P125,primary syphilis,1기매독,True,True,True,1기매독,,
+term,P126,deep mycosis,심재성 진균증,True,True,True,심재성 진균증,,
+term,P126,endothelium-derived relaxing factor,내피유래이완인자,True,True,True,내피유래이완인자,,
+term,P126,descriptive epidemiology,기술역학,True,True,True,기술역학,,
+term,P127,drug induce pruritus,약물 유발성 가려움,True,True,True,약물 유발성 가려움,,
+term,P127,goitrogenic,갑상샘종유발물질-,True,True,True,갑상샘종유발물질-,,
+term,P127,suturing of wound,창상봉합술,True,True,True,창상봉합술,,
+term,P128,expectorant mixture,복합거담제,True,True,True,복합거담제,,
+term,P128,reducing artifact,감소인공물,True,True,True,감소인공물,,
+term,P128,bilaminar vitelline placenta,두겹난황태반,True,True,True,두겹난황태반,,
+term,P129,iridocoloboma,홍채결손,True,True,True,홍채결손,,
+term,P129,glissade,글리사드,True,True,True,글리사드,,
+term,P129,anecdotal,증례서술적,True,True,True,증례서술적,,
+term,P130,hypofunction,기능저하,True,True,True,기능저하,,
+term,P130,ardor,작열감,True,True,True,작열감,,
+term,P130,impulse conducting system,심장흥분전도계통,True,True,True,심장흥분전도계통,,
+term,P131,hyalomere,투명부위,True,True,True,투명부위,,
+term,P131,protrusive position,전방위,True,True,True,전방위,,
+term,P131,joint swelling non-inflammatory,비염증 관절 부기,True,True,True,비염증 관절 부기,,
+term,P132,osteoarthritis,뼈관절염,True,True,True,뼈관절염,,
+term,P132,colpocystocele,질방광탈출(증),True,True,True,질방광탈출(증),,
+term,P132,subspinous,가시돌기밑-,True,True,True,가시돌기밑-,,
+term,P133,refractive accomodative esotropia,굴절조절 내사시,True,True,True,굴절조절 내사시,,
+term,P133,apicoectomy,치근첨절제(술),True,True,True,치근첨절제(술),,
+term,P133,flushing,홍조,True,True,True,홍조,,
+term,P134,aspirations (psychology),흡인,False,False,False,,,
+term,P134,mutiple myeloma,다발성 골수종,True,True,True,다발성 골수종,,
+term,P134,dermoepidermal,진피표피-,True,True,False,,,
+term,P135,a/s posterior capsulo-labroplasty,관절경 후방 피막테두리성형술,False,False,False,,,
+term,P135,entire finger,온손가락,True,True,True,온손가락,,
+term,P135,appendix ultrasound,맹장 초음파,True,True,True,맹장 초음파,,
+term,P136,operative cholangiography,수술쓸개관조영(술),True,True,True,수술쓸개관조영(술),,
+term,P136,ionophore antibiotic,이온투과차단항생제,True,True,True,이온투과차단항생제,,
+term,P136,peritoneocentesis,복막천자,True,True,True,복막천자,,
+term,P137,invasive mole,침윤기태,True,True,True,침윤기태,,
+term,P137,vetebra,척추,True,True,True,척추,,
+term,P137,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",True,True,True,"콩팥요관방광촬영, 왼쪽측방향",,
+term,P138,colonic serosa,잘록창자장막층,True,True,True,잘록창자장막층,,
+term,P138,nasalis muscle,코근,True,True,True,코근,,
+term,P138,onchocercoma,회선사상충결절,True,True,True,회선사상충결절,,
+term,P139,corticobasal degeneration,겉질기저 변성,True,True,True,겉질기저 변성,,
+term,P139,nonalcoholic steaohepatitis,비알코올성 지방간염,True,True,True,비알코올성 지방간염,,
+term,P139,laryngeal carcinoma,후두 암종,True,True,True,후두 암종,,
+term,P140,pseudoepicanthus,거짓눈구석주름,True,True,True,거짓눈구석주름,,
+term,P140,hydropneumothorax,물공기가슴증,True,True,True,물공기가슴증,,
+term,P140,cathemoglobin,카트헤모글로빈,True,True,True,카트헤모글로빈,,
+term,P141,endoscopic retrograde pancreatography,내시경역행이자관조영(술),True,True,True,내시경역행이자관조영(술),,
+term,P141,koop's modified pylomyotomy,쿱의 수정 유문근층 절개,True,True,True,쿱의 수정 유문근층 절개,,
+term,P141,brachiocephalic trunk,팔머리동맥,True,True,True,팔머리동맥,,
+term,P142,pubovaginal,두덩질-,True,True,False,,,
+term,P142,ulcerated external hemorrhoids,궤양성 외치핵,True,True,True,궤양성 외치핵,,
+term,P142,school childhood,학령기,True,True,True,학령기,,
+term,P143,horopter,단일시궤도,True,True,True,단일시궤도,,
+term,P143,vesicorectal fistula,방광직장루,True,True,True,방광직장루,,
+term,P143,dysostosis multiplex group,다발 집단 뼈발생이상,True,True,True,다발 집단 뼈발생이상,,
+term,P144,parathyroid tetany,부갑상선테타니,True,True,True,부갑상선테타니,,
+term,P144,sideroblastic anaemia,철적혈모구빈혈,True,True,True,철적혈모구빈혈,,
+term,P144,meshwork,섬유주,True,True,True,섬유주,,
+term,P145,infantile automatism,젖먹이자동증,True,True,True,젖먹이자동증,,
+term,P145,stomatomy,자궁구절개(술),True,True,True,자궁구절개(술),,
+term,P145,familial polyposis,가족성폴립증,True,True,True,가족성폴립증,,
+term,P146,prootic,귀앞-,True,True,True,귀앞-,,
+term,P146,microencephaly,작은뇌증,True,True,True,작은뇌증,,
+term,P146,ant. uveitis,전방포도막염,False,False,False,,,
+term,P147,vaccination against staphylococcus,포도구균 예방접종,True,True,True,포도구균 예방접종,,
+term,P147,photogene,잔상,True,True,True,잔상,,
+term,P147,cortisol-binding globulin,코티솔결합글로불린,True,True,True,코티솔결합글로불린,,
+term,P148,prolinase,프롤린효소,True,True,True,프롤린효소,,
+term,P148,vibratory auscultation,진동청진,True,True,True,진동청진,,
+term,P148,iridocyclitis in tuberculosis,결핵에서의 홍채섬모체염,True,True,True,결핵에서의 홍채섬모체염,,
+term,P149,egg yolk medium,달걀노른자배지,True,True,True,달걀노른자배지,,
+term,P149,mescaline,메스칼린,True,True,True,메스칼린,,
+term,P149,polymyalgia rheumatica,류마티스성 다발근통,True,True,True,류마티스성 다발근통,,
+term,P150,ossidesmosis,힘줄뼈되기,True,True,True,힘줄뼈되기,,
+term,P150,endoenteritis,창자점막염,True,True,True,창자점막염,,
+term,P150,heart excess patterns,심실증,True,True,True,심실증,,
+term,P151,rodent ulcer,잠식궤양,True,True,True,잠식궤양,,
+term,P151,dopa-responsive dystonia,도파-반응성 근긴장이상,True,True,True,도파-반응성 근긴장이상,,
+term,P151,plating method,평판배양법,True,True,True,평판배양법,,
+term,P152,toilet,세척,True,True,True,세척,,
+term,P152,intermedia thalassaemia,중간형 지중해빈혈,True,True,True,중간형 지중해빈혈,,
+term,P152,superexcitation,과도흥분,True,True,True,과도흥분,,
+term,P153,naevus portwine,포도주색 모반,True,True,True,포도주색 모반,,
+term,P153,in situ hybridization,제자리부합법,True,True,True,제자리부합법,,
+term,P153,subadventitial fibroplasia,외막밑섬유증식,True,True,True,외막밑섬유증식,,
+term,P154,aerial infection,흡입감염,True,True,True,흡입감염,,
+term,P154,intranasal ethmoidectomy,사골동염근치술; 비내 접근법,True,True,True,사골동염근치술; 비내 접근법,,
+term,P154,hand,수,True,True,True,수,,
+term,P155,normokalemic,정상칼륨혈-,True,True,True,정상칼륨혈-,,
+term,P155,polygraph,다원기록기,True,True,True,다원기록기,,
+term,P155,video laryngoscopy,비디오후두경검사(법),True,True,True,비디오후두경검사(법),,
+term,P156,salbutamol,살부타몰,True,True,True,살부타몰,,
+term,P156,reverse mutation,역돌연변이,True,True,True,역돌연변이,,
+term,P156,single outlet heart,단일유출로심장,True,True,True,단일유출로심장,,
+term,P157,blood donation,헌혈,True,True,True,헌혈,,
+term,P157,mitokinetic,유사운동-,True,True,True,유사운동-,,
+term,P157,distraction therapy,골신장술,True,True,True,골신장술,,
+term,P158,angiohyalinosis,혈관유리질증,True,True,True,혈관유리질증,,
+term,P158,prolonged latent phase,지연된 잠복기,True,True,True,지연된 잠복기,,
+term,P158,rolling disease,회전병,True,True,True,회전병,,
+term,P159,anaphylactoid crisis,아나필락시스유사위기,True,True,True,아나필락시스유사위기,,
+term,P159,nitrogen dioxide,이산화질소,True,True,True,이산화질소,,
+term,P159,pulmonary atelectasis,무기폐,True,True,True,무기폐,,
+term,P160,macrocytic anemia,큰적혈구빈혈,True,True,True,큰적혈구빈혈,,
+term,P160,retrognathism,하악후퇴,True,True,True,하악후퇴,,
+term,P160,removal of restoration,기존 보철물 제거,True,True,True,기존 보철물 제거,,
+term,P161,clubbing of nails,손톱의 곤봉화,True,True,True,손톱의 곤봉화,,
+term,P161,carpenter's syndrome,카펜터 증후군,True,True,True,카펜터 증후군,,
+term,P161,immature proglottid,미성숙편절,True,True,True,미성숙편절,,
+term,P162,toxic cardiopathy,독성심장병(증),True,True,True,독성심장병(증),,
+term,P162,amphorophony,공동공명음,True,True,True,공동공명음,,
+term,P162,blood in stool,대변 속 혈액,True,True,True,대변 속 혈액,,
+term,P163,nephritic retinitis,콩팥염망막염,True,True,True,콩팥염망막염,,
+term,P163,hemopleuropneumonic syndrome,혈액가슴막폐렴증후군,True,True,True,혈액가슴막폐렴증후군,,
+term,P163,operative ultrasound,수술중초음파검사,True,True,True,수술중초음파검사,,
+term,P164,transfusion tests,수혈혈액검사,True,True,True,수혈혈액검사,,
+term,P164,throat pruritus,목구멍 가려움증,True,True,True,목구멍 가려움증,,
+term,P164,cholangioscopy,담관내시경(술),True,True,True,담관내시경(술),,
+term,P165,filarial chylocele,사상충성 음낭암죽종,True,True,True,사상충성 음낭암죽종,,
+term,P165,nummular dermatitis,동전모양피부염,True,True,True,동전모양피부염,,
+term,P165,bronchus t-tube insertion,기관지 T-삽관,True,True,True,기관지 T-삽관,,
+term,P166,fluoridation,불소화,False,False,True,불소화,,
+term,P166,ramicotomy,신경분지절단(술),True,True,False,,,
+term,P166,incretology,내분비학,True,True,True,내분비학,,
+term,P167,masticatory dysfunction,씹기 기능장애,True,True,True,씹기 기능장애,,
+term,P167,semidirected lead,반직접유도,True,True,True,반직접유도,,
+term,P167,auriculopalpebral reflex,이개안검반사,True,True,True,이개안검반사,,
+term,P168,psoriatic spondylitis,건선척추염,True,True,True,건선척추염,,
+term,P168,absence of muscle,근육의 결여,True,True,True,근육의 결여,,
+term,P168,debanding,밴드제거,True,True,True,밴드제거,,
+term,P169,opium plaster,아편고약,True,True,True,아편고약,,
+term,P169,melanidrosis,흑색땀증,True,True,True,흑색땀증,,
+term,P169,elongation,신장,True,True,True,신장,,
+term,P170,double-barreled aorta,이중관대동맥,True,True,True,이중관대동맥,,
+term,P170,deceleration,감속,True,True,True,감속,,
+term,P170,autonomic bladder,자율방광,True,True,True,자율방광,,
+term,P171,perseveration,고집증,True,True,True,고집증,,
+term,P171,leukotaxis,백혈구쏠림성,True,True,True,백혈구쏠림성,,
+term,P171,idiotype-anti-idiotype network,개별특이형항체조절망,True,True,True,개별특이형항체조절망,,
+term,P172,bovine granulomatous mastitis,소육아종 유방염,True,True,True,소육아종 유방염,,
+term,P172,gallium scan,갈리움 스캔,True,True,True,갈리움 스캔,,
+term,P172,cecocentral scotoma,주시점맹점암점,True,True,True,주시점맹점암점,,
+term,P173,semiadjustable articulator,반적응교합기,True,True,True,반적응교합기,,
+term,P173,assess pulmonary care,호흡기계간호 사정,True,True,True,호흡기계간호 사정,,
+term,P173,punctal ectropion,눈물점겉말림,True,True,True,눈물점겉말림,,
+term,P174,alcohol swab,알코올솜,True,True,True,알코올솜,,
+term,P174,chondrogen,연골원,True,True,True,연골원,,
+term,P174,periostitis,뼈막염,True,True,True,뼈막염,,
+term,P175,primary amnion,원시양막,True,True,True,원시양막,,
+term,P175,naegleria fowleri,파울러자유아메바,True,True,True,파울러자유아메바,,
+term,P175,psychosocial development,정신사회발달,True,True,True,정신사회발달,,
+term,P176,breathing bag reservoir,호흡주머니,True,True,True,호흡주머니,,
+term,P176,hodgkin disease,호지킨병,True,True,True,호지킨병,,
+term,P176,rheumatoid vasculitis,류마티스혈관염,True,True,True,류마티스혈관염,,
+term,P177,fundus photography,안저사진,True,True,True,안저사진,,
+term,P177,suprameatal foveola,바깥귀길위오목,True,True,True,바깥귀길위오목,,
+term,P177,upper extremity,위팔,True,True,True,위팔,,
+term,P178,classic abdominoplasty,전형적 복부성형술,True,True,True,전형적 복부성형술,,
+term,P178,intrahepatic,간내-,True,True,False,,,
+term,P178,immunodiagnostic method,면역진단법,True,True,True,면역진단법,,
+term,P179,radiodigital,노손가락-,True,True,True,노손가락-,,
+term,P179,meckel's diverticulectomy,멕켈 게실절제술,True,True,True,멕켈 게실절제술,,
+term,P179,stage of life,생명단계,True,True,True,생명단계,,
+term,P180,peritomy,윤부결막절개(술),True,True,True,윤부결막절개(술),,
+term,P180,induced malaria,접종말라리아,True,True,True,접종말라리아,,
+term,P180,sacrococcygeal,엉치꼬리-,True,True,True,엉치꼬리-,,
+term,P181,standardized rate ratio,표준화비율비,True,True,True,표준화비율비,,
+term,P181,senile(atrophic) vaginitis,노년(위축) 질염,False,False,False,,,
+term,P181,conjoined,연합-,True,True,True,연합-,,
+term,P182,taenia solium,유구조충,True,True,True,유구조충,,
+term,P182,polymerism,분절과다증,True,True,True,분절과다증,,
+term,P182,pachyonychia congenita,선천손발톱비대증,True,True,True,선천손발톱비대증,,
+term,P183,intermenstruum,월경간기,True,True,True,월경간기,,
+term,P183,petrooccipital fissure,바위뒤통수틈새,True,True,True,바위뒤통수틈새,,
+term,P183,vibriocide,비브리오살균제,True,True,True,비브리오살균제,,
+term,P184,triketohydrindene hydrate test,닌히드린검사,True,True,True,닌히드린검사,,
+term,P184,videolaseroscopy,비디오레이저검사,True,True,True,비디오레이저검사,,
+term,P184,tetrastichiasis,네줄속눈썹(증),True,True,True,네줄속눈썹(증),,
+term,P185,retrouterine hematocele,자궁뒤혈액낭종,True,True,True,자궁뒤혈액낭종,,
+term,P185,enteral tube irrigation,위장관세척,True,True,True,위장관세척,,
+term,P185,pit carries,오목부분 우식,True,True,True,오목부분 우식,,
+term,P186,hereditary mutilating keratoma,유전절단각화종,True,True,True,유전절단각화종,,
+term,P186,lochioschesis,산후질분비물정체,True,True,True,산후질분비물정체,,
+term,P186,blood fluke,주혈흡충,True,True,True,주혈흡충,,
+term,P187,uterine inversion,자궁뒤집힘,True,True,True,자궁뒤집힘,,
+term,P187,suture thread,봉합사,True,True,True,봉합사,,
+term,P187,schistasis,갈림증,True,True,True,갈림증,,
+term,P188,moniliform nucleus,염주핵,True,True,True,염주핵,,
+term,P188,saphenous neuropathy,복재신경병증,True,True,True,복재신경병증,,
+term,P188,morbidity aspects,질병 양상,True,True,True,질병 양상,,
+term,P189,deltoid flap,어깨세모근피판,True,True,True,어깨세모근피판,,
+term,P189,cogan's disease,코오간병,True,True,True,코오간병,,
+term,P189,paraganglion,곁신경절,True,True,True,곁신경절,,
+term,P190,nonvascularized bone graft,비혈관뼈이식,True,True,True,비혈관뼈이식,,
+term,P190,macrostomia cribrosa,체반,True,True,True,체반,,
+term,P190,myotonia,근긴장증,True,True,True,근긴장증,,
+term,P191,frolement,미세마찰음,True,True,True,미세마찰음,,
+term,P191,ineffective protection,비효율적 방어능력,True,True,True,비효율적 방어능력,,
+term,P191,eye swelling,안구 부기,True,True,True,안구 부기,,
+term,P192,needle electromyography,바늘근전도검사(법),True,True,True,바늘근전도검사(법),,
+term,P192,functional enuresis,기능성 유뇨증,True,True,True,기능성 유뇨증,,
+term,P192,muscle flap,근(육)판,True,True,True,근(육)판,,
+term,P193,clasp repair,클라스프 수리,True,True,True,클라스프 수리,,
+term,P193,ventricular asynergy,심실협동불능(증),True,True,True,심실협동불능(증),,
+term,P193,jisil,지실(志室),True,True,True,지실(志室),,
+term,P194,depigmenting cream,탈색크림,True,True,True,탈색크림,,
+term,P194,neck righting reflex,목바로잡기반사,True,True,True,목바로잡기반사,,
+term,P194,dyslipoproteinemia,이상지질단백혈증,True,True,True,이상지질단백혈증,,
+term,P195,conglutinogen activating factor,교착원활성인자,True,True,True,교착원활성인자,,
+term,P195,lambliasis,람블편모충증,True,True,True,람블편모충증,,
+term,P195,conn adenoma,콘 샘종,True,True,True,콘 샘종,,
+term,P196,inspirator,흡입기,True,True,True,흡입기,,
+term,P196,suggillation,광범피부밑출혈,True,True,True,광범피부밑출혈,,
+term,P196,hippocampal sclerosis,해마경화(증),True,True,True,해마경화(증),,
+term,P197,ear probe,귀꽂이,True,True,True,귀꽂이,,
+term,P197,osteochondroma,뼈연골종,True,True,True,뼈연골종,,
+term,P197,clean bench,무균실험대,True,True,True,무균실험대,,
+term,P198,speech loss,언어 손실,True,True,True,언어 손실,,
+term,P198,hemocytometry,혈구계수(법),True,True,True,혈구계수(법),,
+term,P198,congenital leukonychia,선천 손발톱백반,True,True,True,선천 손발톱백반,,
+term,P199,hemoclastic reaction,혈구파괴반응,True,True,True,혈구파괴반응,,
+term,P199,perform infection control,감염통제 수행,True,True,True,감염통제 수행,,
+term,P199,endothelial adhesion molecule,내피부착분자,True,True,True,내피부착분자,,
+term,P200,chloropsia,녹색시,True,True,True,녹색시,,
+term,P200,homogeneous,균일,True,True,True,균일,,
+term,P200,extrachromosomal inheritance,염색체외유전,True,True,True,염색체외유전,,
+term,P201,coproporphyrinuria,코프로포르피린뇨,True,True,True,코프로포르피린뇨,,
+term,P201,retroactive inhibition,역행기억억제,True,True,True,역행기억억제,,
+term,P201,dyspnea disorder,천증,True,True,True,천증,,
+term,P202,premenopause,폐경전,True,True,True,폐경전,,
+term,P202,thymus,가슴샘,True,True,True,가슴샘,,
+term,P202,microincision,미세절개,True,True,True,미세절개,,
+term,P203,neurodeatrophia,망막위축,True,True,True,망막위축,,
+term,P203,fasciola hepatica,간질,True,True,True,간질,,
+term,P203,cystica ureteritis,낭성 요관염,True,True,True,낭성 요관염,,
+term,P204,dying process deteriorated,임종과정 악화됨,True,True,True,임종과정 악화됨,,
+term,P204,puboprostatic,두덩전립샘-,True,True,False,,,
+term,P204,bilharzial dysentery,방광주혈흡충이질,True,True,True,방광주혈흡충이질,,
+term,P205,orofaciodigital syndrome,구안지 증후군,True,True,True,구안지 증후군,,
+term,P205,laparoscopic unilateral salpingo-oophorectomy,배안보개 이용 한쪽 자궁관난소 적출,True,True,True,배안보개 이용 한쪽 자궁관난소 적출,,
+term,P205,apneusis,지속들숨,True,True,True,지속들숨,,
+term,P206,citrate,구연산,True,True,True,구연산,,
+term,P206,trichroism,삼색상,True,True,True,삼색상,,
+term,P206,antigenic reversion,항원복귀,True,True,True,항원복귀,,
+term,P207,annular nucleus,고리핵,True,True,True,고리핵,,
+term,P207,entire trapezius muscle,온등세모근,True,True,True,온등세모근,,
+term,P207,cervico-occipital neuralgia,목 뒤통수 신경통,True,True,True,목 뒤통수 신경통,,
+term,P208,bougienage of esophagus,식도 부우지법,True,True,True,식도 부우지법,,
+term,P208,diabetic coma,당뇨 혼수,True,True,True,당뇨 혼수,,
+term,P208,atlas-axis spinal fusion,고리뼈-중쇠뼈 척추 유합,True,True,True,고리뼈-중쇠뼈 척추 유합,,
+term,P209,postpartum afibrinogenemia,분만후 무피브리노젠혈증,True,True,True,분만후 무피브리노젠혈증,,
+term,P209,lamblial dysentery,람블편모충이질,True,True,True,람블편모충이질,,
+term,P209,technetium uptake test,Tc섭취율,True,True,True,Tc섭취율,,
+term,P210,tubular maximum,요세관최대값,True,True,True,요세관최대값,,
+term,P210,apraxia of speech,언어의 실행증,True,True,True,언어의 실행증,,
+term,P210,ovarian cystectomy,난소 낭종 적출술,True,True,True,난소 낭종 적출술,,
+term,P211,tumor-specific antigen,종양특이항원,True,True,True,종양특이항원,,
+term,P211,autonomic insufficiency,자율신경부전,True,True,True,자율신경부전,,
+term,P211,vulvovaginal,음문질-,True,True,True,음문질-,,
+term,P212,acrotrophodynia,말단영양통증,True,True,True,말단영양통증,,
+term,P212,interfascicular graft,다발사이이식,True,True,True,다발사이이식,,
+term,P212,acentric occlusion,비중심교합,True,True,True,비중심교합,,
+term,P213,von hippel-lindau disease,폰히펠-린다우병,True,True,True,폰히펠-린다우병,,
+term,P213,chemohormonal,화학호르몬-,True,True,True,화학호르몬-,,
+term,P213,radiodermatitis,방사선피부염,True,True,True,방사선피부염,,
+term,P214,lipomelanotic reticulosis,지방흑색증성 세망증,True,True,True,지방흑색증성 세망증,,
+term,P214,parovarian cystoma,난소위체낭,True,True,True,난소위체낭,,
+term,P214,suprapubic prostatectomy,두덩뼈 위쪽 경유 전립샘 절제,True,True,True,두덩뼈 위쪽 경유 전립샘 절제,,
+term,P215,corynebacterium pseudotuberculosis,거짓결핵균,True,True,True,거짓결핵균,,
+term,P215,laparoscopic appendectomy,배안보개 이용 막창자꼬리 절제,True,True,True,배안보개 이용 막창자꼬리 절제,,
+term,P215,spleen qi deficiency,비기허,True,True,True,비기허,,
+term,P216,hepatogram,간실질상,True,True,True,간실질상,,
+term,P216,maxillomandibular disharmony,위아래턱부조화,True,True,True,위아래턱부조화,,
+term,P216,radiostrontium,방사성스트론튬,True,True,True,방사성스트론튬,,
+term,P217,amputation of cervix,자궁목 절단,True,True,True,자궁목 절단,,
+term,P217,hydrometra,물자궁증,True,True,True,물자궁증,,
+term,P217,calcification of bursa,윤활낭(의) 석회화,True,True,False,,,
+term,P218,arachnoid cyst,거미막하 낭종,True,True,False,,,
+term,P218,cold sore,입술헤르페스,True,True,True,입술헤르페스,,
+term,P218,coxalgic pelvis,엉덩관절병골반,True,True,True,엉덩관절병골반,,
+term,P219,resecting fracture,깍임골절,True,True,True,깍임골절,,
+term,P219,enterotoxin,창자독소,True,True,True,창자독소,,
+term,P219,hypotonus,근육긴장저하,True,True,True,근육긴장저하,,
+term,P220,fourth heart sound,제4심(장)음,True,True,True,제4심(장)음,,
+term,P220,milieu therapy,환경 치료요법,True,True,True,환경 치료요법,,
+term,P220,haematosalpinx,혈난관,True,True,True,혈난관,,
+term,P221,revaccination,재접종,True,True,True,재접종,,
+term,P221,impaired eating behaviour,손상된 식습관 행위,True,True,True,손상된 식습관 행위,,
+term,P221,presbyophrenia,노년치매,True,True,True,노년치매,,
+term,P222,spireme,분산사구,True,True,True,분산사구,,
+term,P222,polychromatophilic erythrocyte,다염적혈구,True,True,True,다염적혈구,,
+term,P222,running nose,코감기,True,True,True,코감기,,
+term,P223,excitometabolic,대사촉진-,True,True,False,,,
+term,P223,qrs widened,큐알에스(QRS) 넓힘,True,True,False,,,
+term,P223,neuraxis,신경축,True,True,True,신경축,,
+term,P224,direct coombs test,직접쿰즈검사,True,True,True,직접쿰즈검사,,
+term,P224,fenestrated capillary,창문모세혈관,True,True,True,창문모세혈관,,
+term,P224,physics depth sensitivity,물리적깊이민감도,True,True,True,물리적깊이민감도,,
+term,P225,pseudomonas aeruginosa,녹농균,True,True,True,녹농균,,
+term,P225,altered uterine contractions,자궁수축 변화,True,True,True,자궁수축 변화,,
+term,P225,assess circulatory care,순환계간호 사정,True,True,True,순환계간호 사정,,
+term,P226,grafting,이식,True,True,True,이식,,
+term,P226,mediastinotomy,세로칸절개(술),True,True,True,세로칸절개(술),,
+term,P226,hill-sachs lesion,힐-샥스 병터,True,True,True,힐-샥스 병터,,
+term,P227,bilateral palatine tonsils,양측 목구멍 편도,True,True,True,양측 목구멍 편도,,
+term,P227,manage immobilizer care,부동간호 관리,True,True,True,부동간호 관리,,
+term,P227,head wind,두풍 ; 뇌풍,True,True,True,두풍 ; 뇌풍,,
+term,P228,preexcitation ecg,조기흥분,True,True,True,조기흥분,,
+term,P228,pneumonia in ornithosis,비둘기병에서의 폐렴,True,True,True,비둘기병에서의 폐렴,,
+term,P228,hydrocyst,물낭,True,True,True,물낭,,
+term,P229,triple test,삼중검사,True,True,True,삼중검사,,
+term,P229,heteropolysaccharide,이종다당류,True,True,True,이종다당류,,
+term,P229,labilizer,불안정제,True,True,True,불안정제,,
+term,P230,breath holding spell,숨참기발작,True,True,True,숨참기발작,,
+term,P230,diverticulitis oesophageal,식도 곁주머니염,True,True,True,식도 곁주머니염,,
+term,P230,neurostearic acid,신경지방산,True,True,True,신경지방산,,
+term,P231,ulcerative gingivitis (chronic),궤양성 치은염(잇몸염)(만성),False,False,True,궤양성 잇몸염(만성),,
+term,P231,preleukaemia (syndrome),전백혈병(증후군),False,False,True,전백혈병(증후군),,
+term,P231,bryant's traction,브리언트 당김,True,True,True,브리언트 당김,,
+term,P232,cystathionine,시스타티오닌,True,True,True,시스타티오닌,,
+term,P232,medical care division,의료급여구분,True,True,True,의료급여구분,,
+term,P232,medical genetics,의학유전학,True,True,True,의학유전학,,
+term,P233,puerperium,산후기,True,True,True,산후기,,
+term,P233,evacuation of empyema,축농 제거,True,True,True,축농 제거,,
+term,P233,simple dressing,단순 처치,True,True,True,단순 처치,,
+term,P234,heteromorphism,이형,True,True,True,이형,,
+term,P234,atriocarotid interval,심방목동맥간격,True,True,True,심방목동맥간격,,
+term,P234,muscular dystrophy carrier,근퇴행위축 보균자,True,True,True,근퇴행위축 보균자,,
+term,P235,dry arthritis,건성관절염,True,True,True,건성관절염,,
+term,P235,foville syndrome,포비유 증후군,True,True,True,포비유 증후군,,
+term,P235,chromophilic cell,호색소세포,True,True,True,호색소세포,,
+term,P236,mediterranean tick fever,지중해진드기열,True,True,True,지중해진드기열,,
+term,P236,pseudoptosis,거짓눈꺼풀처짐,True,True,True,거짓눈꺼풀처짐,,
+term,P236,flax-dresser disease,아마포착용자병,True,True,True,아마포착용자병,,
+term,P237,personal identity disturbance,자아정체성장애,True,True,True,자아정체성장애,,
+term,P237,glucuronic acid,글루쿠론산,True,True,True,글루쿠론산,,
+term,P237,glycophorin,글리코포린,True,True,True,글리코포린,,
+term,P238,pilar cyst,모낭,True,True,True,모낭,,
+term,P238,revision septoplasty,교정 사이막성형술,True,True,True,교정 사이막성형술,,
+term,P238,late post-traumatic seizures,외상후 지연 발작,True,True,True,외상후 지연 발작,,
+term,P239,total albinism,온백색증,True,True,True,온백색증,,
+term,P239,prescription group,처방묶음,True,True,True,처방묶음,,
+term,P239,antroscope,위턱굴보개,True,True,True,위턱굴보개,,
+term,P240,linear craniectomy,선상 머리뼈 절제,True,True,True,선상 머리뼈 절제,,
+term,P240,myelodysplastic syndromes,골수형성이상증후군,True,True,True,골수형성이상증후군,,
+term,P240,first responder,일차반응자,True,True,True,일차반응자,,
+term,P241,peritoneal cavity,배막안,True,True,True,배막안,,
+term,P241,ileocolic artery,돌잘룩창자동맥,True,True,True,돌잘룩창자동맥,,
+term,P241,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,True,True,True,크립토콕쿠스수막대뇌염,,
+term,P242,hearing impairment,청각 부전,True,True,True,청각 부전,,
+term,P242,hysterocystocleisis,자궁방광꿰맴(술),True,True,True,자궁방광꿰맴(술),,
+term,P242,muscular artery,근육형동맥,True,True,True,근육형동맥,,
+term,P243,splenectomy,비장절제,True,True,True,비장절제,,
+term,P243,tibia vara,내반경골,True,True,True,내반경골,,
+term,P243,platelet,혈소판,True,True,True,혈소판,,
+term,P244,allergenic serum,알레르기혈청,True,True,True,알레르기혈청,,
+term,P244,hyperthyroxinemia,고티록신혈증,True,True,True,고티록신혈증,,
+term,P244,grain itch,곡물 소양증,True,True,True,곡물 소양증,,
+term,P245,lymphopoiesis,림프구형성,True,True,True,림프구형성,,
+term,P245,melanoacanthoma,멜라닌가시세포종,True,True,True,멜라닌가시세포종,,
+term,P245,anterior resection,앞방향절제(술),True,True,True,앞방향절제(술),,
+term,P246,oculovagal reflex,눈미주신경반사,True,True,True,눈미주신경반사,,
+term,P246,tracheobronchial,기관기관지-,True,True,True,기관기관지-,,
+term,P246,abdominal wall strained,배벽 긴장,True,True,True,배벽 긴장,,
+term,P247,neurofibromatosis of spine,척수 신경섬유종증,True,True,True,척수 신경섬유종증,,
+term,P247,pleurothecal anastomosis,가슴막-척수막 연결,True,True,True,가슴막-척수막 연결,,
+term,P247,deshielded proton,미차폐양성자,True,True,True,미차폐양성자,,
+term,P248,endocervical hyperplasia,자궁목내막과다형성,True,True,True,자궁목내막과다형성,,
+term,P248,vague symptom,분명치않는증상,True,True,True,분명치않는증상,,
+term,P248,deficient perineum,회음결핍,True,True,True,회음결핍,,
+term,P249,spot retinoscope,점상망막검영기,True,True,True,점상망막검영기,,
+term,P249,biceps femoris muscle,넙다리두갈래근,True,True,True,넙다리두갈래근,,
+term,P249,tuning fork,소리굽쇠,True,True,True,소리굽쇠,,
+term,P250,buryu,부류(復溜),True,True,True,부류(復溜),,
+term,P250,dilation of rectum,곧창자 확장,True,True,True,곧창자 확장,,
+term,P250,tinea manuum,손백선,True,True,True,손백선,,
+term,P251,diastasimetry,녹말효소측정법,True,True,True,녹말효소측정법,,
+term,P251,perfluorocarbon,과불화탄소,True,True,True,과불화탄소,,
+term,P251,myelalgia,척수통증,True,True,True,척수통증,,
+term,P252,third ventricle,셋째뇌실,True,True,True,셋째뇌실,,
+term,P252,cystitomy,수정체낭절개(술),True,True,True,수정체낭절개(술),,
+term,P252,inappropriate self disclosure,부적절한 자기 노출,True,True,True,부적절한 자기 노출,,
+term,P253,erythema migrans,이동성 홍반,True,True,True,이동성 홍반,,
+term,P253,medical indigent,의료급여대상자,True,True,True,의료급여대상자,,
+term,P253,unequal limb length,사지길이부동증,True,True,True,사지길이부동증,,
+term,P254,primary mover,주작용근,True,True,True,주작용근,,
+term,P254,motor fiber,운동신경섬유,True,True,True,운동신경섬유,,
+term,P254,tuberculosis of oesophagus,식도의 결핵,True,True,True,식도의 결핵,,
+term,P255,primitive neuroectodermal tumor,원시신경외배엽종양,True,True,True,원시신경외배엽종양,,
+term,P255,endovascular ultrasonography,혈관내 초음파촬영,True,True,True,혈관내 초음파촬영,,
+term,P255,failed forceps,집게 사용 실패,True,True,True,집게 사용 실패,,
+term,P256,ceruminous gland,귀지샘,True,True,True,귀지샘,,
+term,P256,synclonus,동조근간대,True,True,True,동조근간대,,
+term,P256,lienorenal,지라콩팥-,True,True,True,지라콩팥-,,
+term,P257,affectivity,정동성,True,True,True,정동성,,
+term,P257,ureteropelvic junction,요관깔때기이음부,True,True,True,요관깔때기이음부,,
+term,P257,gangliectomy,신경절절제(술),True,True,True,신경절절제(술),,
+term,P258,dry socket recurettage,발치와골염 재소파술,True,True,True,발치와골염 재소파술,,
+term,P258,epigastric artery,배벽동맥,True,True,True,배벽동맥,,
+term,P258,transurethral intravesical electrotherapy,요도경유방광속전기요법,True,True,True,요도경유방광속전기요법,,
+term,P259,micromanipulation,미세조작(술),True,True,True,미세조작(술),,
+term,P259,negative pressure,음압,True,True,True,음압,,
+term,P259,puborectalis muscle,두덩곧창자근,True,True,True,두덩곧창자근,,
+term,P260,costal angle,갈비뼈각,True,True,True,갈비뼈각,,
+term,P260,abdominal palpable mass,복부 촉지성 종괴,True,True,True,복부 촉지성 종괴,,
+term,P260,interim abutment,임시 지대주,True,True,True,임시 지대주,,
+term,P261,recession operation,뒤옮김술,True,True,True,뒤옮김술,,
+term,P261,podiatrist,발전문가,True,True,True,발전문가,,
+term,P261,recurrent thyroid ca,재발성 갑상선암,True,True,True,재발성 갑상선암,,
+term,P262,noonan syndrome,누난 증후군,True,True,True,누난 증후군,,
+term,P262,high-grade lymphoma,심한 림프종,True,True,True,심한 림프종,,
+term,P262,hereditary amyloid nephropathy,유전성 아밀로이드 신장병증,True,True,True,유전성 아밀로이드 신장병증,,
+term,P263,collagen fiber graft,교원 섬유 이식술,True,True,True,교원 섬유 이식술,,
+term,P263,ocular prosthesis,의안,True,True,True,의안,,
+term,P263,laryngopharyngitis,후두인두염,True,True,True,후두인두염,,
+term,P264,postoperative nasopharynx cancer,"비인두암, 수술후 상태",True,True,True,"비인두암, 수술후 상태",,
+term,P264,oath of hippocrates,히포크라테스선서,True,True,True,히포크라테스선서,,
+term,P264,postprocedural hypothyroidism,처치후 갑상선기능저하증,True,True,True,처치후 갑상선기능저하증,,
+term,P265,scintillating hemianopia,섬광반맹,True,True,True,섬광반맹,,
+term,P265,dislocation of wrist,손목의 탈구,True,True,True,손목의 탈구,,
+term,P265,aspergillus niger,아스페르길루스니게르,True,True,True,아스페르길루스니게르,,
+term,P266,paraspasm,대칭성연축,True,True,True,대칭성연축,,
+term,P266,molding,두개몰딩,True,True,True,두개몰딩,,
+term,P266,retention of urine,소변정체,True,True,True,소변정체,,
+term,P267,cranial dermal sinus,뇌피부동,True,True,True,뇌피부동,,
+term,P267,retrograde impulse,역방향흥분,True,True,True,역방향흥분,,
+term,P267,iodinated,요오드표지-,True,True,False,,,
+term,P268,spinal injuries,척수 손상,True,True,True,척수 손상,,
+term,P268,facial nucleus,얼굴신경핵,True,True,True,얼굴신경핵,,
+term,P268,alert,명료함,True,True,True,명료함,,
+term,P269,dendritic spine,수지상극,True,True,True,수지상극,,
+term,P269,hyperestrinism,여성호르몬과다(증),True,True,True,여성호르몬과다(증),,
+term,P269,absolute scotoma,절대암점,True,True,True,절대암점,,
+term,P270,paramyxoviridae infection,파라믹소바이러스 감염,True,True,True,파라믹소바이러스 감염,,
+term,P270,hb-sc disease,헤모글로빈-SC병,True,True,True,헤모글로빈-SC병,,
+term,P270,echo pulse,초음파,True,True,True,초음파,,
+term,P271,teat,젖꼭지,True,True,True,젖꼭지,,
+term,P271,organic writer's cramp,기질성 서경,True,True,True,기질성 서경,,
+term,P271,esthiomene,만성 외음궤양,True,True,True,만성 외음궤양,,
+term,P272,triaging,중증도 분류,True,True,True,중증도 분류,,
+term,P272,fistula of gallbladder,담낭의 누공,True,True,True,담낭의 누공,,
+term,P272,periarthritis of wrist,손목의 관절주위염,True,True,True,손목의 관절주위염,,
+term,P273,inverse-ratio ventilation,역비환기,True,True,True,역비환기,,
+term,P273,forehead,전두,True,True,True,전두,,
+term,P273,complex echo pattern,복잡메아리,True,True,True,복잡메아리,,
+term,P274,blood tinged sputum,혈액흔적가래,True,True,True,혈액흔적가래,,
+term,P274,kakidrosis,땀악취증,True,True,True,땀악취증,,
+term,P274,hippuric acid,마뇨산,True,True,True,마뇨산,,
+term,P275,ophthalmophacometer,수정체굴절력측정계,True,True,True,수정체굴절력측정계,,
+term,P275,radioimmunoelectrophoresis,방사면역전기이동(법),True,True,True,방사면역전기이동(법),,
+term,P275,sirenomelia syndrome,인어다리 증후군,True,True,True,인어다리 증후군,,
+term,P276,defective interfering particle,결손간섭입자,True,True,True,결손간섭입자,,
+term,P276,ancylostoma ceylanicum,실론구충,True,True,True,실론구충,,
+term,P276,pupillary seclusion,동공차단,True,True,True,동공차단,,
+term,P277,mastadenitis,젖샘염,True,True,True,젖샘염,,
+term,P277,ophthalmologic surgical procedures,안과 수술방법,True,True,True,안과 수술방법,,
+term,P277,catatonic shizophrenia,긴장형 정신분열병,True,True,True,긴장형 정신분열병,,
+term,P278,drug-induced,약물유발-,True,True,True,약물유발-,,
+term,P278,coalescent mastoiditis,융합꼭지돌기염,True,True,True,융합꼭지돌기염,,
+term,P278,major calyx,큰콩팥잔,True,True,True,큰콩팥잔,,
+term,P279,bladder neck contracture,방광목 위축,True,True,True,방광목 위축,,
+term,P279,sign,징후,True,True,True,징후,,
+term,P279,juvenile chronic iridocyclitis,연소성 만성 홍채섬모체염,True,True,True,연소성 만성 홍채섬모체염,,
+term,P280,dural avf,경막의 동정맥루,True,True,True,경막의 동정맥루,,
+term,P280,myoalbumin,근(육)알부민,True,True,True,근(육)알부민,,
+term,P280,hay asthma,건초천식,True,True,True,건초천식,,
+term,P281,post-traumatic polyarthrosis,외상후 다발관절증,True,True,True,외상후 다발관절증,,
+term,P281,insular sclerosis,섬경화증,True,True,True,섬경화증,,
+term,P281,intestinal polypectomy,장 폴립 절제,True,True,True,장 폴립 절제,,
+term,P282,pubocapsular,두덩관절피막-,True,True,False,,,
+term,P282,substantia nigra,흑(색)질,True,True,True,흑(색)질,,
+term,P282,core decompression,중핵감압,True,True,True,중핵감압,,
+term,P283,nonoperculated egg,무난개충란,True,True,True,무난개충란,,
+term,P283,transcervical thymectomy,자궁목 경유 가슴샘 절제,True,True,True,자궁목 경유 가슴샘 절제,,
+term,P283,phospholipidemia,인지질혈증,True,True,True,인지질혈증,,
+term,P284,infraction,균열골절,True,True,True,균열골절,,
+term,P284,epilemmal termination,신경속막종말,True,True,True,신경속막종말,,
+term,P284,hairy-cell leukemia,털세포백혈병,True,True,True,털세포백혈병,,
+term,P285,thyroid nodule,갑상선소결절,True,True,True,갑상선소결절,,
+term,P285,paraphilia,성도착(증),True,True,True,성도착(증),,
+term,P285,antifibrinolysin,항섬유소용해소제,True,True,True,항섬유소용해소제,,
+term,P286,talipes calcaneus,발끝들린휜발증,True,True,True,발끝들린휜발증,,
+term,P286,lyophobic,소액성,True,True,True,소액성,,
+term,P286,long labor,지연 진통,True,True,True,지연 진통,,
+term,P287,allocentric,타인중심-,True,True,True,타인중심-,,
+term,P287,vegetant intravascular hemangioendothelioma,증식혈관내혈관내피종,True,True,True,증식혈관내혈관내피종,,
+term,P287,cervix dilatation,자궁경부개대,True,True,True,자궁경부개대,,
+term,P288,lobectomy of lung,폐엽 절제,True,True,True,폐엽 절제,,
+term,P288,supratentorial neoplasms,천막위 신생물,True,True,True,천막위 신생물,,
+term,P288,basal seat,의치지지조직,True,True,True,의치지지조직,,
+term,P289,mongoloid slant,몽골인 모양 눈,True,True,True,몽골인 모양 눈,,
+term,P289,internal carotid angiography,두경부동맥조영-내경동맥,True,True,True,두경부동맥조영-내경동맥,,
+term,P289,bionator,바이오네이터,True,True,True,바이오네이터,,
+term,P290,syncytial,합포체-,True,True,True,합포체,,
+term,P290,tangential section,비스듬절단,True,True,True,비스듬절단,,
+term,P290,incisor tooth,절치,True,True,True,절치,,
+term,P291,bird-shot chorioretinopathy,산탄맥락망막병(증),True,True,True,산탄맥락망막병(증),,
+term,P291,guinea pig,기니피그,True,True,True,기니피그,,
+term,P291,multicystic kidney disease,다낭신장병,True,True,True,다낭신장병,,
+term,P292,endometrial stromal sarcoma,자궁내막버팀질육종,True,True,True,자궁내막버팀질육종,,
+term,P292,voluntomotory,수의운동-,True,True,True,수의운동,,
+term,P292,m line,중간가로막,True,True,True,중간가로막,,
+term,P293,turbidometric technique,혼탁도측정기법,True,True,True,혼탁도측정기법,,
+term,P293,retaining harness,장치유지,True,True,True,장치유지,,
+term,P293,femur,넙다리뼈,True,True,True,넙다리뼈,,
+term,P294,sarcoma of lung,폐 육종,True,True,True,폐 육종,,
+term,P294,hyposthenuric urine,저비중뇨,True,True,True,저비중뇨,,
+term,P294,rhabdomyomyxoma,횡문근점액종,True,True,True,횡문근점액종,,
+term,P295,menometrorrhagia,불규칙과다월경,True,True,True,불규칙과다월경,,
+term,P295,tuning curve,동조곡선,True,True,True,동조곡선,,
+term,P295,horseshoe fistula,말발굽샛길,True,True,True,말발굽샛길,,
+term,P296,ballism,도리깨질(증),True,True,True,도리깨질(증),,
+term,P296,paraffinoma,파라핀종,True,True,True,파라핀종,,
+term,P296,virgin population,무노출인구,True,True,True,무노출인구,,
+term,P297,esterapenia,에스테라아제감소,True,True,True,에스테라아제감소,,
+term,P297,reconstruction of thumb,엄지 손가락 재건,True,True,True,엄지 손가락 재건,,
+term,P297,analgesia dolorosa,무감각부위통증,True,True,True,무감각부위통증,,
+term,P298,cabot ring bodies,카보트고리소체,True,True,True,카보트고리소체,,
+term,P298,paraduodenal fold,샘창자옆주름,True,True,True,샘창자옆주름,,
+term,P298,hemoglobin c,헤모글로빈C,True,True,True,헤모글로빈C,,
+term,P299,presence of mei,인공중이삽입물의 존재,True,True,True,인공중이삽입물의 존재,,
+term,P299,mamillitis,유두염,True,True,True,유두염,,
+term,P299,oxyhydrocephalus,뾰족물머리증,True,True,True,뾰족물머리증,,
+term,P300,root resection,치근 절제술,True,True,True,치근 절제술,,
+term,P300,breast stereotactic biopsy,유방 입체정위 생검술,True,True,True,유방 입체정위 생검술,,
+term,P300,myotonic disorders,근긴장장애,True,True,True,근긴장장애,,
+term,P301,ionometer,이온화선량계,True,True,True,이온화선량계,,
+term,P301,tingling,저림,True,True,True,저림,,
+term,P301,first filial generation,일대잡종,True,True,True,일대잡종,,
+term,P302,endosome,엔도솜,True,True,True,엔도솜,,
+term,P302,mr mapping,자기공명지도화,True,True,True,자기공명지도화,,
+term,P302,hyposegmentation,저분절증,True,True,True,저분절증,,
+term,P303,intermittent explosive disorder,간헐폭발병,True,True,True,간헐폭발병,,
+term,P303,gastroenteritis paratyphosa,파라티푸스위창자염,True,True,True,파라티푸스위창자염,,
+term,P303,fixator muscle,고정근육,True,True,True,고정근육,,
+term,P304,sao paulo fever,상파울로열,True,True,True,상파울로열,,
+term,P304,palpating,촉진하기,True,True,True,촉진하기,,
+term,P304,balloon kyphoplasty,풍선 척추성형,True,True,True,풍선 척추성형,,
+term,P305,assess breastfeeding support,모유수유지지 사정,True,True,True,모유수유지지 사정,,
+term,P305,monopolar depression,단극성 우울병,True,True,True,단극성 우울병,,
+term,P305,positioned flap,판막이동수술,True,True,True,판막이동수술,,
+term,P306,prandial,식사-,True,True,True,식사-,,
+term,P306,acanthamoeba keratitis,가시아메바각막염,True,True,True,가시아메바각막염,,
+term,P306,adjustable suture,조정봉합,True,True,True,조정봉합,,
+term,P307,hyperosmolar nonketotic coma,고삼투압성비케토산성혼수,True,True,True,고삼투압성비케토산성혼수,,
+term,P307,gracilis muscle,두덩정강근,True,True,True,두덩정강근,,
+term,P307,lobomycosis,로보진균증,True,True,True,로보진균증,,
+term,P308,flat position,앙와위,True,True,True,앙와위,,
+term,P308,plantar flexion,발바닥쪽 굽힘,True,True,True,발바닥쪽 굽힘,,
+term,P308,status thymicus,가슴샘체질,True,True,True,가슴샘체질,,
+term,P309,septal angle,코중격각,True,True,True,코중격각,,
+term,P309,dementia in hypercalcaemia,과칼슘혈증에서의 치매,True,True,True,과칼슘혈증에서의 치매,,
+term,P309,teach personal care,개인간호 교육,True,True,True,개인간호 교육,,
+term,P310,interoceptive,내수용-,True,True,True,내수용-,,
+term,P310,multicystic renal dysplasia,다낭성 신장의 형성이상,True,True,True,다낭성 신장의 형성이상,,
+term,P310,fecal concentration,대변농축(법),True,True,True,대변농축(법),,
+term,P311,in utero,자궁내,True,True,True,자궁내,,
+term,P311,bidiscoidal placenta,두원반태반,True,True,True,두원반태반,,
+term,P311,high-tension pulse,고긴장맥박,True,True,True,고긴장맥박,,
+term,P312,idiopathic hemihypertrophy,특발성 편측비대증,True,True,True,특발성 편측비대증,,
+term,P312,skull view,두부촬영,True,True,True,두부촬영,,
+term,P312,general microbiology test,일반미생물 검사,True,True,True,일반미생물 검사,,
+term,P313,tufting enteropathy,터프팅장증,True,True,True,터프팅장증,,
+term,P313,supraduodenal artery,샘창자위동맥,True,True,True,샘창자위동맥,,
+term,P313,exteroceptive stimulus,외수용자극,True,True,True,외수용자극,,
+term,P314,reciprocal shaker,왕복진탕기,True,True,True,왕복진탕기,,
+term,P314,potential doubling time,잠재배가시간,True,True,True,잠재배가시간,,
+term,P314,staphylococcus epidermidis,표피포도알균,True,True,True,표피포도알균,,
+term,P315,rodenticide,살서제,True,True,True,살서제,,
+term,P315,cataract ou,두눈 백내장,True,True,True,두눈 백내장,,
+term,P315,wry neck,기운목,True,True,True,기운목,,
+term,P316,curvature of spine,척주굽이,True,True,True,척주굽이,,
+term,P316,cardiocele,심장류,True,True,True,심장류,,
+term,P316,hyperreninemia,과레닌혈증,True,True,True,과레닌혈증,,
+term,P317,sp crown setting,스테인레스금관 합착,True,True,True,스테인레스금관 합착,,
+term,P317,calomel,감홍,True,True,True,감홍,,
+term,P317,fiberoptic endoscopic,광섬유내시경,True,True,True,광섬유내시경,,
+term,P318,ventriculopleural anastomosis,뇌실가슴막 연결,True,True,True,뇌실가슴막 연결,,
+term,P318,laryngeal nodule,후두결절,True,True,True,후두결절,,
+term,P318,hbab,간염 B형 표면항체,True,True,True,간염 B형 표면항체,,
+term,P319,arthroplasty of foot,발의 관절 성형,True,True,True,발의 관절 성형,,
+term,P319,perianal haematoma,항문주위혈종,True,True,True,항문주위혈종,,
+term,P319,lichen planus tropicus,열대성 편평태선,True,True,True,열대성 편평태선,,
+term,P320,comparator,비교측정기,True,True,True,비교측정기,,
+term,P320,menstrual irregularity,월경불규칙,True,True,True,월경불규칙,,
+term,P320,wrist joint,요골수근관절,True,True,True,요골수근관절,,
+term,P321,third ventricle structure,제3뇌구조,True,True,True,제3뇌구조,,
+term,P321,reactive,반응성-,True,True,True,반응성,,
+term,P321,medullary canal,골수공간,True,True,True,골수공간,,
+term,P322,fall risk deteriorated,낙상 위험성 악화됨,True,True,True,낙상 위험성 악화됨,,
+term,P322,salpingography and plasty,난관조영촬영 및 개통술,True,True,True,난관조영촬영 및 개통술,,
+term,P322,abortive prophage,불완전프로파지,True,True,True,불완전프로파지,,
+term,P323,binaural,양귀-,False,False,False,,,
+term,P323,radionuclide angiocardiography,방사성핵종심(장)혈관조영(술),True,True,True,방사성핵종심(장)혈관조영(술),,
+term,P323,nerve root injury,척추 신경뿌리의 손상,True,True,True,척추 신경뿌리의 손상,,
+term,P324,sialodochoplasty,침샘관성형(술),True,True,True,침샘관성형(술),,
+term,P324,dislocation of midcarpal(joint),중간수근골(관절)의 탈구,False,False,False,,,
+term,P324,plasmablastic lymphoma,형질모세포성 림프종,True,True,True,형질모세포성 림프종,,
+term,P325,assess enema,관장 사정,True,True,True,관장 사정,,
+term,P325,periodic rhinitis,주기코염,True,True,True,주기코염,,
+term,P325,echinocyte,톱니적혈구,True,True,True,톱니적혈구,,
+term,P326,polyneuralgia,다발신경통,True,True,True,다발신경통,,
+term,P326,dromotropic,전도영향성-,True,True,True,전도영향성-,,
+term,P326,altimeter sickness,고산병,True,True,True,고산병,,
+term,P327,gastradenitis,위샘염,True,True,True,위샘염,,
+term,P327,near field potential,근접부위전위,True,True,True,근접부위전위,,
+term,P327,auriscope,이경,True,True,True,이경,,
+term,P328,self-care deficit,자가간호결핍,True,True,True,자가간호결핍,,
+term,P328,laryngotracheal stenosis,후두기관협착(증),True,True,True,후두기관협착(증),,
+term,P328,deuterium,중수소,True,True,True,중수소,,
+term,P329,dialysis adequacy,투석충분도,True,True,True,투석충분도,,
+term,P329,non-infected,감염되지않은,True,True,True,감염되지않은,,
+term,P329,worm-eaten soles,벌레먹은 발바닥,True,True,True,벌레먹은 발바닥,,
+term,P330,ischial ramus,궁둥뼈가지,True,True,True,궁둥뼈가지,,
+term,P330,traumatic sah,외상성 지주막하출혈,True,True,True,외상성 지주막하출혈,,
+term,P330,extroverted personality,외향인격,True,True,True,외향인격,,
+term,P331,extra-abdominal,복부외-,True,True,True,복부외-,,
+term,P331,eccrine poroma,외분비 한공종,True,True,True,외분비 한공종,,
+term,P331,activity grade,활동정도,True,True,True,활동정도,,
+term,P332,phlebography,정맥조영(술),True,True,True,정맥조영(술),,
+term,P332,myoclonia fibrillaris multiplex,다발잔떨림근대성대발작,True,True,True,다발잔떨림근대성대발작,,
+term,P332,femur,넙다리뼈,True,True,True,넙다리뼈,,
+random,P001,autoeroticism,자기성애,True,True,False,,비디오후두경검사(법),True
+random,P001,combustion,화상,True,True,False,,가시돌기밑-,True
+random,P001,digit preference,끝수선호,True,True,False,,양성 가족성 혈뇨,True
+random,P002,fusiform layer,방추세포층,True,True,False,,질조영(술),True
+random,P002,imitative attitude,모방태도,True,True,False,,수척추증,True
+random,P002,hyeopgye,협계(俠谿),True,True,False,,비효율적 방어능력,False
+random,P003,secretory cyst,분비체류성낭,True,True,False,,비염증 관절 부기,True
+random,P003,ricinism,리신증,True,True,False,,기운목,True
+random,P003,glaucomatous cataract,녹내장성백내장,True,True,False,,온등세모근,True
+random,P004,nodular sclerosis,결절경화,True,True,False,,터프팅장증,False
+random,P004,cross-face,교차얼굴,True,True,False,,혈난관,False
+random,P004,blind fistula,막힌샛길,True,True,False,,균열골절,False
+random,P005,varicose vein stripping,정맥류 제거,True,True,False,,무노출인구,True
+random,P005,rotalix tube,회전양극관,True,True,False,,명료함,True
+random,P005,smith's fracture,스미드골절,True,True,False,,신경축,True
+random,P006,framework try-in,금속구조물 시적,True,True,False,,교차얼굴,True
+random,P006,parrot fever,앵무새열,True,True,False,,표준화비율비,True
+random,P006,frontal suture,이마봉합선,True,True,False,,부족교정,True
+random,P007,binder,결합체,True,True,False,,속림프관,True
+random,P007,water bath,욕조,True,True,False,,궤양림프절야생토끼병,True
+random,P007,torr,토르,True,True,False,,코중격각,True
+random,P008,cercosporomycosis,세르코스포라진균증,True,True,False,,메스칼린,True
+random,P008,lipoid dermatoarthritis,리포이드피부관절염,True,True,False,,건선척추염,True
+random,P008,fisher syndrome,피셔증후군,True,True,False,,내시경 이용 눈물주머니코안 연결 교정,True
+random,P009,benign familial hematuria,양성 가족성 혈뇨,True,True,False,,혈구계수(법),True
+random,P009,marsupialization of cyst,낭종 주머니형성,True,True,False,,발달 부진아,True
+random,P009,lumbosacral enlargement,요천부팽대,True,True,False,,수술중초음파검사,True
+random,P010,retrocedent gout,내공성통풍,True,True,False,,막창자 종괴,True
+random,P010,hemianopsia,편측시야결손,True,True,False,,도리깨질(증),True
+random,P010,enteral feeding,위장관영양,True,True,False,,피지낭종,True
+random,P011,ocular fundus,안저,True,True,False,,인두,True
+random,P011,condensed chromatin,농축염색질,True,True,False,,편측시야결손,True
+random,P011,hemacytometry,혈구계수,True,True,False,,언어의 실행증,True
+random,P012,cimex lectularius,빈대,True,True,False,,고리뼈-중쇠뼈 척추 유합,True
+random,P012,vaginography,질조영(술),True,True,False,,왕복진탕기,True
+random,P012,ear drum,고막,True,True,False,,전치 맥관,True
+random,P013,dilation of intestine,창자 확장,True,True,False,,백혈구쏠림성,True
+random,P013,myoclonia fibrillaris multiplex,다발잔떨림근대성대발작,True,True,False,,복재신경병증,True
+random,P013,gitelman syndrome,지텔만 증후군,True,True,False,,속림프관,True
+random,P014,source qi,원기,True,True,False,,클로스트리듐히스톨리티쿰,True
+random,P014,hyperlipidaemia,고지혈증,True,True,False,,개별특이형항체조절망,True
+random,P014,ladder splint,사다리형덧대,True,True,False,,재발성 갑상선암,True
+random,P015,dermatopathic lymphadenopathy,피부병림프절병(증),True,True,False,,고리뼈-중쇠뼈 척추 유합,True
+random,P015,oil red,오일레드,True,True,False,,후장진법,True
+random,P015,defervescence,해열,True,True,False,,온손가락,True
+random,P016,intracranial space-occupying lesion,두개내공간점유병변,True,True,False,,오령산,True
+random,P016,picture frustration test,그림좌절검사,True,True,False,,안구 부기,True
+random,P016,pyroglyphidae,집먼지진드기(과),True,True,False,,부동간호 관리,True
+random,P017,dorsal vein arterialization,배측 정맥 동맥혈화,True,True,False,,물공기가슴증,True
+random,P017,macrocephalus,큰머리증,True,True,False,,일반미생물 검사,True
+random,P017,aqueous fluid,방수,True,True,False,,손톱의 곤봉화,True
+random,P018,colon cecum mass,막창자 종괴,True,True,False,,거짓결핵균,True
+random,P018,cyematocardia,태아심음,True,True,False,,전백혈병(증후군),True
+random,P018,dyskeratosis congenita,선천 이상각화증,True,True,False,,글루쿠론산,True
+random,P019,supernumeric impacted tooth,과잉매복치,True,True,False,,종양특이항원,True
+random,P019,biopsy of cul-de-sac,막힌주머니 생검,True,True,False,,자궁목내막과다형성,True
+random,P019,gantry,갠트리,True,True,False,,젖먹이자동증,True
+random,P020,onychopathy,손발톱병(증),True,True,False,,소아기,True
+random,P020,intermetatarsal joint structure,발허리간관절조직,True,True,False,,궤양림프절야생토끼병,True
+random,P020,first-pass cardiac scan(resting),일회통과심장스캔-안정상태,False,False,False,,,False
+random,P021,sex cord-stromal tumor,성끈기질종양,True,True,False,,샘창자옆주름,True
+random,P021,cardiac murmur,심잡음,True,True,False,,이마나비사골동절제술,True
+random,P021,coupling color,커플링염료,True,True,False,,낙상 위험성 악화됨,True
+random,P022,clostridium histolyticum,클로스트리듐히스톨리티쿰,True,True,False,,배벽 긴장,True
+random,P022,total lipodystrophy,전체 지방영양장애,True,True,False,,제곱근모양징후,True
+random,P022,ulceroglandular tularaemia,궤양림프절야생토끼병,True,True,False,,증례서술적,True
+random,P023,open-chain compound,열린사슬화합물,True,True,False,,외반슬,True
+random,P023,z-plasty,Z성형(술),True,True,False,,의료급여대상자,True
+random,P023,isosorbide,이소소르바이드,True,True,False,,네줄속눈썹(증),True
+random,P024,intramuscular nerve stimulation,근육내신경자극치료,True,True,False,,혈관내 초음파촬영,True
+random,P024,developmental retardation child,발달 부진아,True,True,False,,수의운동-,True
+random,P024,holoparasite,완전기생체,True,True,False,,구안지 증후군,True
+random,P025,instep island flap,안쪽발바닥섬피판,True,True,False,,기능창자막힘증,True
+random,P025,shifting reaction,편위반응,True,True,False,,대사촉진-,True
+random,P025,membranous endometritis,막자궁내막염,True,True,False,,목 뒤통수 신경통,True
+random,P026,phosphene,섬광시,True,True,False,,"비인두암, 수술후 상태",True
+random,P026,odontoprisis,이갈기,True,True,False,,자궁경부의 유두종,True
+random,P026,cardiography,심장도검사,True,True,False,,지속흡입호흡,True
+random,P027,transistor hearing aid,트랜지스터보청기,True,True,False,,미각과민(증),True
+random,P027,phlebitis and thrombophlebitis,정맥염 및 혈전정맥염,True,True,False,,부교감신경계통,True
+random,P027,urethroscopic surgery,요도경하 수술,True,True,False,,관절경적 피막절제술,True
+random,P028,epidural nerve block,경막외 신경차단술,True,True,False,,초음파,True
+random,P028,ataxic hemiparesis,실조성반부전마비,True,True,False,,배벽동맥,True
+random,P028,organoid tumor,장기모양종양,True,True,False,,건선척추염,True
+random,P029,sclerosing retroperitonitis,경화뒤배막염,True,True,False,,과잉매복치,True
+random,P029,plate,평판,True,True,False,,이갈기,True
+random,P029,br. tx.,브릿지 치료,False,False,False,,,False
+random,P030,acropathy,말단병(증),True,True,False,,모뿔사이패임,True
+random,P030,uncoupling,결합저지,True,True,False,,대사촉진-,True
+random,P030,cyst of prostate,전립샘 낭,True,True,False,,망막위축,True
+random,P031,chorea gravidarum,임신무도병,True,True,False,,이식후림프세포증식병,True
+random,P031,clay stool,회색변,True,True,True,회색변,투명부위,True
+random,P031,gorei-san,오령산,True,True,False,,작은몸증,True
+random,P032,graves' ophthalmopathy,그레이브스 눈병증,True,True,False,,세정맥,True
+random,P032,non-exudative,삼출되지않은,True,True,False,,결합저지,True
+random,P032,endolymphatic duct,속림프관,True,True,False,,젖꼭지,True
+random,P033,arsenic mirror,코거울,True,True,False,,분만후 무피브리노젠혈증,True
+random,P033,supporting spiritual rituals,영적의식 지지하기,True,True,False,,물자궁증,True
+random,P033,muscular atrophy,근위축,True,True,False,,파울러자유아메바,True
+random,P034,spondylopathy,척추병(증),True,True,False,,창자 확장,True
+random,P034,thyroidea ima artery,맨아래갑상동맥,True,True,False,,폐쇄방법,True
+random,P034,orthognathic surgery,악교정수술,True,True,False,,흑색땀증,True
+random,P035,lcp disease,넙다리뼈머리뼈끝뼈연골증,True,True,False,,요세관재흡수,True
+random,P035,deforming dorsopathies,변형성 등병증,True,True,False,,Tc섭취율,True
+random,P035,bacteriocin,박테리오신,True,True,False,,용적탄력률,True
+random,P036,thoracalgia,흉통,True,True,False,,넙다리뼈머리뼈끝뼈연골증,True
+random,P036,delay procedure,지연처치,True,True,False,,내공성통풍,True
+random,P036,tricephalus,세머리태아,True,True,False,,잘록창자장막층,True
+random,P037,supraclavicular approach,빗장위접근법,True,True,False,,돌창자 신생물,True
+random,P037,eosinophilic non-allergic rhinitis,호산성 비알레르기성 비염,True,True,False,,전백혈병(증후군),True
+random,P037,papilloma of cerviv,자궁경부의 유두종,True,True,False,,매독원,True
+random,P038,hypothalamic-pituitary-adrenal axis,시상하부-뇌하수체-부신축,True,True,False,,체반,True
+random,P038,androgenic alopecia,안드로젠탈모증,True,True,False,,부적절한 자기 노출,True
+random,P038,halmatogenesis,돌연세대변이,True,True,False,,미각과민(증),True
+random,P039,isomaltase,이소말타아제,True,True,False,,고리나선신경종말,True
+random,P039,postprocedural subglottic stenosis,처치후 성문하협착,True,True,False,,흡입감염,True
+random,P039,acclimation fever,순화열,True,True,False,,일반미생물 검사,True
+random,P040,intromission,삽입,True,True,False,,골내재,True
+random,P040,microlymphatic graft,미세림프절이식,True,True,False,,항중성구세포질항체,True
+random,P040,lenticonus,원뿔수정체,True,True,False,,녹말효소측정법,False
+random,P041,metagonimus yokogawai,요코가와흡충,True,True,False,,바늘근전도검사(법),True
+random,P041,enema apparatus,관장기,True,True,False,,발달 부진아,True
+random,P041,rash purpuric,자색반 발진,True,True,False,,자궁수축 변화,True
+random,P042,factor viii,제8인자,True,True,False,,찬물 주머니,True
+random,P042,bony excrescence,뼈이상돌출,True,True,False,,기능저하,True
+random,P042,biopsy of adenoid,인두편도 생검,True,True,False,,과소 및 과소체중아,True
+random,P043,undercorrection,부족교정,True,True,False,,평판,True
+random,P043,transluminal coronary atherectomy,내강경유 심장혈관 죽종절제,True,True,False,,방광주혈흡충이질,True
+random,P043,stump hallucination,절단끝환각,True,True,False,,에르고트중독증,True
+random,P044,proenzyme,풋효소,True,True,False,,비염증 관절 부기,True
+random,P044,traveling clinic,이동진료소,True,True,False,,정맥류 제거,True
+random,P044,pallister-killian syndrome,팰리스터-킬리언 증후군,True,True,False,,백혈구쏠림성,True
+random,P045,leukokeratosis nicotina palati,구개 니코틴성 백색각화증,True,True,False,,항섬유소용해소제,True
+random,P045,monorchidism,홑고환증,True,True,False,,코중격각,True
+random,P045,steatocystoma,피지낭종,True,True,False,,망치머리형리보자임,True
+random,P046,vaginal discharge,대하,True,True,False,,소액성,True
+random,P046,posterior thoracic fusion,뒷쪽 가슴척추 유합,True,True,False,,발의 관절 성형,True
+random,P046,sucking disc,흉반,True,True,False,,요골수근관절,True
+random,P047,rectal,곧창자-,True,True,False,,외분비 한공종,True
+random,P047,pyrexia during labour,출산중 발열,True,True,False,,두풍 ; 뇌풍,True
+random,P047,genital infection fungal,생식 기관 곰팡이 감염,True,True,False,,밴드제거,True
+random,P048,dense deposit disease,고밀도침착병,True,True,False,,에스테라아제감소,True
+random,P048,endoscopic transmyocardial revascularization,내시경 이용 심근경유 혈관 재형성,True,True,False,,표피사상균(속),True
+random,P048,vasectomy seekers,정관절제술탐침,True,True,False,,혈구계수(법),True
+random,P049,convalescence following chemotherapy,화학요법후 회복기,True,True,False,,고리나선신경종말,True
+random,P049,apneustic respiration,지속흡입호흡,True,True,False,,두풍 ; 뇌풍,True
+random,P049,carpometacarpal joint structure,손목손허리관절,True,True,False,,부적절한 자기 노출,True
+random,P050,window defect,창문비침,True,True,False,,토르,True
+random,P050,metathalamus,시상후부,True,True,False,,궤양성 치은염(잇몸염)(만성),True
+random,P050,patent medicine,특허약,True,True,False,,비효율적 방어능력,True
+random,P051,pulex,벼룩(속),True,True,False,,곧창자-,True
+random,P051,genu valgum,외반슬,True,True,False,,집형성동맥,True
+random,P051,thymopoietin,티모포이에틴,True,True,False,,달걀노른자배지,True
+random,P052,arthroscopic menisectomy,관절경 이용 초승달 절제,True,True,False,,미세마찰음,True
+random,P052,heart rate variability,심박변이도,True,True,False,,회선사상충결절,True
+random,P052,subretinal,망막밑-,True,True,False,,후두인두염,False
+random,P053,waveform,파형,True,True,False,,관절경적 피막절제술,True
+random,P053,closed reduction,비개방정복(술),True,True,False,,목 뒤통수 신경통,True
+random,P053,pilomatrixoma,털바탕질종,True,True,False,,복부 촉지성 종괴,True
+random,P054,crossbite (anterior)(posterior),맞물림이상(앞쪽)(뒤쪽),False,False,False,,,False
+random,P054,prostatodynia,전립샘통증,True,True,False,,혈관내 초음파촬영,True
+random,P054,uropoiesis,요생산,True,True,False,,이동진료소,True
+random,P055,schistocephalus,머리갈림태아,True,True,False,,저비중뇨,False
+random,P055,modified norwood operation,수정된 노우드수술,True,True,False,,비효율적 방어능력,False
+random,P055,peptonization,펩톤화,True,True,False,,변증,True
+random,P056,apoplectic coma,중풍혼수,True,True,False,,브리언트 당김,True
+random,P056,atrioventricular septal defect,심방실중격결손,True,True,False,,두개몰딩,True
+random,P056,assess hospice,호스피스 사정,True,True,False,,두개내공간점유병변,True
+random,P057,continuous,연속-,True,True,False,,호흡기계간호 사정,True
+random,P057,zoe filling,치아진정처치,True,True,False,,요오드표지-,True
+random,P057,oxidizing color,산화염료,True,True,False,,풍지(風池),True
+random,P058,hammerhead ribozyme,망치머리형리보자임,True,True,False,,두개내공간점유병변,True
+random,P058,scleral necrosis/melt,공막 괴사/ 융해,False,False,False,,,False
+random,P058,infanthood,영아기,True,True,False,,요도경검사에 의한,True
+random,P059,ulcerlike nud,궤양성 비궤양성 소화불량,True,True,False,,근접부위전위,True
+random,P059,gwollyo,관료(顴髎),True,True,False,,근육 경련,True
+random,P059,double bladder,중복방광,True,True,False,,사다리형덧대,True
+random,P060,auriculotemporal nerve,귓바퀴관자신경,True,True,False,,후두결절,True
+random,P060,annulospiral ending,고리나선신경종말,True,True,False,,선천 손발톱백반,True
+random,P060,ascending arm venography,상지-상행적상지정맥,True,True,False,,근긴장장애,True
+random,P061,epidermophyton,표피사상균(속),True,True,False,,대변농축(법),True
+random,P061,tubal tonsil,귀인두관편도,True,True,False,,항원복귀,True
+random,P061,single-step growth curve,일회증식곡선,True,True,False,,천증,True
+random,P062,antineutrophil cytoplasmic antibody,항중성구세포질항체,True,True,False,,초음파,True
+random,P062,pharyngoparalysis,인두마비,True,True,False,,회선사상충결절,True
+random,P062,vasa previa,전치 맥관,True,True,False,,외반슬,True
+random,P063,tzanck smear test,장크도말검사,True,True,False,,쓰레기처리 능력 사정하기,True
+random,P063,ecdysis,허물벗기,True,True,False,,요도경검사에 의한,True
+random,P063,major amblyoscope,대형 약시경,True,True,False,,근육 경련,True
+random,P064,closed approach,폐쇄방법,True,True,False,,중풍혼수,True
+random,P064,thyroid notch,방패패임,True,True,False,,비스듬절단,True
+random,P064,intraocular,안구내-,True,True,False,,무릎뼈의 장애,True
+random,P065,precipitate labor,급속 분만,True,True,False,,유구조충,True
+random,P065,dental granuloma,뿌리끝육아종,True,True,False,,약물유발-,True
+random,P065,rickets of prematurity,미숙아의 구루병,True,True,False,,유사운동-,False
+random,P066,frontosphenoesthmoidectomy,이마나비사골동절제술,True,True,False,,순환계간호 사정,True
+random,P066,poor sucking reflex,빨기 반사 어려움,True,True,False,,자궁목 절단,True
+random,P066,assessing waste service,쓰레기처리 능력 사정하기,True,True,False,,기질성 서경,True
+random,P067,epiduroscopic neuroplasty,내시경적 경막외강 신경성형술,True,True,False,,알코올솜,True
+random,P067,relative scotoma,상대암점,True,True,False,,두덩곧창자근,True
+random,P067,multiple adenomatous polyps,다발성 샘종성 폴립,True,True,False,,이중관대동맥,True
+random,P068,solenopsis invicta,불개미,True,True,False,,간내-,False
+random,P068,sheathed artery,집형성동맥,True,True,False,,손톱의 곤봉화,True
+random,P068,ureteroscopic,요도경검사에 의한,True,True,False,,이식후림프세포증식병,True
+random,P069,multidrug resistance,다약제내성,True,True,False,,체반,True
+random,P069,gonadoadvent,생식기능출현기,True,True,False,,삼중검사,True
+random,P069,pa x-ray,치근단 방사선촬영,True,True,False,,뒷쪽 성대 절제,True
+random,P070,physically handicapped,거동불편자,True,True,False,,단순 수포성 표피박리증,False
+random,P070,centrolecithal,중심난황-,True,True,False,,궁둥뼈가지,True
+random,P070,entire nasal septum,온코사이막,True,True,False,,Tc섭취율,True
+random,P071,a/s capsulectomy,관절경적 피막절제술,False,False,False,,,False
+random,P071,posterior cordectomy,뒷쪽 성대 절제,True,True,False,,완전기생체,True
+random,P071,intra-operative neurophysiologic testing,수술중 신경생리학적 검사,True,True,False,,굴절부등약시,True
+random,P072,enteropathic arthritis,창자질환성 관절염,True,True,False,,위턱굴보개,True
+random,P072,oncogene,종양유전자,True,True,False,,모낭,True
+random,P072,protein-losing enteropathy,단백질소실장병(증),True,True,False,,지실(志室),True
+random,P073,urethrocutaneous fistula,요도피부샛길,True,True,False,,관료(顴髎),True
+random,P073,anesthesiologist,마취과의사,True,True,True,마취과의사,요도피부샛길,False
+random,P073,old tuberculin,재래식투베르쿨린,True,True,False,,손톱의 곤봉화,True
+random,P074,microsomia,작은몸증,True,True,False,,비혈관뼈이식,True
+random,P074,pericanalicular,소관주위-,True,True,False,,모방태도,True
+random,P074,penicillar arteriole,붓털세동맥,True,True,False,,가슴샘체질,True
+random,P075,posttransplant lymphoproliferative disease,이식후림프세포증식병,True,True,False,,큰콩팥잔,True
+random,P075,epididymal duct,부고환관,True,True,False,,용적탄력률,True
+random,P075,urethrotomy,요도 절개,True,True,False,,배안보개 이용 한쪽 자궁관난소 적출,True
+random,P076,inhalator,흡입기,True,True,False,,협숙주기생충,True
+random,P076,omsk haemorrhagic fever,옴스크출혈열,True,True,False,,발바닥쪽 굽힘,True
+random,P076,ramus of pubis,두덩뼈가지,True,True,True,두덩뼈가지,배벽 긴장,True
+random,P077,dry weight,투석목표체중,True,True,False,,힐-샥스 병터,True
+random,P077,macular holes,황반 원공,True,True,False,,철적혈모구빈혈,True
+random,P077,subpapillary arterial network,유두밑동맥그물,True,True,False,,의치지지조직,True
+random,P078,syphilogen,매독원,True,True,False,,파라핀종,True
+random,P078,cardiodiaphragmatic angle,심장가로막각,True,True,False,,장기모양종양,True
+random,P078,ebonation,뼈조각제거,True,True,False,,삼색상,True
+random,P079,diving reflex,잠수반사,True,True,False,,고긴장맥박,True
+random,P079,pungji,풍지(風池),True,True,False,,왕복진탕기,True
+random,P079,vertebro-basilar artery syndrome,척추-뇌기저동맥증후군,True,True,False,,돌잘룩창자동맥,True
+random,P080,chest expiration,가슴 날숨촬영,True,True,False,,멜라닌가시세포종,True
+random,P080,rhinoantritis,코굴염,True,True,False,,곁신경절,True
+random,P080,uremic convulsion,요독경련,True,True,False,,대사촉진-,True
+random,P081,cobblestone tongue,조약돌혀,True,True,False,,사다리형덧대,True
+random,P081,small-and light-for-dates,과소 및 과소체중아,True,True,False,,스미드골절,True
+random,P081,saliva viscosity test,타액 점조도 검사,True,True,False,,경화뒤배막염,True
+random,P082,progressive hemifacial atrophy,진행성 반쪽얼굴 위축,True,True,False,,수척추증,True
+random,P082,afterloading technique,후장진법,True,True,False,,토르,True
+random,P082,assess disimpaction,매복변제거 사정,True,True,False,,선천 손발톱백반,True
+random,P083,nodular fasciitis,결절 근막염,True,True,False,,궤양성 외치핵,True
+random,P083,zosteriform lentiginous nevus,띠모양흑(색)점모반,True,True,False,,잠재배가시간,True
+random,P083,nodular prurigo,결절가려움발진,True,True,False,,세척,True
+random,P084,encephalopathy toxic,독성 뇌병증,True,True,False,,생식기능출현기,True
+random,P084,medial nasal prominence,내측비융기,True,True,False,,횡행결장절제술,True
+random,P084,anisometropic amblyopia,굴절부등약시,True,True,False,,풋효소,True
+random,P085,t-colectomy,횡행결장절제술,True,True,False,,뼈관절염,True
+random,P085,bone inlay,골내재,True,True,False,,표피사상균(속),True
+random,P085,sequestrectomy of skull,머리뼈 부골 절제,True,True,False,,누난 증후군,True
+random,P086,associated disorder,수반장애,True,True,False,,무난개충란,True
+random,P086,uncovertebral,갈고리돌기-,True,True,False,,다발신경통,True
+random,P086,cholelithiasis,담석증,True,True,False,,공막 괴사/ 융해,True
+random,P087,meckel's imaging,메켈스 스캔,True,True,False,,복부외-,True
+random,P087,aortic(valve) stenosis,대동맥판협착,False,False,False,,,False
+random,P087,arm-to-retina circulation time,팔망막순환시간,True,True,False,,부족교정,True
+random,P088,tubular reabsorption,요세관재흡수,True,True,False,,외분비 한공종,True
+random,P088,rothmund thomson syndrome,로트문드 톰슨 증후군,True,True,False,,어깨세모근피판,True
+random,P088,muscle twitch,근육 경련,True,True,False,,사상충성 음낭암죽종,True
+random,P089,bis in die,1일2회,True,True,False,,성도착(증),True
+random,P089,abrasion of flank,옆구리 찰과상,True,True,False,,홍조,False
+random,P089,gustatory hyperesthesia,미각과민(증),True,True,False,,크립토콕쿠스수막대뇌염,True
+random,P090,epidermolysis bullosa simplex,단순 수포성 표피박리증,True,True,False,,자기공명지도화,True
+random,P090,enteral feeding regime,경장 섭취 요법,True,True,False,,무난개충란,True
+random,P090,high quality-hcv ab,정밀면역검사-C형간염항체,True,True,False,,판막이동수술,True
+random,P091,hepaticostomy,간관루설치(술),True,True,False,,자궁구절개(술),True
+random,P091,root pain,신경뿌리통증,True,True,False,,풍토병,True
+random,P091,parasympathetic nervous system,부교감신경계통,True,True,False,,이중관대동맥,True
+random,P092,x-ray illumination,X선필름판독대,True,True,False,,두덩질-,True
+random,P092,angioma cavernosum,해면혈관종,True,True,False,,섬광반맹,True
+random,P092,cap crown,금관,True,True,True,관,단백질소실장병(증),True
+random,P093,coffin-siris syndrome,코핀-시리스 증후군,True,True,False,,유사운동-,True
+random,P093,working length distance,근관장측정검사,True,True,False,,물리적깊이민감도,True
+random,P093,uterine arteriography,복부및골반동맥조영-자궁동맥,True,True,False,,자기공명지도화,True
+random,P094,cirsophthalmia,결막정맥류,True,True,False,,끓는거품소리,True
+random,P094,interarytenoid notch,모뿔사이패임,True,True,False,,발의 관절 성형,True
+random,P094,hot bag,더운물 주머니,True,True,False,,임시 지대주,True
+random,P095,agenesis of lung,폐의 무발생,True,True,False,,두풍 ; 뇌풍,True
+random,P095,perform diversional care,전환간호 수행,True,True,False,,부족교정,True
+random,P095,opsin,옵신,True,True,False,,기존 보철물 제거,True
+random,P096,growth fever,변증,True,True,False,,원시양막,True
+random,P096,scorbutic ulcer,괴혈병궤양,True,True,True,괴혈병궤양,비개방정복(술),True
+random,P096,false neuroma,가성신경종,True,True,True,가성신경종,직접쿰즈검사,True
+random,P097,neoadjuvant chemotherapy,신보강화학요법,True,True,False,,지중해진드기열,True
+random,P097,death,사,True,True,True,사,손톱의 곤봉화,True
+random,P097,supraspinous,가시끝-,True,True,False,,항비타민물질,True
+random,P098,functional ileus,기능창자막힘증,True,True,False,,경장 섭취 요법,True
+random,P098,endorectal pull-through operation,직장내 풀-스루식 수술,True,True,False,,엉덩관절병골반,True
+random,P098,counterfeit disease,꾀병,True,True,False,,정관절제술탐침,True
+random,P099,micromovement,미세운동,True,True,False,,무노출인구,True
+random,P099,stenoxenous parasite,협숙주기생충,True,True,False,,선천 이상각화증,True
+random,P099,surgical staging,외과적시기결정,True,True,False,,회색변,True
+random,P100,overdetermined idea,과잉결정관념,True,True,False,,두덩곧창자근,True
+random,P100,hyperesophoria,상내사위,True,True,False,,세머리태아,True
+random,P100,post-term,만삭후,False,False,True,만삭후,,False
+random,P101,soryo,소료(素髎),True,True,False,,기관지 T-삽관,True
+random,P101,endemic disease,풍토병,True,True,False,,운동신경섬유,True
+random,P101,eurytrema pancreaticum,췌질,True,True,False,,구안지 증후군,True
+random,P102,rotational irradiation coach,회전방사선치료대,True,True,True,회전방사선치료대,봉합사,False
+random,P102,outbreed,무작위교배계,True,True,False,,풍지(風池),True
+random,P102,nerve conduction study(head),신경전도검사(두부),False,False,True,신경전도검사(두부),,False
+random,P103,pharynx,인두,True,True,False,,심재성 진균증,True
+random,P103,ctha and ctap,컴퓨터 단층촬영 간 동맥조영술과 컴퓨터 단층촬영 문맥조영술,True,True,False,,비디오레이저검사,True
+random,P103,cyclamate,시클라메이트,True,True,False,,판막이동수술,True
+random,P104,nuclear polyhedrosis virus,핵다면체형성바이러스,True,True,False,,위팔,True
+random,P104,platymorphia,편평안구,True,True,False,,코중격각,True
+random,P104,square root sign,제곱근모양징후,True,True,False,,두경부동맥조영-내경동맥,True
+random,P105,holy fire,에르고트중독증,True,True,False,,척수 손상,True
+random,P105,hemeralopia,주간맹,True,True,False,,단순 처치,True
+random,P105,avulsion fracture,찢김 골절,True,True,False,,눈물점겉말림,True
+random,P106,salicylamide,살리실아마이드,True,True,False,,용적탄력률,True
+random,P106,volume elasticity coefficient,용적탄력률,True,True,True,용적탄력률,혈난관,True
+random,P106,lead gown,납가운,True,True,False,,가시돌기밑-,True
+random,P107,anthracosis,탄분증,True,True,False,,클라스프 수리,True
+random,P107,proacrosomal granule,풋첨단체과립,True,True,False,,항중성구세포질항체,True
+random,P107,cromolyn,크로몰린,True,True,False,,뒷쪽 성대 절제,True
+random,P108,diffusing capacity,확산능,True,True,False,,당뇨 혼수,True
+random,P108,venule,세정맥,True,True,False,,물공기가슴증,True
+random,P108,mucopurulent,점액고름-,True,True,False,,털바탕질종,True
+random,P109,blastomyces,분아진균(속),True,True,False,,갈리움 스캔,True
+random,P109,bubbling rale,끓는거품소리,True,True,False,,글리코포린,True
+random,P109,reverberating circuit,반향회로,True,True,False,,갈리움 스캔,True
+random,P110,ischial tuberosity structure,궁둥뼈결절,True,True,False,,코오간병,True
+random,P110,cold pack,찬물 주머니,True,True,False,,주혈흡충,True
+random,P110,airborne infection,공기매개감염,True,True,False,,만삭후,True
+random,P111,columella lengthening,코기둥연장(술),True,True,False,,비혈관뼈이식,True
+random,P111,antivitamin,항비타민물질,True,True,False,,항균안약,True
+random,P111,pyelic,콩팥깔때기-,True,True,False,,리포이드피부관절염,True
+random,P112,apical surgery,치근단 수술,True,True,False,,근육긴장저하,True
+random,P112,fetal cotyledon,태아쪽태반엽,True,True,False,,옆구리 찰과상,True
+random,P112,trypanocidal,파동편모충박멸-,True,True,False,,신장,True
+random,P113,laceration of back,등 열상,True,True,False,,긴장-,True
+random,P113,cardiac pet-ct,심장 양전자방출단층촬영술,True,True,False,,내분비학,True
+random,P113,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,True,True,False,,크로몰린,True
+random,P114,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,True,True,False,,분비체류성낭,True
+random,P114,oncofetal,종양태아-,True,True,False,,소료(素髎),True
+random,P114,hydrorachis,수척추증,True,True,False,,언어 손실,True
+random,P115,stenopeic,가는틈-,True,True,False,,이경,True
+random,P115,extracoronal,치관외-,True,True,True,치관외-,만삭후,True
+random,P115,buccal gland,협선,True,True,False,,내피부착분자,True
+random,P116,ileal neoplasms,돌창자 신생물,True,True,False,,물공기가슴증,True
+random,P116,prostate mri,기본자기공명영상진단-복부-전립선-일반,True,True,False,,녹색시,True
+random,P116,puerility,소아기,True,True,False,,리포이드피부관절염,True
+random,P117,genuine diabetes,진성당뇨병,True,True,False,,힘줄뼈되기,True
+random,P117,cervical vertigo,경추성 현기증,True,True,False,,곡물 소양증,True
+random,P117,dermatitis verrucosa,사마귀피부염,True,True,False,,기능성 유뇨증,True
+random,P118,antimicrobial eye drop,항균안약,True,True,False,,성끈기질종양,True
+random,P118,pressure suit,가압복,True,True,False,,장크도말검사,True
+random,P118,derangement of patella,무릎뼈의 장애,True,True,False,,앞방향절제(술),True
+random,P119,postmenopausal bleeding,폐경기후 출혈,True,True,False,,중증도 분류,True
+random,P119,tense,긴장-,True,True,False,,징후,True
+random,P119,congruous field defect,일치시야결손,True,True,False,,회색변,True
+random,P120,metarubricyte,후적혈구,True,True,False,,류마티스성 다발근통,True
+random,P120,multiple v-y plasties,V-Y 성형술,True,True,False,,천돌(天突),False
+random,P120,neonatal oesophageal reflux,신생아식도역류,True,True,False,,수,True
+random,P121,cryptogenic sepsis,특발성패혈증,True,True,False,,합포체-,True
+random,P121,acne keloidalis,흉터종여드름,True,True,False,,풍선 척추성형,True
+random,P121,cheondol,천돌(天突),True,True,False,,치아진정처치,True
+random,P122,stratified randomization,층별무작위배정(법),True,True,False,,급속 분만,True
+random,P122,interferential action,간섭작용,True,True,False,,흉터종여드름,True
+random,P122,psoas shadow,허리근음영,True,True,False,,중간형 지중해빈혈,True
+random,P123,plain radiograph,단순방사선사진,True,True,False,,잠재배가시간,True
+random,P123,carbamino reaction,카르바미노반응,True,True,False,,다낭성 신장의 형성이상,True
+random,P123,alpha thalassemia,알파 지중해빈혈,True,True,False,,지라콩팥-,True
+random,P124,immunoglobulin class,면역글로불린계,True,True,False,,내피부착분자,True
+random,P124,assessing grief,슬픔 사정하기,True,True,False,,카펜터 증후군,True
+random,P124,purpura annularis telangiectodes,고리모세혈관확장자색반,True,True,False,,욕조,True
+random,P125,di guglielmo's disease,디구글리엘모병,True,True,False,,관절경 이용 초승달 절제,True
+random,P125,video-urodynamic study,영상요역동학검사,True,True,False,,월경불규칙,True
+random,P125,primary syphilis,1기매독,True,True,False,,파라핀종,True
+random,P126,deep mycosis,심재성 진균증,True,True,False,,재래식투베르쿨린,True
+random,P126,endothelium-derived relaxing factor,내피유래이완인자,True,True,False,,브리언트 당김,True
+random,P126,descriptive epidemiology,기술역학,True,True,False,,헌혈,True
+random,P127,drug induce pruritus,약물 유발성 가려움,True,True,False,,망막위축,True
+random,P127,goitrogenic,갑상샘종유발물질-,True,True,False,,결절 근막염,True
+random,P127,suturing of wound,창상봉합술,True,True,False,,무균실험대,True
+random,P128,expectorant mixture,복합거담제,True,True,False,,교원 섬유 이식술,True
+random,P128,reducing artifact,감소인공물,True,True,False,,셋째뇌실,True
+random,P128,bilaminar vitelline placenta,두겹난황태반,True,True,False,,막창자 종괴,True
+random,P129,iridocoloboma,홍채결손,True,True,False,,젖샘염,True
+random,P129,glissade,글리사드,True,True,False,,다발잔떨림근대성대발작,True
+random,P129,anecdotal,증례서술적,True,True,False,,씹기 기능장애,True
+random,P130,hypofunction,기능저하,True,True,True,기능저하,투석목표체중,True
+random,P130,ardor,작열감,True,True,False,,붓털세동맥,True
+random,P130,impulse conducting system,심장흥분전도계통,True,True,False,,저분절증,True
+random,P131,hyalomere,투명부위,True,True,False,,외과적시기결정,True
+random,P131,protrusive position,전방위,True,True,False,,알파 지중해빈혈,True
+random,P131,joint swelling non-inflammatory,비염증 관절 부기,True,True,False,,샘창자위동맥,True
+random,P132,osteoarthritis,뼈관절염,True,True,False,,스테인레스금관 합착,True
+random,P132,colpocystocele,질방광탈출(증),True,True,False,,증례서술적,True
+random,P132,subspinous,가시돌기밑-,True,True,False,,이소소르바이드,True
+random,P133,refractive accomodative esotropia,굴절조절 내사시,True,True,False,,두덩관절피막-,True
+random,P133,apicoectomy,치근첨절제(술),True,True,False,,척주굽이,True
+random,P133,flushing,홍조,True,True,False,,척수 신경섬유종증,True
+random,P134,aspirations (psychology),흡인,False,False,False,,,False
+random,P134,mutiple myeloma,다발성 골수종,True,True,False,,뼈관절염,True
+random,P134,dermoepidermal,진피표피-,True,True,False,,단순 처치,True
+random,P135,a/s posterior capsulo-labroplasty,관절경 후방 피막테두리성형술,False,False,False,,,False
+random,P135,entire finger,온손가락,True,True,True,온손가락,탈색크림,True
+random,P135,appendix ultrasound,맹장 초음파,True,True,False,,V-Y 성형술,True
+random,P136,operative cholangiography,수술쓸개관조영(술),True,True,False,,두개몰딩,True
+random,P136,ionophore antibiotic,이온투과차단항생제,True,True,False,,치근첨절제(술),True
+random,P136,peritoneocentesis,복막천자,True,True,False,,막창자 종괴,True
+random,P137,invasive mole,침윤기태,True,True,False,,스미드골절,True
+random,P137,vetebra,척추,True,True,False,,알파 지중해빈혈,True
+random,P137,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",True,True,False,,공막 괴사/ 융해,True
+random,P138,colonic serosa,잘록창자장막층,True,True,False,,정신사회발달,True
+random,P138,nasalis muscle,코근,True,True,False,,손목의 탈구,True
+random,P138,onchocercoma,회선사상충결절,True,True,False,,관장기,True
+random,P139,corticobasal degeneration,겉질기저 변성,True,True,False,,가슴 날숨촬영,True
+random,P139,nonalcoholic steaohepatitis,비알코올성 지방간염,True,True,False,,무릎뼈의 장애,True
+random,P139,laryngeal carcinoma,후두 암종,True,True,False,,경추성 현기증,True
+random,P140,pseudoepicanthus,거짓눈구석주름,True,True,False,,항중성구세포질항체,True
+random,P140,hydropneumothorax,물공기가슴증,True,True,False,,자궁경부개대,True
+random,P140,cathemoglobin,카트헤모글로빈,True,True,False,,구개 니코틴성 백색각화증,True
+random,P141,endoscopic retrograde pancreatography,내시경역행이자관조영(술),True,True,False,,폰히펠-린다우병,True
+random,P141,koop's modified pylomyotomy,쿱의 수정 유문근층 절개,True,True,False,,눈물점겉말림,True
+random,P141,brachiocephalic trunk,팔머리동맥,True,True,False,,치근첨절제(술),True
+random,P142,pubovaginal,두덩질-,True,True,False,,거동불편자,False
+random,P142,ulcerated external hemorrhoids,궤양성 외치핵,True,True,False,,복부 촉지성 종괴,True
+random,P142,school childhood,학령기,True,True,False,,안드로젠탈모증,True
+random,P143,horopter,단일시궤도,True,True,False,,옴스크출혈열,True
+random,P143,vesicorectal fistula,방광직장루,True,True,False,,소료(素髎),True
+random,P143,dysostosis multiplex group,다발 집단 뼈발생이상,True,True,False,,명료함,True
+random,P144,parathyroid tetany,부갑상선테타니,True,True,False,,심장 양전자방출단층촬영술,True
+random,P144,sideroblastic anaemia,철적혈모구빈혈,True,True,False,,절단끝환각,True
+random,P144,meshwork,섬유주,True,True,False,,요독경련,True
+random,P145,infantile automatism,젖먹이자동증,True,True,False,,긴장형 정신분열병,True
+random,P145,stomatomy,자궁구절개(술),True,True,False,,감속,True
+random,P145,familial polyposis,가족성폴립증,True,True,False,,유사운동-,True
+random,P146,prootic,귀앞-,True,True,False,,이동진료소,True
+random,P146,microencephaly,작은뇌증,True,True,False,,반적응교합기,True
+random,P146,ant. uveitis,전방포도막염,False,False,False,,,False
+random,P147,vaccination against staphylococcus,포도구균 예방접종,True,True,False,,요천부팽대,True
+random,P147,photogene,잔상,True,True,False,,신경지방산,True
+random,P147,cortisol-binding globulin,코티솔결합글로불린,True,True,False,,표준화비율비,True
+random,P148,prolinase,프롤린효소,True,True,False,,소변정체,True
+random,P148,vibratory auscultation,진동청진,True,True,False,,막창자 종괴,True
+random,P148,iridocyclitis in tuberculosis,결핵에서의 홍채섬모체염,True,True,False,,경막의 동정맥루,True
+random,P149,egg yolk medium,달걀노른자배지,True,True,False,,신경축,True
+random,P149,mescaline,메스칼린,True,True,False,,"콩팥요관방광촬영, 왼쪽측방향",True
+random,P149,polymyalgia rheumatica,류마티스성 다발근통,True,True,False,,주작용근,True
+random,P150,ossidesmosis,힘줄뼈되기,True,True,False,,섬경화증,True
+random,P150,endoenteritis,창자점막염,True,True,False,,신경축,True
+random,P150,heart excess patterns,심실증,True,True,False,,타액 점조도 검사,True
+random,P151,rodent ulcer,잠식궤양,True,True,False,,결합체,True
+random,P151,dopa-responsive dystonia,도파-반응성 근긴장이상,True,True,False,,불개미,True
+random,P151,plating method,평판배양법,True,True,False,,지속흡입호흡,True
+random,P152,toilet,세척,True,True,False,,골수공간,True
+random,P152,intermedia thalassaemia,중간형 지중해빈혈,True,True,False,,씹기 기능장애,True
+random,P152,superexcitation,과도흥분,True,True,False,,삼중검사,True
+random,P153,naevus portwine,포도주색 모반,True,True,False,,지텔만 증후군,True
+random,P153,in situ hybridization,제자리부합법,True,True,False,,사마귀피부염,True
+random,P153,subadventitial fibroplasia,외막밑섬유증식,True,True,False,,종양특이항원,True
+random,P154,aerial infection,흡입감염,True,True,False,,두개내공간점유병변,True
+random,P154,intranasal ethmoidectomy,사골동염근치술; 비내 접근법,True,True,False,,부적절한 자기 노출,True
+random,P154,hand,수,True,True,True,수,조기흥분,True
+random,P155,normokalemic,정상칼륨혈-,True,True,False,,흉반,True
+random,P155,polygraph,다원기록기,True,True,False,,1일2회,True
+random,P155,video laryngoscopy,비디오후두경검사(법),True,True,False,,비디오레이저검사,True
+random,P156,salbutamol,살부타몰,True,True,False,,엉덩관절병골반,True
+random,P156,reverse mutation,역돌연변이,True,True,False,,정신사회발달,True
+random,P156,single outlet heart,단일유출로심장,True,True,False,,염색체외유전,True
+random,P157,blood donation,헌혈,True,True,True,헌혈,상내사위,True
+random,P157,mitokinetic,유사운동-,True,True,False,,고산병,True
+random,P157,distraction therapy,골신장술,True,True,False,,중간가로막,True
+random,P158,angiohyalinosis,혈관유리질증,True,True,False,,난소 낭종 적출술,True
+random,P158,prolonged latent phase,지연된 잠복기,True,True,False,,급속 분만,True
+random,P158,rolling disease,회전병,True,True,False,,세정맥,True
+random,P159,anaphylactoid crisis,아나필락시스유사위기,True,True,False,,식도 곁주머니염,True
+random,P159,nitrogen dioxide,이산화질소,True,True,False,,해마경화(증),True
+random,P159,pulmonary atelectasis,무기폐,True,True,False,,담낭의 누공,True
+random,P160,macrocytic anemia,큰적혈구빈혈,True,True,False,,혈관유리질증,True
+random,P160,retrognathism,하악후퇴,True,True,False,,곧창자 확장,True
+random,P160,removal of restoration,기존 보철물 제거,True,True,False,,엄지 손가락 재건,True
+random,P161,clubbing of nails,손톱의 곤봉화,True,True,False,,두덩관절피막-,False
+random,P161,carpenter's syndrome,카펜터 증후군,True,True,False,,다발잔떨림근대성대발작,False
+random,P161,immature proglottid,미성숙편절,True,True,False,,두경부동맥조영-내경동맥,True
+random,P162,toxic cardiopathy,독성심장병(증),True,True,False,,맹장 초음파,True
+random,P162,amphorophony,공동공명음,True,True,False,,지실(志室),True
+random,P162,blood in stool,대변 속 혈액,True,True,False,,외상후 지연 발작,True
+random,P163,nephritic retinitis,콩팥염망막염,True,True,False,,경막의 동정맥루,True
+random,P163,hemopleuropneumonic syndrome,혈액가슴막폐렴증후군,True,True,False,,정관절제술탐침,True
+random,P163,operative ultrasound,수술중초음파검사,True,True,False,,낭종 주머니형성,True
+random,P164,transfusion tests,수혈혈액검사,True,True,False,,매복변제거 사정,True
+random,P164,throat pruritus,목구멍 가려움증,True,True,False,,에르고트중독증,True
+random,P164,cholangioscopy,담관내시경(술),True,True,False,,클라스프 수리,True
+random,P165,filarial chylocele,사상충성 음낭암죽종,True,True,False,,엉치꼬리-,True
+random,P165,nummular dermatitis,동전모양피부염,True,True,False,,선천 이상각화증,True
+random,P165,bronchus t-tube insertion,기관지 T-삽관,True,True,False,,앙와위,True
+random,P166,fluoridation,불소화,False,False,True,불소화,,False
+random,P166,ramicotomy,신경분지절단(술),True,True,False,,호스피스 사정,True
+random,P166,incretology,내분비학,True,True,True,내분비학,발바닥쪽 굽힘,True
+random,P167,masticatory dysfunction,씹기 기능장애,True,True,False,,녹색시,True
+random,P167,semidirected lead,반직접유도,True,True,False,,인두마비,True
+random,P167,auriculopalpebral reflex,이개안검반사,True,True,False,,"콩팥요관방광촬영, 왼쪽측방향",True
+random,P168,psoriatic spondylitis,건선척추염,True,True,False,,신생아식도역류,True
+random,P168,absence of muscle,근육의 결여,True,True,True,근육의 결여,풍토병,True
+random,P168,debanding,밴드제거,True,True,False,,발의 관절 성형,True
+random,P169,opium plaster,아편고약,True,True,False,,브릿지 치료,True
+random,P169,melanidrosis,흑색땀증,True,True,False,,오령산,True
+random,P169,elongation,신장,True,True,True,신장,유전성 아밀로이드 신장병증,True
+random,P170,double-barreled aorta,이중관대동맥,True,True,False,,불규칙과다월경,True
+random,P170,deceleration,감속,True,True,False,,알코올솜,True
+random,P170,autonomic bladder,자율방광,True,True,False,,중심난황-,True
+random,P171,perseveration,고집증,True,True,False,,과잉매복치,True
+random,P171,leukotaxis,백혈구쏠림성,True,True,False,,인지질혈증,True
+random,P171,idiotype-anti-idiotype network,개별특이형항체조절망,True,True,False,,비알코올성 지방간염,True
+random,P172,bovine granulomatous mastitis,소육아종 유방염,True,True,False,,허물벗기,True
+random,P172,gallium scan,갈리움 스캔,True,True,False,,자궁목 절단,True
+random,P172,cecocentral scotoma,주시점맹점암점,True,True,True,주시점맹점암점,카트헤모글로빈,True
+random,P173,semiadjustable articulator,반적응교합기,True,True,False,,대변농축(법),True
+random,P173,assess pulmonary care,호흡기계간호 사정,True,True,False,,방사면역전기이동(법),True
+random,P173,punctal ectropion,눈물점겉말림,True,True,False,,도리깨질(증),True
+random,P174,alcohol swab,알코올솜,True,True,False,,담관내시경(술),True
+random,P174,chondrogen,연골원,True,True,False,,실조성반부전마비,True
+random,P174,periostitis,뼈막염,True,True,False,,두덩뼈 위쪽 경유 전립샘 절제,True
+random,P175,primary amnion,원시양막,True,True,False,,언어 손실,True
+random,P175,naegleria fowleri,파울러자유아메바,True,True,False,,단순방사선사진,True
+random,P175,psychosocial development,정신사회발달,True,True,False,,편평안구,True
+random,P176,breathing bag reservoir,호흡주머니,True,True,False,,불소화,True
+random,P176,hodgkin disease,호지킨병,True,True,False,,말단영양통증,True
+random,P176,rheumatoid vasculitis,류마티스혈관염,True,True,False,,V-Y 성형술,True
+random,P177,fundus photography,안저사진,True,True,False,,원뿔수정체,True
+random,P177,suprameatal foveola,바깥귀길위오목,True,True,False,,글리사드,True
+random,P177,upper extremity,위팔,True,True,False,,윤부결막절개(술),True
+random,P178,classic abdominoplasty,전형적 복부성형술,True,True,False,,풋효소,True
+random,P178,intrahepatic,간내-,True,True,False,,미세림프절이식,True
+random,P178,immunodiagnostic method,면역진단법,True,True,False,,회선사상충결절,True
+random,P179,radiodigital,노손가락-,True,True,False,,뼈조각제거,True
+random,P179,meckel's diverticulectomy,멕켈 게실절제술,True,True,False,,세르코스포라진균증,True
+random,P179,stage of life,생명단계,True,True,True,생명단계,불안정제,True
+random,P180,peritomy,윤부결막절개(술),True,True,False,,연소성 만성 홍채섬모체염,True
+random,P180,induced malaria,접종말라리아,True,True,False,,악교정수술,True
+random,P180,sacrococcygeal,엉치꼬리-,True,True,False,,물공기가슴증,True
+random,P181,standardized rate ratio,표준화비율비,True,True,False,,신경축,True
+random,P181,senile(atrophic) vaginitis,노년(위축) 질염,False,False,False,,,False
+random,P181,conjoined,연합-,True,True,False,,고리핵,True
+random,P182,taenia solium,유구조충,True,True,False,,Z성형(술),True
+random,P182,polymerism,분절과다증,True,True,False,,온백색증,True
+random,P182,pachyonychia congenita,선천손발톱비대증,True,True,False,,파형,True
+random,P183,intermenstruum,월경간기,True,True,False,,지텔만 증후군,True
+random,P183,petrooccipital fissure,바위뒤통수틈새,True,True,False,,다발 집단 뼈발생이상,True
+random,P183,vibriocide,비브리오살균제,True,True,False,,꾀병,True
+random,P184,triketohydrindene hydrate test,닌히드린검사,True,True,False,,대하,True
+random,P184,videolaseroscopy,비디오레이저검사,True,True,False,,관료(顴髎),True
+random,P184,tetrastichiasis,네줄속눈썹(증),True,True,False,,골신장술,True
+random,P185,retrouterine hematocele,자궁뒤혈액낭종,True,True,False,,신경분지절단(술),True
+random,P185,enteral tube irrigation,위장관세척,True,True,False,,흑(색)질,True
+random,P185,pit carries,오목부분 우식,True,True,False,,풍토병,True
+random,P186,hereditary mutilating keratoma,유전절단각화종,True,True,False,,진행성 반쪽얼굴 위축,True
+random,P186,lochioschesis,산후질분비물정체,True,True,False,,눈미주신경반사,False
+random,P186,blood fluke,주혈흡충,True,True,False,,막힌주머니 생검,True
+random,P187,uterine inversion,자궁뒤집힘,True,True,False,,심방실중격결손,True
+random,P187,suture thread,봉합사,True,True,False,,폐 육종,True
+random,P187,schistasis,갈림증,True,True,False,,내시경 이용 눈물주머니코안 연결 교정,True
+random,P188,moniliform nucleus,염주핵,True,True,False,,마취과의사,True
+random,P188,saphenous neuropathy,복재신경병증,True,True,False,,경막의 동정맥루,True
+random,P188,morbidity aspects,질병 양상,True,True,False,,자궁뒤혈액낭종,True
+random,P189,deltoid flap,어깨세모근피판,True,True,False,,선천 손발톱백반,True
+random,P189,cogan's disease,코오간병,True,True,False,,소료(素髎),True
+random,P189,paraganglion,곁신경절,True,True,False,,방사성핵종심(장)혈관조영(술),True
+random,P190,nonvascularized bone graft,비혈관뼈이식,True,True,False,,바위뒤통수틈새,True
+random,P190,macrostomia cribrosa,체반,True,True,False,,노손가락-,True
+random,P190,myotonia,근긴장증,True,True,False,,털세포백혈병,True
+random,P191,frolement,미세마찰음,True,True,False,,말단영양통증,True
+random,P191,ineffective protection,비효율적 방어능력,True,True,False,,두눈 백내장,True
+random,P191,eye swelling,안구 부기,True,True,False,,소료(素髎),True
+random,P192,needle electromyography,바늘근전도검사(법),True,True,False,,귀앞-,True
+random,P192,functional enuresis,기능성 유뇨증,True,True,False,,임종과정 악화됨,True
+random,P192,muscle flap,근(육)판,True,True,False,,거동불편자,True
+random,P193,clasp repair,클라스프 수리,True,True,False,,비염증 관절 부기,True
+random,P193,ventricular asynergy,심실협동불능(증),True,True,False,,단극성 우울병,True
+random,P193,jisil,지실(志室),True,True,False,,막자궁내막염,True
+random,P194,depigmenting cream,탈색크림,True,True,False,,곁신경절,True
+random,P194,neck righting reflex,목바로잡기반사,True,True,False,,관장기,True
+random,P194,dyslipoproteinemia,이상지질단백혈증,True,True,False,,류마티스성 다발근통,True
+random,P195,conglutinogen activating factor,교착원활성인자,True,True,False,,연소성 만성 홍채섬모체염,True
+random,P195,lambliasis,람블편모충증,True,True,False,,힘줄뼈되기,True
+random,P195,conn adenoma,콘 샘종,True,True,False,,글리코포린,True
+random,P196,inspirator,흡입기,True,True,False,,욕조,True
+random,P196,suggillation,광범피부밑출혈,True,True,False,,회색변,True
+random,P196,hippocampal sclerosis,해마경화(증),True,True,False,,여성호르몬과다(증),True
+random,P197,ear probe,귀꽂이,True,True,False,,비디오레이저검사,True
+random,P197,osteochondroma,뼈연골종,True,True,False,,저림,True
+random,P197,clean bench,무균실험대,True,True,False,,브리언트 당김,True
+random,P198,speech loss,언어 손실,True,True,True,언어 손실,자가간호결핍,True
+random,P198,hemocytometry,혈구계수(법),True,True,False,,결합체,True
+random,P198,congenital leukonychia,선천 손발톱백반,True,True,False,,전립샘통증,True
+random,P199,hemoclastic reaction,혈구파괴반응,True,True,False,,복부 촉지성 종괴,False
+random,P199,perform infection control,감염통제 수행,True,True,False,,결절가려움발진,False
+random,P199,endothelial adhesion molecule,내피부착분자,True,True,False,,약물 유발성 가려움,False
+random,P200,chloropsia,녹색시,True,True,False,,심장가로막각,True
+random,P200,homogeneous,균일,True,True,True,균일,진동청진,True
+random,P200,extrachromosomal inheritance,염색체외유전,True,True,False,,셋째뇌실,True
+random,P201,coproporphyrinuria,코프로포르피린뇨,True,True,False,,이온투과차단항생제,True
+random,P201,retroactive inhibition,역행기억억제,True,True,False,,넙다리뼈,True
+random,P201,dyspnea disorder,천증,True,True,False,,해마경화(증),True
+random,P202,premenopause,폐경전,True,True,False,,부족교정,True
+random,P202,thymus,가슴샘,True,True,False,,얼굴신경핵,True
+random,P202,microincision,미세절개,True,True,False,,내시경 이용 심근경유 혈관 재형성,True
+random,P203,neurodeatrophia,망막위축,True,True,False,,고리나선신경종말,True
+random,P203,fasciola hepatica,간질,True,True,False,,위아래턱부조화,True
+random,P203,cystica ureteritis,낭성 요관염,True,True,False,,청각 부전,True
+random,P204,dying process deteriorated,임종과정 악화됨,True,True,False,,초음파,True
+random,P204,puboprostatic,두덩전립샘-,True,True,False,,정맥염 및 혈전정맥염,True
+random,P204,bilharzial dysentery,방광주혈흡충이질,True,True,False,,감염되지않은,True
+random,P205,orofaciodigital syndrome,구안지 증후군,True,True,False,,에스테라아제감소,True
+random,P205,laparoscopic unilateral salpingo-oophorectomy,배안보개 이용 한쪽 자궁관난소 적출,True,True,False,,더운물 주머니,False
+random,P205,apneusis,지속들숨,True,True,False,,맞물림이상(앞쪽)(뒤쪽),False
+random,P206,citrate,구연산,True,True,False,,"비인두암, 수술후 상태",True
+random,P206,trichroism,삼색상,True,True,False,,두풍 ; 뇌풍,True
+random,P206,antigenic reversion,항원복귀,True,True,False,,중간수근골(관절)의 탈구,True
+random,P207,annular nucleus,고리핵,True,True,False,,기존 보철물 제거,True
+random,P207,entire trapezius muscle,온등세모근,True,True,False,,산후질분비물정체,True
+random,P207,cervico-occipital neuralgia,목 뒤통수 신경통,True,True,False,,두개내공간점유병변,True
+random,P208,bougienage of esophagus,식도 부우지법,True,True,False,,질병 양상,True
+random,P208,diabetic coma,당뇨 혼수,True,True,False,,다낭성 신장의 형성이상,True
+random,P208,atlas-axis spinal fusion,고리뼈-중쇠뼈 척추 유합,True,True,False,,시스타티오닌,True
+random,P209,postpartum afibrinogenemia,분만후 무피브리노젠혈증,True,True,False,,근(육)알부민,True
+random,P209,lamblial dysentery,람블편모충이질,True,True,False,,근육긴장저하,True
+random,P209,technetium uptake test,Tc섭취율,True,True,False,,경장 섭취 요법,True
+random,P210,tubular maximum,요세관최대값,True,True,False,,혈관유리질증,True
+random,P210,apraxia of speech,언어의 실행증,True,True,False,,두덩뼈 위쪽 경유 전립샘 절제,True
+random,P210,ovarian cystectomy,난소 낭종 적출술,True,True,False,,전방포도막염,True
+random,P211,tumor-specific antigen,종양특이항원,True,True,False,,빨기 반사 어려움,True
+random,P211,autonomic insufficiency,자율신경부전,True,True,False,,수술쓸개관조영(술),True
+random,P211,vulvovaginal,음문질-,True,True,False,,월경간기,True
+random,P212,acrotrophodynia,말단영양통증,True,True,False,,요코가와흡충,True
+random,P212,interfascicular graft,다발사이이식,True,True,False,,돌연세대변이,True
+random,P212,acentric occlusion,비중심교합,True,True,False,,요오드표지-,True
+random,P213,von hippel-lindau disease,폰히펠-린다우병,True,True,False,,관절경적 피막절제술,True
+random,P213,chemohormonal,화학호르몬-,True,True,False,,근육의 결여,True
+random,P213,radiodermatitis,방사선피부염,True,True,False,,농축염색질,True
+random,P214,lipomelanotic reticulosis,지방흑색증성 세망증,True,True,False,,발의 관절 성형,True
+random,P214,parovarian cystoma,난소위체낭,True,True,False,,기술역학,True
+random,P214,suprapubic prostatectomy,두덩뼈 위쪽 경유 전립샘 절제,True,True,False,,산화염료,True
+random,P215,corynebacterium pseudotuberculosis,거짓결핵균,True,True,False,,달걀노른자배지,True
+random,P215,laparoscopic appendectomy,배안보개 이용 막창자꼬리 절제,True,True,False,,물리적깊이민감도,True
+random,P215,spleen qi deficiency,비기허,True,True,False,,고티록신혈증,True
+random,P216,hepatogram,간실질상,True,True,False,,굴절조절 내사시,True
+random,P216,maxillomandibular disharmony,위아래턱부조화,True,True,False,,조기흥분,True
+random,P216,radiostrontium,방사성스트론튬,True,True,False,,잠재배가시간,True
+random,P217,amputation of cervix,자궁목 절단,True,True,False,,홍조,True
+random,P217,hydrometra,물자궁증,True,True,False,,역돌연변이,True
+random,P217,calcification of bursa,윤활낭(의) 석회화,True,True,False,,신경축,True
+random,P218,arachnoid cyst,거미막하 낭종,True,True,False,,외상성 지주막하출혈,True
+random,P218,cold sore,입술헤르페스,True,True,False,,커플링염료,True
+random,P218,coxalgic pelvis,엉덩관절병골반,True,True,False,,외반슬,True
+random,P219,resecting fracture,깍임골절,True,True,False,,언어 손실,True
+random,P219,enterotoxin,창자독소,True,True,False,,대사촉진-,True
+random,P219,hypotonus,근육긴장저하,True,True,False,,호색소세포,True
+random,P220,fourth heart sound,제4심(장)음,True,True,False,,치관외-,True
+random,P220,milieu therapy,환경 치료요법,True,True,False,,위아래턱부조화,True
+random,P220,haematosalpinx,혈난관,True,True,False,,심실협동불능(증),True
+random,P221,revaccination,재접종,True,True,False,,췌질,True
+random,P221,impaired eating behaviour,손상된 식습관 행위,True,True,False,,폐경기후 출혈,True
+random,P221,presbyophrenia,노년치매,True,True,False,,막힌샛길,False
+random,P222,spireme,분산사구,True,True,False,,도파-반응성 근긴장이상,True
+random,P222,polychromatophilic erythrocyte,다염적혈구,True,True,False,,췌질,True
+random,P222,running nose,코감기,True,True,False,,활동정도,True
+random,P223,excitometabolic,대사촉진-,True,True,False,,삼출되지않은,True
+random,P223,qrs widened,큐알에스(QRS) 넓힘,True,True,False,,잠수반사,True
+random,P223,neuraxis,신경축,True,True,False,,녹말효소측정법,True
+random,P224,direct coombs test,직접쿰즈검사,True,True,False,,약물유발-,True
+random,P224,fenestrated capillary,창문모세혈관,True,True,False,,뼈이상돌출,True
+random,P224,physics depth sensitivity,물리적깊이민감도,True,True,False,,파형,True
+random,P225,pseudomonas aeruginosa,녹농균,True,True,False,,벌레먹은 발바닥,True
+random,P225,altered uterine contractions,자궁수축 변화,True,True,False,,가슴샘체질,True
+random,P225,assess circulatory care,순환계간호 사정,True,True,False,,자궁목내막과다형성,True
+random,P226,grafting,이식,True,True,False,,곡물 소양증,True
+random,P226,mediastinotomy,세로칸절개(술),True,True,False,,속림프관,True
+random,P226,hill-sachs lesion,힐-샥스 병터,True,True,False,,방광주혈흡충이질,True
+random,P227,bilateral palatine tonsils,양측 목구멍 편도,True,True,False,,시상하부-뇌하수체-부신축,True
+random,P227,manage immobilizer care,부동간호 관리,True,True,False,,요세관재흡수,True
+random,P227,head wind,두풍 ; 뇌풍,True,True,False,,아마포착용자병,True
+random,P228,preexcitation ecg,조기흥분,True,True,False,,저비중뇨,False
+random,P228,pneumonia in ornithosis,비둘기병에서의 폐렴,True,True,False,,이식,True
+random,P228,hydrocyst,물낭,True,True,False,,편측시야결손,True
+random,P229,triple test,삼중검사,True,True,False,,항균안약,True
+random,P229,heteropolysaccharide,이종다당류,True,True,False,,관절경 후방 피막테두리성형술,True
+random,P229,labilizer,불안정제,True,True,False,,궤양성 비궤양성 소화불량,True
+random,P230,breath holding spell,숨참기발작,True,True,False,,귓바퀴관자신경,True
+random,P230,diverticulitis oesophageal,식도 곁주머니염,True,True,False,,실론구충,True
+random,P230,neurostearic acid,신경지방산,True,True,False,,크립토콕쿠스수막대뇌염,True
+random,P231,ulcerative gingivitis (chronic),궤양성 치은염(잇몸염)(만성),False,False,False,,,False
+random,P231,preleukaemia (syndrome),전백혈병(증후군),False,False,True,전백혈병(증후군),,False
+random,P231,bryant's traction,브리언트 당김,True,True,False,,자궁목 경유 가슴샘 절제,True
+random,P232,cystathionine,시스타티오닌,True,True,False,,회전병,True
+random,P232,medical care division,의료급여구분,True,True,False,,편평안구,True
+random,P232,medical genetics,의학유전학,True,True,False,,수반장애,True
+random,P233,puerperium,산후기,True,True,True,산후기,궤양림프절야생토끼병,True
+random,P233,evacuation of empyema,축농 제거,True,True,False,,합포체-,True
+random,P233,simple dressing,단순 처치,True,True,False,,발전문가,True
+random,P234,heteromorphism,이형,True,True,False,,이온화선량계,True
+random,P234,atriocarotid interval,심방목동맥간격,True,True,False,,등 열상,True
+random,P234,muscular dystrophy carrier,근퇴행위축 보균자,True,True,False,,일반미생물 검사,True
+random,P235,dry arthritis,건성관절염,True,True,True,건성관절염,눈미주신경반사,False
+random,P235,foville syndrome,포비유 증후군,True,True,False,,후적혈구,True
+random,P235,chromophilic cell,호색소세포,True,True,True,호색소세포,위팔,False
+random,P236,mediterranean tick fever,지중해진드기열,True,True,False,,긴장-,True
+random,P236,pseudoptosis,거짓눈꺼풀처짐,True,True,False,,심방실중격결손,True
+random,P236,flax-dresser disease,아마포착용자병,True,True,False,,정신사회발달,True
+random,P237,personal identity disturbance,자아정체성장애,True,True,False,,내시경 이용 눈물주머니코안 연결 교정,True
+random,P237,glucuronic acid,글루쿠론산,True,True,False,,다발잔떨림근대성대발작,True
+random,P237,glycophorin,글리코포린,True,True,False,,코프로포르피린뇨,True
+random,P238,pilar cyst,모낭,True,True,True,모낭,심재성 진균증,True
+random,P238,revision septoplasty,교정 사이막성형술,True,True,False,,넙다리뼈,True
+random,P238,late post-traumatic seizures,외상후 지연 발작,True,True,False,,무작위교배계,True
+random,P239,total albinism,온백색증,True,True,False,,긴장형 정신분열병,True
+random,P239,prescription group,처방묶음,True,True,False,,반적응교합기,True
+random,P239,antroscope,위턱굴보개,True,True,False,,간관루설치(술),True
+random,P240,linear craniectomy,선상 머리뼈 절제,True,True,False,,철적혈모구빈혈,False
+random,P240,myelodysplastic syndromes,골수형성이상증후군,True,True,False,,허리근음영,True
+random,P240,first responder,일차반응자,True,True,False,,트랜지스터보청기,True
+random,P241,peritoneal cavity,배막안,True,True,False,,목 뒤통수 신경통,True
+random,P241,ileocolic artery,돌잘룩창자동맥,True,True,False,,절치,True
+random,P241,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,True,True,False,,이소말타아제,True
+random,P242,hearing impairment,청각 부전,True,True,False,,반응성-,True
+random,P242,hysterocystocleisis,자궁방광꿰맴(술),True,True,False,,고지혈증,True
+random,P242,muscular artery,근육형동맥,True,True,False,,이산화질소,True
+random,P243,splenectomy,비장절제,True,True,False,,축농 제거,True
+random,P243,tibia vara,내반경골,True,True,False,,관장 사정,True
+random,P243,platelet,혈소판,True,True,False,,위팔,True
+random,P244,allergenic serum,알레르기혈청,True,True,False,,담낭의 누공,True
+random,P244,hyperthyroxinemia,고티록신혈증,True,True,False,,간실질상,True
+random,P244,grain itch,곡물 소양증,True,True,False,,표준화비율비,True
+random,P245,lymphopoiesis,림프구형성,True,True,False,,다발사이이식,True
+random,P245,melanoacanthoma,멜라닌가시세포종,True,True,False,,에스테라아제감소,True
+random,P245,anterior resection,앞방향절제(술),True,True,False,,일차반응자,True
+random,P246,oculovagal reflex,눈미주신경반사,True,True,False,,"콩팥요관방광촬영, 왼쪽측방향",True
+random,P246,tracheobronchial,기관기관지-,True,True,False,,카트헤모글로빈,True
+random,P246,abdominal wall strained,배벽 긴장,True,True,False,,과잉결정관념,True
+random,P247,neurofibromatosis of spine,척수 신경섬유종증,True,True,False,,코프로포르피린뇨,True
+random,P247,pleurothecal anastomosis,가슴막-척수막 연결,True,True,False,,건초천식,True
+random,P247,deshielded proton,미차폐양성자,True,True,False,,풋효소,True
+random,P248,endocervical hyperplasia,자궁목내막과다형성,True,True,False,,세르코스포라진균증,True
+random,P248,vague symptom,분명치않는증상,True,True,False,,다발성 골수종,True
+random,P248,deficient perineum,회음결핍,True,True,False,,정맥염 및 혈전정맥염,True
+random,P249,spot retinoscope,점상망막검영기,True,True,False,,음압,True
+random,P249,biceps femoris muscle,넙다리두갈래근,True,True,False,,파울러자유아메바,True
+random,P249,tuning fork,소리굽쇠,True,True,False,,전환간호 수행,True
+random,P250,buryu,부류(復溜),True,True,False,,비브리오살균제,True
+random,P250,dilation of rectum,곧창자 확장,True,True,False,,건초천식,True
+random,P250,tinea manuum,손백선,True,True,False,,정신사회발달,True
+random,P251,diastasimetry,녹말효소측정법,True,True,False,,제곱근모양징후,True
+random,P251,perfluorocarbon,과불화탄소,True,True,False,,흡입기,True
+random,P251,myelalgia,척수통증,True,True,False,,누난 증후군,True
+random,P252,third ventricle,셋째뇌실,True,True,False,,카르바미노반응,True
+random,P252,cystitomy,수정체낭절개(술),True,True,False,,엉덩관절병골반,True
+random,P252,inappropriate self disclosure,부적절한 자기 노출,True,True,False,,연소성 만성 홍채섬모체염,True
+random,P253,erythema migrans,이동성 홍반,True,True,False,,전환간호 수행,True
+random,P253,medical indigent,의료급여대상자,True,True,True,의료급여대상자,외상후 다발관절증,True
+random,P253,unequal limb length,사지길이부동증,True,True,True,사지길이부동증,혈관유리질증,True
+random,P254,primary mover,주작용근,True,True,False,,상대암점,True
+random,P254,motor fiber,운동신경섬유,True,True,False,,브리언트 당김,True
+random,P254,tuberculosis of oesophagus,식도의 결핵,True,True,False,,스미드골절,True
+random,P255,primitive neuroectodermal tumor,원시신경외배엽종양,True,True,False,,콩팥염망막염,False
+random,P255,endovascular ultrasonography,혈관내 초음파촬영,True,True,False,,벼룩(속),True
+random,P255,failed forceps,집게 사용 실패,True,True,False,,큰머리증,True
+random,P256,ceruminous gland,귀지샘,True,True,False,,Tc섭취율,True
+random,P256,synclonus,동조근간대,True,True,False,,두덩뼈 위쪽 경유 전립샘 절제,False
+random,P256,lienorenal,지라콩팥-,True,True,False,,잘록창자장막층,False
+random,P257,affectivity,정동성,True,True,False,,이마봉합선,True
+random,P257,ureteropelvic junction,요관깔때기이음부,True,True,False,,임시 지대주,True
+random,P257,gangliectomy,신경절절제(술),True,True,False,,고리나선신경종말,True
+random,P258,dry socket recurettage,발치와골염 재소파술,True,True,False,,분만후 무피브리노젠혈증,True
+random,P258,epigastric artery,배벽동맥,True,True,False,,전립샘통증,True
+random,P258,transurethral intravesical electrotherapy,요도경유방광속전기요법,True,True,False,,대칭성연축,True
+random,P259,micromanipulation,미세조작(술),True,True,False,,온백색증,True
+random,P259,negative pressure,음압,True,True,False,,토르,True
+random,P259,puborectalis muscle,두덩곧창자근,True,True,False,,결합체,True
+random,P260,costal angle,갈비뼈각,True,True,False,,털바탕질종,True
+random,P260,abdominal palpable mass,복부 촉지성 종괴,True,True,False,,온등세모근,True
+random,P260,interim abutment,임시 지대주,True,True,False,,갈고리돌기-,True
+random,P261,recession operation,뒤옮김술,True,True,False,,회선사상충결절,True
+random,P261,podiatrist,발전문가,True,True,False,,밴드제거,True
+random,P261,recurrent thyroid ca,재발성 갑상선암,True,True,False,,경막외 신경차단술,True
+random,P262,noonan syndrome,누난 증후군,True,True,False,,장크도말검사,True
+random,P262,high-grade lymphoma,심한 림프종,True,True,False,,말단병(증),True
+random,P262,hereditary amyloid nephropathy,유전성 아밀로이드 신장병증,True,True,False,,영적의식 지지하기,True
+random,P263,collagen fiber graft,교원 섬유 이식술,True,True,False,,수술중초음파검사,True
+random,P263,ocular prosthesis,의안,True,True,True,의안,그림좌절검사,True
+random,P263,laryngopharyngitis,후두인두염,True,True,False,,말단병(증),True
+random,P264,postoperative nasopharynx cancer,"비인두암, 수술후 상태",True,True,False,,의치지지조직,True
+random,P264,oath of hippocrates,히포크라테스선서,True,True,False,,그레이브스 눈병증,True
+random,P264,postprocedural hypothyroidism,처치후 갑상선기능저하증,True,True,False,,콩팥염망막염,False
+random,P265,scintillating hemianopia,섬광반맹,True,True,False,,생식기능출현기,True
+random,P265,dislocation of wrist,손목의 탈구,True,True,False,,이형,True
+random,P265,aspergillus niger,아스페르길루스니게르,True,True,False,,소육아종 유방염,True
+random,P266,paraspasm,대칭성연축,True,True,False,,손발톱병(증),True
+random,P266,molding,두개몰딩,True,True,False,,막힌샛길,True
+random,P266,retention of urine,소변정체,True,True,False,,손톱의 곤봉화,True
+random,P267,cranial dermal sinus,뇌피부동,True,True,False,,신경뿌리통증,True
+random,P267,retrograde impulse,역방향흥분,True,True,False,,뿌리끝육아종,True
+random,P267,iodinated,요오드표지-,True,True,False,,심한 림프종,True
+random,P268,spinal injuries,척수 손상,True,True,False,,확산능,True
+random,P268,facial nucleus,얼굴신경핵,True,True,False,,유구조충,True
+random,P268,alert,명료함,True,True,False,,신보강화학요법,True
+random,P269,dendritic spine,수지상극,True,True,False,,굴절조절 내사시,True
+random,P269,hyperestrinism,여성호르몬과다(증),True,True,False,,간실질상,True
+random,P269,absolute scotoma,절대암점,True,True,False,,중심난황-,True
+random,P270,paramyxoviridae infection,파라믹소바이러스 감염,True,True,False,,면역글로불린계,True
+random,P270,hb-sc disease,헤모글로빈-SC병,True,True,False,,위샘염,True
+random,P270,echo pulse,초음파,True,True,False,,과잉매복치,True
+random,P271,teat,젖꼭지,True,True,False,,제곱근모양징후,False
+random,P271,organic writer's cramp,기질성 서경,True,True,False,,고리핵,True
+random,P271,esthiomene,만성 외음궤양,True,True,False,,자궁내막버팀질육종,True
+random,P272,triaging,중증도 분류,True,True,False,,주시점맹점암점,True
+random,P272,fistula of gallbladder,담낭의 누공,True,True,False,,비디오레이저검사,True
+random,P272,periarthritis of wrist,손목의 관절주위염,True,True,False,,지텔만 증후군,True
+random,P273,inverse-ratio ventilation,역비환기,True,True,False,,형질모세포성 림프종,True
+random,P273,forehead,전두,True,True,False,,목 뒤통수 신경통,True
+random,P273,complex echo pattern,복잡메아리,True,True,False,,동전모양피부염,True
+random,P274,blood tinged sputum,혈액흔적가래,True,True,False,,손목손허리관절,True
+random,P274,kakidrosis,땀악취증,True,True,False,,의안,True
+random,P274,hippuric acid,마뇨산,True,True,False,,류마티스혈관염,True
+random,P275,ophthalmophacometer,수정체굴절력측정계,True,True,False,,연속-,True
+random,P275,radioimmunoelectrophoresis,방사면역전기이동(법),True,True,False,,위장관영양,True
+random,P275,sirenomelia syndrome,인어다리 증후군,True,True,False,,다발사이이식,True
+random,P276,defective interfering particle,결손간섭입자,True,True,False,,무난개충란,True
+random,P276,ancylostoma ceylanicum,실론구충,True,True,False,,결합체,True
+random,P276,pupillary seclusion,동공차단,True,True,False,,멜라닌가시세포종,True
+random,P277,mastadenitis,젖샘염,True,True,False,,동조곡선,True
+random,P277,ophthalmologic surgical procedures,안과 수술방법,True,True,False,,점상망막검영기,True
+random,P277,catatonic shizophrenia,긴장형 정신분열병,True,True,False,,광범피부밑출혈,True
+random,P278,drug-induced,약물유발-,True,True,False,,면역진단법,True
+random,P278,coalescent mastoiditis,융합꼭지돌기염,True,True,False,,흑색땀증,True
+random,P278,major calyx,큰콩팥잔,True,True,False,,열린사슬화합물,True
+random,P279,bladder neck contracture,방광목 위축,True,True,False,,귀꽂이,True
+random,P279,sign,징후,True,True,False,,갈비뼈각,True
+random,P279,juvenile chronic iridocyclitis,연소성 만성 홍채섬모체염,True,True,False,,전립샘통증,True
+random,P280,dural avf,경막의 동정맥루,True,True,False,,아나필락시스유사위기,True
+random,P280,myoalbumin,근(육)알부민,True,True,False,,아마포착용자병,True
+random,P280,hay asthma,건초천식,True,True,False,,동조근간대,True
+random,P281,post-traumatic polyarthrosis,외상후 다발관절증,True,True,False,,궁둥뼈결절,False
+random,P281,insular sclerosis,섬경화증,True,True,False,,염주핵,False
+random,P281,intestinal polypectomy,장 폴립 절제,True,True,True,장 폴립 절제,수술중 신경생리학적 검사,False
+random,P282,pubocapsular,두덩관절피막-,True,True,False,,성끈기질종양,True
+random,P282,substantia nigra,흑(색)질,True,True,False,,이동성 홍반,True
+random,P282,core decompression,중핵감압,True,True,False,,다발성 샘종성 폴립,True
+random,P283,nonoperculated egg,무난개충란,True,True,False,,닌히드린검사,True
+random,P283,transcervical thymectomy,자궁목 경유 가슴샘 절제,True,True,False,,분아진균(속),True
+random,P283,phospholipidemia,인지질혈증,True,True,False,,V-Y 성형술,True
+random,P284,infraction,균열골절,True,True,False,,반응성-,True
+random,P284,epilemmal termination,신경속막종말,True,True,False,,림프구형성,True
+random,P284,hairy-cell leukemia,털세포백혈병,True,True,False,,염색체외유전,True
+random,P285,thyroid nodule,갑상선소결절,True,True,False,,단극성 우울병,True
+random,P285,paraphilia,성도착(증),True,True,False,,다약제내성,True
+random,P285,antifibrinolysin,항섬유소용해소제,True,True,False,,간섭작용,True
+random,P286,talipes calcaneus,발끝들린휜발증,True,True,False,,구안지 증후군,False
+random,P286,lyophobic,소액성,True,True,False,,림프구형성,True
+random,P286,long labor,지연 진통,True,True,False,,미세림프절이식,True
+random,P287,allocentric,타인중심-,True,True,False,,정동성,True
+random,P287,vegetant intravascular hemangioendothelioma,증식혈관내혈관내피종,True,True,False,,저림,True
+random,P287,cervix dilatation,자궁경부개대,True,True,False,,단순방사선사진,True
+random,P288,lobectomy of lung,폐엽 절제,True,True,False,,토르,True
+random,P288,supratentorial neoplasms,천막위 신생물,True,True,False,,과불화탄소,True
+random,P288,basal seat,의치지지조직,True,True,False,,쿱의 수정 유문근층 절개,True
+random,P289,mongoloid slant,몽골인 모양 눈,True,True,True,몽골인 모양 눈,속림프관,True
+random,P289,internal carotid angiography,두경부동맥조영-내경동맥,True,True,False,,산후질분비물정체,True
+random,P289,bionator,바이오네이터,True,True,False,,다발 집단 뼈발생이상,True
+random,P290,syncytial,합포체-,True,True,False,,생식기능출현기,True
+random,P290,tangential section,비스듬절단,True,True,False,,아마포착용자병,True
+random,P290,incisor tooth,절치,True,True,False,,감염되지않은,True
+random,P291,bird-shot chorioretinopathy,산탄맥락망막병(증),True,True,False,,배안보개 이용 한쪽 자궁관난소 적출,True
+random,P291,guinea pig,기니피그,True,True,False,,굴절부등약시,True
+random,P291,multicystic kidney disease,다낭신장병,True,True,False,,황반 원공,True
+random,P292,endometrial stromal sarcoma,자궁내막버팀질육종,True,True,False,,악교정수술,True
+random,P292,voluntomotory,수의운동-,True,True,False,,포도구균 예방접종,True
+random,P292,m line,중간가로막,True,True,False,,일회통과심장스캔-안정상태,True
+random,P293,turbidometric technique,혼탁도측정기법,True,True,False,,눈미주신경반사,True
+random,P293,retaining harness,장치유지,True,True,False,,귀지샘,True
+random,P293,femur,넙다리뼈,True,True,False,,간관루설치(술),True
+random,P294,sarcoma of lung,폐 육종,True,True,False,,뒤옮김술,True
+random,P294,hyposthenuric urine,저비중뇨,True,True,False,,과소 및 과소체중아,True
+random,P294,rhabdomyomyxoma,횡문근점액종,True,True,False,,알레르기혈청,True
+random,P295,menometrorrhagia,불규칙과다월경,True,True,False,,옵신,True
+random,P295,tuning curve,동조곡선,True,True,False,,궁둥뼈가지,True
+random,P295,horseshoe fistula,말발굽샛길,True,True,False,,체반,True
+random,P296,ballism,도리깨질(증),True,True,True,도리깨질(증),발치와골염 재소파술,True
+random,P296,paraffinoma,파라핀종,True,True,False,,선천 손발톱백반,True
+random,P296,virgin population,무노출인구,True,True,False,,낭종 주머니형성,True
+random,P297,esterapenia,에스테라아제감소,True,True,False,,요생산,True
+random,P297,reconstruction of thumb,엄지 손가락 재건,True,True,False,,단일시궤도,True
+random,P297,analgesia dolorosa,무감각부위통증,True,True,False,,코굴염,True
+random,P298,cabot ring bodies,카보트고리소체,True,True,False,,바위뒤통수틈새,True
+random,P298,paraduodenal fold,샘창자옆주름,True,True,False,,혈관유리질증,False
+random,P298,hemoglobin c,헤모글로빈C,True,True,False,,지중해진드기열,True
+random,P299,presence of mei,인공중이삽입물의 존재,True,True,False,,식사-,True
+random,P299,mamillitis,유두염,True,True,False,,목 뒤통수 신경통,True
+random,P299,oxyhydrocephalus,뾰족물머리증,True,True,False,,미세마찰음,True
+random,P300,root resection,치근 절제술,True,True,False,,인지질혈증,True
+random,P300,breast stereotactic biopsy,유방 입체정위 생검술,True,True,False,,살리실아마이드,True
+random,P300,myotonic disorders,근긴장장애,True,True,False,,복잡메아리,True
+random,P301,ionometer,이온화선량계,True,True,False,,치아진정처치,True
+random,P301,tingling,저림,True,True,False,,안저,True
+random,P301,first filial generation,일대잡종,True,True,False,,더운물 주머니,True
+random,P302,endosome,엔도솜,True,True,True,엔도솜,손톱의 곤봉화,True
+random,P302,mr mapping,자기공명지도화,True,True,False,,연속-,True
+random,P302,hyposegmentation,저분절증,True,True,False,,삼색상,True
+random,P303,intermittent explosive disorder,간헐폭발병,True,True,False,,큐알에스(QRS) 넓힘,True
+random,P303,gastroenteritis paratyphosa,파라티푸스위창자염,True,True,False,,컴퓨터 단층촬영 간 동맥조영술과 컴퓨터 단층촬영 문맥조영술,True
+random,P303,fixator muscle,고정근육,True,True,False,,발전문가,True
+random,P304,sao paulo fever,상파울로열,True,True,False,,온백색증,True
+random,P304,palpating,촉진하기,True,True,False,,역돌연변이,True
+random,P304,balloon kyphoplasty,풍선 척추성형,True,True,False,,자궁목 절단,True
+random,P305,assess breastfeeding support,모유수유지지 사정,True,True,False,,외막밑섬유증식,True
+random,P305,monopolar depression,단극성 우울병,True,True,False,,망치머리형리보자임,True
+random,P305,positioned flap,판막이동수술,True,True,True,판막이동수술,요관깔때기이음부,True
+random,P306,prandial,식사-,True,True,False,,수정된 노우드수술,True
+random,P306,acanthamoeba keratitis,가시아메바각막염,True,True,False,,신경전도검사(두부),False
+random,P306,adjustable suture,조정봉합,True,True,False,,손톱의 곤봉화,True
+random,P307,hyperosmolar nonketotic coma,고삼투압성비케토산성혼수,True,True,False,,항중성구세포질항체,True
+random,P307,gracilis muscle,두덩정강근,True,True,False,,궁둥뼈가지,True
+random,P307,lobomycosis,로보진균증,True,True,False,,회음결핍,True
+random,P308,flat position,앙와위,True,True,False,,몽골인 모양 눈,True
+random,P308,plantar flexion,발바닥쪽 굽힘,True,True,False,,스테인레스금관 합착,True
+random,P308,status thymicus,가슴샘체질,True,True,False,,요천부팽대,True
+random,P309,septal angle,코중격각,True,True,False,,방광주혈흡충이질,True
+random,P309,dementia in hypercalcaemia,과칼슘혈증에서의 치매,True,True,False,,요도경하 수술,True
+random,P309,teach personal care,개인간호 교육,True,True,False,,목바로잡기반사,True
+random,P310,interoceptive,내수용-,True,True,False,,중증도 분류,True
+random,P310,multicystic renal dysplasia,다낭성 신장의 형성이상,True,True,False,,등 열상,True
+random,P310,fecal concentration,대변농축(법),True,True,False,,무기폐,True
+random,P311,in utero,자궁내,True,True,True,자궁내,목 뒤통수 신경통,True
+random,P311,bidiscoidal placenta,두원반태반,True,True,False,,살리실아마이드,True
+random,P311,high-tension pulse,고긴장맥박,True,True,False,,담석증,True
+random,P312,idiopathic hemihypertrophy,특발성 편측비대증,True,True,False,,톱니적혈구,True
+random,P312,skull view,두부촬영,True,True,False,,일회통과심장스캔-안정상태,True
+random,P312,general microbiology test,일반미생물 검사,True,True,False,,옴스크출혈열,True
+random,P313,tufting enteropathy,터프팅장증,True,True,False,,정밀면역검사-C형간염항체,True
+random,P313,supraduodenal artery,샘창자위동맥,True,True,False,,건초천식,True
+random,P313,exteroceptive stimulus,외수용자극,True,True,False,,회전양극관,True
+random,P314,reciprocal shaker,왕복진탕기,True,True,True,왕복진탕기,무릎뼈의 장애,False
+random,P314,potential doubling time,잠재배가시간,True,True,False,,디스트로피성 수포성 표피박리증,True
+random,P314,staphylococcus epidermidis,표피포도알균,True,True,False,,멕켈 게실절제술,True
+random,P315,rodenticide,살서제,True,True,False,,열린사슬화합물,True
+random,P315,cataract ou,두눈 백내장,True,True,False,,장치유지,True
+random,P315,wry neck,기운목,True,True,False,,말발굽샛길,True
+random,P316,curvature of spine,척주굽이,True,True,False,,변증,True
+random,P316,cardiocele,심장류,True,True,True,심장류,투명부위,True
+random,P316,hyperreninemia,과레닌혈증,True,True,False,,담낭의 누공,True
+random,P317,sp crown setting,스테인레스금관 합착,True,True,False,,무감각부위통증,True
+random,P317,calomel,감홍,True,True,False,,포도구균 예방접종,True
+random,P317,fiberoptic endoscopic,광섬유내시경,True,True,False,,바이오네이터,True
+random,P318,ventriculopleural anastomosis,뇌실가슴막 연결,True,True,False,,헤모글로빈C,True
+random,P318,laryngeal nodule,후두결절,True,True,False,,팔망막순환시간,True
+random,P318,hbab,간염 B형 표면항체,True,True,False,,온손가락,True
+random,P319,arthroplasty of foot,발의 관절 성형,True,True,False,,힘줄뼈되기,True
+random,P319,perianal haematoma,항문주위혈종,True,True,False,,잠식궤양,True
+random,P319,lichen planus tropicus,열대성 편평태선,True,True,False,,완전기생체,True
+random,P320,comparator,비교측정기,True,True,False,,발허리간관절조직,True
+random,P320,menstrual irregularity,월경불규칙,True,True,False,,Tc섭취율,True
+random,P320,wrist joint,요골수근관절,True,True,False,,손발톱병(증),True
+random,P321,third ventricle structure,제3뇌구조,True,True,False,,축농 제거,True
+random,P321,reactive,반응성-,True,True,False,,앞방향절제(술),True
+random,P321,medullary canal,골수공간,True,True,False,,잔상,True
+random,P322,fall risk deteriorated,낙상 위험성 악화됨,True,True,False,,원기,True
+random,P322,salpingography and plasty,난관조영촬영 및 개통술,True,True,False,,단일유출로심장,True
+random,P322,abortive prophage,불완전프로파지,True,True,False,,흉통,True
+random,P323,binaural,양귀-,False,False,False,,,False
+random,P323,radionuclide angiocardiography,방사성핵종심(장)혈관조영(술),True,True,False,,곧창자-,True
+random,P323,nerve root injury,척추 신경뿌리의 손상,True,True,False,,직장내 풀-스루식 수술,True
+random,P324,sialodochoplasty,침샘관성형(술),True,True,False,,클로스트리듐히스톨리티쿰,True
+random,P324,dislocation of midcarpal(joint),중간수근골(관절)의 탈구,False,False,False,,,False
+random,P324,plasmablastic lymphoma,형질모세포성 림프종,True,True,False,,다원기록기,True
+random,P325,assess enema,관장 사정,True,True,False,,융합꼭지돌기염,True
+random,P325,periodic rhinitis,주기코염,True,True,False,,흡입기,True
+random,P325,echinocyte,톱니적혈구,True,True,False,,골신장술,True
+random,P326,polyneuralgia,다발신경통,True,True,False,,핵다면체형성바이러스,True
+random,P326,dromotropic,전도영향성-,True,True,False,,눈미주신경반사,True
+random,P326,altimeter sickness,고산병,True,True,False,,인두,True
+random,P327,gastradenitis,위샘염,True,True,False,,회전방사선치료대,True
+random,P327,near field potential,근접부위전위,True,True,False,,풋첨단체과립,True
+random,P327,auriscope,이경,True,True,False,,종양특이항원,True
+random,P328,self-care deficit,자가간호결핍,True,True,False,,류마티스성 다발근통,True
+random,P328,laryngotracheal stenosis,후두기관협착(증),True,True,False,,생식 기관 곰팡이 감염,True
+random,P328,deuterium,중수소,True,True,False,,빗장위접근법,True
+random,P329,dialysis adequacy,투석충분도,True,True,False,,뇌피부동,True
+random,P329,non-infected,감염되지않은,True,True,False,,제4심(장)음,True
+random,P329,worm-eaten soles,벌레먹은 발바닥,True,True,False,,고밀도침착병,True
+random,P330,ischial ramus,궁둥뼈가지,True,True,False,,미각과민(증),True
+random,P330,traumatic sah,외상성 지주막하출혈,True,True,False,,녹색시,True
+random,P330,extroverted personality,외향인격,True,True,False,,무작위교배계,True
+random,P331,extra-abdominal,복부외-,True,True,False,,자가간호결핍,True
+random,P331,eccrine poroma,외분비 한공종,True,True,False,,경막외 신경차단술,True
+random,P331,activity grade,활동정도,True,True,False,,탈색크림,True
+random,P332,phlebography,정맥조영(술),True,True,False,,비중심교합,False
+random,P332,myoclonia fibrillaris multiplex,다발잔떨림근대성대발작,True,True,False,,복재신경병증,False
+random,P332,femur,넙다리뼈,True,True,False,,간관루설치(술),True

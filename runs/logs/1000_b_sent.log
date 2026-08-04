@@ -1,0 +1,111 @@
+(b) 문장 단위 · 1000건 · mode ['none', 'term', 'random'] · 모델 GLM-5.2
+    span 추출 켬(2필드)
+
+── mode=none
+      none 50/1000
+      none 100/1000
+      none 150/1000
+      none 200/1000
+      none 250/1000
+      none 300/1000
+      none 350/1000
+      none 400/1000
+      none 450/1000
+      none 500/1000
+      none 550/1000
+      none 600/1000
+      none 650/1000
+      none 700/1000
+      none 750/1000
+      none 800/1000
+      none 850/1000
+      none 900/1000
+      none 950/1000
+      none 1000/1000
+      ⚠️ none 응답 교차 의심 1건 → 직렬 재호출 (round 1/3)
+
+── mode=none   n=1000
+   정답(대표)        152  ( 15.2%)
+   정답(동의어)        48  (  4.8%)
+   오답            800  ( 80.0%)
+   일치수준: {'exact': 133, 'nospace': 67}
+   이슈: {'bad_chars': 39, 'span_not_substring': 1}
+   span이 KO의 부분문자열 아님: 1/1000  ← 추출실패로 분리
+  저장 → results_1000/b_sent_none.json
+── mode=term
+      term 50/1000
+      term 100/1000
+      term 150/1000
+      term 200/1000
+      term 250/1000
+      term 300/1000
+      term 350/1000
+      term 400/1000
+      term 450/1000
+      term 500/1000
+      term 550/1000
+      term 600/1000
+      term 650/1000
+      term 700/1000
+      term 750/1000
+      term 800/1000
+      term 850/1000
+      term 900/1000
+      term 950/1000
+      term 1000/1000
+
+── mode=term   n=1000
+   정답(대표)        981  ( 98.1%)
+   정답(동의어)         2  (  0.2%)
+   오답             17  (  1.7%)
+   일치수준: {'exact': 983}
+   이슈: {'bad_chars': 71, 'span_not_substring': 3}
+   span이 KO의 부분문자열 아님: 3/1000  ← 추출실패로 분리
+  저장 → results_1000/b_sent_term.json
+── mode=random
+      random 50/1000
+      random 100/1000
+      random 150/1000
+      random 200/1000
+      random 250/1000
+      random 300/1000
+      random 350/1000
+      random 400/1000
+      random 450/1000
+      random 500/1000
+      random 550/1000
+      random 600/1000
+      random 650/1000
+      random 700/1000
+      random 750/1000
+      random 800/1000
+      random 850/1000
+      random 900/1000
+      random 950/1000
+      random 1000/1000
+      ⚠️ random 응답 교차 의심 1건 → 직렬 재호출 (round 1/3)
+
+── mode=random   n=1000
+   정답(대표)          2  (  0.2%)
+   정답(동의어)         1  (  0.1%)
+   오답            997  ( 99.7%)
+   일치수준: {'exact': 3}
+   이슈: {'bad_chars': 80, 'span_not_substring': 2}
+   span이 KO의 부분문자열 아님: 2/1000  ← 추출실패로 분리
+   ★ 오답 용어집 추종률 970/1000 (97.0%)  ← 높아야 용어집이 작동 중이라는 증거
+  저장 → results_1000/b_sent_random.json
+
+========================================================================
+mode          n      정답       오답용어집추종
+none       1000   20.0%             -
+term       1000   98.3%             -
+random     1000    0.3%         97.0%
+
+■ 페어 비교 (기준: none)
+   none→term     개선  783  악화    0  순증 +783
+   none→random   개선    0  악화  197  순증 -197
+
+호출 3002회 · 재시도 0회 · 출력 117,749토큰(reasoning 13,170) · $0.6316 · 호출당 $0.000210
+응답 교차 탐지 2건 · 재호출로 복구 2건 · 미해결 0건
+  저장 → results_1000/b_sent_summary.json
+  저장 → results_1000/b_sent_rows.csv

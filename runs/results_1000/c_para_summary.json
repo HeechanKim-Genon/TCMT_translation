@@ -1,0 +1,64 @@
+{
+  "summary": [
+    {
+      "mode": "none",
+      "n_terms": 996,
+      "n_paras": 332,
+      "term_pct_all": 23.9,
+      "term_pct_injected": 23.6,
+      "term_pct_not_injected": 41.2,
+      "followed_decoy_pct": null,
+      "truncated": 0,
+      "empty": 0
+    },
+    {
+      "mode": "term",
+      "n_terms": 996,
+      "n_paras": 332,
+      "term_pct_all": 96.8,
+      "term_pct_injected": 98.0,
+      "term_pct_not_injected": 29.4,
+      "followed_decoy_pct": null,
+      "truncated": 0,
+      "empty": 0
+    },
+    {
+      "mode": "random",
+      "n_terms": 996,
+      "n_paras": 332,
+      "term_pct_all": 4.0,
+      "term_pct_injected": 3.7,
+      "term_pct_not_injected": 23.5,
+      "followed_decoy_pct": 95.6,
+      "truncated": 0,
+      "empty": 0
+    }
+  ],
+  "usage": {
+    "calls": 1369,
+    "cost": 3.326238846199998,
+    "out_tokens": 938255,
+    "reasoning_tokens": 219372,
+    "netfail": 0,
+    "retries": 84
+  },
+  "config": {
+    "modes": "none,term,random",
+    "limit": 0,
+    "seed": 42,
+    "inject_target": false,
+    "no_tail_filter": false,
+    "include_single": true
+  },
+  "crossing": {
+    "detected": 102,
+    "repaired": 11,
+    "unresolved": 91
+  },
+  "matching": {
+    "target": 996,
+    "matched": 979,
+    "recall_pct": 98.3,
+    "extra": 11420
+  }
+}

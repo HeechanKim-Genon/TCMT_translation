@@ -1,0 +1,1638 @@
+[
+  {
+    "en": "absence of muscle",
+    "pred": "근육부재",
+    "rep": "근육의 결여",
+    "answers": [
+      "근육의 결여"
+    ],
+    "kcd": "Q79.8",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "agenesis of lung",
+    "pred": "폐무형성증",
+    "rep": "폐의 무발생",
+    "answers": [
+      "폐의 무발생",
+      "폐의 무발생증"
+    ],
+    "kcd": "Q33.3",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "airborne infection",
+    "pred": "공기감염",
+    "rep": "공기매개감염",
+    "answers": [
+      "공기매개감염"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "allergenic serum",
+    "pred": "알레르겐혈청",
+    "rep": "알레르기혈청",
+    "answers": [
+      "알레르기혈청"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "altered uterine contractions",
+    "pred": "변형자궁수축",
+    "rep": "자궁수축 변화",
+    "answers": [
+      "자궁수축 변화"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "anisometropic amblyopia",
+    "pred": "부동시약시",
+    "rep": "굴절부등약시",
+    "answers": [
+      "굴절부등약시",
+      "부동 약시"
+    ],
+    "kcd": "H53.01",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "auriculotemporal nerve",
+    "pred": "이두신경",
+    "rep": "귓바퀴관자신경",
+    "answers": [
+      "귓바퀴관자신경",
+      "이개측두신경"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "bacteriostasis",
+    "pred": "정균작용",
+    "rep": "정균작용",
+    "answers": [
+      "정균작용"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "basal seat",
+    "pred": "기저부",
+    "rep": "의치지지조직",
+    "answers": [
+      "의치지지조직"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "bidiscoidal placenta",
+    "pred": "이원반태반",
+    "rep": "두원반태반",
+    "answers": [
+      "두원반태반"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "bilateral palatine tonsils",
+    "pred": "양측구개편도",
+    "rep": "양측 목구멍 편도",
+    "answers": [
+      "양측 목구멍 편도"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "biopsy of adenoid",
+    "pred": "아데노이드생검",
+    "rep": "인두편도 생검",
+    "answers": [
+      "아데노이드 생검",
+      "인두편도 생검"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(동의어)",
+    "level": "nospace",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "blood donation",
+    "pred": "헌혈",
+    "rep": "헌혈",
+    "answers": [
+      "헌혈"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "blood fluke",
+    "pred": "주혈흡충",
+    "rep": "주혈흡충",
+    "answers": [
+      "주혈흡충"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "breast stereotactic biopsy",
+    "pred": "유방정위생검",
+    "rep": "유방 입체정위 생검술",
+    "answers": [
+      "유방 입체정위 생검술"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "capillaria hepatica",
+    "pred": "간모세선충",
+    "rep": "간모세선충",
+    "answers": [
+      "간모세선충"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "cardioplegic",
+    "pred": "심장정지성",
+    "rep": "심장마비-",
+    "answers": [
+      "심장마비-",
+      "심장정지-"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "case-mix",
+    "pred": "환자군",
+    "rep": "질병구성",
+    "answers": [
+      "질병구성"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "cervical vertigo",
+    "pred": "경추어지럼증",
+    "rep": "경추성 현기증",
+    "answers": [
+      "경추성 현기증"
+    ],
+    "kcd": "M54.22",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "cheilosis",
+    "pred": "구순염",
+    "rep": "구순증",
+    "answers": [
+      "구순증",
+      "입술증"
+    ],
+    "kcd": "K13.0",
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "clean bench",
+    "pred": "청정벤치",
+    "rep": "무균실험대",
+    "answers": [
+      "무균실험대"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "coalescent mastoiditis",
+    "pred": "융합성유양돌기염",
+    "rep": "융합꼭지돌기염",
+    "answers": [
+      "융합꼭지돌기염",
+      "융합유돌염"
+    ],
+    "kcd": "H70.8",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "colpomyomectomy",
+    "pred": "질식자궁근종절제술",
+    "rep": "질식근종절제(술)",
+    "answers": [
+      "질식근종절제(술)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "cryptococcal meningocerebritis",
+    "pred": "크립토코커스뇌막뇌염",
+    "rep": "크립토콕쿠스수막대뇌염",
+    "answers": [
+      "크립토콕쿠스수막대뇌염"
+    ],
+    "kcd": "B45.1",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "dental granuloma",
+    "pred": "치아육아종",
+    "rep": "뿌리끝육아종",
+    "answers": [
+      "뿌리끝육아종",
+      "치근첨육아종"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "derangement of patella",
+    "pred": "슬개골장애",
+    "rep": "무릎뼈의 장애",
+    "answers": [
+      "무릎뼈의 장애"
+    ],
+    "kcd": "M22.0-M22.3",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "deshielded proton",
+    "pred": "탈차폐양성자",
+    "rep": "미차폐양성자",
+    "answers": [
+      "미차폐양성자"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "diabetic coma",
+    "pred": "당뇨병성혼수",
+    "rep": "당뇨 혼수",
+    "answers": [
+      "당뇨 혼수"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "dislocation of midcarpal(joint)",
+    "pred": "중수근(관절)탈구",
+    "rep": "중간수근골(관절)의 탈구",
+    "answers": [
+      "중간수근골(관절)의 탈구"
+    ],
+    "kcd": "S63.02",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "dry weight",
+    "pred": "건조무게",
+    "rep": "투석목표체중",
+    "answers": [
+      "투석목표체중"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "endaural",
+    "pred": "이내",
+    "rep": "귀속-",
+    "answers": [
+      "귀속-"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "endocrinologist",
+    "pred": "내분비학자",
+    "rep": "내분비전문의",
+    "answers": [
+      "내분비전문의",
+      "내분비학자"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(동의어)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "endoscopic revision dacryocystorhinostomy",
+    "pred": "내시경재수정누낭비강문합술",
+    "rep": "내시경 이용 눈물주머니코안 연결 교정",
+    "answers": [
+      "내시경 이용 눈물주머니비강 문합 수정",
+      "내시경 이용 눈물주머니코안 연결 교정"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "entire trapezius muscle",
+    "pred": "전승모근",
+    "rep": "온등세모근",
+    "answers": [
+      "온등세모근"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "epidermolysis bullosa dystrophica",
+    "pred": "이영양성수포성표피박리증",
+    "rep": "디스트로피성 수포성 표피박리증",
+    "answers": [
+      "디스트로피성 수포성 표피박리증"
+    ],
+    "kcd": "Q81.2",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "epididymal duct",
+    "pred": "부고환관",
+    "rep": "부고환관",
+    "answers": [
+      "부고환관"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "epiplocele",
+    "pred": "망장탈장",
+    "rep": "대망탈장",
+    "answers": [
+      "그물막탈장",
+      "그물막헤르니아",
+      "대망탈장",
+      "대망헤르니아"
+    ],
+    "kcd": "K46",
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "exteroceptive stimulus",
+    "pred": "외수용성자극",
+    "rep": "외수용자극",
+    "answers": [
+      "외수용자극"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "foraminal",
+    "pred": "공의",
+    "rep": "그물막구멍",
+    "answers": [
+      "그물막구멍",
+      "대망공"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "gastroenteritis paratyphosa",
+    "pred": "파라티푸스성위장염",
+    "rep": "파라티푸스위창자염",
+    "answers": [
+      "파라티푸스위장염",
+      "파라티푸스위창자염"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "genuine diabetes",
+    "pred": "진성당뇨병",
+    "rep": "진성당뇨병",
+    "answers": [
+      "진성당뇨병"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "glaucomatous cataract",
+    "pred": "녹내장성백내장",
+    "rep": "녹내장성백내장",
+    "answers": [
+      "녹내장성백내장"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "glutitis",
+    "pred": "둔근염",
+    "rep": "볼기염",
+    "answers": [
+      "둔부염",
+      "볼기염"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "hammerhead ribozyme",
+    "pred": "해머헤드리보자임",
+    "rep": "망치머리형리보자임",
+    "answers": [
+      "망치머리형리보자임"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "hapgok",
+    "pred": "합곡",
+    "rep": "합곡(合谷)",
+    "answers": [
+      "합곡(合谷)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "hemodynamometry",
+    "pred": "혈류역학측정법",
+    "rep": "혈압측정(법)",
+    "answers": [
+      "혈압측정(법)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "heredoinfection",
+    "pred": "유전감염",
+    "rep": "유전감염",
+    "answers": [
+      "유전감염"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "high quality-hcv ab",
+    "pred": "고품질-c형간염항체",
+    "rep": "정밀면역검사-C형간염항체",
+    "answers": [
+      "정밀면역검사-C형간염항체"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "hippocampal sclerosis",
+    "pred": "해마경화증",
+    "rep": "해마경화(증)",
+    "answers": [
+      "해마경화(증)"
+    ],
+    "kcd": "G37.9",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "hyeopbaek",
+    "pred": "협백",
+    "rep": "협백(俠白)",
+    "answers": [
+      "협백(俠白)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "implosion",
+    "pred": "내파",
+    "rep": "홍수(노출)요법",
+    "answers": [
+      "내파",
+      "홍수(노출)요법"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(동의어)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "inertia",
+    "pred": "관성",
+    "rep": "무기력",
+    "answers": [
+      "무기력",
+      "무력증"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "insular sclerosis",
+    "pred": "섬성 경화증",
+    "rep": "섬경화증",
+    "answers": [
+      "섬경화증"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "interferential action",
+    "pred": "간섭 작용",
+    "rep": "간섭작용",
+    "answers": [
+      "간섭작용"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "nospace",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "intermedia thalassaemia",
+    "pred": "중간형 지중해빈혈",
+    "rep": "중간형 지중해빈혈",
+    "answers": [
+      "중간형 지중해빈혈"
+    ],
+    "kcd": "D56.1",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "involuntary",
+    "pred": "불수의성",
+    "rep": "불수의-",
+    "answers": [
+      "불수의-"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "keratopathy",
+    "pred": "각막병증",
+    "rep": "각막병(증)",
+    "answers": [
+      "각막병(증)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "kub left lateral",
+    "pred": "좌측와위",
+    "rep": "콩팥요관방광촬영, 왼쪽측방향",
+    "answers": [
+      "콩팥요관방광촬영, 왼쪽측방향"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "laryngotracheal stenosis",
+    "pred": "후두기관 협착증",
+    "rep": "후두기관협착(증)",
+    "answers": [
+      "후기관의 협착",
+      "후두기관협착(증)"
+    ],
+    "kcd": "J39.8",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "meckel's diverticulectomy",
+    "pred": "메켈 게실 절제술",
+    "rep": "멕켈 게실절제술",
+    "answers": [
+      "멕켈 게실절제술"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "meningoencephalocele",
+    "pred": "수막뇌류",
+    "rep": "수막뇌류",
+    "answers": [
+      "수막뇌류",
+      "수막뇌탈출증"
+    ],
+    "kcd": "Q01",
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "multicystic renal dysplasia",
+    "pred": "다낭성 신 이형성증",
+    "rep": "다낭성 신장의 형성이상",
+    "answers": [
+      "다낭성 신장의 형성이상",
+      "다낭성 형성이상 신장",
+      "다낭신장형성이상",
+      "다낭형성이상신장"
+    ],
+    "kcd": "Q61.4",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "myotonic disorders",
+    "pred": "근긴장성 질환",
+    "rep": "근긴장장애",
+    "answers": [
+      "근긴장장애"
+    ],
+    "kcd": "G71.1",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "mysophilia",
+    "pred": "분변애증",
+    "rep": "불결기호증",
+    "answers": [
+      "불결기호증"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "naegleria fowleri",
+    "pred": "네그레리아 파울레리",
+    "rep": "파울러자유아메바",
+    "answers": [
+      "파울러자유아메바"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "negative pressure",
+    "pred": "음압",
+    "rep": "음압",
+    "answers": [
+      "음압"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "neurocanal",
+    "pred": "신경관",
+    "rep": "신경관",
+    "answers": [
+      "신경관"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "neuropsychiatry",
+    "pred": "신경정신의학",
+    "rep": "신경정신과학",
+    "answers": [
+      "신경정신과학",
+      "신경정신의학"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(동의어)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "nodular prurigo",
+    "pred": "결절성 가려움증",
+    "rep": "결절가려움발진",
+    "answers": [
+      "결절가려움발진"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "normetanephrine",
+    "pred": "노르메타네프린",
+    "rep": "노르메타네프린",
+    "answers": [
+      "노르메타네프린"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "oncotaxonomy",
+    "pred": "종양분류학",
+    "rep": "종양분류법",
+    "answers": [
+      "종양분류법"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "onychocryptosis",
+    "pred": "내향성 발톱",
+    "rep": "감입발톱",
+    "answers": [
+      "감입발톱"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "orofaciodigital syndrome",
+    "pred": "구안지증후군",
+    "rep": "구안지 증후군",
+    "answers": [
+      "구안지 증후군"
+    ],
+    "kcd": "Q87.0",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "nospace",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "orthognathic surgery",
+    "pred": "악교정술",
+    "rep": "악교정수술",
+    "answers": [
+      "악교정수술"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "papilloma of cerviv",
+    "pred": "자궁경부 유두종",
+    "rep": "자궁경부의 유두종",
+    "answers": [
+      "자궁경부의 유두종"
+    ],
+    "kcd": "D26.0",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "paraduodenal fold",
+    "pred": "십이지장옆 주름",
+    "rep": "샘창자옆주름",
+    "answers": [
+      "샘창자옆주름"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "plantar flexion",
+    "pred": "저측 굴곡",
+    "rep": "발바닥쪽 굽힘",
+    "answers": [
+      "발바닥 굽힘",
+      "발바닥쪽 굽힘"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "positioned flap",
+    "pred": "위치 피판",
+    "rep": "판막이동수술",
+    "answers": [
+      "판막이동수술"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "proctoscope",
+    "pred": "직장경",
+    "rep": "직장경",
+    "answers": [
+      "곧창자보개",
+      "직장경"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "protein-losing enteropathy",
+    "pred": "단백질 소실 장증",
+    "rep": "단백질소실장병(증)",
+    "answers": [
+      "단백질소실장병(증)"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "psgn",
+    "pred": "급성 사구체신염",
+    "rep": "연쇄구균감염후 사구체신염",
+    "answers": [
+      "사슬알균감염후 토리콩팥염",
+      "연쇄구균감염후 사구체신염",
+      "연쇄구균감염후사구체신염"
+    ],
+    "kcd": "N05.9",
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "rash purpuric",
+    "pred": "자반성 발진",
+    "rep": "자색반 발진",
+    "answers": [
+      "자색반 발진"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "reciprocal shaker",
+    "pred": "상호 진탕기",
+    "rep": "왕복진탕기",
+    "answers": [
+      "왕복진탕기"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "retaining harness",
+    "pred": "유지 하네스",
+    "rep": "장치유지",
+    "answers": [
+      "장치유지"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "rotalix tube",
+    "pred": "로탈릭스 관",
+    "rep": "회전양극관",
+    "answers": [
+      "회전양극관"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "sao paulo fever",
+    "pred": "상파울루 열",
+    "rep": "상파울로열",
+    "answers": [
+      "상파울로열"
+    ],
+    "kcd": "A77.0",
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "school childhood",
+    "pred": "학령기",
+    "rep": "학령기",
+    "answers": [
+      "학령기"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "scleral necrosis/melt",
+    "pred": "공막 괴사/융해",
+    "rep": "공막 괴사/ 융해",
+    "answers": [
+      "공막 괴사/ 융해"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "nospace",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "sideroblastic anaemia",
+    "pred": "철아구성 빈혈",
+    "rep": "철적혈모구빈혈",
+    "answers": [
+      "철적모구빈혈 NOS",
+      "철적혈모구빈혈",
+      "철적혈모구빈혈 NOS"
+    ],
+    "kcd": "D64.0-D64.3",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "sirenomelia syndrome",
+    "pred": "인어증후군",
+    "rep": "인어다리 증후군",
+    "answers": [
+      "인어다리 증후군"
+    ],
+    "kcd": "Q87.2",
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "superexcitation",
+    "pred": "과흥분",
+    "rep": "과도흥분",
+    "answers": [
+      "과도흥분"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "supporting spiritual rituals",
+    "pred": "영적 의식 지원",
+    "rep": "영적의식 지지하기",
+    "answers": [
+      "영적의식 지지하기"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "suprameatal foveola",
+    "pred": "상외이도 와",
+    "rep": "바깥귀길위오목",
+    "answers": [
+      "바깥귀길위오목"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "surgical staging",
+    "pred": "수술적 병기",
+    "rep": "외과적시기결정",
+    "answers": [
+      "외과적시기결정"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "third ventricle structure",
+    "pred": "제3뇌실 구조물",
+    "rep": "제3뇌구조",
+    "answers": [
+      "제3뇌구조"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "topalgia",
+    "pred": "국소통",
+    "rep": "국소통증",
+    "answers": [
+      "국소통증"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "transfusion tests",
+    "pred": "수혈 검사",
+    "rep": "수혈혈액검사",
+    "answers": [
+      "수혈혈액검사"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "upper extremity",
+    "pred": "상지",
+    "rep": "위팔",
+    "answers": [
+      "상지",
+      "위팔"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(동의어)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "urarthritis",
+    "pred": "통풍성 관절염",
+    "rep": "통풍관절염",
+    "answers": [
+      "통풍관절염"
+    ],
+    "kcd": "M10.09",
+    "words": 1,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  },
+  {
+    "en": "water bath",
+    "pred": "수욕",
+    "rep": "욕조",
+    "answers": [
+      "수조",
+      "욕조"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "오답",
+    "level": "-",
+    "issues": [],
+    "finish": "stop",
+    "raw": null,
+    "batch_issues": []
+  }
+]

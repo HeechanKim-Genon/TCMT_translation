@@ -1,0 +1,147 @@
+{
+  "summary": [
+    {
+      "arm": "1c",
+      "n": 1000,
+      "format_ok_pct": 97.8,
+      "correct_pct": 23.4,
+      "grades": {
+        "오답": {
+          "n": 766,
+          "pct": 76.6
+        },
+        "정답(대표)": {
+          "n": 172,
+          "pct": 17.2
+        },
+        "정답(동의어)": {
+          "n": 62,
+          "pct": 6.2
+        }
+      },
+      "issues": {
+        "bad_chars": 22,
+        "multiline": 1
+      }
+    },
+    {
+      "arm": "1a",
+      "n": 1000,
+      "format_ok_pct": 97.7,
+      "correct_pct": 24.0,
+      "grades": {
+        "오답": {
+          "n": 759,
+          "pct": 75.9
+        },
+        "정답(대표)": {
+          "n": 173,
+          "pct": 17.3
+        },
+        "정답(동의어)": {
+          "n": 67,
+          "pct": 6.7
+        },
+        "형식실패": {
+          "n": 1,
+          "pct": 0.1
+        }
+      },
+      "issues": {
+        "bad_chars": 22,
+        "missing_row": 1
+      }
+    },
+    {
+      "arm": "1b",
+      "n": 1000,
+      "format_ok_pct": 87.9,
+      "correct_pct": 22.0,
+      "grades": {
+        "오답": {
+          "n": 679,
+          "pct": 67.9
+        },
+        "정답(대표)": {
+          "n": 158,
+          "pct": 15.8
+        },
+        "형식실패": {
+          "n": 101,
+          "pct": 10.1
+        },
+        "정답(동의어)": {
+          "n": 62,
+          "pct": 6.2
+        }
+      },
+      "issues": {
+        "missing_row": 101,
+        "bad_chars": 20
+      }
+    },
+    {
+      "arm": "2A",
+      "n": 1000,
+      "format_ok_pct": 98.0,
+      "correct_pct": 22.0,
+      "grades": {
+        "오답": {
+          "n": 780,
+          "pct": 78.0
+        },
+        "정답(대표)": {
+          "n": 158,
+          "pct": 15.8
+        },
+        "정답(동의어)": {
+          "n": 62,
+          "pct": 6.2
+        }
+      },
+      "issues": {
+        "bad_chars": 20
+      }
+    },
+    {
+      "arm": "2C",
+      "n": 1000,
+      "format_ok_pct": 92.1,
+      "correct_pct": 99.5,
+      "grades": {
+        "정답(대표)": {
+          "n": 995,
+          "pct": 99.5
+        },
+        "오답": {
+          "n": 5,
+          "pct": 0.5
+        }
+      },
+      "issues": {
+        "bad_chars": 76,
+        "off_list": 3
+      }
+    }
+  ],
+  "usage": {
+    "calls": 3124,
+    "cost": 0.44424534099999885,
+    "out_tokens": 93345,
+    "reasoning_tokens": 43614,
+    "netfail": 0,
+    "retries": 63
+  },
+  "config": {
+    "arms": "1c,1a,1b,2A,2C",
+    "batch": 50,
+    "limit": 0,
+    "candidates": 5,
+    "seed": 42
+  },
+  "crossing": {
+    "detected": 10,
+    "repaired": 7,
+    "unresolved": 3
+  }
+}

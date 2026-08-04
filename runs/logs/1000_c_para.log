@@ -1,0 +1,119 @@
+사전 로드 중…
+  사전: 보건의료용어표준_V7.0_최종번역사전.csv
+  표제어 54,861 (다어절 32,126 / 단일어 22,735)  · 제외 1,155행
+  코드 보유: {'KCD': 11079, 'SNOMED CT': 8214, 'ICD9CM': 3550, 'ICNP': 933, 'EDI': 786, 'CCC': 698, 'CDT': 57, 'LOINC': 1}
+
+(c) 문단 단위 · 문단 332개 · mode ['none', 'term', 'random'] · 모델 GLM-5.2
+    주입 대상: 매칭 결과 · 끝기능어 필터 켬 · 단일어 포함
+
+── 1단계 매칭
+   심은 용어 996개 · 매칭 성공 979개 (재현율 98.3%)
+   심지 않았는데 매칭 11420개 (오탐 후보 — 문단 자연발생 포함)
+   주입 용어 평균 40.5개/문단
+
+── mode=none
+      none 16/332
+      none 32/332
+      none 48/332
+      none 64/332
+      none 80/332
+      none 96/332
+      none 112/332
+      none 128/332
+      none 144/332
+      none 160/332
+      none 176/332
+      none 192/332
+      none 208/332
+      none 224/332
+      none 240/332
+      none 256/332
+      none 272/332
+      none 288/332
+      none 304/332
+      none 320/332
+      none 332/332
+      ⚠️ none 응답 교차 의심 5건 → 직렬 재호출 (round 1/3)
+      ⚠️ none 응답 교차 의심 3건 → 직렬 재호출 (round 2/3)
+      ⚠️ none 응답 교차 의심 2건 → 직렬 재호출 (round 3/3)
+      ⛔ none 재호출 후에도 교차 의심 2건 남음 — 해당 항목은 crossed_suspect 로 표시된다
+   Term% 전체        238/996 (23.9%)
+   Term% 주입된 용어  231/979 (23.6%)
+   Term% 미주입 용어  7/17 (41.2%)   ← 매칭 실패분
+  저장 → results_1000/c_para_none.json
+
+── mode=term
+      term 16/332
+      term 32/332
+      term 48/332
+      term 64/332
+      term 80/332
+      term 96/332
+      term 112/332
+      term 128/332
+      term 144/332
+      term 160/332
+      term 176/332
+      term 192/332
+      term 208/332
+      term 224/332
+      term 240/332
+      term 256/332
+      term 272/332
+      term 288/332
+      term 304/332
+      term 320/332
+      term 332/332
+      ⚠️ term 응답 교차 의심 1건 → 직렬 재호출 (round 1/3)
+   Term% 전체        964/996 (96.8%)
+   Term% 주입된 용어  959/979 (98.0%)
+   Term% 미주입 용어  5/17 (29.4%)   ← 매칭 실패분
+  저장 → results_1000/c_para_term.json
+
+── mode=random
+      random 16/332
+      random 32/332
+      random 48/332
+      random 64/332
+      random 80/332
+      random 96/332
+      random 112/332
+      random 128/332
+      random 144/332
+      random 160/332
+      random 176/332
+      random 192/332
+      random 208/332
+      random 224/332
+      random 240/332
+      random 256/332
+      random 272/332
+      random 288/332
+      random 304/332
+      random 320/332
+      random 332/332
+      ⚠️ random 응답 교차 의심 96건 → 직렬 재호출 (round 1/3)
+      ⚠️ random 응답 교차 의심 93건 → 직렬 재호출 (round 2/3)
+      ⚠️ random 응답 교차 의심 91건 → 직렬 재호출 (round 3/3)
+      ⛔ random 재호출 후에도 교차 의심 89건 남음 — 해당 항목은 crossed_suspect 로 표시된다
+   Term% 전체        40/996 (4.0%)
+   Term% 주입된 용어  36/979 (3.7%)
+   Term% 미주입 용어  4/17 (23.5%)   ← 매칭 실패분
+   ★ 오답 용어집 추종률 936/979 (95.6%)  ← 높아야 용어집이 실제로 읽히고 있다는 증거
+  저장 → results_1000/c_para_random.json
+
+==============================================================================
+mode          Term%전체    Term%주입    Term%미주입      오답추종
+none            23.9%      23.6%       41.2%         -
+term            96.8%      98.0%       29.4%         -
+random           4.0%       3.7%       23.5%     95.6%
+
+■ 페어 비교 (용어 단위, 기준: none)
+   none→term     개선  730  악화    4  순증 +726   McNemar χ²=716.11 (p<0.05)
+   none→random   개선   21  악화  219  순증 -198   McNemar χ²=161.70 (p<0.05)
+
+호출 1369회 · 재시도 84회 · 출력 938,255토큰(reasoning 219,372) · $3.3262 · 호출당 $0.002430
+응답 교차 탐지 102건 · 재호출로 복구 11건 · 미해결 91건
+  저장 → results_1000/c_para_summary.json
+  저장 → results_1000/c_para_terms.csv
+  저장 → results_1000/c_para_translations.csv

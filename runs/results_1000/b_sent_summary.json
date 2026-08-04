@@ -1,0 +1,98 @@
+{
+  "summary": [
+    {
+      "mode": "none",
+      "n": 1000,
+      "correct_pct": 20.0,
+      "grades": {
+        "오답": {
+          "n": 800,
+          "pct": 80.0
+        },
+        "정답(대표)": {
+          "n": 152,
+          "pct": 15.2
+        },
+        "정답(동의어)": {
+          "n": 48,
+          "pct": 4.8
+        }
+      },
+      "issues": {
+        "bad_chars": 39,
+        "span_not_substring": 1
+      },
+      "span_violation": 1,
+      "followed_decoy_pct": null
+    },
+    {
+      "mode": "term",
+      "n": 1000,
+      "correct_pct": 98.3,
+      "grades": {
+        "정답(대표)": {
+          "n": 981,
+          "pct": 98.1
+        },
+        "오답": {
+          "n": 17,
+          "pct": 1.7
+        },
+        "정답(동의어)": {
+          "n": 2,
+          "pct": 0.2
+        }
+      },
+      "issues": {
+        "bad_chars": 71,
+        "span_not_substring": 3
+      },
+      "span_violation": 3,
+      "followed_decoy_pct": null
+    },
+    {
+      "mode": "random",
+      "n": 1000,
+      "correct_pct": 0.3,
+      "grades": {
+        "오답": {
+          "n": 997,
+          "pct": 99.7
+        },
+        "정답(대표)": {
+          "n": 2,
+          "pct": 0.2
+        },
+        "정답(동의어)": {
+          "n": 1,
+          "pct": 0.1
+        }
+      },
+      "issues": {
+        "bad_chars": 80,
+        "span_not_substring": 2
+      },
+      "span_violation": 2,
+      "followed_decoy_pct": 97.0
+    }
+  ],
+  "usage": {
+    "calls": 3002,
+    "cost": 0.6316269107999996,
+    "out_tokens": 117749,
+    "reasoning_tokens": 13170,
+    "netfail": 0,
+    "retries": 0
+  },
+  "config": {
+    "modes": "none,term,random",
+    "limit": 0,
+    "seed": 42,
+    "no_span": false
+  },
+  "crossing": {
+    "detected": 2,
+    "repaired": 2,
+    "unresolved": 0
+  }
+}
