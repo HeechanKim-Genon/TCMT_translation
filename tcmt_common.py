@@ -442,13 +442,26 @@ JOSA = ("을", "를", "이", "가", "은", "는", "의", "에", "로", "으로",
         "와", "과", "도", "만", "에서", "에게", "부터", "까지", "이나", "나")
 
 
+# 표준 한글명에 붙는 표기 관례. 이것도 파괴적으로 떼지 않고 후보로만 추가한다.
+#   끝 하이픈  `불수의-`      의존 형태소 표시
+#   괄호       `합곡(合谷)`   한자 병기
+#              `해마경화(증)`  생략 가능한 접미
+# 이 처리가 없으면 모델이 `합곡`·`불수의`·`해마경화`로 맞게 답해도 오답으로 집계된다.
+# (실측: 1000규모 단어 단위에서 arm별 25~27건, baseline 약 +2.5%p)
+PAREN = re.compile(r"\s*[(（][^)）]*[)）]")
+
+
 def ko_variants(s):
-    s = norm(s)
-    out = {s, s.replace(" ", "")}
-    for j in JOSA:
-        if s.endswith(j) and len(s) > len(j) + 1:
-            b = s[: -len(j)]
-            out |= {b, b.replace(" ", "")}
+    out = set()
+    for base in (norm(s), PAREN.sub("", norm(s))):
+        b = base.strip().strip("-–—").strip()
+        if not b:
+            continue
+        out |= {b, b.replace(" ", "")}
+        for j in JOSA:
+            if b.endswith(j) and len(b) > len(j) + 1:
+                c = b[: -len(j)]
+                out |= {c, c.replace(" ", "")}
     return {x for x in out if x}
 
 

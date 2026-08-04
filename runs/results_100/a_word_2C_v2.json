@@ -1,0 +1,2456 @@
+[
+  {
+    "en": "sirenomelia syndrome",
+    "pred": "인어다리 증후군",
+    "rep": "인어다리 증후군",
+    "answers": [
+      "인어다리 증후군"
+    ],
+    "kcd": "Q87.2",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "인어다리 증후군",
+    "candidates": [
+      "자궁경부의 유두종",
+      "두원반태반",
+      "인어다리 증후군",
+      "콩팥요관방광촬영, 왼쪽측방향",
+      "녹내장성백내장"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "rash purpuric",
+    "pred": "자색반 발진",
+    "rep": "자색반 발진",
+    "answers": [
+      "자색반 발진"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "자색반 발진",
+    "candidates": [
+      "두원반태반",
+      "유방 입체정위 생검술",
+      "정밀면역검사-C형간염항체",
+      "다낭성 신장의 형성이상",
+      "자색반 발진"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "agenesis of lung",
+    "pred": "폐의 무발생",
+    "rep": "폐의 무발생",
+    "answers": [
+      "폐의 무발생",
+      "폐의 무발생증"
+    ],
+    "kcd": "Q33.3",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "폐의 무발생",
+    "candidates": [
+      "멕켈 게실절제술",
+      "구순증",
+      "크립토콕쿠스수막대뇌염",
+      "폐의 무발생",
+      "양측 목구멍 편도"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "papilloma of cerviv",
+    "pred": "자궁경부의 유두종",
+    "rep": "자궁경부의 유두종",
+    "answers": [
+      "자궁경부의 유두종"
+    ],
+    "kcd": "D26.0",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "자궁경부의 유두종",
+    "candidates": [
+      "자궁경부의 유두종",
+      "내시경 이용 눈물주머니코안 연결 교정",
+      "정밀면역검사-C형간염항체",
+      "장치유지",
+      "종양분류법"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "hyeopbaek",
+    "pred": "협백(俠白)",
+    "rep": "협백(俠白)",
+    "answers": [
+      "협백(俠白)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "협백(俠白)",
+    "candidates": [
+      "종양분류법",
+      "협백(俠白)",
+      "인어다리 증후군",
+      "왕복진탕기",
+      "투석목표체중"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "water bath",
+    "pred": "욕조",
+    "rep": "욕조",
+    "answers": [
+      "수조",
+      "욕조"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "욕조",
+    "candidates": [
+      "왕복진탕기",
+      "크립토콕쿠스수막대뇌염",
+      "유방 입체정위 생검술",
+      "융합꼭지돌기염",
+      "욕조"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "heredoinfection",
+    "pred": "유전감염",
+    "rep": "유전감염",
+    "answers": [
+      "유전감염"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "유전감염",
+    "candidates": [
+      "외수용자극",
+      "욕조",
+      "신경관",
+      "유전감염",
+      "음압"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "naegleria fowleri",
+    "pred": "파울러자유아메바",
+    "rep": "파울러자유아메바",
+    "answers": [
+      "파울러자유아메바"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "파울러자유아메바",
+    "candidates": [
+      "자궁수축 변화",
+      "파울러자유아메바",
+      "섬경화증",
+      "감입발톱",
+      "혈압측정(법)"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "case-mix",
+    "pred": "질병구성",
+    "rep": "질병구성",
+    "answers": [
+      "질병구성"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "질병구성",
+    "candidates": [
+      "욕조",
+      "경추성 현기증",
+      "구순증",
+      "질병구성",
+      "직장경"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "third ventricle structure",
+    "pred": "제3뇌구조",
+    "rep": "제3뇌구조",
+    "answers": [
+      "제3뇌구조"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "제3뇌구조",
+    "candidates": [
+      "제3뇌구조",
+      "콩팥요관방광촬영, 왼쪽측방향",
+      "무기력",
+      "대망탈장",
+      "해마경화(증)"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "scleral necrosis/melt",
+    "pred": "공막 괴사/ 융해",
+    "rep": "공막 괴사/ 융해",
+    "answers": [
+      "공막 괴사/ 융해"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "공막 괴사/ 융해",
+    "candidates": [
+      "미차폐양성자",
+      "종양분류법",
+      "헌혈",
+      "위팔",
+      "공막 괴사/ 융해"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "meckel's diverticulectomy",
+    "pred": "멕켈 게실절제술",
+    "rep": "멕켈 게실절제술",
+    "answers": [
+      "멕켈 게실절제술"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "멕켈 게실절제술",
+    "candidates": [
+      "멕켈 게실절제술",
+      "대망탈장",
+      "근육의 결여",
+      "투석목표체중",
+      "미차폐양성자"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "myotonic disorders",
+    "pred": "근긴장장애",
+    "rep": "근긴장장애",
+    "answers": [
+      "근긴장장애"
+    ],
+    "kcd": "G71.1",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "근긴장장애",
+    "candidates": [
+      "구순증",
+      "파울러자유아메바",
+      "경추성 현기증",
+      "합곡(合谷)",
+      "근긴장장애"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "breast stereotactic biopsy",
+    "pred": "유방 입체정위 생검술",
+    "rep": "유방 입체정위 생검술",
+    "answers": [
+      "유방 입체정위 생검술"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "유방 입체정위 생검술",
+    "candidates": [
+      "유방 입체정위 생검술",
+      "무균실험대",
+      "장치유지",
+      "질병구성",
+      "크립토콕쿠스수막대뇌염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "glaucomatous cataract",
+    "pred": "녹내장성백내장",
+    "rep": "녹내장성백내장",
+    "answers": [
+      "녹내장성백내장"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "녹내장성백내장",
+    "candidates": [
+      "결절가려움발진",
+      "무기력",
+      "녹내장성백내장",
+      "발바닥쪽 굽힘",
+      "알레르기혈청"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "orthognathic surgery",
+    "pred": "악교정수술",
+    "rep": "악교정수술",
+    "answers": [
+      "악교정수술"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "악교정수술",
+    "candidates": [
+      "부고환관",
+      "국소통증",
+      "악교정수술",
+      "영적의식 지지하기",
+      "망치머리형리보자임"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "transfusion tests",
+    "pred": "수혈혈액검사",
+    "rep": "수혈혈액검사",
+    "answers": [
+      "수혈혈액검사"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "수혈혈액검사",
+    "candidates": [
+      "수혈혈액검사",
+      "유전감염",
+      "온등세모근",
+      "녹내장성백내장",
+      "멕켈 게실절제술"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "surgical staging",
+    "pred": "외과적시기결정",
+    "rep": "외과적시기결정",
+    "answers": [
+      "외과적시기결정"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "외과적시기결정",
+    "candidates": [
+      "외과적시기결정",
+      "불수의-",
+      "질병구성",
+      "회전양극관",
+      "대망탈장"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "nodular prurigo",
+    "pred": "결절가려움발진",
+    "rep": "결절가려움발진",
+    "answers": [
+      "결절가려움발진"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "결절가려움발진",
+    "candidates": [
+      "상파울로열",
+      "감입발톱",
+      "신경정신과학",
+      "자색반 발진",
+      "결절가려움발진"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "genuine diabetes",
+    "pred": "진성당뇨병",
+    "rep": "진성당뇨병",
+    "answers": [
+      "진성당뇨병"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "진성당뇨병",
+    "candidates": [
+      "투석목표체중",
+      "녹내장성백내장",
+      "혈압측정(법)",
+      "진성당뇨병",
+      "바깥귀길위오목"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "dry weight",
+    "pred": "투석목표체중",
+    "rep": "투석목표체중",
+    "answers": [
+      "투석목표체중"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "투석목표체중",
+    "candidates": [
+      "유방 입체정위 생검술",
+      "볼기염",
+      "투석목표체중",
+      "양측 목구멍 편도",
+      "왕복진탕기"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "biopsy of adenoid",
+    "pred": "인두편도 생검",
+    "rep": "인두편도 생검",
+    "answers": [
+      "아데노이드 생검",
+      "인두편도 생검"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "인두편도 생검",
+    "candidates": [
+      "정밀면역검사-C형간염항체",
+      "왕복진탕기",
+      "투석목표체중",
+      "인두편도 생검",
+      "합곡(合谷)"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "glutitis",
+    "pred": "볼기염",
+    "rep": "볼기염",
+    "answers": [
+      "둔부염",
+      "볼기염"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "볼기염",
+    "candidates": [
+      "녹내장성백내장",
+      "파라티푸스위창자염",
+      "볼기염",
+      "노르메타네프린",
+      "폐의 무발생"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "colpomyomectomy",
+    "pred": "질식근종절제(술)",
+    "rep": "질식근종절제(술)",
+    "answers": [
+      "질식근종절제(술)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "질식근종절제(술)",
+    "candidates": [
+      "공막 괴사/ 융해",
+      "구안지 증후군",
+      "노르메타네프린",
+      "무균실험대",
+      "질식근종절제(술)"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "capillaria hepatica",
+    "pred": "간모세선충",
+    "rep": "간모세선충",
+    "answers": [
+      "간모세선충"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "간모세선충",
+    "candidates": [
+      "감입발톱",
+      "인두편도 생검",
+      "간모세선충",
+      "음압",
+      "학령기"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "cardioplegic",
+    "pred": "심장마비-",
+    "rep": "심장마비-",
+    "answers": [
+      "심장마비-",
+      "심장정지-"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "심장마비-",
+    "candidates": [
+      "심장마비-",
+      "장치유지",
+      "헌혈",
+      "부고환관",
+      "굴절부등약시"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "upper extremity",
+    "pred": "위팔",
+    "rep": "위팔",
+    "answers": [
+      "상지",
+      "위팔"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "위팔",
+    "candidates": [
+      "악교정수술",
+      "주혈흡충",
+      "질병구성",
+      "위팔",
+      "귓바퀴관자신경"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "cryptococcal meningocerebritis",
+    "pred": "크립토콕쿠스수막대뇌염",
+    "rep": "크립토콕쿠스수막대뇌염",
+    "answers": [
+      "크립토콕쿠스수막대뇌염"
+    ],
+    "kcd": "B45.1",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "크립토콕쿠스수막대뇌염",
+    "candidates": [
+      "인어다리 증후군",
+      "주혈흡충",
+      "제3뇌구조",
+      "정균작용",
+      "크립토콕쿠스수막대뇌염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "blood fluke",
+    "pred": "주혈흡충",
+    "rep": "주혈흡충",
+    "answers": [
+      "주혈흡충"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "주혈흡충",
+    "candidates": [
+      "중간수근골(관절)의 탈구",
+      "철적혈모구빈혈",
+      "주혈흡충",
+      "의치지지조직",
+      "제3뇌구조"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "cheilosis",
+    "pred": "구순증",
+    "rep": "구순증",
+    "answers": [
+      "구순증",
+      "입술증"
+    ],
+    "kcd": "K13.0",
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "구순증",
+    "candidates": [
+      "상파울로열",
+      "연쇄구균감염후 사구체신염",
+      "구순증",
+      "귓바퀴관자신경",
+      "홍수(노출)요법"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "sideroblastic anaemia",
+    "pred": "철적혈모구빈혈",
+    "rep": "철적혈모구빈혈",
+    "answers": [
+      "철적모구빈혈 NOS",
+      "철적혈모구빈혈",
+      "철적혈모구빈혈 NOS"
+    ],
+    "kcd": "D64.0-D64.3",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "철적혈모구빈혈",
+    "candidates": [
+      "직장경",
+      "철적혈모구빈혈",
+      "근긴장장애",
+      "내분비전문의",
+      "바깥귀길위오목"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "auriculotemporal nerve",
+    "pred": "귓바퀴관자신경",
+    "rep": "귓바퀴관자신경",
+    "answers": [
+      "귓바퀴관자신경",
+      "이개측두신경"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "귓바퀴관자신경",
+    "candidates": [
+      "근긴장장애",
+      "다낭성 신장의 형성이상",
+      "내시경 이용 눈물주머니코안 연결 교정",
+      "알레르기혈청",
+      "귓바퀴관자신경"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "epidermolysis bullosa dystrophica",
+    "pred": "디스트로피성 수포성 표피박리증",
+    "rep": "디스트로피성 수포성 표피박리증",
+    "answers": [
+      "디스트로피성 수포성 표피박리증"
+    ],
+    "kcd": "Q81.2",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "디스트로피성 수포성 표피박리증",
+    "candidates": [
+      "귓바퀴관자신경",
+      "디스트로피성 수포성 표피박리증",
+      "불결기호증",
+      "유방 입체정위 생검술",
+      "간모세선충"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "negative pressure",
+    "pred": "음압",
+    "rep": "음압",
+    "answers": [
+      "음압"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "음압",
+    "candidates": [
+      "해마경화(증)",
+      "근육의 결여",
+      "제3뇌구조",
+      "음압",
+      "귓바퀴관자신경"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "deshielded proton",
+    "pred": "미차폐양성자",
+    "rep": "미차폐양성자",
+    "answers": [
+      "미차폐양성자"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "미차폐양성자",
+    "candidates": [
+      "온등세모근",
+      "미차폐양성자",
+      "멕켈 게실절제술",
+      "인두편도 생검",
+      "철적혈모구빈혈"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "hippocampal sclerosis",
+    "pred": "해마경화(증)",
+    "rep": "해마경화(증)",
+    "answers": [
+      "해마경화(증)"
+    ],
+    "kcd": "G37.9",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "해마경화(증)",
+    "candidates": [
+      "대망탈장",
+      "파울러자유아메바",
+      "부고환관",
+      "인두편도 생검",
+      "해마경화(증)"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "laryngotracheal stenosis",
+    "pred": "후두기관협착(증)",
+    "rep": "후두기관협착(증)",
+    "answers": [
+      "후기관의 협착",
+      "후두기관협착(증)"
+    ],
+    "kcd": "J39.8",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "후두기관협착(증)",
+    "candidates": [
+      "종양분류법",
+      "판막이동수술",
+      "후두기관협착(증)",
+      "국소통증",
+      "구안지 증후군"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "hemodynamometry",
+    "pred": "혈압측정(법)",
+    "rep": "혈압측정(법)",
+    "answers": [
+      "혈압측정(법)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "혈압측정(법)",
+    "candidates": [
+      "망치머리형리보자임",
+      "크립토콕쿠스수막대뇌염",
+      "파울러자유아메바",
+      "혈압측정(법)",
+      "두원반태반"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "protein-losing enteropathy",
+    "pred": "단백질소실장병(증)",
+    "rep": "단백질소실장병(증)",
+    "answers": [
+      "단백질소실장병(증)"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "단백질소실장병(증)",
+    "candidates": [
+      "망치머리형리보자임",
+      "유전감염",
+      "단백질소실장병(증)",
+      "파울러자유아메바",
+      "중간형 지중해빈혈"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "anisometropic amblyopia",
+    "pred": "굴절부등약시",
+    "rep": "굴절부등약시",
+    "answers": [
+      "굴절부등약시",
+      "부동 약시"
+    ],
+    "kcd": "H53.01",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "굴절부등약시",
+    "candidates": [
+      "다낭성 신장의 형성이상",
+      "질병구성",
+      "굴절부등약시",
+      "불수의-",
+      "질식근종절제(술)"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "endaural",
+    "pred": "귀속-",
+    "rep": "귀속-",
+    "answers": [
+      "귀속-"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "귀속-",
+    "candidates": [
+      "섬경화증",
+      "망치머리형리보자임",
+      "불수의-",
+      "욕조",
+      "귀속-"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "dental granuloma",
+    "pred": "뿌리끝육아종",
+    "rep": "뿌리끝육아종",
+    "answers": [
+      "뿌리끝육아종",
+      "치근첨육아종"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "뿌리끝육아종",
+    "candidates": [
+      "뿌리끝육아종",
+      "장치유지",
+      "헌혈",
+      "음압",
+      "위팔"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "dislocation of midcarpal(joint)",
+    "pred": "중간수근골(관절)의 탈구",
+    "rep": "중간수근골(관절)의 탈구",
+    "answers": [
+      "중간수근골(관절)의 탈구"
+    ],
+    "kcd": "S63.02",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "중간수근골(관절)의 탈구",
+    "candidates": [
+      "수혈혈액검사",
+      "단백질소실장병(증)",
+      "중간수근골(관절)의 탈구",
+      "헌혈",
+      "알레르기혈청"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "coalescent mastoiditis",
+    "pred": "융합꼭지돌기염",
+    "rep": "융합꼭지돌기염",
+    "answers": [
+      "융합꼭지돌기염",
+      "융합유돌염"
+    ],
+    "kcd": "H70.8",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "융합꼭지돌기염",
+    "candidates": [
+      "근긴장장애",
+      "무균실험대",
+      "섬경화증",
+      "무기력",
+      "융합꼭지돌기염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "neurocanal",
+    "pred": "신경관",
+    "rep": "신경관",
+    "answers": [
+      "신경관"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "신경관",
+    "candidates": [
+      "신경관",
+      "수막뇌류",
+      "귓바퀴관자신경",
+      "수혈혈액검사",
+      "질병구성"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "endocrinologist",
+    "pred": "내분비전문의",
+    "rep": "내분비전문의",
+    "answers": [
+      "내분비전문의",
+      "내분비학자"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "내분비전문의",
+    "candidates": [
+      "통풍관절염",
+      "내분비전문의",
+      "학령기",
+      "내시경 이용 눈물주머니코안 연결 교정",
+      "자색반 발진"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "gastroenteritis paratyphosa",
+    "pred": "파라티푸스위창자염",
+    "rep": "파라티푸스위창자염",
+    "answers": [
+      "파라티푸스위장염",
+      "파라티푸스위창자염"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "파라티푸스위창자염",
+    "candidates": [
+      "파라티푸스위창자염",
+      "음압",
+      "녹내장성백내장",
+      "외과적시기결정",
+      "유방 입체정위 생검술"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "meningoencephalocele",
+    "pred": "수막뇌류",
+    "rep": "수막뇌류",
+    "answers": [
+      "수막뇌류",
+      "수막뇌탈출증"
+    ],
+    "kcd": "Q01",
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "수막뇌류",
+    "candidates": [
+      "수막뇌류",
+      "융합꼭지돌기염",
+      "장치유지",
+      "위팔",
+      "외수용자극"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "epiplocele",
+    "pred": "대망탈장",
+    "rep": "대망탈장",
+    "answers": [
+      "그물막탈장",
+      "그물막헤르니아",
+      "대망탈장",
+      "대망헤르니아"
+    ],
+    "kcd": "K46",
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "대망탈장",
+    "candidates": [
+      "디스트로피성 수포성 표피박리증",
+      "콩팥요관방광촬영, 왼쪽측방향",
+      "대망탈장",
+      "유전감염",
+      "멕켈 게실절제술"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "rotalix tube",
+    "pred": "회전양극관",
+    "rep": "회전양극관",
+    "answers": [
+      "회전양극관"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "회전양극관",
+    "candidates": [
+      "회전양극관",
+      "수혈혈액검사",
+      "콩팥요관방광촬영, 왼쪽측방향",
+      "중간수근골(관절)의 탈구",
+      "경추성 현기증"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "plantar flexion",
+    "pred": "발바닥쪽 굽힘",
+    "rep": "발바닥쪽 굽힘",
+    "answers": [
+      "발바닥 굽힘",
+      "발바닥쪽 굽힘"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "발바닥쪽 굽힘",
+    "candidates": [
+      "감입발톱",
+      "그물막구멍",
+      "국소통증",
+      "판막이동수술",
+      "발바닥쪽 굽힘"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "epididymal duct",
+    "pred": "부고환관",
+    "rep": "부고환관",
+    "answers": [
+      "부고환관"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "부고환관",
+    "candidates": [
+      "협백(俠白)",
+      "부고환관",
+      "수막뇌류",
+      "정밀면역검사-C형간염항체",
+      "망치머리형리보자임"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "interferential action",
+    "pred": "간섭작용",
+    "rep": "간섭작용",
+    "answers": [
+      "간섭작용"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "간섭작용",
+    "candidates": [
+      "파라티푸스위창자염",
+      "간섭작용",
+      "굴절부등약시",
+      "내분비전문의",
+      "욕조"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "keratopathy",
+    "pred": "각막병(증)",
+    "rep": "각막병(증)",
+    "answers": [
+      "각막병(증)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "각막병(증)",
+    "candidates": [
+      "판막이동수술",
+      "합곡(合谷)",
+      "각막병(증)",
+      "내분비전문의",
+      "간섭작용"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "topalgia",
+    "pred": "국소통증",
+    "rep": "국소통증",
+    "answers": [
+      "국소통증"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "국소통증",
+    "candidates": [
+      "볼기염",
+      "국소통증",
+      "두원반태반",
+      "자궁경부의 유두종",
+      "간섭작용"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "suprameatal foveola",
+    "pred": "바깥귀길위오목",
+    "rep": "바깥귀길위오목",
+    "answers": [
+      "바깥귀길위오목"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "바깥귀길위오목",
+    "candidates": [
+      "투석목표체중",
+      "유방 입체정위 생검술",
+      "미차폐양성자",
+      "바깥귀길위오목",
+      "종양분류법"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "paraduodenal fold",
+    "pred": "샘창자옆주름",
+    "rep": "샘창자옆주름",
+    "answers": [
+      "샘창자옆주름"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "샘창자옆주름",
+    "candidates": [
+      "신경관",
+      "무기력",
+      "샘창자옆주름",
+      "굴절부등약시",
+      "심장마비-"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "airborne infection",
+    "pred": "공기매개감염",
+    "rep": "공기매개감염",
+    "answers": [
+      "공기매개감염"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "공기매개감염",
+    "candidates": [
+      "공기매개감염",
+      "부고환관",
+      "해마경화(증)",
+      "질병구성",
+      "중간수근골(관절)의 탈구"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "inertia",
+    "pred": "무기력",
+    "rep": "무기력",
+    "answers": [
+      "무기력",
+      "무력증"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "무기력",
+    "candidates": [
+      "중간수근골(관절)의 탈구",
+      "다낭성 신장의 형성이상",
+      "자궁경부의 유두종",
+      "불결기호증",
+      "무기력"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "absence of muscle",
+    "pred": "근육의 결여",
+    "rep": "근육의 결여",
+    "answers": [
+      "근육의 결여"
+    ],
+    "kcd": "Q79.8",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "근육의 결여",
+    "candidates": [
+      "불수의-",
+      "근육의 결여",
+      "협백(俠白)",
+      "바깥귀길위오목",
+      "유방 입체정위 생검술"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "implosion",
+    "pred": "홍수(노출)요법",
+    "rep": "홍수(노출)요법",
+    "answers": [
+      "내파",
+      "홍수(노출)요법"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "홍수(노출)요법",
+    "candidates": [
+      "회전양극관",
+      "연쇄구균감염후 사구체신염",
+      "디스트로피성 수포성 표피박리증",
+      "간모세선충",
+      "홍수(노출)요법"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "intermedia thalassaemia",
+    "pred": "중간형 지중해빈혈",
+    "rep": "중간형 지중해빈혈",
+    "answers": [
+      "중간형 지중해빈혈"
+    ],
+    "kcd": "D56.1",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "중간형 지중해빈혈",
+    "candidates": [
+      "파라티푸스위창자염",
+      "중간형 지중해빈혈",
+      "질병구성",
+      "헌혈",
+      "바깥귀길위오목"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "normetanephrine",
+    "pred": "노르메타네프린",
+    "rep": "노르메타네프린",
+    "answers": [
+      "노르메타네프린"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "노르메타네프린",
+    "candidates": [
+      "노르메타네프린",
+      "굴절부등약시",
+      "상파울로열",
+      "단백질소실장병(증)",
+      "양측 목구멍 편도"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "derangement of patella",
+    "pred": "무릎뼈의 장애",
+    "rep": "무릎뼈의 장애",
+    "answers": [
+      "무릎뼈의 장애"
+    ],
+    "kcd": "M22.0-M22.3",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "무릎뼈의 장애",
+    "candidates": [
+      "무릎뼈의 장애",
+      "각막병(증)",
+      "수혈혈액검사",
+      "감입발톱",
+      "간모세선충"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "bilateral palatine tonsils",
+    "pred": "양측 목구멍 편도",
+    "rep": "양측 목구멍 편도",
+    "answers": [
+      "양측 목구멍 편도"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "양측 목구멍 편도",
+    "candidates": [
+      "양측 목구멍 편도",
+      "단백질소실장병(증)",
+      "인어다리 증후군",
+      "부고환관",
+      "감입발톱"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "basal seat",
+    "pred": "의치지지조직",
+    "rep": "의치지지조직",
+    "answers": [
+      "의치지지조직"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "의치지지조직",
+    "candidates": [
+      "근육의 결여",
+      "의치지지조직",
+      "샘창자옆주름",
+      "다낭성 신장의 형성이상",
+      "크립토콕쿠스수막대뇌염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "diabetic coma",
+    "pred": "당뇨 혼수",
+    "rep": "당뇨 혼수",
+    "answers": [
+      "당뇨 혼수"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "당뇨 혼수",
+    "candidates": [
+      "직장경",
+      "후두기관협착(증)",
+      "당뇨 혼수",
+      "공막 괴사/ 융해",
+      "의치지지조직"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "school childhood",
+    "pred": "학령기",
+    "rep": "학령기",
+    "answers": [
+      "학령기"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "학령기",
+    "candidates": [
+      "심장마비-",
+      "굴절부등약시",
+      "주혈흡충",
+      "학령기",
+      "다낭성 신장의 형성이상"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "mysophilia",
+    "pred": "불결기호증",
+    "rep": "불결기호증",
+    "answers": [
+      "불결기호증"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "불결기호증",
+    "candidates": [
+      "홍수(노출)요법",
+      "불결기호증",
+      "통풍관절염",
+      "제3뇌구조",
+      "경추성 현기증"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "high quality-hcv ab",
+    "pred": "정밀면역검사-C형간염항체",
+    "rep": "정밀면역검사-C형간염항체",
+    "answers": [
+      "정밀면역검사-C형간염항체"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "정밀면역검사-C형간염항체",
+    "candidates": [
+      "무릎뼈의 장애",
+      "종양분류법",
+      "정밀면역검사-C형간염항체",
+      "장치유지",
+      "회전양극관"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "onychocryptosis",
+    "pred": "감입발톱",
+    "rep": "감입발톱",
+    "answers": [
+      "감입발톱"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "감입발톱",
+    "candidates": [
+      "경추성 현기증",
+      "합곡(合谷)",
+      "감입발톱",
+      "온등세모근",
+      "유방 입체정위 생검술"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "positioned flap",
+    "pred": "판막이동수술",
+    "rep": "판막이동수술",
+    "answers": [
+      "판막이동수술"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "판막이동수술",
+    "candidates": [
+      "판막이동수술",
+      "무기력",
+      "귓바퀴관자신경",
+      "악교정수술",
+      "유전감염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "clean bench",
+    "pred": "무균실험대",
+    "rep": "무균실험대",
+    "answers": [
+      "무균실험대"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "무균실험대",
+    "candidates": [
+      "무균실험대",
+      "온등세모근",
+      "샘창자옆주름",
+      "통풍관절염",
+      "상파울로열"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "psgn",
+    "pred": "연쇄구균감염후 사구체신염",
+    "rep": "연쇄구균감염후 사구체신염",
+    "answers": [
+      "사슬알균감염후 토리콩팥염",
+      "연쇄구균감염후 사구체신염",
+      "연쇄구균감염후사구체신염"
+    ],
+    "kcd": "N05.9",
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "연쇄구균감염후 사구체신염",
+    "candidates": [
+      "연쇄구균감염후 사구체신염",
+      "홍수(노출)요법",
+      "공기매개감염",
+      "투석목표체중",
+      "영적의식 지지하기"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "hammerhead ribozyme",
+    "pred": "망치머리형리보자임",
+    "rep": "망치머리형리보자임",
+    "answers": [
+      "망치머리형리보자임"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "망치머리형리보자임",
+    "candidates": [
+      "당뇨 혼수",
+      "망치머리형리보자임",
+      "노르메타네프린",
+      "합곡(合谷)",
+      "경추성 현기증"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "bacteriostasis",
+    "pred": "정균작용",
+    "rep": "정균작용",
+    "answers": [
+      "정균작용"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "정균작용",
+    "candidates": [
+      "장치유지",
+      "정균작용",
+      "철적혈모구빈혈",
+      "미차폐양성자",
+      "후두기관협착(증)"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "involuntary",
+    "pred": "불수의-",
+    "rep": "불수의-",
+    "answers": [
+      "불수의-"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "불수의-",
+    "candidates": [
+      "진성당뇨병",
+      "구순증",
+      "불수의-",
+      "회전양극관",
+      "외과적시기결정"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "exteroceptive stimulus",
+    "pred": "외수용자극",
+    "rep": "외수용자극",
+    "answers": [
+      "외수용자극"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "외수용자극",
+    "candidates": [
+      "중간수근골(관절)의 탈구",
+      "간섭작용",
+      "근육의 결여",
+      "외수용자극",
+      "정밀면역검사-C형간염항체"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "urarthritis",
+    "pred": "통풍관절염",
+    "rep": "통풍관절염",
+    "answers": [
+      "통풍관절염"
+    ],
+    "kcd": "M10.09",
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "통풍관절염",
+    "candidates": [
+      "경추성 현기증",
+      "종양분류법",
+      "회전양극관",
+      "망치머리형리보자임",
+      "통풍관절염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "insular sclerosis",
+    "pred": "섬경화증",
+    "rep": "섬경화증",
+    "answers": [
+      "섬경화증"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "섬경화증",
+    "candidates": [
+      "단백질소실장병(증)",
+      "섬경화증",
+      "회전양극관",
+      "내분비전문의",
+      "온등세모근"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "altered uterine contractions",
+    "pred": "자궁수축 변화",
+    "rep": "자궁수축 변화",
+    "answers": [
+      "자궁수축 변화"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "자궁수축 변화",
+    "candidates": [
+      "자궁수축 변화",
+      "미차폐양성자",
+      "자궁경부의 유두종",
+      "바깥귀길위오목",
+      "노르메타네프린"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "kub left lateral",
+    "pred": "콩팥요관방광촬영, 왼쪽측방향",
+    "rep": "콩팥요관방광촬영, 왼쪽측방향",
+    "answers": [
+      "콩팥요관방광촬영, 왼쪽측방향"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "콩팥요관방광촬영, 왼쪽측방향",
+    "candidates": [
+      "인두편도 생검",
+      "근육의 결여",
+      "상파울로열",
+      "콩팥요관방광촬영, 왼쪽측방향",
+      "수혈혈액검사"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "allergenic serum",
+    "pred": "알레르기혈청",
+    "rep": "알레르기혈청",
+    "answers": [
+      "알레르기혈청"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "알레르기혈청",
+    "candidates": [
+      "외과적시기결정",
+      "국소통증",
+      "근육의 결여",
+      "알레르기혈청",
+      "공막 괴사/ 융해"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "endoscopic revision dacryocystorhinostomy",
+    "pred": "내시경 이용 눈물주머니코안 연결 교정",
+    "rep": "내시경 이용 눈물주머니코안 연결 교정",
+    "answers": [
+      "내시경 이용 눈물주머니비강 문합 수정",
+      "내시경 이용 눈물주머니코안 연결 교정"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "내시경 이용 눈물주머니코안 연결 교정",
+    "candidates": [
+      "내시경 이용 눈물주머니코안 연결 교정",
+      "융합꼭지돌기염",
+      "뿌리끝육아종",
+      "크립토콕쿠스수막대뇌염",
+      "무기력"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "proctoscope",
+    "pred": "직장경",
+    "rep": "직장경",
+    "answers": [
+      "곧창자보개",
+      "직장경"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "직장경",
+    "candidates": [
+      "홍수(노출)요법",
+      "폐의 무발생",
+      "공막 괴사/ 융해",
+      "직장경",
+      "영적의식 지지하기"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "blood donation",
+    "pred": "헌혈",
+    "rep": "헌혈",
+    "answers": [
+      "헌혈"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "헌혈",
+    "candidates": [
+      "합곡(合谷)",
+      "질병구성",
+      "욕조",
+      "내시경 이용 눈물주머니코안 연결 교정",
+      "헌혈"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "multicystic renal dysplasia",
+    "pred": "다낭성 신장의 형성이상",
+    "rep": "다낭성 신장의 형성이상",
+    "answers": [
+      "다낭성 신장의 형성이상",
+      "다낭성 형성이상 신장",
+      "다낭신장형성이상",
+      "다낭형성이상신장"
+    ],
+    "kcd": "Q61.4",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "다낭성 신장의 형성이상",
+    "candidates": [
+      "섬경화증",
+      "수혈혈액검사",
+      "진성당뇨병",
+      "다낭성 신장의 형성이상",
+      "철적혈모구빈혈"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "neuropsychiatry",
+    "pred": "신경정신과학",
+    "rep": "신경정신과학",
+    "answers": [
+      "신경정신과학",
+      "신경정신의학"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "신경정신과학",
+    "candidates": [
+      "디스트로피성 수포성 표피박리증",
+      "신경정신과학",
+      "경추성 현기증",
+      "근육의 결여",
+      "종양분류법"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "superexcitation",
+    "pred": "과도흥분",
+    "rep": "과도흥분",
+    "answers": [
+      "과도흥분"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "과도흥분",
+    "candidates": [
+      "굴절부등약시",
+      "투석목표체중",
+      "합곡(合谷)",
+      "과도흥분",
+      "유방 입체정위 생검술"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "oncotaxonomy",
+    "pred": "종양분류법",
+    "rep": "종양분류법",
+    "answers": [
+      "종양분류법"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "종양분류법",
+    "candidates": [
+      "장치유지",
+      "심장마비-",
+      "종양분류법",
+      "발바닥쪽 굽힘",
+      "제3뇌구조"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "foraminal",
+    "pred": "그물막구멍",
+    "rep": "그물막구멍",
+    "answers": [
+      "그물막구멍",
+      "대망공"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "그물막구멍",
+    "candidates": [
+      "무균실험대",
+      "신경정신과학",
+      "악교정수술",
+      "불수의-",
+      "그물막구멍"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "retaining harness",
+    "pred": "장치유지",
+    "rep": "장치유지",
+    "answers": [
+      "장치유지"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "장치유지",
+    "candidates": [
+      "질병구성",
+      "양측 목구멍 편도",
+      "직장경",
+      "장치유지",
+      "수막뇌류"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "sao paulo fever",
+    "pred": "상파울로열",
+    "rep": "상파울로열",
+    "answers": [
+      "상파울로열"
+    ],
+    "kcd": "A77.0",
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "상파울로열",
+    "candidates": [
+      "바깥귀길위오목",
+      "상파울로열",
+      "콩팥요관방광촬영, 왼쪽측방향",
+      "유방 입체정위 생검술",
+      "파라티푸스위창자염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "orofaciodigital syndrome",
+    "pred": "구안지 증후군",
+    "rep": "구안지 증후군",
+    "answers": [
+      "구안지 증후군"
+    ],
+    "kcd": "Q87.0",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "구안지 증후군",
+    "candidates": [
+      "구안지 증후군",
+      "내시경 이용 눈물주머니코안 연결 교정",
+      "당뇨 혼수",
+      "미차폐양성자",
+      "통풍관절염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "bidiscoidal placenta",
+    "pred": "두원반태반",
+    "rep": "두원반태반",
+    "answers": [
+      "두원반태반"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "두원반태반",
+    "candidates": [
+      "미차폐양성자",
+      "정균작용",
+      "뿌리끝육아종",
+      "두원반태반",
+      "구안지 증후군"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "supporting spiritual rituals",
+    "pred": "영적의식 지지하기",
+    "rep": "영적의식 지지하기",
+    "answers": [
+      "영적의식 지지하기"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "영적의식 지지하기",
+    "candidates": [
+      "온등세모근",
+      "영적의식 지지하기",
+      "귓바퀴관자신경",
+      "근육의 결여",
+      "무균실험대"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "entire trapezius muscle",
+    "pred": "온등세모근",
+    "rep": "온등세모근",
+    "answers": [
+      "온등세모근"
+    ],
+    "kcd": null,
+    "words": 3,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "온등세모근",
+    "candidates": [
+      "온등세모근",
+      "질식근종절제(술)",
+      "노르메타네프린",
+      "뿌리끝육아종",
+      "무릎뼈의 장애"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "reciprocal shaker",
+    "pred": "왕복진탕기",
+    "rep": "왕복진탕기",
+    "answers": [
+      "왕복진탕기"
+    ],
+    "kcd": null,
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "왕복진탕기",
+    "candidates": [
+      "종양분류법",
+      "불수의-",
+      "판막이동수술",
+      "해마경화(증)",
+      "왕복진탕기"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "cervical vertigo",
+    "pred": "경추성 현기증",
+    "rep": "경추성 현기증",
+    "answers": [
+      "경추성 현기증"
+    ],
+    "kcd": "M54.22",
+    "words": 2,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [],
+    "finish": "stop",
+    "raw": "경추성 현기증",
+    "candidates": [
+      "경추성 현기증",
+      "판막이동수술",
+      "간섭작용",
+      "노르메타네프린",
+      "상파울로열"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  },
+  {
+    "en": "hapgok",
+    "pred": "합곡(合谷)",
+    "rep": "합곡(合谷)",
+    "answers": [
+      "합곡(合谷)"
+    ],
+    "kcd": null,
+    "words": 1,
+    "grade": "정답(대표)",
+    "level": "exact",
+    "issues": [
+      "bad_chars"
+    ],
+    "finish": "stop",
+    "raw": "합곡(合谷)",
+    "candidates": [
+      "혈압측정(법)",
+      "합곡(合谷)",
+      "폐의 무발생",
+      "멕켈 게실절제술",
+      "공기매개감염"
+    ],
+    "grade_old": "정답(대표)",
+    "level_old": "exact"
+  }
+]

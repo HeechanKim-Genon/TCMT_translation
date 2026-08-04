@@ -144,6 +144,25 @@ a/b/c 가 같은 용어 집합을 쓰도록 한 번에 만든다.
 | `--inject-target` | off | 매칭 대신 심은 용어를 주입 (매칭 오차 제거) |
 | `--no-tail-filter` | off | 끝기능어 필터 끄고 비교 |
 
+### 채점 (문단 결과가 나온 뒤)
+
+`run_c_paragraph.py` 의 기본 채점은 **번역문 어딘가에 표준 한글명이 있는가**만 본다.
+그 용어의 번역으로 쓰였는지는 보지 않으므로, 위치를 봐서 다시 채점한다.
+
+```bash
+python3 score_align.py --tag 1000      # 문단 재채점 (LLM 정렬)
+python3 rescore_ab.py                  # 단어·문장 재채점 (API 호출 없음)
+```
+
+| 스크립트 | 인자 | 설명 |
+|---|---|---|
+| `score_align.py` | `--tag` | 규모 태그. `dataset_{tag}/` · `results_{tag}/` 를 읽는다 |
+| | `--modes` | 기본 `none,term,random` |
+| | `--limit` | 앞 N개 문단만 (빠른 점검) |
+| `rescore_ab.py` | `--tags` | 기본 `100,1000` |
+
+자세한 설명과 두 방식의 차이는 [`runs/README.md`](runs/README.md) 참고.
+
 ### 부속 실험 (`experiments/`)
 
 ```bash
@@ -185,6 +204,8 @@ results/
 | `run_a_word.py` | (a) 단어 단위 |
 | `run_b_sentence.py` | (b) 문장 단위 |
 | `run_c_paragraph.py` | (c) 문단 단위 |
+| `score_align.py` | 문단 재채점 — **LLM 정렬 기반** (최종 수치) |
+| `rescore_ab.py` | 단어·문장 재채점 (저장된 응답으로, 호출 없음) |
 
 용어 매칭 로직은 `tcmt_common.py` 의 **`match_terms()`** 에 있다. 알고리즘 설명과 정밀도·재현율 실측치는 함수 docstring 에 정리되어 있다.
 

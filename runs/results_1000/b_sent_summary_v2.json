@@ -1,0 +1,84 @@
+{
+  "summary": [
+    {
+      "mode": "none",
+      "n": 1000,
+      "correct_pct_old": 20.0,
+      "correct_pct": 22.4,
+      "flipped": 24,
+      "grades": {
+        "오답": {
+          "n": 776,
+          "pct": 77.6
+        },
+        "정답(대표)": {
+          "n": 171,
+          "pct": 17.1
+        },
+        "정답(동의어)": {
+          "n": 53,
+          "pct": 5.3
+        }
+      },
+      "followed_decoy_pct": null
+    },
+    {
+      "mode": "term",
+      "n": 1000,
+      "correct_pct_old": 98.3,
+      "correct_pct": 99.2,
+      "flipped": 9,
+      "grades": {
+        "정답(대표)": {
+          "n": 990,
+          "pct": 99.0
+        },
+        "오답": {
+          "n": 8,
+          "pct": 0.8
+        },
+        "정답(동의어)": {
+          "n": 2,
+          "pct": 0.2
+        }
+      },
+      "followed_decoy_pct": null
+    },
+    {
+      "mode": "random",
+      "n": 1000,
+      "correct_pct_old": 0.3,
+      "correct_pct": 0.3,
+      "flipped": 0,
+      "grades": {
+        "오답": {
+          "n": 997,
+          "pct": 99.7
+        },
+        "정답(대표)": {
+          "n": 2,
+          "pct": 0.2
+        },
+        "정답(동의어)": {
+          "n": 1,
+          "pct": 0.1
+        }
+      },
+      "followed_decoy_pct": 97.0
+    }
+  ],
+  "pair": [
+    {
+      "vs": "term",
+      "win": 768,
+      "lose": 0,
+      "chi2": 766.0
+    },
+    {
+      "vs": "random",
+      "win": 0,
+      "lose": 221,
+      "chi2": 219.0
+    }
+  ]
+}

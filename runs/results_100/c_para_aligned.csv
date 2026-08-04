@@ -1,0 +1,862 @@
+﻿mode,para_id,en,rep,span,span_why,aligned_grade,aligned_level,aligned_hit,contains_hit,decoy,followed_decoy
+none,P001,hammerhead ribozyme,망치머리형리보자임,해머헤드 리보자임,ok,오답,-,False,False,,
+none,P001,case-mix,질병구성,케이스믹스,ok,오답,-,False,False,,
+none,P001,psgn,연쇄구균감염후 사구체신염,PSGN,ok,오답,-,False,False,,
+none,P002,cheilosis,구순증,구순염,ok,오답,-,False,False,,
+none,P002,hippocampal sclerosis,해마경화(증),해마 경화증,ok,정답(대표),partial,True,False,,
+none,P002,surgical staging,외과적시기결정,수술적 병기 설정,ok,오답,-,False,False,,
+none,P003,bidiscoidal placenta,두원반태반,이엽 태반,ok,오답,-,False,False,,
+none,P003,reciprocal shaker,왕복진탕기,왕복식 진탕기,ok,오답,-,False,False,,
+none,P003,high quality-hcv ab,정밀면역검사-C형간염항체,고품질 HCV 항체,ok,오답,-,False,False,,
+none,P004,orthognathic surgery,악교정수술,악교정수술,ok,정답(대표),exact,True,True,,
+none,P004,meckel's diverticulectomy,멕켈 게실절제술,메켈 게실 절제술,ok,오답,-,False,False,,
+none,P004,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",좌측면 KUB,ok,오답,-,False,False,,
+none,P005,bacteriostasis,정균작용,정균 작용,ok,정답(대표),variant,True,True,,
+none,P005,gastroenteritis paratyphosa,파라티푸스위창자염,파라티푸스성 위장염,ok,오답,-,False,False,,
+none,P005,clean bench,무균실험대,클린 벤치,ok,오답,-,False,False,,
+none,P006,mysophilia,불결기호증,mysophilia(오열애호증),ok,오답,-,False,False,,
+none,P006,bilateral palatine tonsils,양측 목구멍 편도,양측 구개편도,ok,오답,-,False,False,,
+none,P006,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토코커스 뇌수막뇌염,ok,오답,-,False,False,,
+none,P007,sao paulo fever,상파울로열,상파울루 열,ok,오답,-,False,False,,
+none,P007,meningoencephalocele,수막뇌류,뇌막뇌탈출증,ok,오답,-,False,False,,
+none,P007,involuntary,불수의-,불수의적,ok,정답(대표),partial,True,False,,
+none,P008,third ventricle structure,제3뇌구조,제 3 뇌실 구조,ok_nospace,오답,-,False,False,,
+none,P008,suprameatal foveola,바깥귀길위오목,상이와와,ok,오답,-,False,False,,
+none,P008,auriculotemporal nerve,귓바퀴관자신경,귓바퀴관자신경,ok,정답(대표),exact,True,True,,
+none,P009,colpomyomectomy,질식근종절제(술),질식 자궁근종 절제술,ok,오답,-,False,False,,
+none,P009,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,False,,
+none,P009,altered uterine contractions,자궁수축 변화,변형된 자궁 수축,ok,오답,-,False,False,,
+none,P010,sirenomelia syndrome,인어다리 증후군,사이레노멜리아 증후군,ok,오답,-,False,False,,
+none,P010,upper extremity,위팔,상지,ok,정답(동의어),exact,True,True,,
+none,P010,proctoscope,직장경,소아 직장경,ok,정답(대표),partial,True,True,,
+none,P011,heredoinfection,유전감염,유전-감염,ok,오답,-,False,False,,
+none,P011,sideroblastic anaemia,철적혈모구빈혈,철아구성 빈혈,ok,오답,-,False,False,,
+none,P011,rash purpuric,자색반 발진,자반성 발진,ok,오답,-,False,False,,
+none,P012,airborne infection,공기매개감염,공기 감염,ok,오답,-,False,False,,
+none,P012,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,영양불량형 수포성 표피박리증,ok,오답,-,False,False,,
+none,P012,glutitis,볼기염,둔근염,ok,오답,-,False,False,,
+none,P013,agenesis of lung,폐의 무발생,폐 무발생,ok,오답,-,False,False,,
+none,P013,blood donation,헌혈,헌혈,ok,정답(대표),exact,True,True,,
+none,P013,implosion,홍수(노출)요법,함몰감,ok,오답,-,False,False,,
+none,P014,oncotaxonomy,종양분류법,종양 분류,ok,오답,-,False,False,,
+none,P014,topalgia,국소통증,국소 통증,ok,정답(대표),variant,True,True,,
+none,P014,negative pressure,음압,음압,ok,정답(대표),exact,True,True,,
+none,P015,onychocryptosis,감입발톱,감입족갑,ok,오답,-,False,False,,
+none,P015,foraminal,그물막구멍,추간공,ok,오답,-,False,False,,
+none,P015,rotalix tube,회전양극관,rotalix 튜브,ok,오답,-,False,False,,
+none,P016,superexcitation,과도흥분,과도흥분,ok,정답(대표),exact,True,True,,
+none,P016,intermedia thalassaemia,중간형 지중해빈혈,인터미디아 지중해빈혈,ok,오답,-,False,True,,
+none,P016,endaural,귀속-,이도,ok,오답,-,False,False,,
+none,P017,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신 이형성,ok,오답,-,False,False,,
+none,P017,cardioplegic,심장마비-,심정지,ok,오답,-,False,False,,
+none,P017,neurocanal,신경관,신경관,ok,정답(대표),exact,True,True,,
+none,P018,epiplocele,대망탈장,장망 탈출증,ok,오답,-,False,False,,
+none,P018,naegleria fowleri,파울러자유아메바,파울러리 네글레리아(Naegleria fowleri),ok,오답,-,False,False,,
+none,P018,diabetic coma,당뇨 혼수,당뇨병성 혼수,ok,오답,-,False,False,,
+none,P019,retaining harness,장치유지,보조 하네스,ok,오답,-,False,False,,
+none,P019,hemodynamometry,혈압측정(법),혈류역학검사,ok,오답,-,False,False,,
+none,P019,insular sclerosis,섬경화증,섬엽 경화,ok,오답,-,False,False,,
+none,P020,dental granuloma,뿌리끝육아종,치아육아종,ok,오답,-,False,False,,
+none,P020,exteroceptive stimulus,외수용자극,외부 자극,ok,오답,-,False,False,,
+none,P020,deshielded proton,미차폐양성자,차폐를 제거한 양성자선,ok,오답,-,False,False,,
+none,P021,school childhood,학령기,학령기,ok,정답(대표),exact,True,True,,
+none,P021,dry weight,투석목표체중,건체중,ok,오답,-,False,False,,
+none,P021,myotonic disorders,근긴장장애,강근성 질환,ok,오답,-,False,False,,
+none,P022,plantar flexion,발바닥쪽 굽힘,저측 굴곡,ok,오답,-,False,False,,
+none,P022,absence of muscle,근육의 결여,근육 부피가 현저히 결손되어 있음,ok,오답,-,False,False,,
+none,P022,entire trapezius muscle,온등세모근,전체 승모근,ok,오답,-,False,False,,
+none,P023,urarthritis,통풍관절염,통풍성 관절염,ok,오답,-,False,False,,
+none,P023,basal seat,의치지지조직,기저 좌석,ok,오답,-,False,False,,
+none,P023,orofaciodigital syndrome,구안지 증후군,구강안면지증후군,ok,오답,-,False,False,,
+none,P024,endocrinologist,내분비전문의,내분비내과 전문의,ok,오답,-,False,False,,
+none,P024,anisometropic amblyopia,굴절부등약시,부동시 약시,ok,오답,-,False,False,,
+none,P025,paraduodenal fold,샘창자옆주름,십이지장주위 주름,ok,오답,-,False,False,,
+none,P025,laryngotracheal stenosis,후두기관협착(증),후두기관 협착증,ok,정답(대표),partial,True,False,,
+none,P025,neuropsychiatry,신경정신과학,신경정신과,ok,오답,-,False,False,,
+none,P026,normetanephrine,노르메타네프린,노르메타네프린,ok,정답(대표),exact,True,True,,
+none,P026,nodular prurigo,결절가려움발진,결절성 가려움증,ok,오답,-,False,False,,
+none,P027,inertia,무기력,무동증,ok,오답,-,False,False,,
+none,P027,epididymal duct,부고환관,부고환관,ok,정답(대표),exact,True,True,,
+none,P028,glaucomatous cataract,녹내장성백내장,녹내장성 백내장,ok,정답(대표),variant,True,True,,
+none,P028,positioned flap,판막이동수술,배치된 조직판,ok,오답,-,False,False,,
+none,P028,transfusion tests,수혈혈액검사,수혈 검사,ok,오답,-,False,False,,
+none,P029,blood fluke,주혈흡충,혈흡충,ok,오답,-,False,False,,
+none,P029,breast stereotactic biopsy,유방 입체정위 생검술,유방 정위생검,ok,오답,-,False,False,,
+none,P029,hyeopbaek,협백(俠白),협백,ok,정답(대표),variant,True,False,,
+none,P030,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경적 교정 누낭비안문합술,ok,오답,-,False,False,,
+none,P030,capillaria hepatica,간모세선충,간모세선충,ok,정답(대표),exact,True,True,,
+none,P030,allergenic serum,알레르기혈청,특정 알레르겐 혈청,ok,오답,-,False,False,,
+none,P031,papilloma of cerviv,자궁경부의 유두종,자궁경부 유두종,ok,오답,-,False,False,,
+none,P031,water bath,욕조,수욕,ok,오답,-,False,False,,
+none,P031,supporting spiritual rituals,영적의식 지지하기,영적 의식을 지원할 수 있는,ok,오답,-,False,False,,
+none,P032,biopsy of adenoid,인두편도 생검,아데노이드 조직 생검,ok,오답,-,False,False,,
+none,P032,protein-losing enteropathy,단백질소실장병(증),단백 소실성 장병증,ok,오답,-,False,False,,
+none,P032,coalescent mastoiditis,융합꼭지돌기염,융합성 유양돌기염,ok,오답,-,False,False,,
+none,P033,interferential action,간섭작용,간섭전류 치료,ok,오답,-,False,False,,
+none,P033,sao paulo fever,상파울로열,상파울루열,ok,오답,-,False,False,,
+none,P033,meningoencephalocele,수막뇌류,수두뇌류,ok,오답,-,False,False,,
+none,P034,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신장 이형성증,ok,오답,-,False,False,,
+none,P034,neurocanal,신경관,신경관,ok,정답(대표),exact,True,True,,
+none,P034,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경적 교정 누낭비연결술,ok,오답,-,False,False,,
+none,P035,transfusion tests,수혈혈액검사,특정 수혈 검사,ok,오답,-,False,False,,
+none,P035,high quality-hcv ab,정밀면역검사-C형간염항체,고품질 HCV 항체,ok,오답,-,False,False,,
+none,P035,intermedia thalassaemia,중간형 지중해빈혈,인터미디아 지중해빈현,ok,오답,-,False,False,,
+none,P036,dental granuloma,뿌리끝육아종,치아 육아종,ok,오답,-,False,False,,
+none,P036,capillaria hepatica,간모세선충,간모세선충,ok,정답(대표),exact,True,True,,
+none,P036,positioned flap,판막이동수술,위치시킨 판,ok,오답,-,False,False,,
+none,P037,bacteriostasis,정균작용,정균 작용,ok,정답(대표),variant,True,True,,
+none,P037,myotonic disorders,근긴장장애,근긴장성 질환,ok,오답,-,False,False,,
+none,P037,hyeopbaek,협백(俠白),협백,ok,정답(대표),variant,True,False,,
+none,P038,orofaciodigital syndrome,구안지 증후군,구강안면지증후군,ok,오답,-,False,False,,
+none,P038,rash purpuric,자색반 발진,자반성 발진,ok,오답,-,False,False,,
+none,P038,interferential action,간섭작용,중재적 조치,ok,오답,-,False,False,,
+none,P039,hippocampal sclerosis,해마경화(증),해마 경화증,ok,정답(대표),partial,True,False,,
+none,P039,blood fluke,주혈흡충,혈흡충,ok,오답,-,False,False,,
+none,P040,cervical vertigo,경추성 현기증,경추성 어지럼증,ok,오답,-,False,False,,
+none,P040,allergenic serum,알레르기혈청,알레르기 항원 혈청,ok,오답,-,False,False,,
+none,P041,inertia,무기력,정체,ok,오답,-,False,False,,
+none,P041,orthognathic surgery,악교정수술,악교정 수술,ok,정답(대표),variant,True,True,,
+none,P041,basal seat,의치지지조직,기저부,ok,오답,-,False,False,,
+none,P042,psgn,연쇄구균감염후 사구체신염,PSGN,ok,오답,-,False,False,,
+none,P042,keratopathy,각막병(증),각막병증,ok,정답(대표),partial,True,False,,
+none,P042,sideroblastic anaemia,철적혈모구빈혈,철아구성 빈혈,ok,오답,-,False,False,,
+none,P043,cheilosis,구순증,구각염,ok,오답,-,False,False,,
+none,P043,dry weight,투석목표체중,건체중,ok,오답,-,False,False,,
+none,P043,oncotaxonomy,종양분류법,종양 분류,ok,오답,-,False,False,,
+none,P044,hammerhead ribozyme,망치머리형리보자임,해머헤드 리보자임,ok,오답,-,False,False,,
+none,P044,suprameatal foveola,바깥귀길위오목,상이와와,ok,오답,-,False,False,,
+none,P044,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",KUB 좌측 측면,ok,오답,-,False,False,,
+none,P045,entire trapezius muscle,온등세모근,전체 승모근,ok,오답,-,False,False,,
+none,P045,topalgia,국소통증,두통,ok,오답,-,False,False,,
+none,P045,naegleria fowleri,파울러자유아메바,나에글레리아 파울러리,ok,오답,-,False,False,,
+none,P046,auriculotemporal nerve,귓바퀴관자신경,귓바퀴신경,ok,오답,-,False,False,,
+none,P046,implosion,홍수(노출)요법,내파,ok,정답(동의어),exact,True,True,,
+none,P046,airborne infection,공기매개감염,공기 매개 감염,ok,정답(대표),variant,True,True,,
+none,P047,retaining harness,장치유지,복부 보조대,ok,오답,-,False,False,,
+none,P047,blood donation,헌혈,헌혈,ok,정답(대표),exact,True,True,,
+none,P047,meckel's diverticulectomy,멕켈 게실절제술,메켈 게실절제술,ok,오답,-,False,False,,
+none,P048,deshielded proton,미차폐양성자,,not_substring,미검출,-,False,False,,
+none,P048,insular sclerosis,섬경화증,섬엽 경화증,ok,오답,-,False,False,,
+none,P048,anisometropic amblyopia,굴절부등약시,굴절부등약시,ok,정답(대표),exact,True,True,,
+none,P049,endocrinologist,내분비전문의,내분비내과 전문의,ok,오답,-,False,False,,
+none,P049,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,False,,
+none,P049,water bath,욕조,물 목욕,ok,오답,-,False,False,,
+none,P050,case-mix,질병구성,환자군,ok,오답,-,False,False,,
+none,P050,clean bench,무균실험대,무균 작업대,ok,오답,-,False,False,,
+none,P050,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토코커스 수막뇌염,ok,오답,-,False,False,,
+none,P051,coalescent mastoiditis,융합꼭지돌기염,융합성 유돌기염,ok,오답,-,False,False,,
+none,P051,glaucomatous cataract,녹내장성백내장,녹내장성 백내장,ok,정답(대표),variant,True,True,,
+none,P051,onychocryptosis,감입발톱,감입족갑,ok,오답,-,False,False,,
+none,P052,gastroenteritis paratyphosa,파라티푸스위창자염,파라장티푸스성 위장염,ok,오답,-,False,False,,
+none,P052,school childhood,학령기,학령기,ok,정답(대표),exact,True,True,,
+none,P052,biopsy of adenoid,인두편도 생검,adenoid 조직의 생검,ok,오답,-,False,False,,
+none,P053,genuine diabetes,진성당뇨병,진성 당뇨병,ok,정답(대표),variant,True,True,,
+none,P053,neuropsychiatry,신경정신과학,신경정신과,ok,오답,-,False,False,,
+none,P053,mysophilia,불결기호증,,none,미검출,-,False,False,,
+none,P054,laryngotracheal stenosis,후두기관협착(증),후두기관 협착,ok,정답(대표),variant,True,False,,
+none,P054,plantar flexion,발바닥쪽 굽힘,족저 굴곡,ok,오답,-,False,False,,
+none,P054,paraduodenal fold,샘창자옆주름,십이지장 주위 파두,ok,오답,-,False,False,,
+none,P055,superexcitation,과도흥분,과흥분,ok,오답,-,False,False,,
+none,P055,derangement of patella,무릎뼈의 장애,슬개골의 정렬 이상,ok,오답,-,False,False,,
+none,P055,exteroceptive stimulus,외수용자극,외부 자극,ok,오답,-,False,False,,
+none,P056,endaural,귀속-,이내,ok,오답,-,False,False,,
+none,P056,colpomyomectomy,질식근종절제(술),질부 근종절제술,ok,오답,-,False,False,,
+none,P057,agenesis of lung,폐의 무발생,폐 무형성,ok,오답,-,False,False,,
+none,P057,epiplocele,대망탈장,대망류,ok,오답,-,False,False,,
+none,P057,supporting spiritual rituals,영적의식 지지하기,영적 의식을 지원하는,ok,오답,-,False,False,,
+none,P058,bidiscoidal placenta,두원반태반,이엽 태반,ok,오답,-,False,False,,
+none,P058,normetanephrine,노르메타네프린,노르메타네프린,ok,정답(대표),exact,True,True,,
+none,P058,absence of muscle,근육의 결여,근육 조직 결손,ok,오답,-,False,False,,
+none,P059,rotalix tube,회전양극관,로탈릭스 튜브,ok,오답,-,False,False,,
+none,P059,reciprocal shaker,왕복진탕기,상호 진동기,ok,오답,-,False,False,,
+none,P059,negative pressure,음압,음압,ok,정답(대표),exact,True,True,,
+none,P060,urarthritis,통풍관절염,통풍성 관절염,ok,오답,-,False,False,,
+none,P060,bilateral palatine tonsils,양측 목구멍 편도,양측 구개편도,ok,오답,-,False,False,,
+none,P060,epididymal duct,부고환관,부고환관,ok,정답(대표),exact,True,True,,
+none,P061,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,영양불량형 수포성 표피박리증,ok,오답,-,False,False,,
+none,P061,third ventricle structure,제3뇌구조,제 3 뇌실 구조,ok_nospace,오답,-,False,False,,
+none,P061,cardioplegic,심장마비-,심정지,ok,오답,-,False,False,,
+none,P062,hemodynamometry,혈압측정(법),혈역학 측정,ok,오답,-,False,False,,
+none,P062,sirenomelia syndrome,인어다리 증후군,사이레노멜리아 증후군,ok,오답,-,False,False,,
+none,P062,heredoinfection,유전감염,선천성 감염,ok,오답,-,False,False,,
+none,P063,papilloma of cerviv,자궁경부의 유두종,자궁경부 유두종,ok,오답,-,False,False,,
+none,P063,diabetic coma,당뇨 혼수,당뇨병성 혼수,ok,오답,-,False,False,,
+none,P063,glutitis,볼기염,둔근염,ok,오답,-,False,False,,
+none,P064,protein-losing enteropathy,단백질소실장병(증),단백질 소실성 장병증,ok,오답,-,False,False,,
+none,P064,proctoscope,직장경,직장경,ok,정답(대표),exact,True,True,,
+none,P064,involuntary,불수의-,무의식적,ok,오답,-,False,False,,
+none,P065,upper extremity,위팔,상지,ok,정답(동의어),exact,True,True,,
+none,P065,altered uterine contractions,자궁수축 변화,비정상 자궁 수축,ok,오답,-,False,False,,
+none,P065,nodular prurigo,결절가려움발진,결절성 가려움증,ok,오답,-,False,False,,
+none,P066,breast stereotactic biopsy,유방 입체정위 생검술,유방 정위생검,ok,오답,-,False,False,,
+none,P066,surgical staging,외과적시기결정,수술적 병기 결정,ok,오답,-,False,False,,
+none,P066,meningoencephalocele,수막뇌류,수막뇌탈출증,ok,정답(동의어),exact,True,True,,
+none,P067,blood donation,헌혈,헌혈,ok,정답(대표),exact,True,True,,
+none,P067,agenesis of lung,폐의 무발생,폐 무발생증,ok,오답,-,False,False,,
+none,P067,papilloma of cerviv,자궁경부의 유두종,자궁경부 유두종,ok,오답,-,False,False,,
+none,P068,orofaciodigital syndrome,구안지 증후군,구안지증후군,ok,정답(대표),variant,True,True,,
+none,P068,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,ok,정답(대표),exact,True,True,,
+none,P068,biopsy of adenoid,인두편도 생검,아데노이드 조직 생검,ok,오답,-,False,False,,
+none,P069,cervical vertigo,경추성 현기증,경추성 어지럼증,ok,오답,-,False,False,,
+none,P069,epididymal duct,부고환관,부고환관,ok,정답(대표),exact,True,True,,
+none,P069,derangement of patella,무릎뼈의 장애,슬개골의 정렬 이상,ok,오답,-,False,False,,
+none,P070,positioned flap,판막이동수술,위치 피판,ok,오답,-,False,False,,
+none,P070,onychocryptosis,감입발톱,감입족갑,ok,오답,-,False,False,,
+none,P070,coalescent mastoiditis,융합꼭지돌기염,융합성 유돌염,ok,오답,-,False,False,,
+none,P071,nodular prurigo,결절가려움발진,결절성 가려움증,ok,오답,-,False,False,,
+none,P071,naegleria fowleri,파울러자유아메바,네글레리아 파울레리,ok,오답,-,False,False,,
+none,P071,retaining harness,장치유지,보호대,ok,오답,-,False,False,,
+none,P072,meckel's diverticulectomy,멕켈 게실절제술,메켈 게실절제술,ok,오답,-,False,False,,
+none,P072,myotonic disorders,근긴장장애,근긴장성 질환,ok,오답,-,False,False,,
+none,P072,glutitis,볼기염,둔근염,ok,오답,-,False,False,,
+none,P073,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경적 교정 누낭비연결술,ok,오답,-,False,False,,
+none,P073,school childhood,학령기,학동기,ok,오답,-,False,False,,
+none,P073,mysophilia,불결기호증,오염성애증,ok,오답,-,False,False,,
+none,P074,absence of muscle,근육의 결여,근육 조직이 완전히 없는,ok,오답,-,False,False,,
+none,P074,dry weight,투석목표체중,건체중,ok,오답,-,False,False,,
+none,P074,bidiscoidal placenta,두원반태반,양엽성(bidiscoidal) 태반,ok,오답,-,False,False,,
+none,P075,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토코커스 뇌수막뇌염,ok,오답,-,False,False,,
+none,P075,keratopathy,각막병(증),각막병증,ok,정답(대표),partial,True,False,,
+none,P075,blood fluke,주혈흡충,혈흡충,ok,오답,-,False,False,,
+none,P076,protein-losing enteropathy,단백질소실장병(증),단백 소실성 장병증,ok,오답,-,False,False,,
+none,P076,paraduodenal fold,샘창자옆주름,십이지장곁 주름,ok,오답,-,False,False,,
+none,P076,orthognathic surgery,악교정수술,악교정술,ok,오답,-,False,False,,
+none,P077,hippocampal sclerosis,해마경화(증),해마 경화증,ok,정답(대표),partial,True,False,,
+none,P077,urarthritis,통풍관절염,통풍성 관절염,ok,오답,-,False,False,,
+none,P077,inertia,무기력,무동증,ok,오답,-,False,False,,
+none,P078,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,False,,
+none,P078,negative pressure,음압,음압,ok,정답(대표),exact,True,True,,
+none,P078,anisometropic amblyopia,굴절부등약시,부동시 약시,ok,오답,-,False,False,,
+none,P079,genuine diabetes,진성당뇨병,진성 당뇨병,ok,정답(대표),variant,True,True,,
+none,P079,epiplocele,대망탈장,대망탈출증,ok,오답,-,False,False,,
+none,P079,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신장 이형성증,ok,오답,-,False,False,,
+none,P080,neurocanal,신경관,신경관,ok,정답(대표),exact,True,True,,
+none,P080,superexcitation,과도흥분,과흥분,ok,오답,-,False,False,,
+none,P080,exteroceptive stimulus,외수용자극,외수용성 자극,ok,오답,-,False,False,,
+none,P081,topalgia,국소통증,국소 통증,ok,정답(대표),variant,True,True,,
+none,P081,transfusion tests,수혈혈액검사,수혈 검사,ok,오답,-,False,False,,
+none,P081,plantar flexion,발바닥쪽 굽힘,족저 굴골,ok,오답,-,False,False,,
+none,P082,rotalix tube,회전양극관,회전관(rotalix tube),ok,오답,-,False,False,,
+none,P082,reciprocal shaker,왕복진탕기,상호 진동기,ok,오답,-,False,False,,
+none,P083,proctoscope,직장경,직장경,ok,정답(대표),exact,True,True,,
+none,P083,hammerhead ribozyme,망치머리형리보자임,해머헤드 리보자임,ok,오답,-,False,False,,
+none,P083,hemodynamometry,혈압측정(법),혈류역학검사,ok,오답,-,False,False,,
+none,P084,breast stereotactic biopsy,유방 입체정위 생검술,유방 정위생검,ok,오답,-,False,False,,
+none,P084,normetanephrine,노르메타네프린,노르메타네프린,ok,정답(대표),exact,True,True,,
+none,P085,oncotaxonomy,종양분류법,종양 분류법,ok,정답(대표),variant,True,True,,
+none,P085,capillaria hepatica,간모세선충,간모세선충,ok,정답(대표),exact,True,True,,
+none,P085,colpomyomectomy,질식근종절제(술),질식자궁근종절제술,ok,오답,-,False,False,,
+none,P086,dental granuloma,뿌리끝육아종,치육아종,ok,오답,-,False,False,,
+none,P086,supporting spiritual rituals,영적의식 지지하기,영적 의식을 지원받고자 하는,ok,오답,-,False,False,,
+none,P086,high quality-hcv ab,정밀면역검사-C형간염항체,양질의 HCV 항체 양성,ok,오답,-,False,False,,
+none,P087,glaucomatous cataract,녹내장성백내장,녹내장성 백내장,ok,정답(대표),variant,True,True,,
+none,P087,deshielded proton,미차폐양성자,차폐되지 않은 양성자,ok,오답,-,False,False,,
+none,P087,cheilosis,구순증,구순염,ok,오답,-,False,False,,
+none,P088,bilateral palatine tonsils,양측 목구멍 편도,양측 구개편도,ok,오답,-,False,False,,
+none,P088,clean bench,무균실험대,청정 벤치,ok,오답,-,False,False,,
+none,P089,neuropsychiatry,신경정신과학,신경정신과,ok,오답,-,False,False,,
+none,P089,water bath,욕조,온수 목욕,ok,오답,-,False,False,,
+none,P089,sao paulo fever,상파울로열,상파울루열,ok,오답,-,False,False,,
+none,P090,involuntary,불수의-,불수의적,ok,정답(대표),partial,True,False,,
+none,P090,insular sclerosis,섬경화증,섬엽 경화,ok,오답,-,False,False,,
+none,P090,allergenic serum,알레르기혈청,알레르겐 혈청,ok,오답,-,False,False,,
+none,P091,basal seat,의치지지조직,기저부,ok,오답,-,False,False,,
+none,P091,case-mix,질병구성,케이스 믹스,ok,오답,-,False,False,,
+none,P091,third ventricle structure,제3뇌구조,제 3 뇌실 구조,ok_nospace,오답,-,False,False,,
+none,P092,gastroenteritis paratyphosa,파라티푸스위창자염,파라장티푸스성 위장염,ok,오답,-,False,False,,
+none,P092,auriculotemporal nerve,귓바퀴관자신경,이개측두신경,ok,정답(동의어),exact,True,True,,
+none,P092,bacteriostasis,정균작용,정균 상태,ok,오답,-,False,False,,
+none,P093,altered uterine contractions,자궁수축 변화,자궁 수축 이상,ok,오답,-,False,False,,
+none,P093,surgical staging,외과적시기결정,외과적 병기 결정,ok,오답,-,False,False,,
+none,P093,upper extremity,위팔,상지,ok,정답(동의어),exact,True,True,,
+none,P094,diabetic coma,당뇨 혼수,당뇨병성 혼수,ok,오답,-,False,False,,
+none,P094,suprameatal foveola,바깥귀길위오목,상이와와,ok,오답,-,False,False,,
+none,P094,laryngotracheal stenosis,후두기관협착(증),후두기관 협착증,ok,정답(대표),partial,True,False,,
+none,P095,psgn,연쇄구균감염후 사구체신염,PSGN,ok,오답,-,False,False,,
+none,P095,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",KUB 좌측면,ok,오답,-,False,False,,
+none,P095,interferential action,간섭작용,간섭파 치료,ok,오답,-,False,False,,
+none,P096,entire trapezius muscle,온등세모근,전체 승모근,ok,오답,-,False,False,,
+none,P096,implosion,홍수(노출)요법,함몰감,ok,오답,-,False,False,,
+none,P096,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,영양불량형 수포성 표피박리증,ok,오답,-,False,False,,
+none,P097,cardioplegic,심장마비-,심정지,ok,오답,-,False,False,,
+none,P097,rash purpuric,자색반 발진,자반성 발진,ok,오답,-,False,False,,
+none,P097,sideroblastic anaemia,철적혈모구빈혈,철아구성 빈혈,ok,오답,-,False,False,,
+none,P098,heredoinfection,유전감염,선천성 감염,ok,오답,-,False,False,,
+none,P098,airborne infection,공기매개감염,공기 감염,ok,오답,-,False,False,,
+none,P099,hyeopbaek,협백(俠白),협백,ok,정답(대표),variant,True,False,,
+none,P099,endocrinologist,내분비전문의,내분비내과 전문의,ok,오답,-,False,False,,
+none,P099,sirenomelia syndrome,인어다리 증후군,인어증후군,ok,오답,-,False,False,,
+term,P001,hammerhead ribozyme,망치머리형리보자임,망치머리형리보자임,ok,정답(대표),exact,True,True,,
+term,P001,case-mix,질병구성,질병구성,ok,정답(대표),exact,True,True,,
+term,P001,psgn,연쇄구균감염후 사구체신염,연쇄구균감염후 사구체신염,ok,정답(대표),exact,True,True,,
+term,P002,cheilosis,구순증,구순증,ok,정답(대표),exact,True,True,,
+term,P002,hippocampal sclerosis,해마경화(증),해마경화,ok,정답(대표),variant,True,True,,
+term,P002,surgical staging,외과적시기결정,외과적시기결정,ok,정답(대표),exact,True,True,,
+term,P003,bidiscoidal placenta,두원반태반,두원반태반,ok,정답(대표),exact,True,True,,
+term,P003,reciprocal shaker,왕복진탕기,왕복진탕기,ok,정답(대표),exact,True,True,,
+term,P003,high quality-hcv ab,정밀면역검사-C형간염항체,정밀면역검사-C 형간염항체,ok_nospace,정답(대표),variant,True,True,,
+term,P004,orthognathic surgery,악교정수술,악교정수술,ok,정답(대표),exact,True,True,,
+term,P004,meckel's diverticulectomy,멕켈 게실절제술,멕켈 게실절제술,ok,정답(대표),exact,True,True,,
+term,P004,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향","콩팥요관방광촬영, 왼쪽측방향",ok,정답(대표),exact,True,True,,
+term,P005,bacteriostasis,정균작용,정균작용,ok,정답(대표),exact,True,True,,
+term,P005,gastroenteritis paratyphosa,파라티푸스위창자염,파라티푸스위창자염,ok,정답(대표),exact,True,True,,
+term,P005,clean bench,무균실험대,무균실험대,ok,정답(대표),exact,True,True,,
+term,P006,mysophilia,불결기호증,불결기호증,ok,정답(대표),exact,True,True,,
+term,P006,bilateral palatine tonsils,양측 목구멍 편도,양측 목구멍 편도,ok,정답(대표),exact,True,True,,
+term,P006,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토콕쿠스수막대뇌염,ok,정답(대표),exact,True,True,,
+term,P007,sao paulo fever,상파울로열,상파울로열,ok,정답(대표),exact,True,True,,
+term,P007,meningoencephalocele,수막뇌류,수막뇌류,ok,정답(대표),exact,True,True,,
+term,P007,involuntary,불수의-,불수의,ok,정답(대표),variant,True,True,,
+term,P008,third ventricle structure,제3뇌구조,제 3 뇌구조,ok_nospace,정답(대표),variant,True,True,,
+term,P008,suprameatal foveola,바깥귀길위오목,바깥귀길위오목,ok,정답(대표),exact,True,True,,
+term,P008,auriculotemporal nerve,귓바퀴관자신경,귓바퀴관자신경,ok,정답(대표),exact,True,True,,
+term,P009,colpomyomectomy,질식근종절제(술),질식근종절제,ok,정답(대표),variant,True,True,,
+term,P009,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,True,,
+term,P009,altered uterine contractions,자궁수축 변화,자궁수축 변화,ok,정답(대표),exact,True,True,,
+term,P010,sirenomelia syndrome,인어다리 증후군,인어다리 증후군,ok,정답(대표),exact,True,True,,
+term,P010,upper extremity,위팔,위팔,ok,정답(대표),exact,True,True,,
+term,P010,proctoscope,직장경,직장경,ok,정답(대표),exact,True,True,,
+term,P011,heredoinfection,유전감염,유전감염,ok,정답(대표),exact,True,True,,
+term,P011,sideroblastic anaemia,철적혈모구빈혈,철적혈모구빈혈,ok,정답(대표),exact,True,True,,
+term,P011,rash purpuric,자색반 발진,자색반 발진,ok,정답(대표),exact,True,True,,
+term,P012,airborne infection,공기매개감염,공기매개감염,ok,정답(대표),exact,True,True,,
+term,P012,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,디스트로피성 수포성 표피박리증,ok,정답(대표),exact,True,True,,
+term,P012,glutitis,볼기염,볼기염,ok,정답(대표),exact,True,True,,
+term,P013,agenesis of lung,폐의 무발생,폐의 무발생,ok,정답(대표),exact,True,True,,
+term,P013,blood donation,헌혈,헌혈,ok,정답(대표),exact,True,True,,
+term,P013,implosion,홍수(노출)요법,홍수(노출)요법,ok,정답(대표),exact,True,True,,
+term,P014,oncotaxonomy,종양분류법,종양분류법,ok,정답(대표),exact,True,True,,
+term,P014,topalgia,국소통증,국소통증,ok,정답(대표),exact,True,True,,
+term,P014,negative pressure,음압,음압,ok,정답(대표),exact,True,True,,
+term,P015,onychocryptosis,감입발톱,감입발톱,ok,정답(대표),exact,True,True,,
+term,P015,foraminal,그물막구멍,그물막구멍,ok,정답(대표),exact,True,True,,
+term,P015,rotalix tube,회전양극관,회전양극관,ok,정답(대표),exact,True,True,,
+term,P016,superexcitation,과도흥분,과도흥분,ok,정답(대표),exact,True,True,,
+term,P016,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,ok,정답(대표),exact,True,True,,
+term,P016,endaural,귀속-,귀속,ok,정답(대표),variant,True,True,,
+term,P017,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신장의 형성이상,ok,정답(대표),exact,True,True,,
+term,P017,cardioplegic,심장마비-,심장마비-,ok,정답(대표),exact,True,True,,
+term,P017,neurocanal,신경관,신경관,ok,정답(대표),exact,True,True,,
+term,P018,epiplocele,대망탈장,대망탈장,ok,정답(대표),exact,True,True,,
+term,P018,naegleria fowleri,파울러자유아메바,파울러자유아메바,ok,정답(대표),exact,True,True,,
+term,P018,diabetic coma,당뇨 혼수,당뇨 혼수,ok,정답(대표),exact,True,True,,
+term,P019,retaining harness,장치유지,장치유지,ok,정답(대표),exact,True,True,,
+term,P019,hemodynamometry,혈압측정(법),혈압측정(법),ok,정답(대표),exact,True,True,,
+term,P019,insular sclerosis,섬경화증,섬경화증,ok,정답(대표),exact,True,True,,
+term,P020,dental granuloma,뿌리끝육아종,뿌리끝육아종,ok,정답(대표),exact,True,True,,
+term,P020,exteroceptive stimulus,외수용자극,외수용자극,ok,정답(대표),exact,True,True,,
+term,P020,deshielded proton,미차폐양성자,미차폐양성자,ok,정답(대표),exact,True,True,,
+term,P021,school childhood,학령기,학령기,ok,정답(대표),exact,True,True,,
+term,P021,dry weight,투석목표체중,투석목표체중,ok,정답(대표),exact,True,True,,
+term,P021,myotonic disorders,근긴장장애,근긴장장애,ok,정답(대표),exact,True,True,,
+term,P022,plantar flexion,발바닥쪽 굽힘,발바닥쪽 굽힘,ok,정답(대표),exact,True,True,,
+term,P022,absence of muscle,근육의 결여,근육의 결여,ok,정답(대표),exact,True,True,,
+term,P022,entire trapezius muscle,온등세모근,온등세모근,ok,정답(대표),exact,True,True,,
+term,P023,urarthritis,통풍관절염,통풍관절염,ok,정답(대표),exact,True,True,,
+term,P023,basal seat,의치지지조직,안정- 의치지지조직 태위,ok,정답(대표),partial,True,True,,
+term,P023,orofaciodigital syndrome,구안지 증후군,구안지 증후군,ok,정답(대표),exact,True,True,,
+term,P024,endocrinologist,내분비전문의,내분비전문의,ok,정답(대표),exact,True,True,,
+term,P024,anisometropic amblyopia,굴절부등약시,굴절부등약시,ok,정답(대표),exact,True,True,,
+term,P025,paraduodenal fold,샘창자옆주름,샘창자옆주름,ok,정답(대표),exact,True,True,,
+term,P025,laryngotracheal stenosis,후두기관협착(증),후두기관협착 (증),ok_nospace,정답(대표),variant,True,True,,
+term,P025,neuropsychiatry,신경정신과학,신경정신과학,ok,정답(대표),exact,True,True,,
+term,P026,normetanephrine,노르메타네프린,노르메타네프린,ok,정답(대표),exact,True,True,,
+term,P026,nodular prurigo,결절가려움발진,결절가려움발진,ok,정답(대표),exact,True,True,,
+term,P027,inertia,무기력,무기력,ok,정답(대표),exact,True,True,,
+term,P027,epididymal duct,부고환관,부고환관,ok,정답(대표),exact,True,True,,
+term,P028,glaucomatous cataract,녹내장성백내장,녹내장성백내장,ok,정답(대표),exact,True,True,,
+term,P028,positioned flap,판막이동수술,판막이동수술,ok,정답(대표),exact,True,True,,
+term,P028,transfusion tests,수혈혈액검사,수혈혈액검사,ok,정답(대표),exact,True,True,,
+term,P029,blood fluke,주혈흡충,주혈흡충,ok,정답(대표),exact,True,True,,
+term,P029,breast stereotactic biopsy,유방 입체정위 생검술,유방 입체정위 생검술,ok,정답(대표),exact,True,True,,
+term,P029,hyeopbaek,협백(俠白),협백,ok,정답(대표),variant,True,True,,
+term,P030,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경 이용 눈물주머니코안 연결 교정,ok,정답(대표),exact,True,True,,
+term,P030,capillaria hepatica,간모세선충,간모세선충,ok,정답(대표),exact,True,True,,
+term,P030,allergenic serum,알레르기혈청,종- 알레르기혈청,ok,정답(대표),partial,True,True,,
+term,P031,papilloma of cerviv,자궁경부의 유두종,자궁경부의 유두종,ok,정답(대표),exact,True,True,,
+term,P031,water bath,욕조,욕조 수기,ok,정답(대표),partial,True,True,,
+term,P031,supporting spiritual rituals,영적의식 지지하기,영적의식 지지,ok,오답,-,False,True,,
+term,P032,biopsy of adenoid,인두편도 생검,인두편도 생검,ok,정답(대표),exact,True,True,,
+term,P032,protein-losing enteropathy,단백질소실장병(증),단백질소실장병(증),ok,정답(대표),exact,True,True,,
+term,P032,coalescent mastoiditis,융합꼭지돌기염,융합꼭지돌기염,ok,정답(대표),exact,True,True,,
+term,P033,interferential action,간섭작용,간섭작용,ok,정답(대표),exact,True,True,,
+term,P033,sao paulo fever,상파울로열,상파울로열,ok,정답(대표),exact,True,True,,
+term,P033,meningoencephalocele,수막뇌류,수맥뇌류,ok,오답,-,False,True,,
+term,P034,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신장의 형성이상,ok,정답(대표),exact,True,True,,
+term,P034,neurocanal,신경관,신경관,ok,정답(대표),exact,True,True,,
+term,P034,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경 이용 눈물주머니코안 연결 교정,ok,정답(대표),exact,True,True,,
+term,P035,transfusion tests,수혈혈액검사,수혈혈액검사,ok,정답(대표),exact,True,True,,
+term,P035,high quality-hcv ab,정밀면역검사-C형간염항체,정밀면역검사-C 형간염항체,ok_nospace,정답(대표),variant,True,True,,
+term,P035,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,ok,정답(대표),exact,True,True,,
+term,P036,dental granuloma,뿌리끝육아종,만성- 뿌리끝육아종,ok,정답(대표),partial,True,True,,
+term,P036,capillaria hepatica,간모세선충,간모세선충,ok,정답(대표),exact,True,True,,
+term,P036,positioned flap,판막이동수술,판막이동수술,ok,정답(대표),exact,True,True,,
+term,P037,bacteriostasis,정균작용,정균작용,ok,정답(대표),exact,True,True,,
+term,P037,myotonic disorders,근긴장장애,근긴장장애,ok,정답(대표),exact,True,True,,
+term,P037,hyeopbaek,협백(俠白),협백(俠白),ok,정답(대표),exact,True,True,,
+term,P038,orofaciodigital syndrome,구안지 증후군,구안지 증후군,ok,정답(대표),exact,True,True,,
+term,P038,rash purpuric,자색반 발진,자색반 발진,ok,정답(대표),exact,True,True,,
+term,P038,interferential action,간섭작용,간섭작용,ok,정답(대표),exact,True,True,,
+term,P039,hippocampal sclerosis,해마경화(증),해마경화증,ok,정답(대표),partial,True,False,,
+term,P039,blood fluke,주혈흡충,주혈흡충,ok,정답(대표),exact,True,True,,
+term,P040,cervical vertigo,경추성 현기증,경추성 현기증,ok,정답(대표),exact,True,True,,
+term,P040,allergenic serum,알레르기혈청,알레르기혈청,ok,정답(대표),exact,True,True,,
+term,P041,inertia,무기력,무기력,ok,정답(대표),exact,True,True,,
+term,P041,orthognathic surgery,악교정수술,악교정수술,ok,정답(대표),exact,True,True,,
+term,P041,basal seat,의치지지조직,의치지지조직,ok,정답(대표),exact,True,True,,
+term,P042,psgn,연쇄구균감염후 사구체신염,연쇄구균감염후 사구체신염,ok,정답(대표),exact,True,True,,
+term,P042,keratopathy,각막병(증),각막병(증),ok,정답(대표),exact,True,True,,
+term,P042,sideroblastic anaemia,철적혈모구빈혈,철적혈모구빈혈,ok,정답(대표),exact,True,True,,
+term,P043,cheilosis,구순증,구순증,ok,정답(대표),exact,True,True,,
+term,P043,dry weight,투석목표체중,투석목표체중,ok,정답(대표),exact,True,True,,
+term,P043,oncotaxonomy,종양분류법,종양분류법,ok,정답(대표),exact,True,True,,
+term,P044,hammerhead ribozyme,망치머리형리보자임,망치머리형리보자임,ok,정답(대표),exact,True,True,,
+term,P044,suprameatal foveola,바깥귀길위오목,바깥귀길위오목,ok,정답(대표),exact,True,True,,
+term,P044,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향","콩팥요관방광촬영, 왼쪽측방향",ok,정답(대표),exact,True,True,,
+term,P045,entire trapezius muscle,온등세모근,온등세모근 전체,ok,정답(대표),partial,True,True,,
+term,P045,topalgia,국소통증,국소통증,ok,정답(대표),exact,True,True,,
+term,P045,naegleria fowleri,파울러자유아메바,파울러자유아메바,ok,정답(대표),exact,True,True,,
+term,P046,auriculotemporal nerve,귓바퀴관자신경,귓바퀴관자신경,ok,정답(대표),exact,True,True,,
+term,P046,implosion,홍수(노출)요법,홍수 (노출) 요법,ok_nospace,정답(대표),variant,True,True,,
+term,P046,airborne infection,공기매개감염,공기매개감염,ok,정답(대표),exact,True,True,,
+term,P047,retaining harness,장치유지,장치유지,ok,정답(대표),exact,True,True,,
+term,P047,blood donation,헌혈,헌혈,ok,정답(대표),exact,True,True,,
+term,P047,meckel's diverticulectomy,멕켈 게실절제술,멕켈 게실절제술,ok,정답(대표),exact,True,True,,
+term,P048,deshielded proton,미차폐양성자,미차폐양성자,ok,정답(대표),exact,True,True,,
+term,P048,insular sclerosis,섬경화증,섬경화증,ok,정답(대표),exact,True,True,,
+term,P048,anisometropic amblyopia,굴절부등약시,굴절부등약시,ok,정답(대표),exact,True,True,,
+term,P049,endocrinologist,내분비전문의,내분비전문의,ok,정답(대표),exact,True,True,,
+term,P049,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,True,,
+term,P049,water bath,욕조,욕조,ok,정답(대표),exact,True,True,,
+term,P050,case-mix,질병구성,질병구성,ok,정답(대표),exact,True,True,,
+term,P050,clean bench,무균실험대,무균실험대,ok,정답(대표),exact,True,True,,
+term,P050,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토콕쿠스수막대뇌염,ok,정답(대표),exact,True,True,,
+term,P051,coalescent mastoiditis,융합꼭지돌기염,융합꼭지돌기염,ok,정답(대표),exact,True,True,,
+term,P051,glaucomatous cataract,녹내장성백내장,녹내장성백내장,ok,정답(대표),exact,True,True,,
+term,P051,onychocryptosis,감입발톱,감입발톱,ok,정답(대표),exact,True,True,,
+term,P052,gastroenteritis paratyphosa,파라티푸스위창자염,파라티푸스위창자염,ok,정답(대표),exact,True,True,,
+term,P052,school childhood,학령기,학령기,ok,정답(대표),exact,True,True,,
+term,P052,biopsy of adenoid,인두편도 생검,인두편도 생검,ok,정답(대표),exact,True,True,,
+term,P053,genuine diabetes,진성당뇨병,진성당뇨병,ok,정답(대표),exact,True,True,,
+term,P053,neuropsychiatry,신경정신과학,신경정신과학,ok,정답(대표),exact,True,True,,
+term,P053,mysophilia,불결기호증,불결기호증,ok,정답(대표),exact,True,True,,
+term,P054,laryngotracheal stenosis,후두기관협착(증),후두기관협착,ok,정답(대표),variant,True,True,,
+term,P054,plantar flexion,발바닥쪽 굽힘,발바닥쪽 굽힘,ok,정답(대표),exact,True,True,,
+term,P054,paraduodenal fold,샘창자옆주름,샘창자옆주름,ok,정답(대표),exact,True,True,,
+term,P055,superexcitation,과도흥분,과도흥분,ok,정답(대표),exact,True,True,,
+term,P055,derangement of patella,무릎뼈의 장애,무릎뼈의 장애,ok,정답(대표),exact,True,True,,
+term,P055,exteroceptive stimulus,외수용자극,외수용자극,ok,정답(대표),exact,True,True,,
+term,P056,endaural,귀속-,귀속,ok,정답(대표),variant,True,True,,
+term,P056,colpomyomectomy,질식근종절제(술),질식근종절제(술),ok,정답(대표),exact,True,True,,
+term,P057,agenesis of lung,폐의 무발생,폐의 무발생,ok,정답(대표),exact,True,True,,
+term,P057,epiplocele,대망탈장,대망탈장,ok,정답(대표),exact,True,True,,
+term,P057,supporting spiritual rituals,영적의식 지지하기,영적의식 지지하기,ok,정답(대표),exact,True,True,,
+term,P058,bidiscoidal placenta,두원반태반,두원반태반,ok,정답(대표),exact,True,True,,
+term,P058,normetanephrine,노르메타네프린,노르메타네프린,ok,정답(대표),exact,True,True,,
+term,P058,absence of muscle,근육의 결여,근육의 결여,ok,정답(대표),exact,True,True,,
+term,P059,rotalix tube,회전양극관,회전양극관,ok,정답(대표),exact,True,True,,
+term,P059,reciprocal shaker,왕복진탕기,왕복진탕기,ok,정답(대표),exact,True,True,,
+term,P059,negative pressure,음압,음압,ok,정답(대표),exact,True,True,,
+term,P060,urarthritis,통풍관절염,통풍관절염,ok,정답(대표),exact,True,True,,
+term,P060,bilateral palatine tonsils,양측 목구멍 편도,양측 목구멍 편도,ok,정답(대표),exact,True,True,,
+term,P060,epididymal duct,부고환관,부고환관,ok,정답(대표),exact,True,True,,
+term,P061,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,디스트로피성 수포성 표피박리증,ok,정답(대표),exact,True,True,,
+term,P061,third ventricle structure,제3뇌구조,제 3 뇌구조,ok_nospace,정답(대표),variant,True,True,,
+term,P061,cardioplegic,심장마비-,심장마비,ok,정답(대표),variant,True,False,,
+term,P062,hemodynamometry,혈압측정(법),혈압측정(법),ok,정답(대표),exact,True,True,,
+term,P062,sirenomelia syndrome,인어다리 증후군,인어다리 증후군,ok,정답(대표),exact,True,True,,
+term,P062,heredoinfection,유전감염,유전감염,ok,정답(대표),exact,True,True,,
+term,P063,papilloma of cerviv,자궁경부의 유두종,자궁경부의 유두종,ok,정답(대표),exact,True,True,,
+term,P063,diabetic coma,당뇨 혼수,당뇨 혼수 상태,ok,정답(대표),partial,True,True,,
+term,P063,glutitis,볼기염,볼기염,ok,정답(대표),exact,True,True,,
+term,P064,protein-losing enteropathy,단백질소실장병(증),단백질소실장병(증),ok,정답(대표),exact,True,True,,
+term,P064,proctoscope,직장경,직장경,ok,정답(대표),exact,True,True,,
+term,P064,involuntary,불수의-,불수의,ok,정답(대표),variant,True,False,,
+term,P065,upper extremity,위팔,위팔,ok,정답(대표),exact,True,True,,
+term,P065,altered uterine contractions,자궁수축 변화,자궁수축 변화,ok,정답(대표),exact,True,True,,
+term,P065,nodular prurigo,결절가려움발진,결절가려움발진,ok,정답(대표),exact,True,True,,
+term,P066,breast stereotactic biopsy,유방 입체정위 생검술,유방 입체정위 생검술,ok,정답(대표),exact,True,True,,
+term,P066,surgical staging,외과적시기결정,외과적시기결정,ok,정답(대표),exact,True,True,,
+term,P066,meningoencephalocele,수막뇌류,수막뇌류,ok,정답(대표),exact,True,True,,
+term,P067,blood donation,헌혈,헌혈,ok,정답(대표),exact,True,True,,
+term,P067,agenesis of lung,폐의 무발생,폐의 무발생,ok,정답(대표),exact,True,True,,
+term,P067,papilloma of cerviv,자궁경부의 유두종,자궁경부의 유두종,ok,정답(대표),exact,True,True,,
+term,P068,orofaciodigital syndrome,구안지 증후군,구안지 증후군,ok,정답(대표),exact,True,True,,
+term,P068,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,ok,정답(대표),exact,True,True,,
+term,P068,biopsy of adenoid,인두편도 생검,인두편도 생검,ok,정답(대표),exact,True,True,,
+term,P069,cervical vertigo,경추성 현기증,경추성 현기증,ok,정답(대표),exact,True,True,,
+term,P069,epididymal duct,부고환관,부고환관,ok,정답(대표),exact,True,True,,
+term,P069,derangement of patella,무릎뼈의 장애,무릎뼈의 장애,ok,정답(대표),exact,True,True,,
+term,P070,positioned flap,판막이동수술,판막이동수술,ok,정답(대표),exact,True,True,,
+term,P070,onychocryptosis,감입발톱,감입발톱,ok,정답(대표),exact,True,True,,
+term,P070,coalescent mastoiditis,융합꼭지돌기염,융합꼭지돌기염,ok,정답(대표),exact,True,True,,
+term,P071,nodular prurigo,결절가려움발진,결절가려움발진,ok,정답(대표),exact,True,True,,
+term,P071,naegleria fowleri,파울러자유아메바,파울러자유아메바,ok,정답(대표),exact,True,True,,
+term,P071,retaining harness,장치유지,장치유지,ok,정답(대표),exact,True,True,,
+term,P072,meckel's diverticulectomy,멕켈 게실절제술,멕켈 게실절제술,ok,정답(대표),exact,True,True,,
+term,P072,myotonic disorders,근긴장장애,근긴장장애,ok,정답(대표),exact,True,True,,
+term,P072,glutitis,볼기염,볼기염,ok,정답(대표),exact,True,True,,
+term,P073,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경 이용 눈물주머니코안 연결 교정,ok,정답(대표),exact,True,True,,
+term,P073,school childhood,학령기,학령기,ok,정답(대표),exact,True,True,,
+term,P073,mysophilia,불결기호증,불결기호증,ok,정답(대표),exact,True,True,,
+term,P074,absence of muscle,근육의 결여,근육의 결여,ok,정답(대표),exact,True,True,,
+term,P074,dry weight,투석목표체중,투석목표체중,ok,정답(대표),exact,True,True,,
+term,P074,bidiscoidal placenta,두원반태반,두원반태반,ok,정답(대표),exact,True,True,,
+term,P075,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토콕쿠스수막대뇌염,ok,정답(대표),exact,True,True,,
+term,P075,keratopathy,각막병(증),각막병,ok,정답(대표),variant,True,True,,
+term,P075,blood fluke,주혈흡충,주혈흡충,ok,정답(대표),exact,True,True,,
+term,P076,protein-losing enteropathy,단백질소실장병(증),단백질소실장병(증),ok,정답(대표),exact,True,True,,
+term,P076,paraduodenal fold,샘창자옆주름,샘창자옆주름,ok,정답(대표),exact,True,True,,
+term,P076,orthognathic surgery,악교정수술,악교정수술,ok,정답(대표),exact,True,True,,
+term,P077,hippocampal sclerosis,해마경화(증),해마경화(증),ok,정답(대표),exact,True,True,,
+term,P077,urarthritis,통풍관절염,통풍관절염,ok,정답(대표),exact,True,True,,
+term,P077,inertia,무기력,무기력,ok,정답(대표),exact,True,True,,
+term,P078,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,True,,
+term,P078,negative pressure,음압,음압,ok,정답(대표),exact,True,True,,
+term,P078,anisometropic amblyopia,굴절부등약시,굴절부등약시,ok,정답(대표),exact,True,True,,
+term,P079,genuine diabetes,진성당뇨병,진성당뇨병,ok,정답(대표),exact,True,True,,
+term,P079,epiplocele,대망탈장,대망탈장,ok,정답(대표),exact,True,True,,
+term,P079,multicystic renal dysplasia,다낭성 신장의 형성이상,다낭성 신장의 형성이상,ok,정답(대표),exact,True,True,,
+term,P080,neurocanal,신경관,신경관,ok,정답(대표),exact,True,True,,
+term,P080,superexcitation,과도흥분,과도흥분,ok,정답(대표),exact,True,True,,
+term,P080,exteroceptive stimulus,외수용자극,외수용자극,ok,정답(대표),exact,True,True,,
+term,P081,topalgia,국소통증,국소통증,ok,정답(대표),exact,True,True,,
+term,P081,transfusion tests,수혈혈액검사,수혈혈액검사,ok,정답(대표),exact,True,True,,
+term,P081,plantar flexion,발바닥쪽 굽힘,발바닥쪽 굽힘,ok,정답(대표),exact,True,True,,
+term,P082,rotalix tube,회전양극관,회전양귑관,ok,오답,-,False,False,,
+term,P082,reciprocal shaker,왕복진탕기,왕복진탕기,ok,정답(대표),exact,True,True,,
+term,P083,proctoscope,직장경,직장경,ok,정답(대표),exact,True,True,,
+term,P083,hammerhead ribozyme,망치머리형리보자임,망치머리형리보자임,ok,정답(대표),exact,True,True,,
+term,P083,hemodynamometry,혈압측정(법),혈압측정 (법),ok_nospace,정답(대표),variant,True,True,,
+term,P084,breast stereotactic biopsy,유방 입체정위 생검술,유방 입체정위 생검술,ok,정답(대표),exact,True,True,,
+term,P084,normetanephrine,노르메타네프린,노르메타네프린,ok,정답(대표),exact,True,True,,
+term,P085,oncotaxonomy,종양분류법,종양분류법,ok,정답(대표),exact,True,True,,
+term,P085,capillaria hepatica,간모세선충,간모세선충,ok,정답(대표),exact,True,True,,
+term,P085,colpomyomectomy,질식근종절제(술),질식근종절제 (술),ok_nospace,정답(대표),variant,True,True,,
+term,P086,dental granuloma,뿌리끝육아종,뿌리끝육아종,ok,정답(대표),exact,True,True,,
+term,P086,supporting spiritual rituals,영적의식 지지하기,영적의식 지지하기,ok,정답(대표),exact,True,True,,
+term,P086,high quality-hcv ab,정밀면역검사-C형간염항체,정밀면임검사-C 형간염항체,ok_nospace,오답,-,False,False,,
+term,P087,glaucomatous cataract,녹내장성백내장,녹내장성백내장,ok,정답(대표),exact,True,True,,
+term,P087,deshielded proton,미차폐양성자,미차폐양성자,ok,정답(대표),exact,True,True,,
+term,P087,cheilosis,구순증,구순증,ok,정답(대표),exact,True,True,,
+term,P088,bilateral palatine tonsils,양측 목구멍 편도,양측 목구멍 편도,ok,정답(대표),exact,True,True,,
+term,P088,clean bench,무균실험대,무균실험대,ok,정답(대표),exact,True,True,,
+term,P089,neuropsychiatry,신경정신과학,신경정신과학,ok,정답(대표),exact,True,True,,
+term,P089,water bath,욕조,따뜻한 욕조,ok,정답(대표),partial,True,True,,
+term,P089,sao paulo fever,상파울로열,상파울로열,ok,정답(대표),exact,True,True,,
+term,P090,involuntary,불수의-,불수의,ok,정답(대표),variant,True,False,,
+term,P090,insular sclerosis,섬경화증,섬경화증,ok,정답(대표),exact,True,True,,
+term,P090,allergenic serum,알레르기혈청,알레르기혈청,ok,정답(대표),exact,True,True,,
+term,P091,basal seat,의치지지조직,의치지지조직,ok,정답(대표),exact,True,True,,
+term,P091,case-mix,질병구성,질병구성,ok,정답(대표),exact,True,True,,
+term,P091,third ventricle structure,제3뇌구조,제 3 뇌구조,ok_nospace,정답(대표),variant,True,True,,
+term,P092,gastroenteritis paratyphosa,파라티푸스위창자염,파라티푸스위창자염,ok,정답(대표),exact,True,True,,
+term,P092,auriculotemporal nerve,귓바퀴관자신경,귓바퀴관자신경,ok,정답(대표),exact,True,True,,
+term,P092,bacteriostasis,정균작용,정균작용,ok,정답(대표),exact,True,True,,
+term,P093,altered uterine contractions,자궁수축 변화,자궁수축 변화,ok,정답(대표),exact,True,True,,
+term,P093,surgical staging,외과적시기결정,외과적시기결정,ok,정답(대표),exact,True,True,,
+term,P093,upper extremity,위팔,위팔,ok,정답(대표),exact,True,True,,
+term,P094,diabetic coma,당뇨 혼수,당뇨 혼수,ok,정답(대표),exact,True,True,,
+term,P094,suprameatal foveola,바깥귀길위오목,바깥귀길위오목,ok,정답(대표),exact,True,True,,
+term,P094,laryngotracheal stenosis,후두기관협착(증),후두기관협착증,ok,정답(대표),partial,True,False,,
+term,P095,psgn,연쇄구균감염후 사구체신염,psgn,ok,오답,-,False,True,,
+term,P095,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향","콩팥요관방광촬영, 왼쪽측방향",ok,정답(대표),exact,True,True,,
+term,P095,interferential action,간섭작용,간섭작용,ok,정답(대표),exact,True,True,,
+term,P096,entire trapezius muscle,온등세모근,온등세모근 전체,ok,정답(대표),partial,True,True,,
+term,P096,implosion,홍수(노출)요법,붕괴,ok,오답,-,False,True,,
+term,P096,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,디스트로피성 수포성 표피박리증,ok,정답(대표),exact,True,True,,
+term,P097,cardioplegic,심장마비-,심장마비,ok,정답(대표),variant,True,True,,
+term,P097,rash purpuric,자색반 발진,자색반 발진,ok,정답(대표),exact,True,True,,
+term,P097,sideroblastic anaemia,철적혈모구빈혈,철적혈모구빈혈,ok,정답(대표),exact,True,True,,
+term,P098,heredoinfection,유전감염,유전감염,ok,정답(대표),exact,True,True,,
+term,P098,airborne infection,공기매개감염,공기매개감염,ok,정답(대표),exact,True,True,,
+term,P099,hyeopbaek,협백(俠白),협백,ok,정답(대표),variant,True,True,,
+term,P099,endocrinologist,내분비전문의,내분비전문의,ok,정답(대표),exact,True,True,,
+term,P099,sirenomelia syndrome,인어다리 증후군,인어다리 증후군,ok,정답(대표),exact,True,True,,
+random,P001,hammerhead ribozyme,망치머리형리보자임,,none,미검출,-,False,False,알레르기혈청,True
+random,P001,case-mix,질병구성,,none,미검출,-,False,True,인두편도 생검,True
+random,P001,psgn,연쇄구균감염후 사구체신염,,none,미검출,-,False,False,유전감염,True
+random,P002,cheilosis,구순증,,none,미검출,-,False,False,후두기관협착(증),True
+random,P002,hippocampal sclerosis,해마경화(증),,none,미검출,-,False,False,위팔,True
+random,P002,surgical staging,외과적시기결정,대망탈장,ok,오답,-,False,False,대망탈장,True
+random,P003,bidiscoidal placenta,두원반태반,,none,미검출,-,False,False,수혈혈액검사,True
+random,P003,reciprocal shaker,왕복진탕기,왕복진탕기,ok,정답(대표),exact,True,True,협백(俠白),False
+random,P003,high quality-hcv ab,정밀면역검사-C형간염항체,,none,미검출,-,False,False,내시경 이용 눈물주머니코안 연결 교정,False
+random,P004,orthognathic surgery,악교정수술,,none,미검출,-,False,False,볼기염,True
+random,P004,meckel's diverticulectomy,멕켈 게실절제술,감입발톱,ok,오답,-,False,False,감입발톱,True
+random,P004,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",구순증 측면,ok,오답,-,False,False,구순증,True
+random,P005,bacteriostasis,정균작용,,none,미검출,-,False,False,폐의 무발생,True
+random,P005,gastroenteritis paratyphosa,파라티푸스위창자염,,none,미검출,-,False,False,자궁수축 변화,True
+random,P005,clean bench,무균실험대,자궁수축 변화,ok,오답,-,False,False,자궁수축 변화,True
+random,P006,mysophilia,불결기호증,,none,미검출,-,False,False,미차폐양성자,True
+random,P006,bilateral palatine tonsils,양측 목구멍 편도,주혈흡충,ok,오답,-,False,False,주혈흡충,True
+random,P006,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,,none,미검출,-,False,True,뿌리끝육아종,True
+random,P007,sao paulo fever,상파울로열,,none,미검출,-,False,False,의치지지조직,True
+random,P007,meningoencephalocele,수막뇌류,,none,미검출,-,False,False,다낭성 신장의 형성이상,True
+random,P007,involuntary,불수의-,불수의-,ok,정답(대표),exact,True,True,무균실험대,True
+random,P008,third ventricle structure,제3뇌구조,,none,미검출,-,False,False,융합꼭지돌기염,True
+random,P008,suprameatal foveola,바깥귀길위오목,,none,미검출,-,False,False,무균실험대,True
+random,P008,auriculotemporal nerve,귓바퀴관자신경,,none,미검출,-,False,False,각막병(증),True
+random,P009,colpomyomectomy,질식근종절제(술),,none,미검출,-,False,False,회전양극관,True
+random,P009,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,True,근육의 결여,True
+random,P009,altered uterine contractions,자궁수축 변화,,none,미검출,-,False,False,당뇨 혼수,True
+random,P010,sirenomelia syndrome,인어다리 증후군,,none,미검출,-,False,False,심장마비-,True
+random,P010,upper extremity,위팔,위팔,ok,정답(대표),exact,True,True,직장경,True
+random,P010,proctoscope,직장경,직장경,ok,정답(대표),exact,True,True,융합꼭지돌기염,True
+random,P011,heredoinfection,유전감염,,none,미검출,-,False,True,온등세모근,True
+random,P011,sideroblastic anaemia,철적혈모구빈혈,,none,미검출,-,False,False,공기매개감염,True
+random,P011,rash purpuric,자색반 발진,자색반 발진,ok,정답(대표),exact,True,True,수막뇌류,True
+random,P012,airborne infection,공기매개감염,,none,미검출,-,False,False,제3뇌구조,True
+random,P012,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,,none,미검출,-,False,False,바깥귀길위오목,True
+random,P012,glutitis,볼기염,볼기염,ok,정답(대표),exact,True,True,노르메타네프린,True
+random,P013,agenesis of lung,폐의 무발생,,none,미검출,-,False,False,합곡(合谷),True
+random,P013,blood donation,헌혈,중간형 지중해빈혈,ok,오답,-,False,False,중간형 지중해빈혈,True
+random,P013,implosion,홍수(노출)요법,,none,미검출,-,False,False,질병구성,True
+random,P014,oncotaxonomy,종양분류법,인두편도 생검,ok,오답,-,False,False,인두편도 생검,True
+random,P014,topalgia,국소통증,,none,미검출,-,False,False,신경관,True
+random,P014,negative pressure,음압,음압,ok,정답(대표),exact,True,True,제3뇌구조,True
+random,P015,onychocryptosis,감입발톱,,none,미검출,-,False,True,외과적시기결정,True
+random,P015,foraminal,그물막구멍,,none,미검출,-,False,False,대망탈장,True
+random,P015,rotalix tube,회전양극관,,none,미검출,-,False,True,공막 괴사/ 융해,True
+random,P016,superexcitation,과도흥분,,none,미검출,-,False,False,섬경화증,True
+random,P016,intermedia thalassaemia,중간형 지중해빈혈,,none,미검출,-,False,False,노르메타네프린,True
+random,P016,endaural,귀속-,,none,미검출,-,False,True,정밀면역검사-C형간염항체,True
+random,P017,multicystic renal dysplasia,다낭성 신장의 형성이상,,none,미검출,-,False,False,욕조,True
+random,P017,cardioplegic,심장마비-,근육의 결여,ok,오답,-,False,False,근육의 결여,True
+random,P017,neurocanal,신경관,,none,미검출,-,False,False,회전양극관,True
+random,P018,epiplocele,대망탈장,,none,미검출,-,False,False,무균실험대,True
+random,P018,naegleria fowleri,파울러자유아메바,,none,미검출,-,False,False,혈압측정(법),True
+random,P018,diabetic coma,당뇨 혼수,,none,미검출,-,False,False,온등세모근,True
+random,P019,retaining harness,장치유지,직장경,ok,오답,-,False,False,직장경,True
+random,P019,hemodynamometry,혈압측정(법),혈압측정 (법),ok_nospace,정답(대표),variant,True,True,감입발톱,True
+random,P019,insular sclerosis,섬경화증,의치지지조직,ok,오답,-,False,False,바깥귀길위오목,True
+random,P020,dental granuloma,뿌리끝육아종,,none,미검출,-,False,False,귓바퀴관자신경,True
+random,P020,exteroceptive stimulus,외수용자극,,none,미검출,-,False,True,노르메타네프린,True
+random,P020,deshielded proton,미차폐양성자,,none,미검출,-,False,False,중간수근골(관절)의 탈구,True
+random,P021,school childhood,학령기,,none,미검출,-,False,False,섬경화증,True
+random,P021,dry weight,투석목표체중,,none,미검출,-,False,False,신경정신과학,True
+random,P021,myotonic disorders,근긴장장애,,none,미검출,-,False,False,감입발톱,True
+random,P022,plantar flexion,발바닥쪽 굽힘,,none,미검출,-,False,False,홍수(노출)요법,True
+random,P022,absence of muscle,근육의 결여,근육의 결핵,ok,오답,-,False,True,"콩팥요관방광촬영, 왼쪽측방향",False
+random,P022,entire trapezius muscle,온등세모근,경추성 현기증 전체,ok,오답,-,False,False,경추성 현기증,True
+random,P023,urarthritis,통풍관절염,,none,미검출,-,False,True,미차폐양성자,True
+random,P023,basal seat,의치지지조직,,none,미검출,-,False,False,뿌리끝육아종,True
+random,P023,orofaciodigital syndrome,구안지 증후군,,none,미검출,-,False,False,중간수근골(관절)의 탈구,True
+random,P024,endocrinologist,내분비전문의,내분비전문의,ok,정답(대표),exact,True,True,귀속-,True
+random,P024,anisometropic amblyopia,굴절부등약시,굴절부등약시,ok,정답(대표),exact,True,True,철적혈모구빈혈,True
+random,P025,paraduodenal fold,샘창자옆주름,,none,미검출,-,False,False,무균실험대,True
+random,P025,laryngotracheal stenosis,후두기관협착(증),,none,미검출,-,False,True,크립토콕쿠스수막대뇌염,True
+random,P025,neuropsychiatry,신경정신과학,,none,미검출,-,False,False,파울러자유아메바,True
+random,P026,normetanephrine,노르메타네프린,노르메타네프린,ok,정답(대표),exact,True,True,헌혈,False
+random,P026,nodular prurigo,결절가려움발진,,none,미검출,-,False,False,망치머리형리보자임,True
+random,P027,inertia,무기력,,none,미검출,-,False,False,유방 입체정위 생검술,True
+random,P027,epididymal duct,부고환관,,none,미검출,-,False,False,외수용자극,True
+random,P028,glaucomatous cataract,녹내장성백내장,녹내장성백내장,ok,정답(대표),exact,True,True,간섭작용,False
+random,P028,positioned flap,판막이동수술,,none,미검출,-,False,False,당뇨 혼수,True
+random,P028,transfusion tests,수혈혈액검사,헌혈,ok,오답,-,False,False,헌혈,True
+random,P029,blood fluke,주혈흡충,무기력,ok,오답,-,False,False,무기력,True
+random,P029,breast stereotactic biopsy,유방 입체정위 생검술,,none,미검출,-,False,False,당뇨 혼수,True
+random,P029,hyeopbaek,협백(俠白),협백,ok,정답(대표),variant,True,True,불수의-,True
+random,P030,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,내시경 이용 눈물주머니코안 연결 교정,ok,정답(대표),exact,True,True,근긴장장애,True
+random,P030,capillaria hepatica,간모세선충,간모세선충,ok,정답(대표),exact,True,True,왕복진탕기,True
+random,P030,allergenic serum,알레르기혈청,,none,미검출,-,False,False,욕조,True
+random,P031,papilloma of cerviv,자궁경부의 유두종,,none,미검출,-,False,False,제3뇌구조,True
+random,P031,water bath,욕조,,none,미검출,-,False,False,폐의 무발생,True
+random,P031,supporting spiritual rituals,영적의식 지지하기,,none,미검출,-,False,False,악교정수술,True
+random,P032,biopsy of adenoid,인두편도 생검,,none,미검출,-,False,False,온등세모근,True
+random,P032,protein-losing enteropathy,단백질소실장병(증),,none,미검출,-,False,False,공기매개감염,True
+random,P032,coalescent mastoiditis,융합꼭지돌기염,,none,미검출,-,False,True,외과적시기결정,True
+random,P033,interferential action,간섭작용,후두기관협착 (증),ok_nospace,오답,-,False,False,후두기관협착(증),True
+random,P033,sao paulo fever,상파울로열,,none,미검출,-,False,False,의치지지조직,True
+random,P033,meningoencephalocele,수막뇌류,,none,미검출,-,False,False,다낭성 신장의 형성이상,True
+random,P034,multicystic renal dysplasia,다낭성 신장의 형성이상,,none,미검출,-,False,False,욕조,True
+random,P034,neurocanal,신경관,,none,미검출,-,False,False,회전양극관,True
+random,P034,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,근긴장장애 내시경 교정 누낭비강문합술,ok,오답,-,False,False,근긴장장애,True
+random,P035,transfusion tests,수혈혈액검사,수혈혈액검사,ok,정답(대표),exact,True,True,헌혈,True
+random,P035,high quality-hcv ab,정밀면역검사-C형간염항체,,none,미검출,-,False,False,내시경 이용 눈물주머니코안 연결 교정,False
+random,P035,intermedia thalassaemia,중간형 지중해빈혈,중간형 지중해빈혈,ok,정답(대표),exact,True,True,노르메타네프린,False
+random,P036,dental granuloma,뿌리끝육아종,,none,미검출,-,False,False,귓바퀴관자신경,True
+random,P036,capillaria hepatica,간모세선충,,none,미검출,-,False,False,왕복진탕기,True
+random,P036,positioned flap,판막이동수술,위치된 판,ok,오답,-,False,False,당뇨 혼수,False
+random,P037,bacteriostasis,정균작용,,none,미검출,-,False,False,폐의 무발생,True
+random,P037,myotonic disorders,근긴장장애,,none,미검출,-,False,False,감입발톱,True
+random,P037,hyeopbaek,협백(俠白),,none,미검출,-,False,False,불수의-,True
+random,P038,orofaciodigital syndrome,구안지 증후군,,none,미검출,-,False,True,중간수근골(관절)의 탈구,True
+random,P038,rash purpuric,자색반 발진,,none,미검출,-,False,False,수막뇌류,True
+random,P038,interferential action,간섭작용,,none,미검출,-,False,False,후두기관협착(증),True
+random,P039,hippocampal sclerosis,해마경화(증),,none,미검출,-,False,True,위팔,True
+random,P039,blood fluke,주혈흡충,주혈흡충,ok,정답(대표),exact,True,True,무기력,True
+random,P040,cervical vertigo,경추성 현기증,,none,미검출,-,False,False,녹내장성백내장,True
+random,P040,allergenic serum,알레르기혈청,알레르기혈청,ok,정답(대표),exact,True,True,욕조,False
+random,P041,inertia,무기력,,none,미검출,-,False,False,유방 입체정위 생검술,True
+random,P041,orthognathic surgery,악교정수술,볼기염,ok,오답,-,False,False,볼기염,True
+random,P041,basal seat,의치지지조직,,none,미검출,-,False,False,뿌리끝육아종,True
+random,P042,psgn,연쇄구균감염후 사구체신염,,none,미검출,-,False,False,유전감염,True
+random,P042,keratopathy,각막병(증),,none,미검출,-,False,False,섬경화증,True
+random,P042,sideroblastic anaemia,철적혈모구빈혈,,none,미검출,-,False,False,공기매개감염,True
+random,P043,cheilosis,구순증,,none,미검출,-,False,False,후두기관협착(증),True
+random,P043,dry weight,투석목표체중,,none,미검출,-,False,True,신경정신과학,True
+random,P043,oncotaxonomy,종양분류법,종양분류법,ok,정답(대표),exact,True,True,인두편도 생검,True
+random,P044,hammerhead ribozyme,망치머리형리보자임,망치머리형리보자임,ok,정답(대표),exact,True,True,알레르기혈청,True
+random,P044,suprameatal foveola,바깥귀길위오목,무균실험대,ok,오답,-,False,False,무균실험대,True
+random,P044,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향",,none,미검출,-,False,False,구순증,True
+random,P045,entire trapezius muscle,온등세모근,,none,미검출,-,False,False,경추성 현기증,True
+random,P045,topalgia,국소통증,,none,미검출,-,False,False,신경관,True
+random,P045,naegleria fowleri,파울러자유아메바,,none,미검출,-,False,False,혈압측정(법),True
+random,P046,auriculotemporal nerve,귓바퀴관자신경,,none,미검출,-,False,False,각막병(증),True
+random,P046,implosion,홍수(노출)요법,,none,미검출,-,False,True,질병구성,True
+random,P046,airborne infection,공기매개감염,공기매개감염,ok,정답(대표),exact,True,True,제3뇌구조,False
+random,P047,retaining harness,장치유지,,none,미검출,-,False,False,직장경,True
+random,P047,blood donation,헌혈,,none,미검출,-,False,True,중간형 지중해빈혈,True
+random,P047,meckel's diverticulectomy,멕켈 게실절제술,감입발톱,ok,오답,-,False,False,감입발톱,True
+random,P048,deshielded proton,미차폐양성자,미차폐양성자,ok,정답(대표),exact,True,True,중간수근골(관절)의 탈구,False
+random,P048,insular sclerosis,섬경화증,,none,미검출,-,False,False,바깥귀길위오목,True
+random,P048,anisometropic amblyopia,굴절부등약시,,none,미검출,-,False,False,철적혈모구빈혈,True
+random,P049,endocrinologist,내분비전문의,,none,미검출,-,False,True,귀속-,True
+random,P049,hapgok,합곡(合谷),,none,미검출,-,False,False,근육의 결여,True
+random,P049,water bath,욕조,,none,미검출,-,False,True,폐의 무발생,True
+random,P050,case-mix,질병구성,,none,미검출,-,False,False,인두편도 생검,True
+random,P050,clean bench,무균실험대,무균실험대,ok,정답(대표),exact,True,True,자궁수축 변화,True
+random,P050,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,뿌리끝육아종,ok,오답,-,False,False,뿌리끝육아종,True
+random,P051,coalescent mastoiditis,융합꼭지돌기염,,none,미검출,-,False,False,외과적시기결정,True
+random,P051,glaucomatous cataract,녹내장성백내장,,none,미검출,-,False,False,간섭작용,True
+random,P051,onychocryptosis,감입발톱,,none,미검출,-,False,False,외과적시기결정,True
+random,P052,gastroenteritis paratyphosa,파라티푸스위창자염,,none,미검출,-,False,False,자궁수축 변화,True
+random,P052,school childhood,학령기,,none,미검출,-,False,False,섬경화증,True
+random,P052,biopsy of adenoid,인두편도 생검,인두편도 생검,ok,정답(대표),exact,True,True,온등세모근,True
+random,P053,genuine diabetes,진성당뇨병,진성당뇨병,ok,정답(대표),exact,True,True,불수의-,True
+random,P053,neuropsychiatry,신경정신과학,,none,미검출,-,False,False,파울러자유아메바,True
+random,P053,mysophilia,불결기호증,미차폐양성자,ok,오답,-,False,True,미차폐양성자,True
+random,P054,laryngotracheal stenosis,후두기관협착(증),,none,미검출,-,False,False,크립토콕쿠스수막대뇌염,True
+random,P054,plantar flexion,발바닥쪽 굽힘,,none,미검출,-,False,False,홍수(노출)요법,True
+random,P054,paraduodenal fold,샘창자옆주름,무균실험대,ok,오답,-,False,False,무균실험대,True
+random,P055,superexcitation,과도흥분,,none,미검출,-,False,False,섬경화증,True
+random,P055,derangement of patella,무릎뼈의 장애,,none,미검출,-,False,False,폐의 무발생,True
+random,P055,exteroceptive stimulus,외수용자극,노르메타네프린,ok,오답,-,False,False,노르메타네프린,True
+random,P056,endaural,귀속-,,none,미검출,-,False,True,정밀면역검사-C형간염항체,True
+random,P056,colpomyomectomy,질식근종절제(술),,none,미검출,-,False,False,회전양극관,True
+random,P057,agenesis of lung,폐의 무발생,,none,미검출,-,False,False,합곡(合谷),True
+random,P057,epiplocele,대망탈장,대망탈장,ok,정답(대표),exact,True,True,무균실험대,True
+random,P057,supporting spiritual rituals,영적의식 지지하기,악교정수술을 지원,ok,오답,-,False,False,악교정수술,True
+random,P058,bidiscoidal placenta,두원반태반,,none,미검출,-,False,False,수혈혈액검사,True
+random,P058,normetanephrine,노르메타네프린,,none,미검출,-,False,True,헌혈,True
+random,P058,absence of muscle,근육의 결여,,none,미검출,-,False,False,"콩팥요관방광촬영, 왼쪽측방향",True
+random,P059,rotalix tube,회전양극관,공막 괴사/ 융해,ok,오답,-,False,False,공막 괴사/ 융해,True
+random,P059,reciprocal shaker,왕복진탕기,협백 (俠白),ok_nospace,오답,-,False,True,협백(俠白),True
+random,P059,negative pressure,음압,,none,미검출,-,False,False,제3뇌구조,True
+random,P060,urarthritis,통풍관절염,,none,미검출,-,False,True,미차폐양성자,True
+random,P060,bilateral palatine tonsils,양측 목구멍 편도,인두편도,ok,오답,-,False,False,주혈흡충,True
+random,P060,epididymal duct,부고환관,외수용자극,ok,오답,-,False,False,외수용자극,True
+random,P061,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,디스트로피성 수포성 표피박리증,ok,정답(대표),exact,True,True,바깥귀길위오목,False
+random,P061,third ventricle structure,제3뇌구조,,none,미검출,-,False,False,융합꼭지돌기염,True
+random,P061,cardioplegic,심장마비-,,none,미검출,-,False,True,근육의 결여,True
+random,P062,hemodynamometry,혈압측정(법),,none,미검출,-,False,True,감입발톱,True
+random,P062,sirenomelia syndrome,인어다리 증후군,심장마비-,ok,오답,-,False,False,심장마비-,True
+random,P062,heredoinfection,유전감염,온등세모근,ok,오답,-,False,True,온등세모근,True
+random,P063,papilloma of cerviv,자궁경부의 유두종,,none,미검출,-,False,False,제3뇌구조,True
+random,P063,diabetic coma,당뇨 혼수,,none,미검출,-,False,False,온등세모근,True
+random,P063,glutitis,볼기염,,none,미검출,-,False,False,노르메타네프린,True
+random,P064,protein-losing enteropathy,단백질소실장병(증),,none,미검출,-,False,False,공기매개감염,True
+random,P064,proctoscope,직장경,,none,미검출,-,False,False,융합꼭지돌기염,True
+random,P064,involuntary,불수의-,불수의,ok,정답(대표),variant,True,True,무균실험대,True
+random,P065,upper extremity,위팔,,none,미검출,-,False,False,직장경,True
+random,P065,altered uterine contractions,자궁수축 변화,,none,미검출,-,False,False,당뇨 혼수,True
+random,P065,nodular prurigo,결절가려움발진,,none,미검출,-,False,False,망치머리형리보자임,True
+random,P066,breast stereotactic biopsy,유방 입체정위 생검술,,none,미검출,-,False,False,당뇨 혼수,True
+random,P066,surgical staging,외과적시기결정,대망탈장 장치유지,ok,오답,-,False,False,대망탈장,True
+random,P066,meningoencephalocele,수막뇌류,,none,미검출,-,False,False,다낭성 신장의 형성이상,True
+random,P067,blood donation,헌혈,,none,미검출,-,False,False,중간형 지중해빈혈,True
+random,P067,agenesis of lung,폐의 무발생,,none,미검출,-,False,True,합곡(合谷),True
+random,P067,papilloma of cerviv,자궁경부의 유두종,,none,미검출,-,False,False,제3뇌구조,True
+random,P068,orofaciodigital syndrome,구안지 증후군,,none,미검출,-,False,False,중간수근골(관절)의 탈구,True
+random,P068,intermedia thalassaemia,중간형 지중해빈혈,,none,미검출,-,False,False,노르메타네프린,True
+random,P068,biopsy of adenoid,인두편도 생검,,none,미검출,-,False,False,온등세모근,True
+random,P069,cervical vertigo,경추성 현기증,,none,미검출,-,False,True,녹내장성백내장,True
+random,P069,epididymal duct,부고환관,,none,미검출,-,False,False,외수용자극,True
+random,P069,derangement of patella,무릎뼈의 장애,,none,미검출,-,False,False,폐의 무발생,True
+random,P070,positioned flap,판막이동수술,,none,미검출,-,False,False,당뇨 혼수,False
+random,P070,onychocryptosis,감입발톱,,none,미검출,-,False,True,외과적시기결정,True
+random,P070,coalescent mastoiditis,융합꼭지돌기염,융합꼭지돌기염,ok,정답(대표),exact,True,True,외과적시기결정,True
+random,P071,nodular prurigo,결절가려움발진,,none,미검출,-,False,False,망치머리형리보자임,True
+random,P071,naegleria fowleri,파울러자유아메바,,none,미검출,-,False,False,혈압측정(법),True
+random,P071,retaining harness,장치유지,직장경,ok,오답,-,False,False,직장경,True
+random,P072,meckel's diverticulectomy,멕켈 게실절제술,,none,미검출,-,False,False,감입발톱,True
+random,P072,myotonic disorders,근긴장장애,감입발톱,ok,오답,-,False,False,감입발톱,True
+random,P072,glutitis,볼기염,,none,미검출,-,False,False,노르메타네프린,True
+random,P073,endoscopic revision dacryocystorhinostomy,내시경 이용 눈물주머니코안 연결 교정,,none,미검출,-,False,False,근긴장장애,True
+random,P073,school childhood,학령기,,none,미검출,-,False,False,섬경화증,True
+random,P073,mysophilia,불결기호증,,none,미검출,-,False,False,미차폐양성자,True
+random,P074,absence of muscle,근육의 결여,근육 조직의 완전한 결여,ok,오답,-,False,True,"콩팥요관방광촬영, 왼쪽측방향",True
+random,P074,dry weight,투석목표체중,,none,미검출,-,False,True,신경정신과학,True
+random,P074,bidiscoidal placenta,두원반태반,,none,미검출,-,False,False,수혈혈액검사,True
+random,P075,cryptococcal meningocerebritis,크립토콕쿠스수막대뇌염,크립토콕쿠스수막대뇌염,ok,정답(대표),exact,True,True,뿌리끝육아종,False
+random,P075,keratopathy,각막병(증),,none,미검출,-,False,False,섬경화증,True
+random,P075,blood fluke,주혈흡충,주혈흡충,ok,정답(대표),exact,True,True,무기력,True
+random,P076,protein-losing enteropathy,단백질소실장병(증),,none,미검출,-,False,False,공기매개감염,True
+random,P076,paraduodenal fold,샘창자옆주름,무균실험대,ok,오답,-,False,False,무균실험대,True
+random,P076,orthognathic surgery,악교정수술,,none,미검출,-,False,False,볼기염,True
+random,P077,hippocampal sclerosis,해마경화(증),,none,미검출,-,False,False,위팔,True
+random,P077,urarthritis,통풍관절염,,none,미검출,-,False,True,미차폐양성자,True
+random,P077,inertia,무기력,,none,미검출,-,False,False,유방 입체정위 생검술,True
+random,P078,hapgok,합곡(合谷),합곡,ok,정답(대표),variant,True,True,근육의 결여,True
+random,P078,negative pressure,음압,,none,미검출,-,False,True,제3뇌구조,True
+random,P078,anisometropic amblyopia,굴절부등약시,,none,미검출,-,False,False,철적혈모구빈혈,True
+random,P079,genuine diabetes,진성당뇨병,진성당뇨병,ok,정답(대표),exact,True,True,불수의-,False
+random,P079,epiplocele,대망탈장,대망탈장,ok,정답(대표),exact,True,True,무균실험대,True
+random,P079,multicystic renal dysplasia,다낭성 신장의 형성이상,,none,미검출,-,False,False,욕조,True
+random,P080,neurocanal,신경관,,none,미검출,-,False,True,회전양극관,True
+random,P080,superexcitation,과도흥분,과도흥분,ok,정답(대표),exact,True,True,섬경화증,True
+random,P080,exteroceptive stimulus,외수용자극,,none,미검출,-,False,False,노르메타네프린,True
+random,P081,topalgia,국소통증,,none,미검출,-,False,False,신경관,True
+random,P081,transfusion tests,수혈혈액검사,수혈혈액검사,ok,정답(대표),exact,True,True,헌혈,True
+random,P081,plantar flexion,발바닥쪽 굽힘,홍수 (노출) 요법,ok_nospace,오답,-,False,False,홍수(노출)요법,True
+random,P082,rotalix tube,회전양극관,,none,미검출,-,False,False,공막 괴사/ 융해,True
+random,P082,reciprocal shaker,왕복진탕기,,none,미검출,-,False,False,협백(俠白),True
+random,P083,proctoscope,직장경,,none,미검출,-,False,False,융합꼭지돌기염,True
+random,P083,hammerhead ribozyme,망치머리형리보자임,,none,미검출,-,False,False,알레르기혈청,True
+random,P083,hemodynamometry,혈압측정(법),감입발톱,ok,오답,-,False,False,감입발톱,True
+random,P084,breast stereotactic biopsy,유방 입체정위 생검술,,none,미검출,-,False,False,당뇨 혼수,True
+random,P084,normetanephrine,노르메타네프린,,none,미검출,-,False,False,헌혈,True
+random,P085,oncotaxonomy,종양분류법,,none,미검출,-,False,False,인두편도 생검,True
+random,P085,capillaria hepatica,간모세선충,,none,미검출,-,False,False,왕복진탕기,True
+random,P085,colpomyomectomy,질식근종절제(술),,none,미검출,-,False,False,회전양극관,True
+random,P086,dental granuloma,뿌리끝육아종,,none,미검출,-,False,False,귓바퀴관자신경,True
+random,P086,supporting spiritual rituals,영적의식 지지하기,,none,미검출,-,False,False,악교정수술,True
+random,P086,high quality-hcv ab,정밀면역검사-C형간염항체,,none,미검출,-,False,True,내시경 이용 눈물주머니코안 연결 교정,True
+random,P087,glaucomatous cataract,녹내장성백내장,,none,미검출,-,False,False,간섭작용,True
+random,P087,deshielded proton,미차폐양성자,,none,미검출,-,False,False,중간수근골(관절)의 탈구,True
+random,P087,cheilosis,구순증,구순증,ok,정답(대표),exact,True,True,후두기관협착(증),True
+random,P088,bilateral palatine tonsils,양측 목구멍 편도,,none,미검출,-,False,False,주혈흡충,True
+random,P088,clean bench,무균실험대,,none,미검출,-,False,False,자궁수축 변화,True
+random,P089,neuropsychiatry,신경정신과학,,none,미검출,-,False,False,파울러자유아메바,True
+random,P089,water bath,욕조,,none,미검출,-,False,True,폐의 무발생,True
+random,P089,sao paulo fever,상파울로열,,none,미검출,-,False,False,의치지지조직,True
+random,P090,involuntary,불수의-,불수의,ok,정답(대표),variant,True,True,무균실험대,True
+random,P090,insular sclerosis,섬경화증,,none,미검출,-,False,False,바깥귀길위오목,True
+random,P090,allergenic serum,알레르기혈청,알레르기혈청,ok,정답(대표),exact,True,True,욕조,True
+random,P091,basal seat,의치지지조직,뿌리끝육아종,ok,오답,-,False,False,뿌리끝육아종,True
+random,P091,case-mix,질병구성,인두편도 생검,ok,오답,-,False,True,인두편도 생검,True
+random,P091,third ventricle structure,제3뇌구조,,none,미검출,-,False,False,융합꼭지돌기염,True
+random,P092,gastroenteritis paratyphosa,파라티푸스위창자염,,none,미검출,-,False,False,자궁수축 변화,True
+random,P092,auriculotemporal nerve,귓바퀴관자신경,,none,미검출,-,False,False,각막병(증),True
+random,P092,bacteriostasis,정균작용,장치유지,ok,오답,-,False,False,폐의 무발생,True
+random,P093,altered uterine contractions,자궁수축 변화,,none,미검출,-,False,False,당뇨 혼수,True
+random,P093,surgical staging,외과적시기결정,대망탈장,ok,오답,-,False,False,대망탈장,True
+random,P093,upper extremity,위팔,왼쪽 직장경,ok,오답,-,False,False,직장경,True
+random,P094,diabetic coma,당뇨 혼수,,none,미검출,-,False,False,온등세모근,True
+random,P094,suprameatal foveola,바깥귀길위오목,,none,미검출,-,False,False,무균실험대,True
+random,P094,laryngotracheal stenosis,후두기관협착(증),후두기관협착 (증),ok_nospace,정답(대표),variant,True,True,크립토콕쿠스수막대뇌염,True
+random,P095,psgn,연쇄구균감염후 사구체신염,,none,미검출,-,False,False,유전감염,True
+random,P095,kub left lateral,"콩팥요관방광촬영, 왼쪽측방향","콩팥요관방광촬영, 왼쪽측방향",ok,정답(대표),exact,True,True,구순증,False
+random,P095,interferential action,간섭작용,간섭작용,ok,정답(대표),exact,True,True,후두기관협착(증),False
+random,P096,entire trapezius muscle,온등세모근,경추성 현기증 전체,ok,오답,-,False,False,경추성 현기증,True
+random,P096,implosion,홍수(노출)요법,,none,미검출,-,False,False,질병구성,True
+random,P096,epidermolysis bullosa dystrophica,디스트로피성 수포성 표피박리증,디스트로피성 수포성 표피박리증,ok,정답(대표),exact,True,True,바깥귀길위오목,False
+random,P097,cardioplegic,심장마비-,,none,미검출,-,False,True,근육의 결여,True
+random,P097,rash purpuric,자색반 발진,수막뇌류,ok,오답,-,False,False,수막뇌류,True
+random,P097,sideroblastic anaemia,철적혈모구빈혈,,none,미검출,-,False,False,공기매개감염,True
+random,P098,heredoinfection,유전감염,,none,미검출,-,False,True,온등세모근,True
+random,P098,airborne infection,공기매개감염,망치머리형리보자임,ok,오답,-,False,False,제3뇌구조,True
+random,P099,hyeopbaek,협백(俠白),불수의-,ok,오답,-,False,False,불수의-,True
+random,P099,endocrinologist,내분비전문의,,none,미검출,-,False,False,귀속-,True
+random,P099,sirenomelia syndrome,인어다리 증후군,,none,미검출,-,False,False,심장마비-,True
