@@ -24,14 +24,16 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE, "..", "01_claim_entry",
-                        "보건의료용어표준_V7.0_행단위_파생피처.csv")
+# 사전은 상위의 data/ 에서 읽는다 (README 의 '사전 파일' 참고).
+# 이 파일럿은 당시 파생피처 CSV 로 돌렸지만, 최종 사전으로도 동작한다.
+CSV_PATH = os.environ.get(
+    "TCMT_DICT", os.path.join(BASE, "..", "data", "dictionary.csv"))
 OUT = os.path.join(BASE, "pilot")
 
 URL = os.environ.get("GENOS_BASE", "https://genos.genon.ai/api/gateway/rep/serving") \
-      + f"/{os.environ.get('GLM_SERVING', '813')}/v1/chat/completions"
+      + f"/{os.environ.get('GLM_SERVING', '1000')}/v1/chat/completions"
 KEY = os.environ.get("GLM_KEY", "")
-MODEL = "zai-org/glm-5.2"
+MODEL = os.environ.get("GLM_MODEL", "z-ai/glm-5.2")
 
 N = 200
 BATCH = 50
